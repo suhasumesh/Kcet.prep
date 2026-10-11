@@ -1,0 +1,1534 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "Which of thefollowingis incorrect? 1. Ifa = b (mod m) and x is an integer,then (1) (a +x)=(b +x) (modm) (2) (a-x) =(b -x) (mod m) (3) ax = bx (mod m) (a÷x)=(b÷x)（modm) (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q001-stem0.png",
+    "w": 1863,
+    "h": 406
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "2. Inverse ofa diagonal non-singularmatrixis skew symmetricmatrix (1) scalarmatrix (2) (3) zero matrix （4) diagonal matrix x²+3x x-1 x+3 ++x++",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q002-stem0.png",
+    "w": 1864,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Matrices",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "diagonal matrix",
+   "matrix"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "5. (1) 16 (2) 8 (3) (4) 12 Which ofthefollowingisfalse?",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q005-stem0.png",
+    "w": 1821,
+    "h": 435
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "6. (N, ) is a group. (1) (2) (N, +) is a semi-group. (3) (Z, +) is a group. (4) Set of even integers is a group under usual addition.",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q006-stem0.png",
+    "w": 1710,
+    "h": 645
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "7. 2 cos-1 x = sin-' (2x√1 - x²) is valid for all values of x satisfying (1) x- (2) 0≤x≤1 ≤x≤1 ③ (4) If α is a complex number such that α² - α + 1 = 0, then α2011 =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q007-stem0.png",
+    "w": 1849,
+    "h": 531
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "complex number"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "8. (1) -α (2) (3) α (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q008-stem0.png",
+    "w": 1726,
+    "h": 362
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "9. sin 3α+8sin3β+ 27sin 3y = (1) -18 (2) 0 (3) 3 (4) 9",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q009-stem0.png",
+    "w": 1858,
+    "h": 429
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "10. If the conjugate of (x + iy) (1 - 2i) is 1 + i, then 1+i 1-i (1)x-iy=1-2i (2) x+iy=1-2i 1 1 (3) x= (4) x=-",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q010-stem0.png",
+    "w": 1745,
+    "h": 294
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "conjugate"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "15. Length of the subtangent at (x, y) on xn ym = am+n, m, n > 0, is n m (1) (2) x1 x m n (3) (4) mx1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q015-stem0.png",
+    "w": 1742,
+    "h": 567
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "subtangent"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "16.If a ball is thrown vertically upwards and the height‘s’reached in time ‘t' is given by s =22 t-11 t², then the total distance travelled by the ball is (1) 44 units (2) 33units (3) 11units (4) 22units",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q016-stem0.png",
+    "w": 1862,
+    "h": 482
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "17.The sum of two positive numbers is given.If the sum of their cubes is minimum,then they are equal oneistwicetheother (1) (2) they areunequal oneisthricethe other (3) (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q017-stem0.png",
+    "w": 1736,
+    "h": 341
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "is minimum"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "18. dx= sin²x+cos²x π/6 π一3 (1) (2) 2 π6 π (3) (4) 12 x-xx11",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q018-stem0.png",
+    "w": 1871,
+    "h": 603
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "19. x→01-cosx (1)2log 2 (2) log 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q019-stem0.png",
+    "w": 1877,
+    "h": 197
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "22.The value of 1oC,+ 10C,+ . 210 (2) 211 (1) (4) 210 -- 1 (3) 210 -2",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q022-stem0.png",
+    "w": 1728,
+    "h": 408
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "23.p→~q can alsobewritten as (2) ~pv~q (1) b←d (3) q→p (4) d~←b~ 24.If f:R→R is defined by f(x)=2x + 3,then f′(x)",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q023-stem0.png",
+    "w": 1729,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "26. centroid is (2)(5,-3) (1) (-5,-3) (4) )(5,3) (3) (3,5)",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q026-stem0.png",
+    "w": 1874,
+    "h": 389
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "centroid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "27. The reflection of the point (1, 1) along the line y = -x is (2)(-1,1) (1) (0, 0) (1,-1) (3) (-1,-1) (4) Thenumber of circles thattouch theco-ordinate axes and thelinewhose slope is-1 and",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q027-stem0.png",
+    "w": 1873,
+    "h": 373
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "slope",
+   "reflection of the point"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "(1) 9 (2) 7 (3) 3 (4) 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q031-stem0.png",
+    "w": 1746,
+    "h": 343
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "32. If (24, 92) = 24 m + 92 n, then (m, n) is (1) (-1,4) (2)(4,-1) (4,-3) (4)(-4,3) (3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q032-stem0.png",
+    "w": 1744,
+    "h": 345
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "36.Which of the following is a subgroupof the group G={2\" |neZ}under multiplication? {4|n EN} (2) {3n∈Z} (1) (3) {6\"|n e N} (4) {4\"|n∈Z}",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q036-stem0.png",
+    "w": 1726,
+    "h": 344
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "37.In the group G={1,2,3,4,5,6}under ,the solution of4x=5 is (1) 3 (2) (3) 4 (4) 5 38.The number of real solutions of the equation tan-1 x (x + 1) + sin-1 √x²2 + x + 1 = π",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q037-stem0.png",
+    "w": 1728,
+    "h": 366
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "41. The equations of the two tangents from (-5, - 4) to the circle x² + y2 + 4x + 6y + 8 = 0 are x+2y+13=0, 2x-y+6=0 (1) 2x+y+13=0, x-2y=6 (2) 3x+2y+23=0,2x-3y+4=0 (3) x-7y=23, 6x + 13y= 4 （4）",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q041-stem0.png",
+    "w": 1725,
+    "h": 611
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "42. If x = t2 + 2 and y = 2t represent the parametric equation of the parabola (2) (y -2)² = 4x (1) x²=4(y-2) (3) y²=4(x-2) (4) (x -2)² = 4y",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q042-stem0.png",
+    "w": 1735,
+    "h": 465
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "parabola"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "45.If f(x) = sin [π²] x + cos[-π²] x then f'(x) is,here[π²] and [-π²] greatest integer function not greater than its value (1) sin9x+cos9x (2)9 cos 9x -10 sin 10x (3) 0 (4) -1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q045-stem0.png",
+    "w": 1857,
+    "h": 453
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "46. The tangent to the curve xy=25 at any point on it cuts thecoordinate axes at A and B,then theareaofthetriangleOABis 50 sq. units 25 sq.units (1) (2) (3) 75 sq. units (4) 100 sq.units",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q046-stem0.png",
+    "w": 1860,
+    "h": 463
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "tangent to the curve"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "47.The length of the sub-tangent, ordinate and the sub-normal are in (1) A.P. (2) H.P. (3) G.P. (4) Arithmeticogeometricprogression",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q047-stem0.png",
+    "w": 1743,
+    "h": 602
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "49. 11 [x] dx = 0 (2) 66 (1) 45 (4) 55 (3) 35 (log x)n dx, then I, + n In-1 =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q049-stem0.png",
+    "w": 1873,
+    "h": 628
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "50.IfneN and I (log x)n + 1 (2) x (logx)n + c (1) n+1 (log x) (log x)n- 1 (4) (3) n dy =x whenx=1 and y=0is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q050-stem0.png",
+    "w": 1759,
+    "h": 542
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "(1)y=x(logx-1)+4 (2) y=x(logx-1)+3 (3)y=x(logx+1)+ 1 (4) y=x(logx-1)+ 1 [x²-(a+2)x+a x≠2 x-2 is continuous at x=2,then the value ofais",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q051-stem0.png",
+    "w": 1758,
+    "h": 399
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "continuous at x"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "53. If log2 (9r-1 + 7) - log2(3x- 1+ 1)= 2, then x values are (1) 0,2 (2) 0,1 (3) 1,4 (4) 1,2 54.If x - 1 is a factor of x - 4x² + 2x² - 3x + k = 0, then k is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q053-stem0.png",
+    "w": 1740,
+    "h": 520
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "is a factor of"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "(2) (1) 4 -4",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q054-stem0.png",
+    "w": 1742,
+    "h": 241
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "4h² =(n + 1)² ab (1) 4(n + 1)² ab = nab 2 4ab = (n + 1)² h (3) 4nh² =(n + 1)² ab sin'x tan'x cOSx Lt f(x) x3 x²",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q057-stem0.png",
+    "w": 1731,
+    "h": 493
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "kcet-2012-mathematics-question-paper.pdf",
+  "stemText": "58. If f(x)= then x x2 0←x 2x 1 x (2) (1) 0",
+  "stemImages": [
+   {
+    "src": "mathematics-2012-kea/q058-stem0.png",
+    "w": 1743,
+    "h": 281
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ }
+]

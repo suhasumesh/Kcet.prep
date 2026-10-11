@@ -1,0 +1,1410 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "1. If then xyz = α-b b-c c-a 1) 0 2)1 3) -1 4) 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q001-stem0.png",
+    "w": 1941,
+    "h": 299
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "2)16 1) -16 4) -4 3) 4. What is the equation of the locus of a point which moves such that 4 times its distance from",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q006-stem0.png",
+    "w": 1935,
+    "h": 266
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "locus"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "7. the x - axis is the square of its distance from the origin ? x²+y²-4|y|=0 1) ² +y²-4y = 0 2) x 3) x²+y2 -4x= 0 4 X Equation of the straight line making equal intercepts on the axes and passing through the",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q007-stem0.png",
+    "w": 1935,
+    "h": 401
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "equation of the straight line",
+   "straight line"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "8. point (2, 4) is .... 4x-y-4=0 2) 2x+y-8=0 1) x+y-6=0 4) x+2y-10=0 3) If the area ofthe triangle with vertices (x, 0) (1,1) and (0,2) is 4 square units then a value",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q008-stem0.png",
+    "w": 1931,
+    "h": 373
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "9. of x is ..... 2) -4 1) -2",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q009-stem0.png",
+    "w": 1928,
+    "h": 201
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "11. x↓8 r 1) 12 2） 3) A B",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q011-stem0.png",
+    "w": 1932,
+    "h": 406
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "12. IfA + B + C = 180° then ≥ Tan Tan 2 2 1) 0 2) 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q012-stem0.png",
+    "w": 1825,
+    "h": 186
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "16. Which of the following is the inverse of the proposition : “If a number is a prime then it is odd\"? 1) If a number is not a prime then it is odd. 2) If a number is not a prime then it is not odd. If a number is not odd then it is not a prime. 3) If a number is odd then it is.a prime. 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q016-stem0.png",
+    "w": 1931,
+    "h": 476
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "proposition"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "17. ~ p ^ q is logically equivalent to .. 1). 2) b←d d←b 4) ~(q→p) (bd)~ (e",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q017-stem0.png",
+    "w": 1816,
+    "h": 339
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "logically equivalent"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "21. Inverse of the matrix 1S Sin20 Cos 2θ Cos 20 [Cos20 Sin 20 -Sin 20 1) 2) Sin20 Cos 20 Sin 20.-Cos 20 Cos 20 Sin20 Cos 20 Sin20 3) 4) Sin20 Cos20 -Sin20 Cos20 4 then a value of A for which a +A6 is perpendicular to a- Ab is",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q021-stem0.png",
+    "w": 1826,
+    "h": 603
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 6,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "26. If Q, is the set of all rationals other than 1 with the binary operation x defined by a * b = α + b - ab for all a, b in Q, then.the identity in Q, w.r.t. * is 2） 0 1) 1 4) 3) -1 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q026-stem0.png",
+    "w": 1984,
+    "h": 369
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "binary operation",
+   "binary operation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "27. Which of the following is true ? : 1) The set of all fourth roots of unity is a multiplicative group. 2） The set of all cube roots of unity is an additive group. 3) . (ab)1 = α-1 b-1 for all a, b'in·any group G. 4)If (ab)? = a² b2 for all a, b in any group.G, then the group G is nonabelian. · 28. The set of all integral multiples of 5 is a subgroup of",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q027-stem0.png",
+    "w": 1828,
+    "h": 489
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sets",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "1). The set of all rational numbers under multiplication. 2) The set of all integers under multiplication. The set of all nonzero rational numbers under multiplication. 3) 4) The set of all integers under addition.",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q028-stem0.png",
+    "w": 1820,
+    "h": 377
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sets",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "29. The circle x? + y2 - 8x +.4y + 4 = 0 touches 1)x -axis 2) y - axis both axes 4) neither x - axis nor y - axis 3) The value of k so that x² + y² + kx + 4y + 2 = 0 and 2(x²+y2)- 4x - 3y + k = 0 cut",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q029-stem0.png",
+    "w": 1944,
+    "h": 303
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "31. The coaxal system of circles given by x? + y2 + 2gx + c = 0 for c < 0 represents. 2) non intersecting circles 1) intersecting circles 3) :touching circles 4)touching or non intersecting circles . 32. The radius of the circle passing through the point (6, 2) and two of whose diameters are",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q031-stem0.png",
+    "w": 1824,
+    "h": 273
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "radius of the circle",
+   "circle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "x +.y = 6 and x + 2y = 4 is. 1)4 2)6 √20 20. 4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q032-stem0.png",
+    "w": 1944,
+    "h": 319
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "33. If (0, 6) and (0, 3) are respectively the vertex and focus of a parabola then its equation is x² + 12y = 72 2) x² --12yi= 72 1) . 3):y² -12x = 72 4) y² + 12x = 72 .34. For the ellipse 25x² + 9y2 -150x - 90y + 225 = 0 the eccentricity,e =",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q033-stem0.png",
+    "w": 1843,
+    "h": 332
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 13,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "eccentricity",
+   "parabola",
+   "ellipse",
+   "vertex"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "36. . The equation of the director circle of the hyperbola =1 is given by . 16 4 1) 2) 3) x² + y² = 20 4) x² + y² = 12",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q036-stem0.png",
+    "w": 1816,
+    "h": 381
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "hyperbola",
+   "circle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "37. If 0≤x ≤π and 81Sin²x + 81Cos²x = 30 then x = π 元 1) 2) -6",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q037-stem0.png",
+    "w": 1829,
+    "h": 195
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "41.If x +- 'x' 1)· 2 Cos α 2) 2^ Cos nα 3) 2iSin na 4) 2Cos na -1+√3i",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q041-stem0.png",
+    "w": 1829,
+    "h": 403
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "42. If w ther +w +3w2 2 1) 16 2) -.16 16w2 3) 16 w 4) 1-Cos x ,x0",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q042-stem0.png",
+    "w": 1826,
+    "h": 378
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "46. If x = α then dx y 1) 2) x x x 3) 4) y y",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q046-stem0.png",
+    "w": 1813,
+    "h": 557
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "47. If x= A Cos 4t + B Sin 4t then dt 1)-16 x 2)16 x 4) 3) x -x",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q047-stem0.png",
+    "w": 1813,
+    "h": 316
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "48. For the curve y^ = a\"-1 x if the subnormal at any point is a constant then n = 2)2 1)1 3) - 2 4) -1",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q048-stem0.png",
+    "w": 1815,
+    "h": 278
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "subnormal"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "49. If the distance 's' metres traversed by a particle in 't' seconds is given by s= t3 -3t?, then the velocity of the particle when the acceleration is zero, in metres/sec is - 1)3 2) -2 3) -3 4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q049-stem0.png",
+    "w": 1924,
+    "h": 366
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sec"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "50. The maximum of the function 3 Cos x - 4 Sin x is 1)2 2)3",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q050-stem0.png",
+    "w": 1813,
+    "h": 148
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "51. Ifa tangent to the curve y = 6x'- x² is parallelto the line 4x - 2y - 1 = 0 ,.then the point of tangency on the curve is 1)(2,8) 2)(8,2) ; 3) (6, -1) 4)(4, 2) dx",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q051-stem0.png",
+    "w": 1949,
+    "h": 418
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "tangent to the curve"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "52. x²+2x+2 Sin-1 (x +1)+ c 1) 2） Sinh-+(x+1)+ c Tan h-1 (x+1)+ c 4) Tan-1 (x+1)+ c 3) dx=",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q052-stem0.png",
+    "w": 1914,
+    "h": 423
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "2√x -evx -4√x eV 1) 5+ 2) 2x+4√x",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q053-stem0.png",
+    "w": 1823,
+    "h": 239
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2004,
+  "source": "kcet-2004-mathematics-question-paper.pdf",
+  "stemText": "56. dx： 1+Cos x Sin x 0 π 1) 0 2) -2 π π 3) 4) 4 6 % Cos3 40d0 =",
+  "stemImages": [
+   {
+    "src": "mathematics-2004-kea/q056-stem0.png",
+    "w": 1940,
+    "h": 572
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ }
+]

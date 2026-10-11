@@ -1,0 +1,2132 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "The ratio of the dimensions of Planck constant and that of moiment of inertia has the 1. dimensions of (1) time (2) frequency . (4) velocity (3) angular momentum The velocity - time graph for two bodies A and B are shown. Then the acceleration of A",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q001-stem0.png",
+    "w": 1860,
+    "h": 405
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Units and Measurements",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "dimensions of"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "4. magnitude of net force on the stone during its upward motion ? (1) 0.49 N vertically upwards (2) 0.49 N vertically downwards (3) 0.98 N vertically downwards (4) 9.8 N vertically downwards",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q004-stem0.png",
+    "w": 1865,
+    "h": 513
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "5. The kinetic energy of a body of imass 4 kg and momentum 6 Ns will be (1) 2.5J (2)3.5J (3) 4.5J (4) 5.5J The ratio of angular speed of a second-hand to the hour-hand of a watch is",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q005-stem0.png",
+    "w": 1872,
+    "h": 317
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "6. (1) 720 :1 (2) 60:1 72 :1 (3) 3600 : 1 (4)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q006-stem0.png",
+    "w": 1750,
+    "h": 307
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "7. If the mass of a body is M on the surface of the earth, the mass of the same body on the surface of the moon is (1) M/6 (2) M (3) 6M (4) Zero Moment of Inertia of a thin uniform rod rotating about the perpendicular axis passing",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q007-stem0.png",
+    "w": 1865,
+    "h": 366
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "moment of inertia"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "8. through its centre is I. If the same rod is hent into a ring and its moment of inertia about its diameter is I, then the ratio is (1) 3/2 π2 (2)8/3 π2 2/3 π2 (4)5/3 π2 (3)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q008-stem0.png",
+    "w": 1867,
+    "h": 422
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "moment of inertia"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "9. The ratio of hydraulic stress to the corresponding strain is known as (1) Compressibility (2) Bulk modulus (3) Young's modulus (4) Rigidity modulus",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q009-stem0.png",
+    "w": 1869,
+    "h": 320
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "young's modulus",
+   "bulk modulus",
+   "stress",
+   "strain"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "10. The efficiency of a Camot engine which operates between the two temperatures T, = 500 K and T, = 300 K is (2)25% (1) 50% (3) 75% (4) 40%",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q010-stem0.png",
+    "w": 1868,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "11. Water is heated from 0 °C to 10 °C. then its volume (1) decreases (2) increases does not change (3) (4) first decreases and then increases",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q011-stem0.png",
+    "w": 1756,
+    "h": 471
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "12. 1 gram of ice is mixed with 1 gran of steam. At thermal equilibrium, the temperature of the mixture is 100 °C (1) 3。 0 (2) (3) 50°C (4) 55°℃ The ratio of kinetic energy to the potential energy of a particle executing SHM at a",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q012-stem0.png",
+    "w": 1874,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 10,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "kinetic energy",
+   "potential energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "13. distance equal to half its amplitude, the distance being measured from its equilibrium position is (1) 3:1 (2) 4:1 (3) 2:1 (4) 8:1",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q013-stem0.png",
+    "w": 1868,
+    "h": 354
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "amplitude"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "14. frequency of the fork B is 384 Hz. When one of the prongs of the fork A is filed and sounded with B, the beat frequency increases. then thc frcquency of the fork A is (1) 380 Hz (2)388 Hz. 379 Hz (3) (4) 389 Hz",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q014-stem0.png",
+    "w": 1854,
+    "h": 405
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "frequency"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "15. A stretched string is vibrating in the sccond overtone, then the number of nodes and antinodes betwecn the ends of the string are respectively (1) 4 and 3 (2) 3 and 2 3 and 4 (4)2 and 3 (3)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q015-stem0.png",
+    "w": 1856,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "overtone"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "16. Two spheres carrying charges + 6 μC and + 9 μC. separated by a distance d, experiences a force of repulsion F. When a charge of -3 μC is given to both the sphere and kept at thc same distance as before, the new force of repulsion is (1) F (2) 3F (4)F/9 (3) F/3",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q016-stem0.png",
+    "w": 1862,
+    "h": 409
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "17. Pick out the statement which is incorrect. (1) The tangent drawn to a line of force represents the direction of electric field. (2) The electric field lines forms closed loop. (3) A negative test charge experiences a force opposite to the direction of the field. (4) Field lines never intersect.",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q017-stem0.png",
+    "w": 1744,
+    "h": 450
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "charge",
+   "electric field",
+   "field lines"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "18. The angle between the dipole moment and electric field at any point on the equatorial plane is (1) 0° (2) 90°",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q018-stem0.png",
+    "w": 1749,
+    "h": 213
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "dipole moment",
+   "electric field"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "20. A spherical shell of radius 10 cim is carrying a chargc q. If the electric potential at distances 5 cm, 10 cm and 15 cm from the centre of the spherical shell is V,, V, and V; respectively. then (1) （2) (3).V,=V, （4）",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q020-stem0.png",
+    "w": 1877,
+    "h": 432
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "21. A parallel plate capacitor is charged and then isolated. The effect of increasing the platc separation on charge. potential and capacitance respectively arc constant, decreases, decreases (1) (2) incrcases. decreases. decreases (3) constant, decreases, increases (4) constant, increases, decreases",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q021-stem0.png",
+    "w": 1877,
+    "h": 474
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "capacitance",
+   "parallel plate capacitor",
+   "capacitor"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "22. Four identical cells of emf E and internal resistance r are to be connected in series. Suppose if one of the cell is connected wrongly. the equivalent emf and effective internal resistance of the combination is (1) 4E and 4r (2) 4E and 2r (3) 2E and 4r (4) 2E and 2r",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q022-stem0.png",
+    "w": 1870,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 11,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "internal resistance",
+   "resistance",
+   "cell"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "23. Three resistances 2Q, 3Ω2 and 4Ω are connected in parallel. The ratio of currents passing through them when a potential difference is applied across its ends will be (1) 6:3:2 6:4:3 (2) (3) 5:4:3 (4) 4:3:2",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q023-stem0.png",
+    "w": 1869,
+    "h": 303
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "potential difference"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "24. Two cells of emf E, and E, are joined in opposition (such that E, > E,). If r, and r, be the intermal resistance and R be the external resistance, then the terminal potential difference is E, r, r R E,+E, E, + E, xR （2） XR +r,+R r+ (3) XR +r,+R K",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q024-stem0.png",
+    "w": 1856,
+    "h": 1165
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "26. In Wheatstones network P = 2 Ω, Q = 2 Q, R = 2 Q and S = 3 Q. The resistance with which S is to shunted in order that the bridge 1may be balanced is (2) 2Ω (1) 1Ω (3) 4Ω (4) 6Ω",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q026-stem0.png",
+    "w": 1866,
+    "h": 467
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "27. The resistance of the bulb filament is 100 Q at a temperature of 100 °C. If its temperature co-efficient of resistance be 0.005 per °C. its resistance will become 200 Q at a temperature 300°℃ (1) (2) 400°℃ (3) 500°C (4) 200 °℃",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q027-stem0.png",
+    "w": 1868,
+    "h": 517
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "30. A cyclotron is used to accelerate (1) neutron (2) only positively charged particles (3) only negatively charged particles （4) both positively and negatively charged particles",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q030-stem0.png",
+    "w": 1760,
+    "h": 398
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "cyclotron"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "31. A galvanometer of resistance 50 Q gives a full scale deflection for a current 5 x 10 4 A. The resistance that should be connected in series with the galvanometer to read 3 V is 595 Ω (2)5050 Ω (1) (3) 5059 Ω (4) 5950Ω",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q031-stem0.png",
+    "w": 1875,
+    "h": 347
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "current",
+   "resistance",
+   "galvanometer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "32. 1 Two parallel wires 1 m apart carry currents of 1 A and 3 A respectively in opposite directions. The force per unit length acting between these two wires is (2) 6 x 10-7 Nm-' attractive (1) 6x 10-7 Nm-↓ repulsive 6 × 10-5 Nm-' repulsive (4) 6 x 10-5 Nm-' attractive (3)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q032-stem0.png",
+    "w": 1882,
+    "h": 325
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Units and Measurements",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "unit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "35. The magnetic susceptibility of a paramagnetic material at --73 °C is 0.0075 and its value at - 173 °C will be (1) 0.0045 (2) 0.0030 (3) 0.015 (4) 0.0075",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q035-stem0.png",
+    "w": 1749,
+    "h": 344
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "magnetic susceptibility",
+   "paramagnetic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "36. Two coils have a mutual inductance 0.oo5 H. The current changes in the first coil according to the equation i = i., sin ot where i.. , = 10 A and 0 = 100 π rad s\"'. The maximum value of the emf induced in the second coil is (1)2π (2) 5π (3) (4) 4π π",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q036-stem0.png",
+    "w": 1861,
+    "h": 418
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "mutual inductance",
+   "induced",
+   "inductance",
+   "coil"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "37. An aircraft with a wingspan of 40 m flies with a speed of 1080 km/hr in the eastward direction at a constant altitude in the northern hemisphere, where the vertical component of the earth's magnetic field 1.75 x 10-5 T. Then the emf developed between the tips of the wings is (1) 0.5 V (2) 0.34 V (3) 0.21 V (4) 2.1 V",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q037-stem0.png",
+    "w": 1866,
+    "h": 460
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "earth's magnetic field"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "38. In an LCR circuit, at resonance (1) the current and voltage are in phase (2) the impedance is maximum (3) the current is minimum the current leads the voltage by rt/2 (4)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q038-stem0.png",
+    "w": 1749,
+    "h": 425
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "lcr circuit",
+   "impedance"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "1 (2) VP （1) 2 VF (4) (3) zero",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q040-stem0.png",
+    "w": 1780,
+    "h": 402
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "41. If E, and μo, are the permittivity and perneability of frce space and & and μ are the coresponding quantities for a medium, then refractive index of the medium is (2) 311 lnsufficient infonnation (4)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q041-stem0.png",
+    "w": 1897,
+    "h": 347
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "45. To observe diffraction, the size of the obstacle (1） has no relation to wavelength. (2) should be X/2, where X is the wavelengtlh. (3) should be much larger than the wavelength. should be of the order of wavelength. (4)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q045-stem0.png",
+    "w": 1742,
+    "h": 485
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "diffraction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "The polarizing angle of glass is 57°. A ray of light which is incident at this angle will have 46. an angle of refraction as 25° (1) (2) 33° 43° 38° (3) (4)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q046-stem0.png",
+    "w": 1861,
+    "h": 372
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "47.I a I s s s g Ratio of maximum speeds of emitted electrons will be (1) 1:5 (2) 1:4 (3) 1:2 (4) 1:1",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q047-stem0.png",
+    "w": 1872,
+    "h": 419
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "48. Find the de-Broglie wavelength of an' electron with kinetic energy of 120 eV. (1) 95 pm 102 pm (2) (3) 112 pm (4) 124 pm",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q048-stem0.png",
+    "w": 1745,
+    "h": 310
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "49. An α-particle of energy 5 MeV is scattered through 180° by gold nucleus. The distance of closest approach is of the order of 10-10 cm (1) (2) 10-12 cm 10-14 cm (3) (4) 10-I cm",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q049-stem0.png",
+    "w": 1862,
+    "h": 360
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "50. If an electron in hydrogen atom jumps from an orbit of level n = 3 to an orbit of level n = 2. the eimitted radiation has a frequency (R = Rydberg constant, C = velocity of light) 3RC RC (2) (1) 27 25 8RC 5RC (3) (4) 9 36",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q050-stem0.png",
+    "w": 1887,
+    "h": 497
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "rydberg",
+   "hydrogen atom"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "51. What is the wavelength of light for the least energetic photon emitted in the Lyman series of the hydrogen spectrum. (take hc = 1240 eV nm) (2) (1) 82 nm 102 nm (3) 122 nm (4) 150 nm",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q051-stem0.png",
+    "w": 1766,
+    "h": 359
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "lyman",
+   "hydrogen spectrum"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "52. A nucleus at rest splits into two nuclear parts having radii in the ratio 1 : 2. Their velocities are in the ratio (1) 8:1 (2) 6:1 (4) 2:1 (3) 4:1",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q052-stem0.png",
+    "w": 1877,
+    "h": 369
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nucleus",
+   "nuclear"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "53. The half life of a radioactive substance is 20 minutes. The time taken between 50 % decay and 87.5 % decay of the substance will be (1) 30 minutes (2) 40 minutes (3) 25 minutes (4) 10 minutes",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q053-stem0.png",
+    "w": 1875,
+    "h": 366
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "half life",
+   "radioactive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "54. A radioactive decay can form an isotope of the original nucleus with the emission of particles (1) one α and four β (2) one α and two β (3) one α and one β (4) four α and one β",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q054-stem0.png",
+    "w": 1875,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "radioactive decay",
+   "isotope",
+   "nucleus",
+   "radioactive"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "55. An LED is constructed from a pn juuction based on a certain semi-conducting material whose energy gap is 1.9 eV. Then the wavelength of the emitted light is 2.9 x 10-9 m (2)1.6 × 10--* m (1) 6.5 x 10-7 m 9.1 × 10-5 m (3) (4)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q055-stem0.png",
+    "w": 1866,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "56. Amplitude modulation has (1) one carrier with two side band frequencies (2) one carrier (3) one carrier with infinite frequencies one carrier with high frequency (4)",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q056-stem0.png",
+    "w": 1748,
+    "h": 568
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "amplitude"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2015,
+  "source": "kcet-2015-physics-question-paper.pdf",
+  "stemText": "58. The input characteristics of a transistor in CE mode is the graph obtained by plotting (1) I against Vge at constant VE IB against Vce at constant VBE (2) IB against I at constant VcE (3) Is against Ic at constant VBE （4) 59.The given truth table is for",
+  "stemImages": [
+   {
+    "src": "physics-2015-kea/q058-stem0.png",
+    "w": 1781,
+    "h": 620
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "truth table",
+   "transistor"
+  ],
+  "chapterConfidence": "high"
+ }
+]

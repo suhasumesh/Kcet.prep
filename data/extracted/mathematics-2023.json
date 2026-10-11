@@ -1,0 +1,4111 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If a line makes an angle of \n with each \n and \n axis, then the acute angle made by -axis is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q001-stem0.png",
+    "w": 502,
+    "h": 87
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p/3",
+    "img": {
+     "src": "mathematics-2023/q001-optA.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p/2",
+    "img": {
+     "src": "mathematics-2023/q001-optB.png",
+     "w": 234,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p/3",
+    "img": {
+     "src": "mathematics-2023/q001-optC.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p/6",
+    "img": {
+     "src": "mathematics-2023/q001-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, \nLet acute angle made by Z-axis be g.\nWe know that",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q001-sol0.png",
+    "w": 595,
+    "h": 394
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The length of perpendicular drawn from the\npoint (3, -1, 11) to the line \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q002-stem0.png",
+    "w": 502,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q002-optA.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q002-optB.png",
+     "w": 234,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q002-optC.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q002-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Let the foot point of the perpendicular drawn\nfrom the point P(3, -1, 11) on the straight line\nbe L.\n\\ Hence, L lies on the straight line\nLet \n\\ L(2t, 2 + 3t, 3 + 4t) [where, is arbitrary\nconstant]\n\\ The direction ratios of PL are (2t - 3, 2 + 3t +\n1, 3 + 4t - 11) or (2t - 3, 3t + 3, 4t - 8)\nAgain, the direction ratios of the straight line.\nSince, PL is perpendicular on the straight line.\nThen;",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q002-sol0.png",
+    "w": 595,
+    "h": 811
+   }
+  ],
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "direction ratios"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The equation of the plane through the points\n(2, 1, 0), (3, 2, -2) and (3, 1, 7) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q003-stem0.png",
+    "w": 502,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2x - 3y + 4z - 27 = 0",
+    "img": {
+     "src": "mathematics-2023/q003-optA.png",
+     "w": 473,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6x - 3y + 2z - 7 = 0",
+    "img": {
+     "src": "mathematics-2023/q003-optB.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7x - 9y - z - 5 = 0",
+    "img": {
+     "src": "mathematics-2023/q003-optC.png",
+     "w": 473,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3x - 2y + 6z - 27 = 0",
+    "img": {
+     "src": "mathematics-2023/q003-optD.png",
+     "w": 471,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that the equation of a plane passing\nthrough three non-collinear points.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q003-sol0.png",
+    "w": 595,
+    "h": 113
+   }
+  ],
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "equation of the plane",
+   "plane"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 4,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The \npoint \nof \nintersection \nof \nthe \nline \n with the plane 3x + 4y +\n5z = 10 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q004-stem0.png",
+    "w": 502,
+    "h": 124
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(2, -6, -4)",
+    "img": {
+     "src": "mathematics-2023/q004-optA.png",
+     "w": 180,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(2, 6, -4)",
+    "img": {
+     "src": "mathematics-2023/q004-optB.png",
+     "w": 234,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(2, 6, 4)",
+    "img": {
+     "src": "mathematics-2023/q004-optC.png",
+     "w": 180,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(-2, 6, -4)",
+    "img": {
+     "src": "mathematics-2023/q004-optD.png",
+     "w": 232,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Thus, any point on this line will have co-\nordinates.\nx = k - 1, y = 3k - 3, z = -2k + 2\nThis line intersects the plane 3x + 4y + 5z = 10\nSince, the value of x, y, z must satisfy equation\nof plane.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q004-sol0.png",
+    "w": 588,
+    "h": 596
+   }
+  ],
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "plane"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If (2, 3, -1) is the foot of the perpendicular from\n(4, 2, 1) to a plane, then the equation of the\nplane is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q005-stem0.png",
+    "w": 502,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2x + y + 2z - 1 = 0",
+    "img": {
+     "src": "mathematics-2023/q005-optA.png",
+     "w": 473,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2x - y + 2z = 0",
+    "img": {
+     "src": "mathematics-2023/q005-optB.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2x + y + 2z - 5 = 0",
+    "img": {
+     "src": "mathematics-2023/q005-optC.png",
+     "w": 473,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2x - y + 2z + 1 = 0",
+    "img": {
+     "src": "mathematics-2023/q005-optD.png",
+     "w": 471,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Since, the line joining the two points is\nperpendicular to the plane, it's DR's will given\nthe normal to the plane.\nDR's of the normal = (4 - 2, 2 - 3, 1 + 1) = (2, -1,\n2)\nHence, a = 2, b = -1 and c = 2\nSince, the plane passes through (2, 3, -1)\nd = 2(2) + 3(-1) - 1(2)\nd = -1\nHence, the required equation of plane is 2x - y\n+ 2z = -1",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q005-sol0.png",
+    "w": 588,
+    "h": 420
+   }
+  ],
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "equation of the plane",
+   "foot of the perpendicular",
+   "plane",
+   "normal to the plane"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "then\n|b| is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q006-stem0.png",
+    "w": 502,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2023/q006-optA.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2023/q006-optB.png",
+     "w": 234,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2023/q006-optC.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "12",
+    "img": {
+     "src": "mathematics-2023/q006-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q006-sol0.png",
+    "w": 592,
+    "h": 339
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If a + 2b + 3c = 0 and (a x b) + (b x c) + (c x a) =\nl(b x c), then the value of l is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q007-stem0.png",
+    "w": 502,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2023/q007-optA.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2023/q007-optB.png",
+     "w": 234,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2023/q007-optC.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2023/q007-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "On comparing with coefficient of (b x c), we get\nl = 6",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q007-sol0.png",
+    "w": 592,
+    "h": 391
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "a x b"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "A bag contains 2n + 1 coins. It is known that \nof these coins have head on both sides\nwhereas, the other n + 1 coins are fair. One\ncoin is selected at random and tossed. If the\nprobability that toss results in heads is 31/42,\nthen the value of n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q008-stem0.png",
+    "w": 502,
+    "h": 219
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2023/q008-optA.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2023/q008-optB.png",
+     "w": 234,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2023/q008-optC.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2023/q008-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, n coins have head on both the sides\nand (n + 1) coins are fair coins.\nTotal coins = 2n + 1\nLet evetns E1, E2 be the following\nE1 = Event that an unfair coin is selected\nE2 = Event that a fair coin is selected\nFrom the law of total probability,",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q008-sol0.png",
+    "w": 592,
+    "h": 657
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "total probability",
+   "probability",
+   "event"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "Let A = {x, y, z, u} and B = {a, b}. A function f : A\n B is selected randomly. The probability that\nthe function is an onto function is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q009-stem0.png",
+    "w": 532,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1/8",
+    "img": {
+     "src": "mathematics-2023/q009-optA.png",
+     "w": 206,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5/8",
+    "img": {
+     "src": "mathematics-2023/q009-optB.png",
+     "w": 264,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/35",
+    "img": {
+     "src": "mathematics-2023/q009-optC.png",
+     "w": 206,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7/8",
+    "img": {
+     "src": "mathematics-2023/q009-optD.png",
+     "w": 262,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Total cases \nWe know that\nProbability of onto = 1 - (Probability of not\nonto)\nProbability \nProbability of onto",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q009-sol0.png",
+    "w": 592,
+    "h": 255
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 15,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "onto",
+   "function"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The shaded region in the figure given is the\nsolution of which of the inequations?",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q010-stem0.png",
+    "w": 520,
+    "h": 415
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q010-optA.png",
+     "w": 491,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q010-optB.png",
+     "w": 490,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q010-optC.png",
+     "w": 491,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q010-optD.png",
+     "w": 489,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The line joining A(7, 0) and (0, 7) is\nx + y = 7 ...(i)\nAnd the line joing C(0, 2) and B(3, 4) is\n2x - 3y + 6 = 0\n ...(ii)\nThe \nshaded \nregion \nis \nbounded \nby \nHence, option (d) is correct option.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q010-sol0.png",
+    "w": 588,
+    "h": 328
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \nA \nand \nB \nare \nevents, \nsuch \nthat\nthen P(B) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q011-stem0.png",
+    "w": 520,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1/3",
+    "img": {
+     "src": "mathematics-2023/q011-optA.png",
+     "w": 194,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2/3",
+    "img": {
+     "src": "mathematics-2023/q011-optB.png",
+     "w": 252,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2023/q011-optC.png",
+     "w": 194,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/6",
+    "img": {
+     "src": "mathematics-2023/q011-optD.png",
+     "w": 250,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q011-sol0.png",
+    "w": 588,
+    "h": 497
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "p(b)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The \nvalue \nof \nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q012-stem0.png",
+    "w": 520,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2023/q012-optA.png",
+     "w": 194,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1/e",
+    "img": {
+     "src": "mathematics-2023/q012-optB.png",
+     "w": 252,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2023/q012-optC.png",
+     "w": 194,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2023/q012-optD.png",
+     "w": 250,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q012-sol0.png",
+    "w": 588,
+    "h": 700
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The value of \nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q013-stem0.png",
+    "w": 520,
+    "h": 164
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2023/q013-optA.png",
+     "w": 194,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2023/q013-optB.png",
+     "w": 252,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2023/q013-optC.png",
+     "w": 194,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2023/q013-optD.png",
+     "w": 250,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Applying",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q013-sol0.png",
+    "w": 588,
+    "h": 45
+   },
+   {
+    "src": "mathematics-2023/q013-sol1.png",
+    "w": 928,
+    "h": 206
+   }
+  ],
+  "chapter": "Sequences and Series",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   " ap "
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The \nmodulus \nof \nthe \ncomplex \nnumber \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q014-stem0.png",
+    "w": 520,
+    "h": 97
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q014-optA.png",
+     "w": 194,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q014-optB.png",
+     "w": 252,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q014-optC.png",
+     "w": 194,
+     "h": 52
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q014-optD.png",
+     "w": 250,
+     "h": 52
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q014-sol0.png",
+    "w": 636,
+    "h": 674
+   }
+  ],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "complex number"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "Given that a, b and x are real numbers and a <\nb, x < 0, then",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q015-stem0.png",
+    "w": 501,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q015-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q015-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q015-optC.png",
+     "w": 173,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q015-optD.png",
+     "w": 232,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, a < b\nDividing the above in equation by \"x\"\n[Sign of inequality changes when its both sides\nare divided by a negative number]",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q015-sol0.png",
+    "w": 636,
+    "h": 218
+   }
+  ],
+  "chapter": "Linear Inequalities",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "inequality"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "Ten chairs are numbered as 1 to 10. Three\nwomen and two men wish to occupy one chair\neach. First the women choose the chairs\nmarked 1 to 6 , then the men choose the\nchairs from the remaining. The number of\npossible ways is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q016-stem0.png",
+    "w": 501,
+    "h": 219
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6P3 x 4P2",
+    "img": {
+     "src": "mathematics-2023/q016-optA.png",
+     "w": 173,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6C3 x 4P2",
+    "img": {
+     "src": "mathematics-2023/q016-optB.png",
+     "w": 233,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6P3 x 4C2",
+    "img": {
+     "src": "mathematics-2023/q016-optC.png",
+     "w": 173,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "6C3 x 4C2",
+    "img": {
+     "src": "mathematics-2023/q016-optD.png",
+     "w": 232,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Since the three women choose their chairs\nfirst and their choices are limited to the chairs\nnumbered 1 to 6, we must calculate the\nnumber of possible ways they can select these\nchairs. Order matters in this selection because\neach woman will sit in a unique chair;\ntherefore, permutations should be used.\nThe number of different ways that the first\nwoman can choose a chair is 6. After she has\nchosen, there are 5 chairs left for the second\nwoman. The third woman can then choose\nfrom the remaining 4 chairs. So, the number of\nways the three women can select the chairs is\na permutation of 6 items taken 3 at a time,\nwhich is denoted by 6P3\nfter the three women have taken their seats,\nthere are 10 - 3 = 7 chairs left, but the men can\nonly choose from the remaining chairs\nnumbered 7 to 10, so they have 4 chairs to\nchoose from. The number of different ways\nthe first man can choose a chair is 4. After he\nhas chosen, there are 3 chairs left for the\nsecond man. So, the number of ways the two\nmen can select from the 4 chairs is a\npermutation of 4 items taken 2 at a time,\nwhich is denoted by 4P2.\nNow we need to multiply the number of ways\nthe women can sit by the number of ways the\nmen can sit, as these are independent events:\nNumber of ways women can choose = 6P3\nNumber of ways men can choose = 4P2\nTotal number of ways = \nSo the correct answer is option A:",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q016-sol0.png",
+    "w": 588,
+    "h": 1251
+   }
+  ],
+  "chapter": "Permutations and Combinations",
+  "chapterScore": 25,
+  "chapterMargin": 25,
+  "chapterHits": [
+   "permutation",
+   "number of ways",
+   "chosen",
+   "ways"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "Which of the following is an empty set?",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q017-stem0.png",
+    "w": 501,
+    "h": 48
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q017-optA.png",
+     "w": 727,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q017-optB.png",
+     "w": 726,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q017-optC.png",
+     "w": 727,
+     "h": 46
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q017-optD.png",
+     "w": 723,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "It is an imaginary number.\nHence, {x : x is a real number of x2 + 1 = 0} is\nan empty set.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q017-sol0.png",
+    "w": 588,
+    "h": 265
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If f(x) = ax + b, where a and b are integers, f(-1)\n= -5 and f(3) = 3, then a and b are respectively.",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q018-stem0.png",
+    "w": 501,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2, -3",
+    "img": {
+     "src": "mathematics-2023/q018-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0, 2",
+    "img": {
+     "src": "mathematics-2023/q018-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2, 3",
+    "img": {
+     "src": "mathematics-2023/q018-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-3, -1",
+    "img": {
+     "src": "mathematics-2023/q018-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, f(x) = ax + b, where a and b are integers,\nf(-1) = -5 and f(3) = 3\nWe have, f(x) = ax + b\nPut, x = -1 in above equation, we get\nf(-1) = a(-1) + b\n-5 = -a + b ...(i)\nNow, f(3) = 3\n3 = 3a + b ...(ii)\nFrom Eqs. (i) and (ii) we get\na = 2, b = a - 5 = 2 - 5 = -3",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q018-sol0.png",
+    "w": 604,
+    "h": 397
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \n are in\nAP, then p, q, r",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q019-stem0.png",
+    "w": 501,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "are in GP",
+    "img": {
+     "src": "mathematics-2023/q019-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "are not in GP",
+    "img": {
+     "src": "mathematics-2023/q019-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "are in AP",
+    "img": {
+     "src": "mathematics-2023/q019-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "are not in AP",
+    "img": {
+     "src": "mathematics-2023/q019-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "On dividing each term by pq + pr + qr we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q019-sol0.png",
+    "w": 604,
+    "h": 494
+   }
+  ],
+  "chapter": "Sequences and Series",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   " ap ",
+   " gp "
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "A \nline \npasses \nthrough \n(2, \n2) \nand \nis\nperpendicular to the line 3x + y = 3. Its y-\nintercept is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q020-stem0.png",
+    "w": 501,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2/3",
+    "img": {
+     "src": "mathematics-2023/q020-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2023/q020-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4/3",
+    "img": {
+     "src": "mathematics-2023/q020-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/3",
+    "img": {
+     "src": "mathematics-2023/q020-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Equation of the line passing through (2, 2) and\nperpendicular to 3x + y = 3",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q020-sol0.png",
+    "w": 604,
+    "h": 233
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "perpendicular to the line",
+   "intercept"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The distance between the foci of a hyperbola\nis 16 and its eccentricity is \n. Its equation is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q021-stem0.png",
+    "w": 501,
+    "h": 96
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q021-optA.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q021-optB.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q021-optC.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q021-optD.png",
+     "w": 470,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, distance between the foci = 16 and\nEquation of hyperbola is",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q021-sol0.png",
+    "w": 604,
+    "h": 383
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "eccentricity",
+   "hyperbola"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \n A cos B, then the\nvalues of A and B respectively are",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q022-stem0.png",
+    "w": 501,
+    "h": 101
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1, 2",
+    "img": {
+     "src": "mathematics-2023/q022-optA.png",
+     "w": 173,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2, 1",
+    "img": {
+     "src": "mathematics-2023/q022-optB.png",
+     "w": 233,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1, 1",
+    "img": {
+     "src": "mathematics-2023/q022-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2, 2",
+    "img": {
+     "src": "mathematics-2023/q022-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q022-sol0.png",
+    "w": 588,
+    "h": 331
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "if n is even and the middle term in the\nexpansion of \n, then n is\nequal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q023-stem0.png",
+    "w": 544,
+    "h": 121
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "14",
+    "img": {
+     "src": "mathematics-2023/q023-optA.png",
+     "w": 208,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "12",
+    "img": {
+     "src": "mathematics-2023/q023-optB.png",
+     "w": 276,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2023/q023-optC.png",
+     "w": 208,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2023/q023-optD.png",
+     "w": 274,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "For \n have middle term n is even",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q023-sol0.png",
+    "w": 588,
+    "h": 324
+   }
+  ],
+  "chapter": "Binomial Theorem",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "middle term in the expansion",
+   "expansion of"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "nth term of the series \nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q024-stem0.png",
+    "w": 544,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q024-optA.png",
+     "w": 515,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q024-optB.png",
+     "w": 514,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q024-optC.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q024-optD.png",
+     "w": 513,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We have,\nNumerator are in AP\nSo, \nDenominator are in GP\nSo, \nTn of given series",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q024-sol0.png",
+    "w": 588,
+    "h": 355
+   }
+  ],
+  "chapter": "Sequences and Series",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   " ap ",
+   " gp ",
+   "series"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": ".\nWhich one of the following is not true?",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q025-stem0.png",
+    "w": 544,
+    "h": 133
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q025-optA.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q025-optB.png",
+     "w": 514,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q025-optC.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q025-optD.png",
+     "w": 513,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "As domain of \n so domain of",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q025-sol0.png",
+    "w": 588,
+    "h": 113
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "domain"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "Let \nf \n: \n \nbe \ndefined \nby\n then\ng o f is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q026-stem0.png",
+    "w": 544,
+    "h": 163
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q026-optA.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q026-optB.png",
+     "w": 514,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q026-optC.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q026-optD.png",
+     "w": 513,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q026-sol0.png",
+    "w": 604,
+    "h": 301
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "Let the relation R be defined in N by aRb, if 3a\n+ 2b = 27, then R is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q027-stem0.png",
+    "w": 544,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q027-optA.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "{(1, 12), (3, 9), (5, 6) (7, 3), (9, 0)}",
+    "img": {
+     "src": "mathematics-2023/q027-optB.png",
+     "w": 514,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "{(2, 1), (9, 3), (6, 5), (3, 7)}",
+    "img": {
+     "src": "mathematics-2023/q027-optC.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "{(1, 12), (3, 9), (5, 6), (7, 3)}",
+    "img": {
+     "src": "mathematics-2023/q027-optD.png",
+     "w": 513,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q027-sol0.png",
+    "w": 604,
+    "h": 374
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "relation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "Let f(x) = sin 2x + cos 2x and g(x) = x2 - 1 then\ng(f(x)) is invertible in the domain",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q028-stem0.png",
+    "w": 544,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q028-optA.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q028-optB.png",
+     "w": 514,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q028-optC.png",
+     "w": 515,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q028-optD.png",
+     "w": 513,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q028-sol0.png",
+    "w": 604,
+    "h": 352
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)",
+   "domain"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The contrapositive of the statement.\n\"If two lines do not intersect in the same plane,\nthen they are parallel.\" is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q029-stem0.png",
+    "w": 501,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "If two lines are parallel, then they intersect\nin the same plane.",
+    "img": {
+     "src": "mathematics-2023/q029-optA.png",
+     "w": 472,
+     "h": 74
+    }
+   },
+   {
+    "letter": "B",
+    "text": "B If two lines are not parallel, then they do\nnot intersect in the same plane.",
+    "img": {
+     "src": "mathematics-2023/q029-optB.png",
+     "w": 472,
+     "h": 75
+    }
+   },
+   {
+    "letter": "C",
+    "text": "If two lines are parallel, then they do not\nintersect in the same plane.",
+    "img": {
+     "src": "mathematics-2023/q029-optC.png",
+     "w": 472,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "If two lines are not parallel, then they\nintersect in the same plane.",
+    "img": {
+     "src": "mathematics-2023/q029-optD.png",
+     "w": 470,
+     "h": 74
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, statement\n\"If two lines do not intersect in the same plane,\nthen they are parallel.\nContrapositive It two lines intersect in the\nsame plane, then they are not parallel.\nConverse If two lines do not intersect in the\nsame plane, then they are parallel.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q029-sol0.png",
+    "w": 604,
+    "h": 294
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 10,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "contrapositive",
+   "statement"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The mean of 100 observations is 50 and their\nstandard deviation is 5. Then, the sum of\nsquares of all observations is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q030-stem0.png",
+    "w": 501,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "252500",
+    "img": {
+     "src": "mathematics-2023/q030-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "250000",
+    "img": {
+     "src": "mathematics-2023/q030-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "255000",
+    "img": {
+     "src": "mathematics-2023/q030-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "50000",
+    "img": {
+     "src": "mathematics-2023/q030-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "We know, standard deviation,\nThus, sum of squares of all observation in\n252500.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q030-sol0.png",
+    "w": 604,
+    "h": 330
+   }
+  ],
+  "chapter": "Statistics",
+  "chapterScore": 11,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "standard deviation",
+   "mean",
+   "observations"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \n, then the value of x\nand y are",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q031-stem0.png",
+    "w": 501,
+    "h": 118
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "x = 4, y = -3",
+    "img": {
+     "src": "mathematics-2023/q031-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "x = -4, y = -3",
+    "img": {
+     "src": "mathematics-2023/q031-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "x = -4, y = 3",
+    "img": {
+     "src": "mathematics-2023/q031-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "x = 4, y = 3",
+    "img": {
+     "src": "mathematics-2023/q031-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We have,\nAdding Eqs. (i) and (ii), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q031-sol0.png",
+    "w": 604,
+    "h": 79
+   },
+   {
+    "src": "mathematics-2023/q031-sol1.png",
+    "w": 588,
+    "h": 160
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If A and B are two matrices, such that AB = B\nand BA = A, then A2 + B2 equals to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q032-stem0.png",
+    "w": 501,
+    "h": 88
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2AB",
+    "img": {
+     "src": "mathematics-2023/q032-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "AB",
+    "img": {
+     "src": "mathematics-2023/q032-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2BA",
+    "img": {
+     "src": "mathematics-2023/q032-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "A + B",
+    "img": {
+     "src": "mathematics-2023/q032-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q032-sol0.png",
+    "w": 588,
+    "h": 170
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "matrices"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \n is singular matrix,\nthen the value of 5k - k2 is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q033-stem0.png",
+    "w": 501,
+    "h": 125
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-6",
+    "img": {
+     "src": "mathematics-2023/q033-optA.png",
+     "w": 173,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "-4",
+    "img": {
+     "src": "mathematics-2023/q033-optB.png",
+     "w": 233,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2023/q033-optC.png",
+     "w": 173,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2023/q033-optD.png",
+     "w": 232,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "is singular matrix we\nknow that A is singular matrix, then |A| = 0",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q033-sol0.png",
+    "w": 588,
+    "h": 310
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 13,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "singular matrix",
+   "|a|"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The area of a triangle with vertices (-3, 0), (3, 0)\nand (0, k) is 9 sq units, find the value of k is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q034-stem0.png",
+    "w": 501,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-9",
+    "img": {
+     "src": "mathematics-2023/q034-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2023/q034-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2023/q034-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2023/q034-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that areas of a triangle with vertices \n is given by",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q034-sol0.png",
+    "w": 588,
+    "h": 523
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \nthen",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q035-stem0.png",
+    "w": 501,
+    "h": 159
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q035-optA.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q035-optB.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q035-optC.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q035-optD.png",
+     "w": 470,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given,\nFrom Eqs. (i) and (ii), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q035-sol0.png",
+    "w": 588,
+    "h": 78
+   },
+   {
+    "src": "mathematics-2023/q035-sol1.png",
+    "w": 577,
+    "h": 51
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If\nwhere a, \n then the value of x is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q036-stem0.png",
+    "w": 507,
+    "h": 140
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a/2",
+    "img": {
+     "src": "mathematics-2023/q036-optA.png",
+     "w": 189,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q036-optB.png",
+     "w": 239,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q036-optC.png",
+     "w": 189,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2023/q036-optD.png",
+     "w": 237,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q036-sol0.png",
+    "w": 577,
+    "h": 413
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The \nvalue \nof \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q037-stem0.png",
+    "w": 507,
+    "h": 163
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q037-optA.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q037-optB.png",
+     "w": 477,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q037-optC.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "x/2",
+    "img": {
+     "src": "mathematics-2023/q037-optD.png",
+     "w": 476,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q037-sol0.png",
+    "w": 577,
+    "h": 45
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The function f(x) = cot x is discontinuous on\nevery point of the set",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q038-stem0.png",
+    "w": 507,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q038-optA.png",
+     "w": 478,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q038-optB.png",
+     "w": 477,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q038-optC.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q038-optD.png",
+     "w": 476,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We know that sin x = 0, if f(x) is discontinuous\nSo, the given function f(x) is discontinuous on\nthe set",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q038-sol0.png",
+    "w": 588,
+    "h": 309
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "function",
+   "f(x)"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If the function is f(x) = 1/x+2, then the point of\ndiscontinuity of the composite function y =\nf(f(x)) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q039-stem0.png",
+    "w": 507,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5/2",
+    "img": {
+     "src": "mathematics-2023/q039-optA.png",
+     "w": 189,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2/5",
+    "img": {
+     "src": "mathematics-2023/q039-optB.png",
+     "w": 239,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2023/q039-optC.png",
+     "w": 189,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-5/2",
+    "img": {
+     "src": "mathematics-2023/q039-optD.png",
+     "w": 237,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "This function is not continuous at x = -2\n(because f(x) is not defined at this point) and x\n= -5/2 because f(f(x)) is not defined at this\npoint.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q039-sol0.png",
+    "w": 588,
+    "h": 292
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 10,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "composite function",
+   "function",
+   "f(x)"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If y = a sin x + b cos x, then \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q040-stem0.png",
+    "w": 507,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "function of y",
+    "img": {
+     "src": "mathematics-2023/q040-optA.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "function of x and y",
+    "img": {
+     "src": "mathematics-2023/q040-optB.png",
+     "w": 477,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "constant",
+    "img": {
+     "src": "mathematics-2023/q040-optC.png",
+     "w": 478,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "function of x",
+    "img": {
+     "src": "mathematics-2023/q040-optD.png",
+     "w": 476,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q040-sol0.png",
+    "w": 588,
+    "h": 453
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If\nis equal to:",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q041-stem0.png",
+    "w": 507,
+    "h": 173
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q041-optA.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q041-optB.png",
+     "w": 477,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q041-optC.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q041-optD.png",
+     "w": 476,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The given equation can be written as f(x) =",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q041-sol0.png",
+    "w": 588,
+    "h": 45
+   },
+   {
+    "src": "mathematics-2023/q041-sol1.png",
+    "w": 604,
+    "h": 330
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \nthen B is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q042-stem0.png",
+    "w": 501,
+    "h": 118
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q042-optA.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q042-optB.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q042-optC.png",
+     "w": 472,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q042-optD.png",
+     "w": 470,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q042-sol0.png",
+    "w": 604,
+    "h": 778
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q043-stem0.png",
+    "w": 501,
+    "h": 102
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2023/q043-optA.png",
+     "w": 173,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q043-optB.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2023/q043-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2023/q043-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "From Eqs. (i) and (ii), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q043-sol0.png",
+    "w": 604,
+    "h": 414
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The distance 's' in meters travelled by a\nparticle \nin \n't' \nseconds \nis \ngiven \nby \n The acceleration when the\nparticle comes to rest is :",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q044-stem0.png",
+    "w": 501,
+    "h": 160
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10 m2/s",
+    "img": {
+     "src": "mathematics-2023/q044-optA.png",
+     "w": 173,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "12 m2/s",
+    "img": {
+     "src": "mathematics-2023/q044-optB.png",
+     "w": 233,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "18 m2/s",
+    "img": {
+     "src": "mathematics-2023/q044-optC.png",
+     "w": 173,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3 m2/s",
+    "img": {
+     "src": "mathematics-2023/q044-optD.png",
+     "w": 232,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "To find the acceleration when the particle\ncomes to rest, we first have to determine at\nwhat time ' ' the particle comes to rest. A\nparticle comes to rest when its velocity is zero.\nThe velocity ' ' of a particle is given by the\nderivative of the position function with respect\nto time, which in this case is\nLet \nus \nfind \nthe \nvelocity \nfunction \nby\ndifferentiating the given position function:\nApplying the differentiation rules, we get:\nNow, we will set the velocity to zero to find the\ntime ' ' when the particle comes to rest:\nSolve for 't' gives:\nSince time cannot be negative, we consider 't -\n3' seconds.\nNow we need to find the acceleration at t=3\nseconds. Acceleration 'a' is the derivative of\nthe velocity function, i.e., \nLet us differentiate the velocity function to find\nthe acceleration function:\nApplying the differentiation rules, we get:\na(t) = 2 . 2t - 0 = 4t\nFinally, we find the acceleration when the\nparticle comes to rest, i.e. at t = 3 seconds:\na(3) = 4.3 = 12 m/s2\nTherefore, the acceleration when the particle\ncomes to rest is 12 m/s2 which corresonds to\nOption B.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q044-sol0.png",
+    "w": 604,
+    "h": 147
+   },
+   {
+    "src": "mathematics-2023/q044-sol1.png",
+    "w": 588,
+    "h": 1317
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "A \nparticle \nmoves \nalong \nthe \ncurve \n When the rate of change of\nabscissa is 4 times that of its ordinate, then\nthe quadrant in which the particle lies is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q045-stem0.png",
+    "w": 501,
+    "h": 160
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "II or IV",
+    "img": {
+     "src": "mathematics-2023/q045-optA.png",
+     "w": 173,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "III or IV",
+    "img": {
+     "src": "mathematics-2023/q045-optB.png",
+     "w": 233,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "II or III",
+    "img": {
+     "src": "mathematics-2023/q045-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "I or III",
+    "img": {
+     "src": "mathematics-2023/q045-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, particles moves along the curve\nsince y and x are opposite sign \nparticle must lie in II and IV quadrant",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q045-sol0.png",
+    "w": 588,
+    "h": 397
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "rate of change"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "An enemy fighter jet is flying along the curve,\ngiven by y = x2 + 2. A soldier is placed at (3, 2)\nwants to shoot down the jet when it is nearest\nto him. Then, the nearest distance is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q046-stem0.png",
+    "w": 501,
+    "h": 156
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "units",
+    "img": {
+     "src": "mathematics-2023/q046-optA.png",
+     "w": 173,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2 units",
+    "img": {
+     "src": "mathematics-2023/q046-optB.png",
+     "w": 233,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q046-optC.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "units",
+    "img": {
+     "src": "mathematics-2023/q046-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Let P(x, y) be the position of the jet and the\nsolider is placed at A(3, 2)\nFor local points of maxima and minima \n\\ z is minimum, where x = 1, y = 1 + 2 = 3\nAlso, minimum distance",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q046-sol0.png",
+    "w": 588,
+    "h": 45
+   },
+   {
+    "src": "mathematics-2023/q046-sol1.png",
+    "w": 604,
+    "h": 551
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "maxima",
+   "minima",
+   "is minimum"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "is equal to:",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q047-stem0.png",
+    "w": 501,
+    "h": 90
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2023/q047-optA.png",
+     "w": 173,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2023/q047-optB.png",
+     "w": 233,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2023/q047-optC.png",
+     "w": 173,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2023/q047-optD.png",
+     "w": 232,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Using \nproperty \nAdding Eq.s (i) and (ii), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q047-sol0.png",
+    "w": 604,
+    "h": 535
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q048-stem0.png",
+    "w": 501,
+    "h": 59
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q048-optA.png",
+     "w": 173,
+     "h": 49
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q048-optB.png",
+     "w": 233,
+     "h": 49
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q048-optC.png",
+     "w": 173,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q048-optD.png",
+     "w": 232,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Put, sin x - k\ncos x dx = dk",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q048-sol0.png",
+    "w": 604,
+    "h": 280
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If f(x) and g(x) are two functions with g(x) = x -\n1/x and f o g(x) \n then \n is\nequals to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q049-stem0.png",
+    "w": 501,
+    "h": 124
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q049-optA.png",
+     "w": 173,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q049-optB.png",
+     "w": 233,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q049-optC.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q049-optD.png",
+     "w": 232,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q049-sol0.png",
+    "w": 588,
+    "h": 353
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "A circular plate of radius 5 cm is heated. Due\nto expansion, its radius increase at the rate of\n0.05 cm/s. The rate at which its area is\nincreasing when the radius is 5.2 cm is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q050-stem0.png",
+    "w": 667,
+    "h": 152
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "27.4p cm2/s\n(B) 5.",
+    "img": {
+     "src": "mathematics-2023/q050-optA.png",
+     "w": 269,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": ".05p cm2/s",
+    "img": {
+     "src": "mathematics-2023/q050-optB.png",
+     "w": 379,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.52p cm2/s\n(D) 5.",
+    "img": {
+     "src": "mathematics-2023/q050-optC.png",
+     "w": 269,
+     "h": 46
+    }
+   },
+   {
+    "letter": "D",
+    "text": ".2p cm2/s",
+    "img": {
+     "src": "mathematics-2023/q050-optD.png",
+     "w": 379,
+     "h": 46
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Let r be the radius of the circular disc and A be\nthe area of the circular disc at any instant of\ntime. we know that \nAccording to the question, the circular disc\nexpands on heating with the rate of change of\nradius is 0.05 cm/s\nSo, the rate at which its area is increasing,\nwhen radius is 5.2 cm is",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q050-sol0.png",
+    "w": 588,
+    "h": 551
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "rate of change",
+   "rate at which"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "is equals to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q051-stem0.png",
+    "w": 667,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3\n(B) 4",
+    "img": {
+     "src": "mathematics-2023/q051-optA.png",
+     "w": 269,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q051-optB.png",
+     "w": 379,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1\n(D) 0",
+    "img": {
+     "src": "mathematics-2023/q051-optC.png",
+     "w": 269,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q051-optD.png",
+     "w": 379,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Putting, x + 1 = t\nThen dx = dt, we get\nAt t3 + t cos t is an odd function.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q051-sol0.png",
+    "w": 588,
+    "h": 530
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "is equals to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q052-stem0.png",
+    "w": 667,
+    "h": 58
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p2/4\n(B) p/",
+    "img": {
+     "src": "mathematics-2023/q052-optA.png",
+     "w": 269,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "/2",
+    "img": {
+     "src": "mathematics-2023/q052-optB.png",
+     "w": 379,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p2/2\n(D) p/",
+    "img": {
+     "src": "mathematics-2023/q052-optC.png",
+     "w": 269,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "/4",
+    "img": {
+     "src": "mathematics-2023/q052-optD.png",
+     "w": 379,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "On Adding Eqs. (i) and (ii), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q052-sol0.png",
+    "w": 588,
+    "h": 324
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "is equals to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q053-stem0.png",
+    "w": 667,
+    "h": 66
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q053-optA.png",
+     "w": 638,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q053-optB.png",
+     "w": 637,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q053-optC.png",
+     "w": 638,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q053-optD.png",
+     "w": 636,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q053-sol0.png",
+    "w": 636,
+    "h": 341
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "is equals to",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q054-stem0.png",
+    "w": 667,
+    "h": 58
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q054-optA.png",
+     "w": 638,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q054-optB.png",
+     "w": 637,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q054-optC.png",
+     "w": 638,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q054-optD.png",
+     "w": 636,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Dividing the numerator and denominator by\ncos2x, we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q054-sol0.png",
+    "w": 636,
+    "h": 164
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If a curve passes through the point (1, 1) and\nat any point (x, y) on the curve, the product of\nthe slope of its tangent and x coordinate of the\npoint is equal to the y coordinate of the point,\nthen the curve also passes through the point",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q055-stem0.png",
+    "w": 667,
+    "h": 183
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(3, 0)\n(B) (-1",
+    "img": {
+     "src": "mathematics-2023/q055-optA.png",
+     "w": 269,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1, 2)",
+    "img": {
+     "src": "mathematics-2023/q055-optB.png",
+     "w": 379,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(\n, 0)\n(D) (2",
+    "img": {
+     "src": "mathematics-2023/q055-optC.png",
+     "w": 269,
+     "h": 46
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2, 2)",
+    "img": {
+     "src": "mathematics-2023/q055-optD.png",
+     "w": 379,
+     "h": 46
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Let the equation of the curve by y = f(x) and\ncurve passes through the point (1, 1), So, f(1) =\n1. Also, we know that at any point (x, y) on the\ncurve, the product of the slope of its tangent\nand x co-ordinate of the point is equal to the y\nco-ordinate of the point.\nOn integrating both sides w.r.t. x, we get\nNow, we can use the fact that the curve passes\nthrough the point (1, 1) to find the value of k.\nTherefore, the equation of the curve is y = x\nSubstituting the value of x and y from the\ngiven option, we find that the curve passes\nthrough the point (2, 2)",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q055-sol0.png",
+    "w": 588,
+    "h": 737
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "slope"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The degree of the differential equation",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q056-stem0.png",
+    "w": 667,
+    "h": 106
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3\n(B) 1",
+    "img": {
+     "src": "mathematics-2023/q056-optA.png",
+     "w": 269,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q056-optB.png",
+     "w": 379,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2\n(D) 6",
+    "img": {
+     "src": "mathematics-2023/q056-optC.png",
+     "w": 269,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q056-optD.png",
+     "w": 379,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, \nOn cubic both sides, we get\nSo, degree of the differential equation is 6 .",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q056-sol0.png",
+    "w": 588,
+    "h": 478
+   }
+  ],
+  "chapter": "Differential Equations",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "differential equation",
+   "degree of the differential"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "If \n then",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q057-stem0.png",
+    "w": 667,
+    "h": 73
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-are parallel",
+    "img": {
+     "src": "mathematics-2023/q057-optA.png",
+     "w": 638,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "are coincident.",
+    "img": {
+     "src": "mathematics-2023/q057-optB.png",
+     "w": 637,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "īnclined to each other at 60o",
+    "img": {
+     "src": "mathematics-2023/q057-optC.png",
+     "w": 638,
+     "h": 46
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-are perpendicular",
+    "img": {
+     "src": "mathematics-2023/q057-optD.png",
+     "w": 636,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine which option is correct, we can\nanalyze \nthe \ngiven \nequation \nusing \nthe\nproperties of vector norms. The condition \n implies that the vector\nsum and difference of vectors \n have\nthe same magnitude. Let's expand both sides\nusing the formula for the magnitude of a\nvector sum and difference:\n \nAnd for the difference, we have:",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q057-sol0.png",
+    "w": 588,
+    "h": 536
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "vector"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The component of in the direction of the\nvector \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q058-stem0.png",
+    "w": 501,
+    "h": 87
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2023/q058-optA.png",
+     "w": 173,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q058-optB.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q058-optC.png",
+     "w": 173,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2023/q058-optD.png",
+     "w": 232,
+     "h": 48
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that component of a in the direction\nof b is\nThen, we have \nNow, the component of i in the direction",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q058-sol0.png",
+    "w": 1209,
+    "h": 287
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "vector"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "In the interval (0, p/2) area lying between the\ncurves y = tan x and y = cot x and the X-axis is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q059-stem0.png",
+    "w": 507,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2 log 2 sq. units",
+    "img": {
+     "src": "mathematics-2023/q059-optA.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4 log 2 sq. units",
+    "img": {
+     "src": "mathematics-2023/q059-optB.png",
+     "w": 477,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "log 2 sq. units",
+    "img": {
+     "src": "mathematics-2023/q059-optC.png",
+     "w": 478,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3 log 2 sq. units",
+    "img": {
+     "src": "mathematics-2023/q059-optD.png",
+     "w": 476,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given that \n, we can\nequate the right-hand sides of the above\nequations:\nBy simplifying this equation, we can solve for\nthe dot product \nThe dot product of two vectors is zero if and\nonly \nif \nthe \nvectors \nare \northogonal\n(perpendicular) to each other. Therefore, we\ncan conclude that vectors \n are\nperpendicular:\nHence, the correct answer is:\nQ59\nThe region is symmetric about lines \nand its first portion is bounded between the\nlines x = 0 and",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q059-sol0.png",
+    "w": 1209,
+    "h": 795
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 8,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "dot product"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2023,
+  "source": "Mathematics-2023.pdf",
+  "stemText": "The area of the region bounded by the line y =\nx + 1 and the lines x = 3 and x = 5 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2023/q060-stem0.png",
+    "w": 507,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "7/2 sq. units",
+    "img": {
+     "src": "mathematics-2023/q060-optA.png",
+     "w": 189,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "11/2 sq. units",
+    "img": {
+     "src": "mathematics-2023/q060-optB.png",
+     "w": 239,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7 sq. units",
+    "img": {
+     "src": "mathematics-2023/q060-optC.png",
+     "w": 189,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10 sq. units",
+    "img": {
+     "src": "mathematics-2023/q060-optD.png",
+     "w": 237,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Option D \n are perpendicular.\nQ60",
+  "solutionImages": [
+   {
+    "src": "mathematics-2023/q060-sol0.png",
+    "w": 1209,
+    "h": 91
+   }
+  ],
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

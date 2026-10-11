@@ -1,0 +1,2192 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "The unit cell with crystallographic dimensions, a ≠ b ≠ c, α = = 90 and β ≠ 90 is Triclinic (2)Monoclinic (1) (3) Orthorhombic (4) Tetragonal",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q001-stem0.png",
+    "w": 1674,
+    "h": 291
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "unit cell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "While charging the lead storage battery, 2. (1) PbSO4 on anode is reduced to Pb (2) PbSO4 on cathode is reduced to Pb (3) PbSO4 on cathode is oxidized to Pb (4) PbSO4 on anode is oxidized to PbO2 Adenosine is an example of",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q002-stem0.png",
+    "w": 1674,
+    "h": 475
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "lead storage battery",
+   "anode",
+   "cathode"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "3. (1) Nucleotide (2) Purine base (3) Pyrimidine base (4) Nucleoside Orlon has monomeric unit",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q003-stem0.png",
+    "w": 1670,
+    "h": 287
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "base"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "4. (1) Acrolein (2) Glycol (3) Vinyl cyanide (4) Isoprene",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q004-stem0.png",
+    "w": 1572,
+    "h": 274
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "glycol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "6. (1) PbS (2) Na,SO3 (4) KI (3) O In thegiven set ofreactions,",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q006-stem0.png",
+    "w": 1894,
+    "h": 404
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "7. AgCN LiA/H4 2-Bromopropane >X alc./heat theIUPACnameofproductY'is (1) N-Methylpropanamine (2) N-Isopropylmethanamine Butan-2-amine N-Methylpropan-2-amine (3) (4) On heating with concentrated NaOH solution in an inert atmosphere of CO,white",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q007-stem0.png",
+    "w": 1891,
+    "h": 614
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Amines",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "amine"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "8. phosphorous gives a gas. Which of the following statement is incorrect about the gas ? (1) It is less basic than NH3. (2) It is more basic than NH3. It is highly poisonous and has smell like rotten fish. (3) (4) It's solution in water decomposes in the presence of light. Sodium metal crystallizes in B.C.C. lattice with edge length of 4.29 A. The radius of",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q008-stem0.png",
+    "w": 1890,
+    "h": 681
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "10.0.06% (w/v) aqueous solution of urea is isotonic with 0.06% glucose solution (1) (2) 0.6% glucose solution (3) 0.01 M glucose solution (4) 0.1 M glucose solution",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q010-stem0.png",
+    "w": 1763,
+    "h": 358
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "glucose"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "11.In a first order reaction, the concentration of the reactant is reduced to 12.5% in one hour. Whenwas it half completed? (1) 3hr (2) 20min (3) 30min (4) 15min",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q011-stem0.png",
+    "w": 1859,
+    "h": 415
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "first order reaction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "12.The electrolyte having maximum flocculation value for Agl/Ag+ sol. is (1) NaCl (2) Na,S (3) Na,SO4 (4) Na,PO4",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q012-stem0.png",
+    "w": 1767,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sol"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "13.Copper is extracted from Copper pyrites by heating in a Bessemer converter. The method is based on theprinciple that (1) (2) (3) Copper hasless affinityfor oxygen than·Sulphur athigh temperature. (4) Sulphur has less affinity for oxygen at high temperature.",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q013-stem0.png",
+    "w": 1861,
+    "h": 590
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sulphur",
+   "oxygen"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "14.Which of thefollowingwill be able to showgeometrical isomerism? (1) MAB-Squareplanar (2) MA,B2-Tetrahedral (3) MABCD-Squareplanar (4) MABCD-Tetrahedral",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q014-stem0.png",
+    "w": 1760,
+    "h": 277
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "tetrahedral"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "[Xe] 4f8 (2) [Xe] 4f7 (1) [Xe] 4f7 5dl 6s2 [Xe] 4f 5d1 (3) (4) H,S NHOH HOHN 16.MSO4 Z↑",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q015-stem0.png",
+    "w": 1792,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "业 X white excess Here M and Z are (2)Zn, ZnS (1) Cu, ZnS Al,Al,S3 (3) Fe,FeS (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q016-stem0.png",
+    "w": 1888,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "17. The hydrolysis of optically active 2-bromobutane with aqueous NaOH result in the formation of (+) butan-2-0l (2) (-) butan-2-ol (1) (±) butan-1-ol (±) butan-2-ol (3) (4) 18.The distinguishing test between methanoicacid and ethanoic acid is",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q017-stem0.png",
+    "w": 1885,
+    "h": 435
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "(1) Litmus test (2) Tollen's test (4)Sodium bicarbonate test (3) Esterification test",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q018-stem0.png",
+    "w": 1786,
+    "h": 324
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "esterification"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "19. In H2 - O2 fuel cell the reaction occurring at cathode is (2) O2(g) + 2H2O(n+ 4e-— 40H(ag) 2H2(g) +O2(g)>2HO(n (1)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q019-stem0.png",
+    "w": 1773,
+    "h": 243
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "fuel cell",
+   "cathode"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "xlm x1m (1) (2) p-→ <←-d xm xlm (3) (4) logp→ logp-",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q020-stem0.png",
+    "w": 1760,
+    "h": 893
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "(1) 0.1 M Sucrose (2) 0.01 M NaCl 0.1 M NaCI (4) 0.01 M Na,SO4 (3) Half lifeperiod ofa first orderreaction is 10min.Starting with initial concentration12 M,",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q024-stem0.png",
+    "w": 1903,
+    "h": 350
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "sucrose"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "25. therateafter20minis 0.0693 M min-1 0.693 ×3 M min-1 (1) (2) 0.0693 × 4 M min-1 (3) 0.0693×3Mmin-l (4) 26.The salt which responds to dilute and concentrated HSO4is",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q025-stem0.png",
+    "w": 1893,
+    "h": 404
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "CaF2 (2) Ba(NO3)2 (1) Na,SO4 (4) Na,PO4 (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q026-stem0.png",
+    "w": 1793,
+    "h": 363
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "29.The formation of cyanohydrin from a ketone is an example of (1) Nucleophilic substitution (2) Nucleophilic addition (3) Electrophilic addition (4) Electrophilic substitution",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q029-stem0.png",
+    "w": 1757,
+    "h": 324
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nucleophilic addition",
+   "ketone"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "30.One of the following is an essential amino acid. (1) Tyrosine (2) Cysteine (3) Isoleucine (4) Serine",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q030-stem0.png",
+    "w": 1760,
+    "h": 316
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "amino acid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "31.The aqueous solution of followingsalt will have the lowestpH: (1) NaCIO3 (2) NaCIO (3) NaCIO2 (4) NaCIO4",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q031-stem0.png",
+    "w": 1763,
+    "h": 333
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "34.One of the following amide will not undergoHoffmann bromamide reaction : CH,CONH, (1) (2) CHCONHCH3 (3) C,H,CONH2 (4) CHCHCONH2",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q034-stem0.png",
+    "w": 1788,
+    "h": 689
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "35.Cheilosis and digestive disorders are due to the deficiency of (1) Thiamine (2) Ascorbicacid (3) Riboflavin (4) Pyridoxine 36.How many Coulombs of electricity are required for the oxidation of one mol ofwater to",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q035-stem0.png",
+    "w": 1784,
+    "h": 427
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "dioxygen? (1) 9.65×104C (2) 1.93×104C 1.93×105 C 19.3×105C (3) (4) 37.100 cm3of 1 M CHCOOH was mixed with 100cm3of 2M CHOH to form an ester.The",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q036-stem0.png",
+    "w": 1882,
+    "h": 523
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ester"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "changein theinitialrateif each solution is dilutedwith equalvolume ofwaterwould be (1) 2 times (2) 4 times (3) 0.5 times (4) 0.25times",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q037-stem0.png",
+    "w": 1880,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "[Co(NH)]3+ [Cr(CN),]3- (2) (1) [Co(C1)]3- [Cr(H20)6]3+ (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q039-stem0.png",
+    "w": 1304,
+    "h": 390
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "The arrangement of following compounds : 40. i. bromomethane ii. bromoform iii. chloromethane iv. dibromomethane In the increasing order of their boiling point is ili<i<iv<ii iv<iii<i<ii (1) (2) (3) ii<ili<i<iv (4) i<ii<ili<iv",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q040-stem0.png",
+    "w": 1398,
+    "h": 774
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "41.Iodoform can be prepared from all, except propan-2-ol (2) butan-2-one (1) (3) propan-1-0l (4) acetophenone",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q041-stem0.png",
+    "w": 1287,
+    "h": 259
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "iodoform"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "42.Identify'Q'in.thefollowingsequenceof-reactions: COCH3 PCl→P NaNH, excess （2） (4) ③）",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q042-stem0.png",
+    "w": 1837,
+    "h": 720
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "43.Cryoliteis (1) NaA/Fand is used in the electrolysis of alumina for decreasing electrical conductivity. (2) NaA/Fand is used in the electrolysis of alumina for lowering the melting pointof alumina only. NaA/Fand is used in the electrolysis of alumina for lowering the melting (3) point and increasing the conductivity of alumina. NaA/F and is used in the electrolytic refining of alumina. （4） Which of thefollowingcompound of Xenon haspyramidal geometry?",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q043-stem0.png",
+    "w": 1880,
+    "h": 678
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electrolysis",
+   "conductivity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "44. XeOF4 (2)XeF2 (1) XeF4 (3) XeO3 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q044-stem0.png",
+    "w": 1777,
+    "h": 323
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "45.After adding non-volatile solute freezingpoint ofwater decreases to-0.186°C.Calculate T, if K = 1.86 K kg mol-↓ and K, = 0.521 K kg mol-1 (1) 0.521 (2) 0.0521 (3) 1.86 (4) 0.0186",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q045-stem0.png",
+    "w": 1874,
+    "h": 310
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "solute"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "46.Plot of Maxwell's distribution ofvelocities is given below: Fraction ofmolecules T Molecular Velocity Which of the following is correct about this plot ? (2) f>f (1) T,<T2 (3)T,>T2 (4) V<",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q046-stem0.png",
+    "w": 1419,
+    "h": 1110
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "47.The pair of compound which cannot exist together in solution is NaHCOandNaOH (1) (2) NaHCO and H2O (3) NaHCOandNa,CO Na2CO, and NaOH (4) 48.What amount of dioxygen (in gram) contains 1.8 x 1022 molecules ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q047-stem0.png",
+    "w": 1308,
+    "h": 645
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "gram"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "0.960 (1). 0.0960 (2) 96.0 (3) 9.60 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q048-stem0.png",
+    "w": 1303,
+    "h": 276
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "49. Using MOT, compare O2 and O2 species and choose the incorrect option. (1) 2have higher bond order than O2. (2) O2.is less stable. (3) Oisdiamagneticwhile Oisparamagnetic. (4) Both O2 and O are paramagnetic.",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q049-stem0.png",
+    "w": 1781,
+    "h": 599
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "bond order"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "50.Which of the following is not true ? (1) Erythromycin is a bacteriostatic antibiotic. (2) Ampicillin is not a natural antibiotic. Prontosil is not converted into sulphanilamide in the body. (3) Vancomycin is a broad spectrum antibiotic. (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q050-stem0.png",
+    "w": 1781,
+    "h": 468
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemistry in Everyday Life",
+  "chapterScore": 16,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "antibiotic",
+   "broad spectrum"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "53.In the sequence of following reactions : HOOO (1)NaNO2/HCI (1) Br2 273-278K KMnO4 P →R- (2) Sn/HCl (2) H,O/H,PO2 OH the startingcompound‘P'is (1) o-nitro toluene (2) m-nitro toluene (3) o-bromo toluene (4) p-nitro toluene 54.Acetic acid is treated with Ca(OH) and the product so obtained is subjected to dry",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q053-stem0.png",
+    "w": 1872,
+    "h": 663
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "toluene"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "distillation.The final product is ethanal propanal (1) (2) (4) ethanol (3) propanone",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q054-stem0.png",
+    "w": 1866,
+    "h": 418
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "55.The correct statementis BF is the strongest Lewis acid among the other boron halides. (1) BI,is the weakest Lewis acid among the boron halides. (2) (3) There is maximum pr -pr back bonding in BF3 There is minimum pπ - pr back bonding in BF3 (4) 56.Which of the following compound possesses the “C -H\"bond with the lowest bond",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q055-stem0.png",
+    "w": 1763,
+    "h": 602
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 10,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "lewis acid",
+   "acid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "dissociation energy ? (2) Benzene (1) Toluene (3) n-pentane (4) 2, 2-dimethyl propane",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q056-stem0.png",
+    "w": 1856,
+    "h": 342
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "benzene",
+   "toluene"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "57. In presence of HCl, HS results the precipitation of Group-2 elements but not Gp-4 elementsduringqualitativeanalysis.Itisdueto higher concentration of S2- higher concentration of H+ (1) (2) lower concentration of s²- (3) (4) lower concentration of H+",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q057-stem0.png",
+    "w": 1878,
+    "h": 530
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "58.Oneof thefollowingconversionresultsin thechangeof hybridization andgeometry: CH4 to C2H6 NH to NH4 (1) (2) BFtoBF H,O to H,O (3)1 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q058-stem0.png",
+    "w": 1780,
+    "h": 490
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "hybridization"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2015,
+  "source": "kcet-2015-chemistry-question-paper.pdf",
+  "stemText": "59.Water softeningby Clark'sprocess.uses (1) CaHCO, (2) NaHCO3 (3) Na,CO3 (4) Ca(OH)2",
+  "stemImages": [
+   {
+    "src": "chemistry-2015-kea/q059-stem0.png",
+    "w": 1777,
+    "h": 445
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

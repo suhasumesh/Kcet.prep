@@ -1,0 +1,2254 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "1. (1)Free radicals only (2) Cations only (3) Anions only (4)Both anionsand cations Statement I:Nitrogen inpyridine cannotbe estimated byKjeldahl'smethod",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q001-stem0.png",
+    "w": 1989,
+    "h": 511
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nitrogen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "2. Statement Il:Nitrogen in pyridine changes to ammonium sulphate when heated with conc.H,SO in Kjeldahl's method. Read the above given statements and choose the correct answer from the given options. (1)Statement Iis true butStatementII is false (2)BothStatementIandStatementIIarefalse (3)BothStatementIandStatementIIare true (4)StatementIisfalsebutStatementII is true The number of chain isomers possible for the hydrocarbon with molecular formula C H is",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q002-stem0.png",
+    "w": 1984,
+    "h": 790
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "molecular formula"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "3. (1) 4 (2) 3 (3) 2 (4)1 The compound with molecular formula C2oH, is",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q003-stem0.png",
+    "w": 1979,
+    "h": 518
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "molecular formula"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "4. (1)Decane (2) Dodecane (3)Eicosane (4)Hicosane",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q004-stem0.png",
+    "w": 1966,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "5. (1) Longer and stronger (2) Shorter and stronger (3) Shorter and weaker (4) Longer and weaker The compound from which chlorobenzene cannotbeprepared easilyis",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q005-stem0.png",
+    "w": 1983,
+    "h": 504
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "chlorobenzene"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "6. (1) Aniline (2)Benzene (3) Phenol (4)Benzenediazonium chloride In S1 reaction, the alkyl halide that on hydrolysis produces racemic mixture is",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q006-stem0.png",
+    "w": 1975,
+    "h": 495
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 6,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "alkyl halide",
+   "halide",
+   "chloride"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "7. (1) Tertiary butyl bromide (2)2-bromobutane (3)Isopropyl bromide (4)Methyl bromide Match the compounds of List-I with their effects in List-II.",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q007-stem0.png",
+    "w": 1972,
+    "h": 496
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "bromide"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "8. List-I List-II (a) Chloramphenicol (i) Malaria (b) Thyroxine (ii) Anaesthetic Chloroquine (ii) Goiter (c) Chloroform Typhoid fever (d) (iv). Codes: (1)a-i,b-ii,c-iii,d-iv (2)a-iv,b-ii,c-i,d-ii (4) a-iv,b-ii,c-ii,d-i (3)a-i,b-ii,c-iv,d-ii",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q008-stem0.png",
+    "w": 1962,
+    "h": 827
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "chloroform"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "9. (1) Alkaline KMnO4 (2) LiAIH4 (3) Na/C,HOH (4)PCC (Pyridinium Chlorochromate) Glycerol is a trihydric alcohol.It contains",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q009-stem0.png",
+    "w": 2028,
+    "h": 759
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "alcohol"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "10. (1) One primary, one secondary and one tertiary alcoholic groups A1 (2) Two primary and one secondary alcoholic groups (3) Twosecondary and oneprimary alcoholicgroups (4) Oneprimary and two tertiary alcoholicgroups CH 11.The correct IUPACname of CH,-C -O-CH is",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q010-stem0.png",
+    "w": 2018,
+    "h": 791
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "CH, (1)Tertiarybutoxy ethane (2)1,1-Dimethyl-1-ethoxyethane (3)2-ethoxy-2-methylpropane (4)Ethoxy tertiarybutane",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q011-stem0.png",
+    "w": 2007,
+    "h": 759
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "14. Benzaldehyde OH/293K CHO CH=CH (2) (1) COCH, 0 CH=CH-C (3) CH CHO (4) Carboxylic acidsaremore acidic than phenols because",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q014-stem0.png",
+    "w": 1987,
+    "h": 921
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "benzaldehyde"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "15. (1)Formation ofdimers (2)Intermolecular hydrogen bonding (3)More covalentnature (4)Moreresonance stabilisation of their conjugate base The compound thatdoesnotansweriodoform testis",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q015-stem0.png",
+    "w": 1976,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "conjugate base",
+   "base"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "16. (1) Ethanal (2) Acetone (3)Ethanoicacid (4)Acetophenone Nitration of aniline in strong acidic medium gives significant amount of m-nitroaniline because",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q016-stem0.png",
+    "w": 1973,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acetophenone",
+   "acetone"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "17. (1) In electrophilic substitution reaction,amino group is meta directing (2) In strong acidic medium,aniline is present as anilinium ion. (3) -NH, group always directs to meta position. (4)m-nitroaniline has higher molar mass than o&p nitroanilines.",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q017-stem0.png",
+    "w": 1965,
+    "h": 453
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Amines",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "aniline",
+   "amino"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "18. (1)Inductive effect (2) Solvation effect (3)Sterichindrance (4)Hyperconjugation effect Fe/HCI NaNO/HCI C,H,OH Conc.HNO, +D+HCI",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q018-stem0.png",
+    "w": 1985,
+    "h": 625
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "inductive effect",
+   "hyperconjugation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "19. A →C Conc.H,SO4 273K 323-333K Organiccompound'D'is NH (2) CH,COOH (1) HN -C,H (3) CH,CHO （4） StatementI:Staggered conformationof ethane is more stable than the eclipsed conformation.",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q019-stem0.png",
+    "w": 1975,
+    "h": 872
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "20.S Statement II: The torsional strain in staggered conformation is more. Read the above statements and choose the correct answerfrom the options given below. (1)BothStatementIandStatementII arefalse (2) Both Statement I and Statement II are true (3)StatementIistruebutStatementIIisfalse (4)StatementIisfalsebutStatementIIistrue",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q020-stem0.png",
+    "w": 1969,
+    "h": 815
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "24. The types of hybrid orbitals of nitrogen in NO , NO, and NH respectively are (1) sp, sp? and sp2 (2) sp, sp² and sp3 (3) sp², sp and sp3 (4) sp², sp² and sp In which of the following option/options, the order of arrangement does not agree with the",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q024-stem0.png",
+    "w": 2022,
+    "h": 521
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "sp3",
+   "sp2"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "25. variation ofproperty indicated against it? (a)BF>NF>NH,(Dipole moment) (b) HgCl, > NH* > SF。 (Bond angle) (c) NH, <H,O <HF (Strength of intermolecular hydrogen bonding) (d)H-I >H -Br >H -CI (Bond length) (1) a, b and c (2) a only (3) c and d only (4) d only With respect to resonance structures of Co ion, which of the following statements are correct?",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q025-stem0.png",
+    "w": 1989,
+    "h": 945
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 13,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "dipole moment",
+   "bond angle",
+   "bond length",
+   "bonding"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "26. 2- (a) All C-O bonds in CO are equivalent (b) There are three resonance structures possible for Co ion (c)The position of carbon and oxygen should change in every resonance structure (d)The formal charge on carbon atom is -2 (1) a, b and c (2) a and b only (3) b and d only (4) a, b and d",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q026-stem0.png",
+    "w": 1976,
+    "h": 842
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "resonance structure"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "27. Givenbelowaretwostatements. Statement I : In HO2, each oxygen atom is assigned an oxidation number of -1, in RbO, each 2 Statement II:Representation of HAuCl and MnOin stock notation is HAu(IinCl, and Mn(In)O,respectively Examine theabovestatementsandchoose thecorrectanswer. (1)BothStatementIandStatementIIarecorrect (2)BothStatementIand StatementIareincorrect (3)StatementIis correctbutStatementIIisincorrect (4)Statement Iis incorrectbutStatementII is correct + b MnO + c H+ -→ x Mn²+ + y HO + z CO2",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q027-stem0.png",
+    "w": 1985,
+    "h": 982
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "oxidation number",
+   "oxidation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "aC,O 28. a and xrespectively are (1) 5, 2 (2) 4, 1 (3) 3, 2 (4) 4, 2",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q028-stem0.png",
+    "w": 1990,
+    "h": 404
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "Which of thefollowingwill notactas an oxidisingagent? 29. (1) Cr0, (2) MoO, 2- 2- (3) Cr0 (4) Cr,0* The highest oxidation state of manganese in fluoride is +4 (MnF),but the highest oxidation",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q029-stem0.png",
+    "w": 1975,
+    "h": 349
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "oxidation state",
+   "oxidation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "30. state in oxides is +7 (Mn,O), because (1) Fluorine is more electronegative than oxygen (2) Fluorine possesses d-orbitals (3)Fluorine stabiliseslower oxidationstate (4)In covalent compounds,fluorine can form single bond only,while oxygen forms double bond",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q030-stem0.png",
+    "w": 1971,
+    "h": 584
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "oxygen",
+   "fluorine"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "31. (1) 3.87 BM (2) 4.90 BM (3) 5.92 BM (4) 2.84 BM Whichof thefollowingis themost stable complex?",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q031-stem0.png",
+    "w": 1967,
+    "h": 355
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "complex"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "32. (1) [Fe (CO)§] (2) [Fe (CN),]3 (3) [Fe (C,04)3]3- (4) [Fe (H,0),]3+ How many ions per molecule are produced from the complex[Co(NH)JCl in solution?",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q032-stem0.png",
+    "w": 1969,
+    "h": 566
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "33. (1) 6 (2) 4 (3) 3 (4) 2",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q033-stem0.png",
+    "w": 1967,
+    "h": 350
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "34. Givenbeloware twostatements: Statement I:TheM-Cobond isformedbythedonationoflonepairofelectronsonthe carbonyl carbon into a vacant d-orbital of the metal Statement HI :The M -C π bond is formed by the donation of a pair of electronsfrom a filled d-orbital ofmetal into thevacant antibondingπ*orbital ofcarbon monoxide. In the light of the above statements,choose the correct answer from the optionsgiven below: (1)BothStatementIandStatementII are correct (2)BothStatementIandStatementII are incorrect (3)StatementIiscorrectbutStatementIIis incorrect (4)StatementIisincorrectbutStatementIIiscorrect",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q034-stem0.png",
+    "w": 1959,
+    "h": 1049
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "orbital"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "40. ofBA gives pale yellow precipitate with AgNO,solution.Which of the following anion(A) is present in the salt BA? (2) CO2 - (1) CI- 3 (3) SO² - (4) Br- Which of the followingrepresentsdeBroglie equation?",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q040-stem0.png",
+    "w": 1980,
+    "h": 520
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "41. h h (1)入= (2)= mv √mv h (3) = (4)=",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q041-stem0.png",
+    "w": 1971,
+    "h": 307
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "44. Whichofthefollowingisacorrectstatementfora thermodynamicsystem? (1)Theinternal energy changes in allprocesses (2)Internalenergyandentropyarestatefunctions (3)Work is a statefunction (4)Thework done in an adiabaticprocess is alwayszero",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q044-stem0.png",
+    "w": 1981,
+    "h": 499
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "45.A gas can be taken from A toBvia two differentpaths ACB and ADB. B H A D >ReactionCo-ordinate When path ACB is used,60J of heat flows into the system and 30J of work is done by the system.If path ADB is used,work done by the system is 10J. The heat flowinto the system inpath ADB is (2) 20J (1) 80J (3) 100J (4) 40J",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q045-stem0.png",
+    "w": 1975,
+    "h": 1132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "system"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "46. For thereversiblereaction, 2NH N +3H 2(g) 2(g) 3(g) When the partial pressure is measured in atmosphere, the value of K, at 500°C is 1.44 × 10-5. The value of K.when the concentration is expressed in mol L-1 is: 1.44 × 10-5 1.44 × 10-5 (1) (2) (0.082 × 500)-2 (8.314 × 773)-2 1.44 × 10-5 1.44 × 10-5 (3) (4) (0.082 × 773)2 (0.082 × 773)-2",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q046-stem0.png",
+    "w": 1973,
+    "h": 691
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "47. For the following gaseous reversible reaction: 3A() + B() A,B() (△H = - q kJ). The amount ofproductABis affected by (1)Temperature alone (2)Pressure alone (3)Both temperatureandpressure (4)Temperature,pressure and catalyst 48.A 0.15mole ofpyridinium chloride has been added to 500 cmof 0.2Mpyridine solution",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q047-stem0.png",
+    "w": 1974,
+    "h": 811
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "(a base). Assuming there is no change in volume upon mixing, the pH of the resulting solution is (1) 5 (2) 6 (3) 7 (4) 8 Which of the following is CORRECTwith respect to theproperty mentionedagainstit?",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q048-stem0.png",
+    "w": 2010,
+    "h": 899
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ph",
+   "base"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "49. (1) Osmoticpressure at 298K 0.1MNaCl solution<0.1MUreasolution (2) Concentration of NaCl in the solution: 2ppm>2M (3) ± T, 0.02MUreasolution>0.02MNaClsolution (4)Vapourpressureat298K SaltwaterPurewater",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q049-stem0.png",
+    "w": 1964,
+    "h": 624
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "50.Match List -I (Laws)with the List -II (Mathematical expressions): List-I List-II (a) Henry's law (i) P=xP Raoult's law (b) (i) p =KHx (c) Firstlawofthermodynamics (iii) va+va V m (d) (iv)△U=q+w Kohlrausch'slaw Codes: (1)a-i,b-ii,c-ii,d-iv (2)a-ii,b-i,c-ii,d-iv (3)a -ii,b-i, c-iv,d -ii (4) a - i, b - ii, c - iv, d - ii",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q050-stem0.png",
+    "w": 1964,
+    "h": 1041
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "raoult",
+   "henry's law"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "51. When 0.0106 mole of acetic acid was dissolved in 1 kg ofwater, the freezing point depression for this strength of acid was 0.0205 K.If the calculated freezing point depression is 0.0197 K, Van't Hoff factor (i) and degree of dissociation of acetic acid respectively are (1) 0.041 and 1.041 (2) 1.041 and 0.1041 (3) 0.041 and 0.041 (4)1.041 and 0.041",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q051-stem0.png",
+    "w": 1964,
+    "h": 487
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 8,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "degree of dissociation",
+   "acid",
+   "dissociation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "52. The relative lowering ofvapour pressure produced by dissolving 18 g of urea (Molarmass=60gmol-) in100gofwater is (1) 0.025 (2) 0.5 (3) 0.05 (4) 0.25",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q052-stem0.png",
+    "w": 1965,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "53. During the electrolysis of acidified water,16g of Ogas is formed at anode.Thevolume of H, gas liberated at cathode under STP conditions is (2) 11.2 L (1) 22.4 L (3) 2.24 L (4) 1.12 L",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q053-stem0.png",
+    "w": 1004,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "anode",
+   "cathode",
+   "electrolysis"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "is equal to 54. (1) ^° m(NHOH)+ m (NHCI) m (HCI) 1° (2) 1° m (NHCI) m(NaOH) m (NaCl) (3) m (NHCI) + m (NaCI) m(NaOH) (4) 八° 1° 八° m (NaOH) m (NaCI) m(NHCI)",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q054-stem0.png",
+    "w": 1974,
+    "h": 481
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "55. Givenbelowarethehalf-cellreactions: Mn2++2e→Mn(E°=-1.18V) 2 (Mn3++ e)→Mn²+ (E°=+1.51 V) The E°c for 3Mn²+→Mn+2Mn3+willbe (1)-2.69 V,thereaction will not occur (Non-Spontaneous) (2)-2.69V,the reaction will occur(Spontaneous) (3)-0.33V,the reaction will not occur (Non-Spontaneous) (4)-0.33V,thereaction will occur(Spontaneous) The conductivity of centimolar solution ofKCl at 298K is 0.021 Ohm- cm- and the resistance",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q055-stem0.png",
+    "w": 1971,
+    "h": 761
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "56. of the cell containing the solution at 298K is 60 Q.The value of cell constant (G*) is (1) 3.28 cm-1 (2) 1.26 cm-1 (3) 3.34 cm-1 (4) 1.34 cm-1",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q056-stem0.png",
+    "w": 1966,
+    "h": 368
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "57. Which one of the following graph is not applicable for a 1st order reaction (R→P)? (1) [R] (2) In [R] >t [R]o (3) log,0[R] (4) log10 [R] >t >t",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q057-stem0.png",
+    "w": 1971,
+    "h": 710
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "58.For a reaction having three steps, the overall rate constant is K = k3 Ea, Ea, and Ea, (activation energies stepwise) are 40, 50 and 60 kJ mol-1 respectively. Then the overall E(activation energy)of the reaction is (1) 30 kJ mol-1 (2) 40 kJ mol-1 (3) 50 kJ mol-1 (4) 60 kJ mol-1",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q058-stem0.png",
+    "w": 1969,
+    "h": 541
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "rate constant",
+   "activation energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "59. For a 1st order change R→P, the concentration of Reactant R changes from 0.1 M to 0.025 M in 40 minutes. The rate of reaction when the concentration of R is 0.o1 M is (1) 1.73 × 10-5 M min-1 (2) 3.47 × 10-4 M min-1 (4) 1.73 × 10-4 M min-1 (3) 3.47 × 10-5 M min-1",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q059-stem0.png",
+    "w": 1972,
+    "h": 379
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 60,
+  "subject": "Chemistry",
+  "year": 2026,
+  "source": "Chemistrry-2026.pdf",
+  "stemText": "60. The activation energy for the reaction X → Y is 150 kJ mol1. The change in enthalpy for the above reaction is -135 kJ mol-1. Then the activation energy for Y → X is (1) 280 kJ mol-1 (2) 285 kJ mol-1 (3) 270 kJ mol-1 (4) 15 kJ mol-1",
+  "stemImages": [
+   {
+    "src": "chemistry-2026/q060-stem0.png",
+    "w": 1972,
+    "h": 1361
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "activation energy"
+  ],
+  "chapterConfidence": "high"
+ }
+]

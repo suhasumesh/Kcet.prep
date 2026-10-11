@@ -1,0 +1,2551 @@
+[
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "5. Which of the following is the correct electron dot structure of molecule ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q005-stem0.png",
+    "w": 638,
+    "h": 245
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electron"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "6. The pressure of real gases is less than that of ideal gas because of (A) Intermolecular attraction (B) Finite size of particles (C) Increase in the number of collisions (D) Increase in the kinetic energy of the molecules",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q006-stem0.png",
+    "w": 638,
+    "h": 315
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "States of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ideal gas"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "7. A reaction has both and . The rate of reaction (A) increases with increase in temperature (B) increases with decrease in temperature (C) remains unaffected by change in temperature (D) cannot be predicted for change in temperature",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q007-stem0.png",
+    "w": 638,
+    "h": 366
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "rate of reaction"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "8. The equilibrium constant for the reaction is at . In presence of a catalyst the equilibrium is attained ten times faster. Therefore the equilibrium constant in presence of catalyst of 2000 K is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q008-stem0.png",
+    "w": 638,
+    "h": 393
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 11,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "9. The reaction quotient is useful in predicting the direction of the reaction. Which of the following is incorrect ? (A) > the reverse reaction is favoured (B) < the forward reaction is favoured (C) If = no reaction occur (D) If > forward reaction is favoured",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q009-stem0.png",
+    "w": 638,
+    "h": 446
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "10. is an example of (A) Oxidation reaction (B) Reduction reaction (C) Disproportionation reaction (D) Decomposition reaction",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q010-stem0.png",
+    "w": 638,
+    "h": 214
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "disproportionation",
+   "oxidation",
+   "reduction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "11. In the manufacture of hydrogen from water gas , which of the following is correct statement ? (A) CO is oxidized to with steam in the presence of a catalyst followed by absorption of in alkali. (B) CO and are separated based on difference in their densities. (C) Hydrogen is isolated by diffusion. (D) is removed by occlusion with pd.",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q011-stem0.png",
+    "w": 638,
+    "h": 505
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrogen",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "water gas",
+   "hydrogen"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "12. Plaster of Paris is represented as (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q012-stem0.png",
+    "w": 638,
+    "h": 198
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "plaster of paris"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "13. Addition of mineral acid to an aqueous solution of Borax, the following compound is formed (A) Boron hydride (B) Orthoboric acid (C) Meta boric acid (D) Pyroboric acid",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q013-stem0.png",
+    "w": 638,
+    "h": 220
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 13,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "borax",
+   "orthoboric acid",
+   "boric acid",
+   "boron"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "14. Identify the correct statement in the following : (A) n-butane and isobutane are functional isomers (B) Dimethyl ether and ethanol are chain isomers (C) Propan-1-ol and propan-2-ol are position isomers (D) Ethanoic acid and methyl methanoate are position isomers",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q014-stem0.png",
+    "w": 638,
+    "h": 389
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ethanol",
+   "ether"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "15. In which of the following, homolytic bond fission takes place ? (A) Alkaline hydrolysis of ethyl chloride (B) Addition of HBr to double bond (C) Free radical chlorination of methane (D) Nitration of Benzene",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q015-stem0.png",
+    "w": 638,
+    "h": 282
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "free radical",
+   "homolytic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "16. For the preparation of Alkanes, aqueous solution of sodium or potassium salt of carboxylic acid is subjected to (A) Hydrolysis (B) Oxidation (C) Hydrogenation (D) Electrolysis",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q016-stem0.png",
+    "w": 638,
+    "h": 222
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "carboxylic acid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "17. Which one of the following is not a common component of photo-chemical smog ? (A) Ozone (B) Acrolein (C) Peroxy acetyl nitrate (D) Chloro flouro carbons",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q017-stem0.png",
+    "w": 638,
+    "h": 235
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "18. Which of the following crystal has unit cell such that and ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q018-stem0.png",
+    "w": 638,
+    "h": 217
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "unit cell",
+   "crystal"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "19. The correct statement regarding defect in solids is (A) Frenkel defect is usually favoured by a very small difference in the sizes of cations and anions. (B) Frenkel defect is a dislocation defect. (C) Trapping of proton in the lattice leads to the formation of F-centers. (D) Schottky defect has no effect on the physical properties of solids.",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q019-stem0.png",
+    "w": 639,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 16,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "schottky",
+   "frenkel",
+   "lattice",
+   "defect"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "20. In a face centred cubic arrangement of A and B atoms in which ‘A’ atoms are at the corners of the unit cell and ‘B’ atoms are at the face centers. One of the ‘A’ atom is missing from one corner in unit cell. The simplest formula of compound is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q020-stem0.png",
+    "w": 639,
+    "h": 365
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "unit cell",
+   "face centred cubic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "21. Which of the following aqueous solution has highest freezing point ? (A) 0.1 molal (B) 0.1 molal (C) 0.1 molal (D) 0.1 molal",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q021-stem0.png",
+    "w": 639,
+    "h": 284
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "22. The Vant Hoff’s factor ‘i’ accounts for (A) extent of solubility of solute (B) extent of dissociation of solute (C) extent of dissolution of solute (D) extent of mobility of solute",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q022-stem0.png",
+    "w": 639,
+    "h": 245
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "solute",
+   "dissociation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "23. When the pure solvent diffuses out of the solution through the membrane then the process is called (A) Osmosis (B) Reverse osmosis (C) Sorption (D) Dialysis",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q023-stem0.png",
+    "w": 638,
+    "h": 235
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "dialysis"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "24. The standard reduction potential at 298 K for the following half cell reaction Which of the following is strongest reducing agent ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q024-stem0.png",
+    "w": 638,
+    "h": 521
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "reducing agent",
+   "reduction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "25. By passing electric current, is converted into according to the following equation How many moles of will be formed when three Faradays of charge is passed through ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q025-stem0.png",
+    "w": 638,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "26. In the electrolysis of aqueous sodium chloride solution, which of the half cell reaction will occur at anode ? (A) (B) + + (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q026-stem0.png",
+    "w": 638,
+    "h": 624
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "anode",
+   "electrolysis",
+   "half cell"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "27. Which of the following statement is in accordance with the Arrhenius equation ? (A) Rate of a reaction increases with increase in temperature (B) Rate of a reaction increases with decrease in activation energy (C) Rate constant decreases exponentially with increase in temperature (D) Rate of reaction does not change with increase in activation energy",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q027-stem0.png",
+    "w": 638,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 17,
+  "chapterMargin": 17,
+  "chapterHits": [
+   "rate constant",
+   "arrhenius",
+   "activation energy",
+   "rate of reaction"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "28. Which of the following statement is incorrect ? (A) The rate law for any reaction cannot be determined experimentally (B) Complex reactions have fractional order. (C) Biomolecular reactions involve simultaneous collision between two species (D) Molecularity is only applicable for elementary reaction.",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q028-stem0.png",
+    "w": 638,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "molecularity",
+   "rate law"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "29. For a reaction rate of disappearance of A is related to rate of appearance of B by the expression (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q029-stem0.png",
+    "w": 638,
+    "h": 362
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "30. The process which is responsible for the formation of delta at a place where rivers meets the sea is (A) Coagulation (B) Colloid formation (C) Emulsification (D) Peptization",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q030-stem0.png",
+    "w": 638,
+    "h": 222
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "colloid",
+   "coagulation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "31. Hydrogenation of vegetable oils in presence of finely divided Nickel as catalyst. The reaction is (A) Heterogeneous catalysis (B) Homogeneous catalysis (C) Enzyme catalysed reaction (D) Liquid catalysed reaction",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q031-stem0.png",
+    "w": 638,
+    "h": 317
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "enzyme"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "32. Which of the following is not a favourable condition for physical adsorption ? (A) High temperature (B) High pressure (C) Higher critical temperature of adsorbate (D) Low temperature",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q032-stem0.png",
+    "w": 638,
+    "h": 235
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "States of Matter",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "critical temperature"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "33. The metal extracted by leaching with a cyanide is (A) (B) Ag (C) Cu (D) Na",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q033-stem0.png",
+    "w": 638,
+    "h": 204
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "leaching"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "34. Extraction of chlorine from brine solution is based on (A) Oxidation (B) Chlorination (C) Reduction (D) Acidification",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q034-stem0.png",
+    "w": 638,
+    "h": 185
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidation",
+   "reduction"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "35. Which of the following element forms bond with itself ? (A) N (B) P (C) Se (D) Te",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q035-stem0.png",
+    "w": 638,
+    "h": 200
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "36. Which one of the following metallic oxide exhibit amphoteric nature ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q036-stem0.png",
+    "w": 638,
+    "h": 219
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "37. Select wrong chemical reaction among the following : (A) + (B) (C) (D) +",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q037-stem0.png",
+    "w": 638,
+    "h": 485
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "38. Which one of the following noble gas has an unusual property of diffusing through the materials such as rubber, glass or plastic ? (A) Ne (B) Ar (C) Kr (D) He",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q038-stem0.png",
+    "w": 638,
+    "h": 222
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "noble gas"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "39. The magnetic nature of elements depends on the presence of unpaired electrons. Identify the configuration of transition elements which shows highest magnetic moment ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q039-stem0.png",
+    "w": 638,
+    "h": 272
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "40. Which of the following statement is wrong regarding Lanthanoids ? (A) Ln(III) compounds are generally colourless. (B) Ln(III) compounds are predominantly ionic in character. (C) The ionic size of Ln(III) ions decreases with increasing atomic number. (D) Ln(III) hydroxides are mainly basic in nature.",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q040-stem0.png",
+    "w": 638,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "41. Square planar complex of the type (where A, B, X and L are unidentate ligands) shows following set of isomers (A) Two cis and one trans (B) Two trans and one cis (C) Two cis and two trans (D) Three cis and one trans",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q041-stem0.png",
+    "w": 638,
+    "h": 334
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "complex",
+   "square planar"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "42. According to crystal field theory, the M − L bond in a complex is (A) purely ionic (B) purely covalent (C) purely co-ordinate (D) partially covalent",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q042-stem0.png",
+    "w": 638,
+    "h": 188
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "crystal field",
+   "complex"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "43. The co-ordination number and the oxidation state of the element ‘M’ in the complex {where (en) is ethan-1, are respectively (A) 6 and 3 (B) 6 and 2 (C) 4 and 2 (D) 4 and 3",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q043-stem0.png",
+    "w": 638,
+    "h": 289
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "oxidation state",
+   "oxidation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "44. Toluene reacts with halogen in presence of Iron (III) chloride giving ortho and para halo compounds. The reaction is (A) Electrophilic elimination reaction (B) Electrophilic substitution reaction (C) Free radical addition reaction (D) Nucleophilic substitution reaction",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q044-stem0.png",
+    "w": 638,
+    "h": 318
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 6,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electrophilic substitution",
+   "addition reaction",
+   "toluene"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "45. In the following sequence of reactions The end product C is (A) Acetone (B) Methane (C) Acetaldehyde (D) Ethyl Alcohol",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q045-stem0.png",
+    "w": 638,
+    "h": 314
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "alcohol"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "46. Which of the following order is true regarding the acidic nature of phenol ? (A) Phenol > O-cresol > O-nitrophenol (B) O-cresol < phenol < O-nitrophenol (C) phenol < O-cresol > O-nitrophenol (D) phenol < O-cresol < O-nitrophenol",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q046-stem0.png",
+    "w": 638,
+    "h": 283
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "phenol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "47. Which of the following reagent cannot be used to oxidize primary alcohols to aldehydes ? (A) in anhydrous medium (B) in acidic medium (C) Pyridinium chloro chromate (D) Heating in presence of Cu at 573 K",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q047-stem0.png",
+    "w": 638,
+    "h": 312
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "49. Lower members of aliphatic carboxylic acid are soluble in water. This is due to (A) Formation of hydrogen bonds with water. (B) Van der-Waals interaction with water molecules. (C) Water is non electrolyte (D) Due to London forces",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q049-stem0.png",
+    "w": 638,
+    "h": 318
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "carboxylic acid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "50. The correct order of increasing basic nature for the bases , and in aqueous solutions (A) < < (B) < < (C) < < (D) < <",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q050-stem0.png",
+    "w": 638,
+    "h": 381
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "51. The product formed during the following reaction are ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q051-stem0.png",
+    "w": 638,
+    "h": 1092
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "52. Reduction of ketones cannot be carried out with which of the following reagents ? (A) Sodium borohydride or Lithium Aluminium hydride (B) Zinc amalgam and concentrated (C) Hydrazine and KOH in ethylene glycol (D) Hydrogen in presence of palladium in Barium sulphate and quinoline",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q052-stem0.png",
+    "w": 639,
+    "h": 369
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrogen",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "hydride",
+   "hydrogen"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "53. Gabriel phthalimide synthesis is used in the preparation of primary amine from phthalimide, which of the following reagent is not used during the process ? (A) KOH (B) NaOH (C) HCl (D) Alkyl Halides",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q053-stem0.png",
+    "w": 639,
+    "h": 258
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Amines",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "gabriel phthalimide",
+   "primary amine",
+   "amine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "54. The Glycosidic linkage present in sucrose is between (A) of α-glucose and of β- fructose (B) of α-glucose and of α- glucose (C) of β-galactose and of α- glucose (D) of α-glucose and of β-fructose",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q054-stem0.png",
+    "w": 639,
+    "h": 454
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 28,
+  "chapterMargin": 28,
+  "chapterHits": [
+   "glucose",
+   "fructose",
+   "sucrose",
+   "glycosidic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "55. Hormones are secreted by ductless glands of human body. Iodine containing hormone is (A) Insulin (B) Thyroxine (C) Testosterone (D) Adrenoline",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q055-stem0.png",
+    "w": 639,
+    "h": 185
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "iodine"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "56. Pick the wrong statement from the following : (A) Sources of Vitamin are yeast, milk, green vegetables and cereals (B) Deficiency of Vitamin (pyridoxime) results in convulsions (C) Consumption of citrus fruits and green leafy vegetables in food prevents scurvy (D) Deficiency of vitamin D causes xerophthalmia",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q056-stem0.png",
+    "w": 638,
+    "h": 421
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "vitamin"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "57. The monomer used in Novolac, a polymer used in paints (A) Phenol and Formaldehyde (B) Melamine and Formaldehyde (C) Butadiene and Styrene (D) Butadiene and Acrylo Nitrile",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q057-stem0.png",
+    "w": 638,
+    "h": 283
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "phenol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "58. Which of the following is not a biodegradable polymer ? (A) Polyhydroxy butyrate hydroxy valerate (B) pHBV (C) Nylon 2-Nylon-6 (D) Glyptol",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q058-stem0.png",
+    "w": 638,
+    "h": 287
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 13,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "nylon",
+   "biodegradable polymer",
+   "polymer"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2017,
+  "source": "kcet-2017-chemistry-question-paper.pdf",
+  "stemText": "59. Bactericidal antibiotics among the following is (A) Ofloxacin (B) Erythromycin (C) Tetracycline (D) Chloramphenicol",
+  "stemImages": [
+   {
+    "src": "chemistry-2017/q059-stem0.png",
+    "w": 638,
+    "h": 149
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

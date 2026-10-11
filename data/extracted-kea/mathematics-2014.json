@@ -1,0 +1,989 @@
+[
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "10.The symmetric part of the matrix A = 6 8 2 is 2 -2 7 4 3 开 1 4 C (1) 2 8 0 (2) 4 8 0 3 0 3 0 7 enobueOsbretsxoio yelgnsbute abttaOo1oceslnl 0-2-1 nsbuetosdu s60 -21 dtodyslqensbuta (3) -2 0 -2 (4) 2 0 2 0(1) es(4) CA(8) -1 -2 0 2 0",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q010-stem0.png",
+    "w": 1795,
+    "h": 716
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "symmetric"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "11.If A is a matrix of order 3,such that A (adj A) = 10 I, then Jadj A|= 2x20nvi0 (1)10 (2)101 (4)100 niB",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q011-stem0.png",
+    "w": 1797,
+    "h": 177
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "matrix"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "L004 (S) 1-2 onimO（1） esjunimO 0 0 2 0 0 umum00（() 1-3 (1) 0 3 0 (2) 0 0 adu xJ=xm=ls b9 0 4 1 0 0 14 aim 5）4 D1 0 0 1 0 0 S(t) 1 (E) (3) 0 3 0 (4) 0 1 0 24",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q013-stem0.png",
+    "w": 1790,
+    "h": 637
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "17.A gardener is digging a plot of land. As he gets tired, he works more slowly. After ‘t 2 minutes he is digging at a rate of square metres perminute.How long will it take him to dig an area of 40 square metres ? (1) 10minutes (2)40minutes 000 (4)30minutes (3) 100 minutes 0-80",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q017-stem0.png",
+    "w": 1909,
+    "h": 435
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "18. The area of the region bounded by the lines y = mx, x = 1, x = 2, and x axis is 6 sq. units, then‘m'is (1) 1 (2) 4 (3) 3 (4) 2 0 19.Area of the region bounded by two parabolas y = x² and x = y² is",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q018-stem0.png",
+    "w": 1905,
+    "h": 327
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Integrals",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "1-3 (1) +等 C+X (2)3 1-4 乙+本+ Ab# (3) (4) 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q019-stem0.png",
+    "w": 1787,
+    "h": 379
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "22.The distance of the point P（a, b, c) from the x-axis is HdduvowsbnA (1)√b²+c2 (2)√a²+c2 81od8aA0) vg2s=8A1（i) (3)√a²+b2 (4) 1 basO(l) 0.00） 11(0) x Y",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q022-stem0.png",
+    "w": 1796,
+    "h": 392
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "x-axis"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "23. Equation of the plane perpendicular to the line and passing through the point 1123 (2, 3, 4) is (S) SI 81 (1)x+2y+3z=9 (2)x+2y+3z=20 2x+3y+z=17 (A) (4)3x+2y+z=16 (e) (3) x-2y-3 Z-4 is parallel to theplanebfqbi ss basAeasvs es",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q023-stem0.png",
+    "w": 1791,
+    "h": 450
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "equation of the plane",
+   "plane"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "1 11 ai(.8.S) (1) (2) 18 0S=s+y+x（S) =x+yS+x-(1) 1-9 116 (3) al=x+yS+x(A) (4) （3）5x+3+=1",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q028-stem0.png",
+    "w": 1780,
+    "h": 412
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "3’ (1) greater than 1 (2)less than 1 (S) (①) equal to 1 (4) equal to 0 (3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q032-stem0.png",
+    "w": 1795,
+    "h": 368
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Linear Inequalities",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "greater than",
+   "less than"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "33. The value of [a- b--a] is equal to (2)2-0Aslgl (1) (4)2 (3) 0 （t）Ps-Cs 0 (3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q033-stem0.png",
+    "w": 1799,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "34.If x + y ≤ 2, x ≥ 0, y ≥ 0 the point at which maximum value of 3x + 2y attained will be otleups bunlumupump|b|=I (1)（0,0)-1 (2) (22",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q034-stem0.png",
+    "w": 1863,
+    "h": 211
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "maximum value"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "3 3 1 It eal (S) (2） (1) 0oIsup9() otIsups(E) 3) (4) ss]uyd",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q036-stem0.png",
+    "w": 1780,
+    "h": 492
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "37.In a triangle ABC, a[b cos C-c cos B] = (1) a2 (2)b2 0 (E) (4) b2-c2 (3) 0 sdliwbsnsy+xtouevmumixmddwmiogsQ0≤y+xH β-α",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q037-stem0.png",
+    "w": 1874,
+    "h": 364
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "42. Consider an infinite geometric series with first term ‘a' and common ratio ‘r'. If the sum is 3 4 and the second term is 4 ,then 4 3 (1) a=7′ (2) a=3， r= 4 3-8 3 1 (3) a=2， (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q042-stem0.png",
+    "w": 1907,
+    "h": 353
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sequences and Series",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "common ratio",
+   "infinite geometric",
+   "series"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "arithmeticmean of distribution is (S) (1) 30 AS (2) 21 8 (3) 60 (A) (4)35 (E) 18 47.The function represented by the following graph is rse iimoog stimnni ne sbiano S ↑Y zims bnoobb nodt F=6（1) 0=B 2 (A =(E) 0） bns(0）mioq tguoueeqsnil gieA mofubaqqg >X aisnilsino(A） ioqd",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q046-stem0.png",
+    "w": 1910,
+    "h": 889
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "49. f(x) =brwhere b > 1 ? The domain of the function is R, the set of real numbers. rseiey (1) (2) The range of the function is the set of all positive real numbers. () (3) For very large negative values of x, the function is very close to 0. The point (1, O) is always on the graph of the function. (4) mild milestane（monuf fla dy",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q049-stem0.png",
+    "w": 1765,
+    "h": 603
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 14,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "domain of the function",
+   "range of the function",
+   "function",
+   "f(x)",
+   "domain",
+   "range"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "54.If the function f(x) satisfies lim x→1x²-1 =π,then lim f（x)= x→1 (1) 2 (2)3(+1）（x+1）(x+1）=y110 ail=",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q054-stem0.png",
+    "w": 1809,
+    "h": 239
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "function",
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "57.Iff（x)=f（π+e-x)and f(x) dx= then xf(x) dx is equal to e+π π+e π-e (1) (2) 2 2 (3) π-e (4) 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q057-stem0.png",
+    "w": 1763,
+    "h": 438
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "58.If linear function f(x) and g(x) satisfy [(3x -1) cos x + (1 - 2x) sin x] dx = f(x) cos x + g(x) sin x + C, then f（x)=3x-5 (2)g（x)=3+x (1) (3) f（x)=3（x-1) (4)g（x)=3（x-1)",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q058-stem0.png",
+    "w": 1759,
+    "h": 448
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2014,
+  "source": "kcet-2014-mathematics-question-paper.pdf",
+  "stemText": "59.The value of the integral T/4 log(sec 0 - tan 0)d0 is -T/4 元12 (1) (2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2014-kea/q059-stem0.png",
+    "w": 1759,
+    "h": 466
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "tan",
+   "sec"
+  ],
+  "chapterConfidence": "low"
+ }
+]

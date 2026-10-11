@@ -1,0 +1,1709 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "1. body. 3 different shapes are given. Identify the combination'of air resistances which truly represents the physical situation. (The cross sectional areas are the same) ↑R 个月 MR . (3) Cigar shaped (1) Disc (2) ball 2)2<3<1 1<2<3 1) 4) 3<1<2 3) 3<2<1 The adjacent figure is the part of a horizontally stretched net.",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q001-stem0.png",
+    "w": 1958,
+    "h": 591
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "disc"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "6. If M is the mass of the earth and R its radius, theratio of the gravitational acceleration and the gravitational constant is ... R2 W 1) 2) W R? M 3) MR2 4) R",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q006-stem0.png",
+    "w": 1926,
+    "h": 479
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Gravitation",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "gravitational"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "7. . * 'A student unable to answer a question on Newton's.laws of motion attempts to pull himself up by tugging on his hair. He will not succeed .. 1) as the force exerted is small 2) the frictional force while gripping, is small 3) Newton's law of inertia is not applicable to living beings 4） as the force applied is internal to the system From the adjacent figure, the correct observation is",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q007-stem0.png",
+    "w": 1947,
+    "h": 462
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "inertia"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "8. 1) The pressure on the bottom of tank (a) is greater than at the bottom of (b) 2) : The pressure on the bottom of tank (a) is water water smaller than at the bottom of (b) . The pressure depend on the shape of the 3) (b) : container. 4) . The pressure on the bottom of (a) and (b) is the same Which one of the following is not a unit?of Young's modulus ?",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q008-stem0.png",
+    "w": 1955,
+    "h": 562
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "young's modulus"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "9. 1) - Nm-1 2) . Nm-2 3) dyne cm-2 4) -Mega Pascal",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q009-stem0.png",
+    "w": 1846,
+    "h": 278
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "10. A piece of blue. glass heated to a high temperature and a piece of red glass at room temperature, are taken inside a dimly lit room. Then ... 1) the blue piece will look blue and red will look as usual 2) ·red look brighter red and blue look ordinary blue. 3) blue shines like brighter red compared to the red piece",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q010-stem0.png",
+    "w": 1965,
+    "h": 361
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "11. The wavelength of the radiation emitted by a body depends upon (2).the area of the surface the nature of the surface 1) the temperature of the surface 4) all of the above factors 3) An ideal monoatomic gas is taken around the cycle ABCDA",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q011-stem0.png",
+    "w": 1961,
+    "h": 287
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature",
+   "radiation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "12. as shown in the P-V diagram. The work done during the cycle is given by .... 1 2)PV P,2V 2 3)2 PV 4) 4 PV",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q012-stem0.png",
+    "w": 1946,
+    "h": 472
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "work done"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "13. ^ Which mirror is to be used to obtain a parallel beam of light from a small lamp ? 1) Plane mirror 2) Convex mirror 4). Any one of the above 3) Concave mirror",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q013-stem0.png",
+    "w": 1833,
+    "h": 264
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "mirror",
+   "convex",
+   "concave"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "17. A particle on the trough of a wave at any instant will come to the mean position after a time (T = time period) ... T T 1) 2) 2 4 3) T 4).2T",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q017-stem0.png",
+    "w": 1931,
+    "h": 414
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "mean position"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "18. The disc of a siren containing 60 holes rotates. at a constant speed of 360 rpm. The emitted sound is in unison with a tuning fork of frequency ... 10 Hz 1) 2）360 Hz 3) 216 kHz 4)‘6 Hz",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q018-stem0.png",
+    "w": 1944,
+    "h": 311
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "frequency",
+   "sound"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "19. The ratio of velocity of sound in hydrogen and oxygen at STP is 1)16:1 2) 8:1* 3) 4:1 4) 2:1",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q019-stem0.png",
+    "w": 1843,
+    "h": 273
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "20. In an experiment with sonometer a tuning fork of frequency 256 Hz resonates with a length of 25 cm and another tuning fork resonates with a length of 16 cm. Tension of the string remaining constant the frequency of the second tuning fork is .. 1) 163.84 Hz 2): 400 Hz 3) 320 Hz 4) 204.8 Hz (Space for Rough Work) SR - 33",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q020-stem0.png",
+    "w": 1964,
+    "h": 1605
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "frequency"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "21. The apparent frequency of a note is 200 Hz. When a listener is moving with a velocity of 40 ms-1 towards a stationary source. When he moves away from the same source'with the same speed, the apparent frequency of the same note is 160 Hz. The velocity of sound in air in m's is ..... 2）330 1)340 4)320 3) 360",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q021-stem0.png",
+    "w": 1981,
+    "h": 437
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity",
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "22. The wave theory of light, in its original form, was first postulated by 2) Christian Huygens Isaac Newton 1) 4) Augustin Jean Fresnel Thomas Young",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q022-stem0.png",
+    "w": 1848,
+    "h": 278
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "huygens"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "23. If a liquid does not wet glass, its angle of contact is 2). acute 1) zero 4) right angle 3) obtuse",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q023-stem0.png",
+    "w": 1847,
+    "h": 258
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "angle of contact",
+   "liquid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "25. Electron of mass m and charge q is travelling with a'speed v along a circular path of radius r at right angles to.a uniform magnetic field.of intensity B. If the speed of the electron is doubled and the magnetic field is halved the resulting path would have a radius 2)4 r 1)2r r r",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q025-stem0.png",
+    "w": 1956,
+    "h": 345
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "26. If the potential difference across the internal resistance r, is equal to the emf E of the battery, then E r1. E r2. 1) R=r + r2 R= 2) r2 R=2 3) ·R=r - r2 4) R r",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q026-stem0.png",
+    "w": 1914,
+    "h": 545
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "internal resistance",
+   "resistance",
+   "battery"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "27. : By using only two resistance coils-singly, in series, or in Parallel-one should be able to obtain resistances of 3, 4, 12 and 16 ohms. The separate resistances of the coil are .. 1) 3 and 4 .2) 4 and 12 12 and 16 4) 16 and 3",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q027-stem0.png",
+    "w": 1930,
+    "h": 305
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "28. The electrons in the beam of a television tube move horizontally from South to North: The verticai component of the earth's magnetic field points down. The electron is deflected . towards 1) West 2)no deflection 3) East 4) North to South",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q028-stem0.png",
+    "w": 1954,
+    "h": 372
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "earth's magnetic field"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "29. A tangent Galvanometer has a reduction factor of 1A and it is placed with the plane of its coil perpendicular to the magnetic meridian.The deflection produced when a current of 1A is passed through it is ... 1) 600 2) 450 3).300 4).None of these",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q029-stem0.png",
+    "w": 1957,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current",
+   "galvanometer"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "31. are arranged as shown in figure. The force experienced by a 25 cm length of wire C is .. 2.5 x 10-3 N 3cm 2cm 1). 10-3 N : 2) 30A 10A .20A . ）1.5×10-3 N 4 3) zero",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q031-stem0.png",
+    "w": 1977,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "32. A 5.0 amp current is setup in an external circuit by a 6.0 volt storage battery for 6.0 minutes. The chemical.energy of the battery is reduced by .. 1)1.08 × 10* J 2)1.08 x 104 volt 4). 1.8 x 104 volt 3) 1.8 x 104 J The current in a simple series circuit is 5.0 amp. When an additional resistance of 2.0 ohms",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q032-stem0.png",
+    "w": 1972,
+    "h": 423
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "current",
+   "resistance",
+   "battery"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "33. is inserted, the current drops to 4.0 amp. The original resistance of the circuit in ohms was 2) 8 1）1.25~ 4)20 3).10",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q033-stem0.png",
+    "w": 1964,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "current",
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "34. In the circuit given E = 6.0V, R, = 100 ohms R1 R, = R = 50 ohms R4 = 75 ohms The equivalent resistance of the circuit, in ohms, is 2)26.31 11.875 . 1) 4) none of these 3) 118.75",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q034-stem0.png",
+    "w": 1953,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "36. An electric field of 1500 v/m and a magnetic field of 0.40 weber/metre2 act on a moving electron. The minimum uniform speed along a straight line the electron could have is 1) 1.6 x 1015 m /s 2) 6 ×10-16 m/s 3) 3.75 × 10° m/s 3.75-x 102 m / s 4)",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q036-stem0.png",
+    "w": 1937,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "37. In an ammeter 10% of main current is passing through the Galvanometer. If the resistance. of the Galvanometer is G, then the.shunt resistance, in ohms, is G 1) 9G 2) 9 90 G G 3) 4）",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q037-stem0.png",
+    "w": 1944,
+    "h": 401
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "current",
+   "resistance",
+   "ammeter",
+   "galvanometer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "42. Four metal conductors having different shapes :'b) cylindrical a) a sphere d) lightning conductor are mounted on insulating stands and charged. The one which is best. suited to retain the C pear charges for a longer time is 2)b 1) a 4) d 3) C",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q042-stem0.png",
+    "w": 1959,
+    "h": 501
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "43. The potential to which a conductor is raised, depends on. geometry and size of the conductor 1) the amount of charge 2) 4) only on (1) 3)both (1) and (2)",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q043-stem0.png",
+    "w": 1836,
+    "h": 250
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "44. The work done in carrying a charge q once round a circle of radius r with a charge Q at the centre is qQ 2) 4πE? 1) 4π∈or qQ 4) None of these 3) 4π∈or",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q044-stem0.png",
+    "w": 1949,
+    "h": 553
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "46. Identify the wrong statement in the following. Coulomb's law correctly describes the electric force that ... : 1) binds the electrons of an atom to its nucleus. 2) binds the protons and neutrons in. the nucleus of an atom. 3) binds atoms together to form molecules. 4) binds atoms and molecules to forin solids.",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q046-stem0.png",
+    "w": 1922,
+    "h": 467
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "coulomb's law"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "47.. A single slit of width a is illuminated by violet light of wavelength 4o0 nm and the width of the diffraction pattern is measured as y. When half of the slit width is covered and illuminated by yellow light of wavelength 600 nm, the width of the diffraction pattern is .... 1)the pattern vanishes and the width is zero y 2)",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q047-stem0.png",
+    "w": 1932,
+    "h": 327
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 14,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "diffraction",
+   "single slit",
+   "slit"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "51. Two coherent light beams of intensity I and 4 I are superposed. The maximum and minimum possible intensities in the resulting beam are ... . 2). 9 I and 3 I 1)9Iand I 4) 5Iand3I ：3)·5IandI",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q051-stem0.png",
+    "w": 1963,
+    "h": 346
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "52. From the figure describing photoelectric effect we may infer correctly that ... Stopping Potentiat 1) Na and Al both have the same threshold frequency. 2) Maximum kinetic energy for both the metals depend linearly on.the frequency. The stopping potentials are different for Na 3)",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q052-stem0.png",
+    "w": 1954,
+    "h": 450
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 8,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "photoelectric effect",
+   "threshold frequency"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "57. Mean life of a radioactive sample is 100 seconds. Then its half life (in minutes) is :1) 0.693 2)1 3) 10-4 4) 1.155",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q057-stem0.png",
+    "w": 1845,
+    "h": 311
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "half life",
+   "mean life",
+   "radioactive"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2005,
+  "source": "kcet-2005-physics-question-paper.pdf",
+  "stemText": "58. Consider two nuclei of the same radioactive nuclide. One of the nuclei was created in a supernova explosion 5 billion years ago. The other was created in a nuclear reactor 5 minutes ago. The probability of decay during the next time is ... 1) different for each nuclei 2) nuclei created in explosion decays first 3) nuclei created in the reactor decays first. independent of the time of creation. 4）",
+  "stemImages": [
+   {
+    "src": "physics-2005-kea/q058-stem0.png",
+    "w": 1946,
+    "h": 574
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "nuclear",
+   "radioactive"
+  ],
+  "chapterConfidence": "low"
+ }
+]

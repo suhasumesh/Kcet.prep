@@ -1,0 +1,1809 @@
+[
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "2. 1.25 m. The time taken by the ball to reach the floor of the lift is ..... (nearly) (g = 10 ms-2) (1) 0.3 second (2) 0.2 second (3) 0.16 second (4) 0.4 second",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q002-stem0.png",
+    "w": 1874,
+    "h": 329
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "3. A gun fires a small bullet with kinetic energy K. Then kinetic energy of the gun while recoiling is (1) K (2) more than K (3) less than K (4): √k",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q003-stem0.png",
+    "w": 1880,
+    "h": 271
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "three times as the work done in accelerating it from rest to v. (1) (2) same as the work done in accelerating it from rest to v. (3) four times as the work done in accelerating it from rest to v. (4) less than the work done in accelerating it from rest to v. Earth is moving around the Sun in elliptical orbit as shown. The ratio of OB and OA is R.",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q005-stem0.png",
+    "w": 1907,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "9. A solid cylinder of radius R made of a material of thermal conductivity K, is surrounded by a cylindrical shell of inner radius R and outer radius 2R made of a material of thermal conductivity K2. The two ends of the combined system are maintained at two different temperatures. Then there is no loss of heat across the cylindrical surface and the system is in steady state. The effective thermal conductivity of the system is K,K2 (1) K, + K (2) K, + K2 3K, + K2 K, + 3K2 (3) （4） 4 4",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q009-stem0.png",
+    "w": 1879,
+    "h": 641
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 13,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "thermal conductivity",
+   "heat"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "10. Two stars A and B radiate maximum energy at the wavelengths of 360 nm and 480 nm respectively. Then the ratio of the surface temperatures. of A and B is (1) 3:4 (2) 81 : 256 (3) 4:3 256 : 81 (4)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q010-stem0.png",
+    "w": 1889,
+    "h": 266
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "11. Two solids P and Q float in water. It is. observed that P floats with half of its volume 2 rd immersed and Q floats. with of its volume is immersed. The ratio of densities of P and Qis (1)4/3 (2) 3/4. (3) 2/3 (4) 3/2",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q011-stem0.png",
+    "w": 1892,
+    "h": 398
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "12. The equation of a transverse wave is given by y = 0.05 sin π(2t - 0.02x), where x, y are in metre and t is in second. The minimum distance of separation between two particles which are in phase and the wave velocity are respectively 50 m, 50 ms-1 100 m, 100 ms-1 (1) (2) (3) 50 m, 100 ms-1 100 m,50 ms-1 (4)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q012-stem0.png",
+    "w": 1886,
+    "h": 343
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "transverse wave"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "The frequency of the second overtone of the open pipe is equal to the frequency of the 13. first overtone of the closed pipe. The ratio of the lengths of the open pipe and the closed pipe is (1) 2:1 (2) 1:2 (3) 1:3 (4) 3 : 1",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q013-stem0.png",
+    "w": 1772,
+    "h": 312
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "frequency",
+   "overtone"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "14. A person with vibrating tuning fork of frequency 338 Hz is moving towards a vertical wall with a speed of 2 ms-1. Velocity of sound in air is 340 ms-1. The number of beats heard by that person per second is (1)2 (2) . 4 (3) 6 (4) 8",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q014-stem0.png",
+    "w": 1760,
+    "h": 364
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 6,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "beats",
+   "frequency",
+   "sound"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "15. Pick out the WRONG statement from the following : Lateral shift increases as the angle of incidence increases. (1) (2) Lateral shift increases as the value of refractive index increases. (3) Normal shift decreases as the value of refractive index increases. (4) Both normal shift and lateral shift are directly proportional to the thickness of the medium.",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q015-stem0.png",
+    "w": 1754,
+    "h": 434
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "18. A ray travels from medium M, to the medium M, with an angle of incidence 0. The ray suffers total internal reflection. Then the value of the angle of incidence O is (1)>sin-1( < sin-1 (2) (4) ≤ sin- (3)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q018-stem0.png",
+    "w": 1858,
+    "h": 503
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "total internal reflection",
+   "reflection"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "19. Which of the following phenomena support the wave theory of light ? (a) scattering (b) interference (c) diffraction (d) velocity of light in a denser medium is less than the velocity of light in the rarer medium (1) a, b, c (2). a, b, d (3) b, c, d (4) a, c, d",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q019-stem0.png",
+    "w": 1863,
+    "h": 537
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "interference",
+   "diffraction"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "22. Radi of curvature of a converging lens are in the ratio 1 : 2. Its focal length is 6 cm and refractive index is 1.5. Then its radii of curvature are respectively. 9 cm and 18 cm (2) 6 cm and 12 cm (1) (3) 3 cm and 6 cm (4) 4.5 cm and 9 cm",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q022-stem0.png",
+    "w": 1902,
+    "h": 277
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "refractive index",
+   "focal length",
+   "lens"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "23. A small oil drop of mass 10-6 kg is hanging in at rest between two plates separated by 1 mm having a potential difference of 500 V. The charge on the drop is (g = 10 ms-2) (1) 2×10-9 c (2) 2x10-11 c 2 x 10-6 c (4) 2 x 10-8 c (3)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q023-stem0.png",
+    "w": 1895,
+    "h": 307
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "drop"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "27. When an additional charge of 2C is given to a capacitor, energy stored in it is increased by 21%. The original charge of the capacitor is (1) 30 C 40 C (2) (3) 10 C 20 C (4)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q027-stem0.png",
+    "w": 1860,
+    "h": 372
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "28. When a potential difference of 103 v is applied between A and B, a charge of 0.75 mC is stored in the system of capacitors as shown. The value of C is (in μF) 2μF 2 μF 103v 2 μF 2μF (1) %2 (2)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q028-stem0.png",
+    "w": 1740,
+    "h": 631
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "32. Masses of three wires of copper are in the ratio of 1 : 3 : 5 and their lengths are in the ratio of 5 : 3 : 1. The ratio of their electrical resistances is (1) 1:3:5 (2) 5:3:1 (3) 1 :15 :125 (4) 125 : 15 : 1 For a transformer, the turns ratio is 3 and its efficiency is 0.75. The current flowing in the",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q032-stem0.png",
+    "w": 1923,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "transformer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "33. primary coil is 2 A and the voltage applied to it is 100 V. Then the voltage and the current flowing in the secondary coil are respectively. (1) 150 V, 1.5 A (2) 300 V,0.5 A 150 V, 0.5 A (3) 300 V, 1.5 A (4)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q033-stem0.png",
+    "w": 1925,
+    "h": 355
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "coil"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "34. A proton and helium nucleus are shot into a magnetic field at right angles to the field with same kinetic energy. Then the ratio of their radi is (1) 1:1 (2) 1:2 (3) 2:1 (4) 1:4",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q034-stem0.png",
+    "w": 1880,
+    "h": 332
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "35. Two identical circular coils A and B are kept on a horizontal tube side by side without touching each other. If the current in the coil A increases with time, in response, the coil B (1) is attracted by A (2) remains stationary (3) is repelled (4) rotates In the diagram, I1, I2 are the strength of the currents in the loop and straight conductors",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q035-stem0.png",
+    "w": 1892,
+    "h": 336
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "coil"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "38. and magnetic fields in mutually perpendicular directions. The magnetic field is 1.5 T. The magnitude of electric field will be 1.5 × 10² NC-1 (2) 2 x 103 Nc-1 (1) 3 x 103 NC-1 (4) 1.33 × 103 NC-1 (3)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q038-stem0.png",
+    "w": 1883,
+    "h": 471
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "39. In R-L-C series circuit, the potential differences across each element is 20 V. Now the value of the resistance alone is doubled, then P.D. across R, L and C respectively (1) 20 V, 10 V, 10 V (2) 20 V,20 V,20 V (3) 20 V, 40 V; 40 V （4） 10 V, 20 V, 20 v",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q039-stem0.png",
+    "w": 1878,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "41. In the circuit diagram, heat produces in R, 2R and 1.5R are in the ratio of R > 1.5R 2R (1) 4:2:3 (2) 8 :4 :27 2:4:3 (3) (4) 27:8:4",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q041-stem0.png",
+    "w": 1758,
+    "h": 575
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "heat"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "42. A .series combination of resistor (R), capacitor (C) is connected to an A.C. source of angular frequency ‘w'. Keeping the voltage same, if the frequency is changed to w/3, the current becomes half of the original current. Then the'ratio of the capacitive reactance and resistance at the former frequency is (2) √3 (1) √0.6 (4) V6 (3)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q042-stem0.png",
+    "w": 1879,
+    "h": 458
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "reactance",
+   "capacitive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "Light emitted during the deexcitation of electron from n = 3 to n = 2, when incident on a 44. metal, photoelectrons are just emitted from that metal. In which of the following deexcitations photoelectric effect is not possible ? (1) From n = 2 to n = 1 (2) From n = 3 to n = 1 (3) From n = 5 to n = 2 (4) From n = 4 to n = 3",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q044-stem0.png",
+    "w": 1880,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "photoelectric effect"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "45. The additional energy that should be given to an electron to reduce its de-Broglie wavelength from 1 nm to 0.5 nm is (1) 2 times the initial kinetic energy (2) 3 times the initial kinetic energy 0.5 times the initial kinetic energy (3) 4 times the initial kinetic energy (4)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q045-stem0.png",
+    "w": 1885,
+    "h": 439
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 15,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "46. The ionisation energy of an electron in the ground state of helium atom is 24.6 eV. The energy required to remove both the electron is (1) 51.8 eV 79 eV (2) (3) 38.2 eV (4) 49.2 eV",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q046-stem0.png",
+    "w": 1882,
+    "h": 300
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "47. -3E -5E/3 E The figure shows the energy level of certain atom. When the electron deexcites from 3E to E, an electromagnetic wave of wavelength X is emitted. What is the wavelength of the 5E electromagnetic wave emitted when the electron deexcites from toE? 3 (1) 3入- 2 (2) 32 5入 (4) (3) 5 Maximum velocity of the photoelectron emitted by a metal is 1.8 x 106 ms-1. Take the",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q047-stem0.png",
+    "w": 1894,
+    "h": 694
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "wavelength"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "51. A nucleus zXA emits an Q-particle with velocity v. The recoil speed of the daughter nucleus is A-4 4v (1) (2) 4v A-4 (3) (4) 4",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q051-stem0.png",
+    "w": 1872,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity",
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "52. A radioactive substance emits 100 beta particles in the first 2 seconds and 50 beta particles in the next 2 seconds. The mean life of the sample is (1) 4 seconds (2) 2 seconds 2 0.693 seconds (3) (4) 2 x 0.693 seconds",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q052-stem0.png",
+    "w": 1875,
+    "h": 374
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "mean life",
+   "radioactive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "53. In which of the following statements, the obtained impure semiconductor is of p-type ? (1) Germanium is doped with bismuth (2) Silicon is doped with antimony (3) Germanium is doped with gallium (4) S Silicon is doped with phosphorus",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q053-stem0.png",
+    "w": 1753,
+    "h": 256
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "semiconductor",
+   "p-type",
+   "silicon",
+   "germanium"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "54. The width of the depletion region in a P-N junction diode is (1) increased by reverse bias (2) increased by forward bias (3) decreased by reverse bias (4) independent of the bias voltage",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q054-stem0.png",
+    "w": 1756,
+    "h": 257
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 21,
+  "chapterMargin": 21,
+  "chapterHits": [
+   "p-n junction",
+   "forward bias",
+   "reverse bias",
+   "depletion region",
+   "diode"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "55. When the transistor is used as an amplifier (1) Emitter-base junction must be reverse biased, Collector-base junction must be forward biased. (2) Emitter-base junction must be forward biased, Collector-base junction must be forward biased. (3) Emitter-base junction must be reverse biased, Collector-base junction must be reverse biased. （4） Emitter-base junction must be forward biased, Collector-base junction must be reverse biased..",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q055-stem0.png",
+    "w": 1753,
+    "h": 589
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "transistor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "56. Which of the following is not made by quarks ? (1) Neutron (2) Positron (3) Proton (4) π-meson",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q056-stem0.png",
+    "w": 1767,
+    "h": 281
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "57. Which one of the following is NOT correct ? (1) In forward biased condition diode conducts. (2) If the packing fraction is negative, the element is stable. (3) Binding energy is the energy equivalent to mass defect. (4) Radioactive element can undergo spontaneous fission.",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q057-stem0.png",
+    "w": 1765,
+    "h": 426
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "binding energy",
+   "mass defect",
+   "radioactive"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "58. The output of an OR gate is connected to both the inputs of a NAND gate. The combination will serve as 'AND gate (1) (2) NOT gate NOR gate (3) NAND gate (4)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q058-stem0.png",
+    "w": 1885,
+    "h": 325
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "nand",
+   "nor"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "59. A and B are the two radioactive elements. The mixture of these elements show a total activity of 1200 disintegrations/minute. The half life of A is 1 day and that of B is 2 days. What will be the total activity after 4 days ? Given : The initial number of atoms in A and B are equal. (1) 200 dis/min (2) 250 dis/min (3) 500 dis/min (4) 150 dis/min The binding energy/nucleon of deuteron (,H?) and the helium atom (He4) are 1.1 MeV",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q059-stem0.png",
+    "w": 1889,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 10,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "binding energy",
+   "half life",
+   "radioactive",
+   "nucleon"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 60,
+  "subject": "Physics",
+  "year": 2013,
+  "source": "kcet-2013-physics-question-paper.pdf",
+  "stemText": "60. and 7 MeV respectively. If the two deuteron atoms fuse to form a single helium atom, then the energy released is (1) 26.9 MeV (2) 25.8 MeV . 23.6 MeV 12.9 MeV (3) (4)",
+  "stemImages": [
+   {
+    "src": "physics-2013-kea/q060-stem0.png",
+    "w": 1881,
+    "h": 445
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ }
+]

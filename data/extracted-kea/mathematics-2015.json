@@ -1,0 +1,1167 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "[>x>[ 1. tan 2 and g(x) =V(3 + 4x - 4x²). Find domain of (f + g) [1) (1) [] (3) (4) (-1, 1)",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q001-stem0.png",
+    "w": 1905,
+    "h": 680
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "domain"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "2. Write the set builder form A = {-1, 1} (1) A = {x: x is a real number) (2) A = {x:x is an integer} (3) A = {x : x is a root of the equation x² = 1} (4) A = x : x is a root of the equation x² + 1 = 0} If the operation is defined by a ① b = a² + b² for all real numbers ‘a' and b', then",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q002-stem0.png",
+    "w": 1895,
+    "h": 490
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "5. (2)2a² -b2 (1) a²-2b² a²-b² (4) a²+b2 (3) If the 2\"d and 5\"h terms of G.P. are 24 and 3 respectively, then the sum of 1\" six terms is",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q005-stem0.png",
+    "w": 1882,
+    "h": 339
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "6. 189 189 (1) (2) 2 5 179 2 (3) (4) 2 189",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q006-stem0.png",
+    "w": 1762,
+    "h": 461
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "9. (0,14) 7(19, 14) (5, 0) (1) 14x+5y≥70 y≤14and.x-y≤5. (2) 14x+5y≥70 y≤14 andx-y≥5 (3) 14x+5y≤70 y≤14and.x-y≥5 (4) 14x+5y≥70 y≥14andx-y≥5",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q009-stem0.png",
+    "w": 1745,
+    "h": 1041
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "12. If the eccentricity of the hyperbola 5 and 2x + 3y - 6 = 0 is a focal chord of the hyperbola.then the length of transverse axis is equal to 12 24 (1) (2) 5 5 6 5 (3) (4) 15 24",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q012-stem0.png",
+    "w": 1888,
+    "h": 684
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 14,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "eccentricity",
+   "hyperbola",
+   "focal",
+   "transverse axis"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "16. Equation of line passing through the point (2, 3, 1) and parallel to the line of intersection of 9=z++u0=+z--xuy x-2 y-3 z-1 x-2 y-3 z-1 (1) (2) 5 -4 3 -5 -4 3 x-2 y-3 z-1 x-2 y-3 z-1 (3) (4) 5 4 3 4 3 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q016-stem0.png",
+    "w": 1900,
+    "h": 467
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "intersection"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "17. Foot of perpendicular drawn from the origin to the plane 2x - 3y + 4z = 29 is (1) (5,-1,4) (2) (2, -3, 4) (3) (7,-1,3) (4)(5,-2,3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q017-stem0.png",
+    "w": 1781,
+    "h": 308
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "plane"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "21. Slope of Normal to the curve 1 2 at (-1, 0) is 1 (2).- (1) 4 4 (4) -4 (3) 4 x²(x4 + 1)3/4 dx is equal to.",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q021-stem0.png",
+    "w": 1824,
+    "h": 621
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "slope"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "22. =(1 +x4)1/4 (1) +C x =(1 + x4)1/4 (1 + x4)3/4 (3) +C +C 2x x x² + 1, find f(f(2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q022-stem0.png",
+    "w": 1751,
+    "h": 497
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "25. A man takes a step forward with probability 0.4 and one step backward with probability 0.6, then the probability that at the end of eleven steps he is one step away from the starting point is 1ICs ×(0.48)5 (1) 1IC, x(0.24)5 (2) 11C; x (0.12)5 (3) (4) 1'C。 × (0.72)6 π/4 sin x+cos.x",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q025-stem0.png",
+    "w": 1899,
+    "h": 527
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Probability",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "probability"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "26 log dr cOS.X 匹 π12 log 2 (1) (2) log 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q026-stem0.png",
+    "w": 1822,
+    "h": 204
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "30.Theprobability distribution of.x is 0 2 3 P(x) 0.2 k k 2k findthevalueof k (1) 0.2 (2)0.3 (3) 0.4 (4) 0.1",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q030-stem0.png",
+    "w": 1877,
+    "h": 577
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "2 3 (1) (2) 7 47 (4). 7 (3) f(3.8)-f(4) 35.If f(x)=2x²,find",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q034-stem0.png",
+    "w": 1785,
+    "h": 512
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "3.8-4 (1) 1.56 (2) 156 (3) 15.6 (4) 0.156 dy C",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q035-stem0.png",
+    "w": 1785,
+    "h": 388
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "38. 1+cosx dr x+sinx+C (1) (2) x-sin.x + C (3) sin.x+C (4) cosx+ C +sin.x",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q038-stem0.png",
+    "w": 1822,
+    "h": 396
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "43.The value of tan(1°) + tan(89°) is 2 1 (1) (2) sin(2%) sin(1°) 1 2 (3) (4) sin(2°) sin(1°) (x+1)² Bx+ C A then cosec- + sec-I c",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q043-stem0.png",
+    "w": 1860,
+    "h": 455
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "sin",
+   "tan",
+   "sec",
+   "cosec"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "44. If +x ²+1 5π (2) 0 (1) 6 元 (3) (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q044-stem0.png",
+    "w": 1910,
+    "h": 285
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "48.The function f(x) = [x], where [x] denotes greatest integer function is continuous at (1) 4 (2) -2 (3) (4) 1.5 1 dy 49.Ify=log",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q048-stem0.png",
+    "w": 1764,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "function",
+   "f(x)",
+   "greatest integer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "then dx is equal to -4x 4x3 (2) (1) 1-.4 1-x4 -4x3 (3) (4) 4-,4 1-,4 50.The two curves x3 - 3xy² + 2 = 0 and 3²y- y3 = 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q049-stem0.png",
+    "w": 1759,
+    "h": 495
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "(1) touch each other (2)-cut at right angle 元 cut at angle 元 (3)·cut at angle (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q050-stem0.png",
+    "w": 1759,
+    "h": 225
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "53. The order of differential equation of all circles of given radius ‘a’ is (2)2 (1) 4 (4) ±3 (3) 1 54.The solution of differential equation",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q053-stem0.png",
+    "w": 1788,
+    "h": 379
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Differential Equations",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "differential equation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "P 1S dx x²+C (1) y 4x2 4 xA+C xA+C (3) (4) 4x2 y",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q054-stem0.png",
+    "w": 1776,
+    "h": 689
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "57.IfP 1 x 1 1 (1) 3P+1 (2)1-3P (3) -3P (4) 3P",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q057-stem0.png",
+    "w": 1782,
+    "h": 429
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2015,
+  "source": "kcet-2015-mathematics-question-paper.pdf",
+  "stemText": "58. A line passes through (2, 2) and is perpendicular in the line 3x + y = 3 its y-intercepts is 1 2 (1) 13 (2) 13",
+  "stemImages": [
+   {
+    "src": "mathematics-2015-kea/q058-stem0.png",
+    "w": 1785,
+    "h": 320
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

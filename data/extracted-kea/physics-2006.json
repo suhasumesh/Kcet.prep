@@ -1,0 +1,1470 @@
+[
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "18. will be ... 2)19.2×107 C kg-1 1) 9.6x10' C kg-1 3) 4.8x10' C kg-1 4) 2.4x107 C kg-1",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q018-stem0.png",
+    "w": 1893,
+    "h": 372
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "19. When light of wavelength 300 nm falls on a photoelectric emitter, photoelectrons are liberated. For another emitter, light of wavelength 600 nm is sufficient for liberating photoelectrons. The ratio of the work function of the two emitters is 1)1:2 2). 2: 1 3) 4:1 : 4) 1:4",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q019-stem0.png",
+    "w": 1895,
+    "h": 368
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "work function"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "White light is passed through a dilute solution of potassium permanganate. The spectrum 20. produced by the emergent light is 1) band emission spectrum . : 2) line emission:spectrum 3) band absorption spectrum 4) line absorption spectrum . (Space for Rough Work) SR -33",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q020-stem0.png",
+    "w": 1895,
+    "h": 1037
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "21. If A and %2 are the wavelengths'of the first members of the Lyman and Paschen series respectively, then % : A2 is 2) 1:30 1) 1:3 3) 7:50 4).*7 : 108 of its original value in 3 days. Thien, in",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q021-stem0.png",
+    "w": 1906,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "lyman",
+   "paschen"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "26. A transparent cube of 0.21 m edge contains a small air bubble. Its apparent distance when. viewed through one face of the cube is: 0.10 m and when viewed from the opposite face is 0.04 m. The actual distance of the bubble from the second face of the cube is ·1) 0.06 m 2)0.17 m 3) 0.05 m 4) 0.04 m",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q026-stem0.png",
+    "w": 1887,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "bubble"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "White light is incident on one of the refracting surfaces of a prism of angle 5°. If the refractive 27. indices for red and blue colours are 1.641 and 1.659 respectively, the angular separation between these two colours when they emerge out of the prism is 1)0.90 :- 2)0.090 3) · 1.80 4) : 1.20",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q027-stem0.png",
+    "w": 1891,
+    "h": 385
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "prism"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "28. For a given lens, the magnification was found to be twice as large as when the object was 0.15 m distant from.it as when the distance was 0.2 m. The focal length of the lens is 1).0.15 m ^ 2） 0.20 m 3)0.10 m 4) 0.05 m",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q028-stem0.png",
+    "w": 1778,
+    "h": 296
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "focal length",
+   "lens",
+   "magnification"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "29. To a fish under water, viewing obliquely a fisherman standing on the bank of a lake, the man looks 1)taller than what he actually is . 2) shorter than what he actually is the same height as he actually is. . 4) depends on the obliquity 3)",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q029-stem0.png",
+    "w": 1892,
+    "h": 326
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "31. If white light is used in the Newton's rings experiment, the colour observed in the reflected light is complementary to that observed in the transmitted light through the same point. This is due to 1) · 90° change of phase in one of the' reflected waves 180° change of phase in one of the reflected waves 2) 145° change of phase in one of the reflected waves 3) change of phase in one of the reflected waves 4) 450 Specific rotation of sugar solution is 0.5 deg m2 kg-1. 200 kgm-3 of impure sugar solution is",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q031-stem0.png",
+    "w": 1938,
+    "h": 579
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "rotation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "32. taken in a sample polarimeter tube of length 20 cm and optical rotation.is found to be 199. The percentage of purity of sugar is 1) 20% 2) . 80 .% .4). 89 % 3) 95 % A simple pendulum-has a'lenigth I and the mass of the bob is m. The bob is given a charge q",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q032-stem0.png",
+    "w": 1818,
+    "h": 374
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "simple pendulum",
+   "pendulum"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "33. coulomb. The pendulum is suspended between the vertical plates of a charged parallel plate. capacitor. If E is the electric field strength between the plates, the time period of the pendulum * is given by 2π 1) 2π √%g qE 2) g m .1 2π 2π E qE 4) 3) g m",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q033-stem0.png",
+    "w": 1941,
+    "h": 767
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "pendulum"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "34. A gang capacitor is formed by interlocking' a number of .plates as shown in figure. The distance between the consecutive plates is 0.885 cm and the overlapping area of the plates is.5 cm?. The capacity of the unit is 1)1.06-PF 2). 4 PF 3)6.36 PF 4)12.72PF",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q034-stem0.png",
+    "w": 1921,
+    "h": 587
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Units and Measurements",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "unit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "35. . A satellite in:a circular orbit .of radius R has a period of 4 hours. Another satellite with.: orbital radius 3 R around the.same planet will have a period (in hours) 1)16 2).4 4): 4√8 .~3)4√27 (Space for Rough Work) Turn Over SR -33",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q035-stem0.png",
+    "w": 1916,
+    "h": 546
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Gravitation",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "satellite",
+   "planet"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "36. The freezer in a refrigerator is located at the top section so. that 1) the entire chamber of the refrigerator is cooled quickly due to convection 2) the motor is not heated 3)'the heat gained from the environment is high 4). : the heat gained from the environment is low.",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q036-stem0.png",
+    "w": 1780,
+    "h": 393
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "refrigerator"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "37. The unit of Stefan's constant is 1) .Wm-2k-1 2)Wmk~4. 3)Wm-2k-4. 4) Nm-2k4 th",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q037-stem0.png",
+    "w": 1795,
+    "h": 322
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "stefan"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "41. A battery consists of a variable number (n)*of identical cells,. each having an' internal resistance r connected in series. The terminals of the battery are short-circuited. A graph of . current (I) in the circuit verses the number of cells will be as.shown in figure. 2) 1） 3)",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q041-stem0.png",
+    "w": 1939,
+    "h": 863
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "internal resistance",
+   "current",
+   "resistance",
+   "battery"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "42. A tuning fork A produces 4 beats per. second with another tuning fork B of frequency 320 Hz. On filing one of the prongs of A, 4 beats per second are again heard when sounded with the same fork B. Then the frequency of the fork A before filing is 1) 328Hz 2)316 Hz `4).320 Hz . 324 Hz",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q042-stem0.png",
+    "w": 1909,
+    "h": 388
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "beats",
+   "frequency"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "46. The loudness and pitch of a sound note depends on 1). intensity and frequency 2) frequency and number of harmonics . 3) intensity and velocity 4) frequency and velocity",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q046-stem0.png",
+    "w": 1789,
+    "h": 250
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "harmonics",
+   "frequency",
+   "sound"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "47. For ordinary terrestrial experiments, the observer in an inertial frame in' the following cases is ... 1) a child revolving in a giant wheel 2) a driver in a sports car moving with a constant high'speed of 200 kmh-1 on a 'straight road 3). the pilot of an aeroplane which is taking off . 4） a cyclist negotiating a sharp curve.",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q047-stem0.png",
+    "w": 1881,
+    "h": 544
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "48. A rectangular vessel when full of water, takes.10 minutes to be emptied through an orifice in its bottom. How much time will it take to be emptied when half filled'with water ?. 1)9 minutes 2)7'minutes 3) 5 minutes 4)3 minutes:",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q048-stem0.png",
+    "w": 1892,
+    "h": 316
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "49. If there were no gravity, which of the following will not be there for a fluid ? 1) viscosity : 2) surface,tension 3).. pressure 4)Archimedes' upward thrust",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q049-stem0.png",
+    "w": 1779,
+    "h": 259
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "viscosity",
+   "fluid",
+   "pressure"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "50. In a LCR series circuit, the pd between the terminals of the inductance is 60 V, between the terminals of the capacitor is 30 V and that across the.resistance is 40 V. Then, the supply voltage will be equal to 1). 50V、 2) ·70 V 3)130 V 4)10 V (Space for Rough Work) SR -33",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q050-stem0.png",
+    "w": 1897,
+    "h": 1460
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "capacitor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "51. When dueterium and helium are subjected to an accelerating field simultaneously then, 1) both acquire same energy 2) dueterium accelerates faster neither of them is accelerated 3) helium accelerates faster 4",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q051-stem0.png",
+    "w": 1791,
+    "h": 257
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "52. A'solenoid 1.5 m long and 0:4 cm in diameter possesses 10 turns per cm length. A'current of 5 A flows through it. The magnetic field at the axis inside the solenoid is 1)2π×10-3T 2)2π×10-5 T 3). 4π×10-2T 4) 4π×10-3.T",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q052-stem0.png",
+    "w": 1913,
+    "h": 409
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "solenoid",
+   "magnetic field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "53. A wire PQR is bent as shown in figure and is placed in a region of uniform magnetic field B. The length of PQ = QR = l. A current I ampere.flows through.the wire as shown. The magnitude of the force on PQ and QR will be 1R :1). BIl, 0 2). 2 BIl, 0 3) 0, BIl 4) 0, 0",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q053-stem0.png",
+    "w": 1906,
+    "h": 609
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "54. A choke is preferred to a resistance for limiting current in AC circuit because. : 1) choke is cheap 2) there is no wastage of power 3) choke is compact in size 4) . choke is a good absorber of heat",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q054-stem0.png",
+    "w": 1826,
+    "h": 261
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current",
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "55. A current of 6 A enters one corner P of an equilateral triangle PQR having 3 wires of resistances 2 Q each and leaves by the corner R: Then the current I, and I, are 1)2 A, 4 A （2） 4 A,2A 3) 1 A,2 A 4) 2 A,3 A R",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q055-stem0.png",
+    "w": 1909,
+    "h": 600
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "56. To a germanium crystal equal number of aluminium and indium atoms are added. Then, 1) it remains an intrinsic semiconductor 2) . it becomes a n-type semiconductor 3). it becomes a p-type semiconductor 4).. it becomes an insulator",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q056-stem0.png",
+    "w": 1783,
+    "h": 268
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "intrinsic semiconductor",
+   "semiconductor",
+   "n-type",
+   "p-type",
+   "germanium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "57. Maximum velocity of the photoelectrons emitted by a metel. surface'is 1.2 x 106 ms-1. Assuming the specific charge of the electron to be 1.8 x 1011 C kg1, the value of the stopping potential in volt will be 1).2 2) 3 3). 4 4) 6",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q057-stem0.png",
+    "w": 1901,
+    "h": 417
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "stopping potential"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "Which of the following figure represents thie variation of particle momentum and associated 58. de Broglie wavelength ? 2) 3)",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q058-stem0.png",
+    "w": 1901,
+    "h": 764
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "de broglie"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2006,
+  "source": "kcet-2006-physics-question-paper.pdf",
+  "stemText": "59. The term liquid crystal refers to a state that is intermediate between 1) crystalline solid and amorphous liquid 2) crystalline solid'and vapour 3) amorphous liquid and its vapour ' a crystal immersed in a liquid 4）",
+  "stemImages": [
+   {
+    "src": "physics-2006-kea/q059-stem0.png",
+    "w": 1783,
+    "h": 439
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "liquid"
+  ],
+  "chapterConfidence": "low"
+ }
+]

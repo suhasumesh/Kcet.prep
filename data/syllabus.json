@@ -1,0 +1,344 @@
+{
+ "Physics": [
+  {
+   "name": "Units and Measurements",
+   "puc": 1
+  },
+  {
+   "name": "Motion in a Straight Line",
+   "puc": 1
+  },
+  {
+   "name": "Motion in a Plane",
+   "puc": 1
+  },
+  {
+   "name": "Laws of Motion",
+   "puc": 1
+  },
+  {
+   "name": "Work, Energy and Power",
+   "puc": 1
+  },
+  {
+   "name": "System of Particles and Rotational Motion",
+   "puc": 1
+  },
+  {
+   "name": "Gravitation",
+   "puc": 1
+  },
+  {
+   "name": "Mechanical Properties of Solids",
+   "puc": 1
+  },
+  {
+   "name": "Mechanical Properties of Fluids",
+   "puc": 1
+  },
+  {
+   "name": "Thermal Properties of Matter",
+   "puc": 1
+  },
+  {
+   "name": "Thermodynamics",
+   "puc": 1
+  },
+  {
+   "name": "Kinetic Theory",
+   "puc": 1
+  },
+  {
+   "name": "Oscillations",
+   "puc": 1
+  },
+  {
+   "name": "Waves",
+   "puc": 1
+  },
+  {
+   "name": "Electric Charges and Fields",
+   "puc": 2
+  },
+  {
+   "name": "Electrostatic Potential and Capacitance",
+   "puc": 2
+  },
+  {
+   "name": "Current Electricity",
+   "puc": 2
+  },
+  {
+   "name": "Moving Charges and Magnetism",
+   "puc": 2
+  },
+  {
+   "name": "Magnetism and Matter",
+   "puc": 2
+  },
+  {
+   "name": "Electromagnetic Induction",
+   "puc": 2
+  },
+  {
+   "name": "Alternating Current",
+   "puc": 2
+  },
+  {
+   "name": "Electromagnetic Waves",
+   "puc": 2
+  },
+  {
+   "name": "Ray Optics and Optical Instruments",
+   "puc": 2
+  },
+  {
+   "name": "Wave Optics",
+   "puc": 2
+  },
+  {
+   "name": "Dual Nature of Radiation and Matter",
+   "puc": 2
+  },
+  {
+   "name": "Atoms",
+   "puc": 2
+  },
+  {
+   "name": "Nuclei",
+   "puc": 2
+  },
+  {
+   "name": "Semiconductor Electronics",
+   "puc": 2
+  }
+ ],
+ "Chemistry": [
+  {
+   "name": "Some Basic Concepts of Chemistry",
+   "puc": 1
+  },
+  {
+   "name": "Structure of Atom",
+   "puc": 1
+  },
+  {
+   "name": "Classification of Elements and Periodicity",
+   "puc": 1
+  },
+  {
+   "name": "Chemical Bonding and Molecular Structure",
+   "puc": 1
+  },
+  {
+   "name": "States of Matter",
+   "puc": 1
+  },
+  {
+   "name": "Thermodynamics",
+   "puc": 1
+  },
+  {
+   "name": "Equilibrium",
+   "puc": 1
+  },
+  {
+   "name": "Redox Reactions",
+   "puc": 1
+  },
+  {
+   "name": "Hydrogen",
+   "puc": 1
+  },
+  {
+   "name": "s-Block Elements",
+   "puc": 1
+  },
+  {
+   "name": "p-Block Elements (Group 13-14)",
+   "puc": 1
+  },
+  {
+   "name": "Organic Chemistry - Basic Principles",
+   "puc": 1
+  },
+  {
+   "name": "Hydrocarbons",
+   "puc": 1
+  },
+  {
+   "name": "Environmental Chemistry",
+   "puc": 1
+  },
+  {
+   "name": "Solid State",
+   "puc": 2
+  },
+  {
+   "name": "Solutions",
+   "puc": 2
+  },
+  {
+   "name": "Electrochemistry",
+   "puc": 2
+  },
+  {
+   "name": "Chemical Kinetics",
+   "puc": 2
+  },
+  {
+   "name": "Surface Chemistry",
+   "puc": 2
+  },
+  {
+   "name": "Isolation of Elements (Metallurgy)",
+   "puc": 2
+  },
+  {
+   "name": "p-Block Elements (Group 15-18)",
+   "puc": 2
+  },
+  {
+   "name": "d- and f-Block Elements",
+   "puc": 2
+  },
+  {
+   "name": "Coordination Compounds",
+   "puc": 2
+  },
+  {
+   "name": "Haloalkanes and Haloarenes",
+   "puc": 2
+  },
+  {
+   "name": "Alcohols, Phenols and Ethers",
+   "puc": 2
+  },
+  {
+   "name": "Aldehydes, Ketones and Carboxylic Acids",
+   "puc": 2
+  },
+  {
+   "name": "Amines",
+   "puc": 2
+  },
+  {
+   "name": "Biomolecules",
+   "puc": 2
+  },
+  {
+   "name": "Polymers",
+   "puc": 2
+  },
+  {
+   "name": "Chemistry in Everyday Life",
+   "puc": 2
+  }
+ ],
+ "Mathematics": [
+  {
+   "name": "Sets",
+   "puc": 1
+  },
+  {
+   "name": "Relations and Functions",
+   "puc": 1
+  },
+  {
+   "name": "Trigonometric Functions",
+   "puc": 1
+  },
+  {
+   "name": "Complex Numbers and Quadratic Equations",
+   "puc": 1
+  },
+  {
+   "name": "Linear Inequalities",
+   "puc": 1
+  },
+  {
+   "name": "Permutations and Combinations",
+   "puc": 1
+  },
+  {
+   "name": "Binomial Theorem",
+   "puc": 1
+  },
+  {
+   "name": "Sequences and Series",
+   "puc": 1
+  },
+  {
+   "name": "Straight Lines",
+   "puc": 1
+  },
+  {
+   "name": "Conic Sections",
+   "puc": 1
+  },
+  {
+   "name": "Introduction to Three Dimensional Geometry",
+   "puc": 1
+  },
+  {
+   "name": "Limits and Derivatives",
+   "puc": 1
+  },
+  {
+   "name": "Mathematical Reasoning",
+   "puc": 1
+  },
+  {
+   "name": "Statistics",
+   "puc": 1
+  },
+  {
+   "name": "Probability",
+   "puc": 1
+  },
+  {
+   "name": "Inverse Trigonometric Functions",
+   "puc": 2
+  },
+  {
+   "name": "Matrices",
+   "puc": 2
+  },
+  {
+   "name": "Determinants",
+   "puc": 2
+  },
+  {
+   "name": "Continuity and Differentiability",
+   "puc": 2
+  },
+  {
+   "name": "Application of Derivatives",
+   "puc": 2
+  },
+  {
+   "name": "Integrals",
+   "puc": 2
+  },
+  {
+   "name": "Application of Integrals",
+   "puc": 2
+  },
+  {
+   "name": "Differential Equations",
+   "puc": 2
+  },
+  {
+   "name": "Vector Algebra",
+   "puc": 2
+  },
+  {
+   "name": "Three Dimensional Geometry",
+   "puc": 2
+  },
+  {
+   "name": "Linear Programming",
+   "puc": 2
+  }
+ ]
+}

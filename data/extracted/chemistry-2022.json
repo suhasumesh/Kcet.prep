@@ -1,0 +1,4136 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which among the following has highest pH ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q001-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1 M NaOH",
+    "img": {
+     "src": "chemistry-2022/q001-optA.png",
+     "w": 180,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1 M H2SO4",
+    "img": {
+     "src": "chemistry-2022/q001-optB.png",
+     "w": 235,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.1 M NaOH",
+    "img": {
+     "src": "chemistry-2022/q001-optC.png",
+     "w": 180,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1 M HCI",
+    "img": {
+     "src": "chemistry-2022/q001-optD.png",
+     "w": 234,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "For acidic medium, we know that pH values\nrange is between 0 – 6, 9, for neutral it is 7 and\nfor bases it is 7.1 – 14 So, HCl is acidic and\nNaOH is basic. Thus, we can straight forward\ninfer that NaOH has a higher pH value.\nNow, 1 mole of sodium hydroxide produces 1\nmole of Na+ and 1 mole of OH– ions. This\nmeans that the concentration of the hydroxide\nions will be equal to [OH–] = [NaOH] = 1 M\nFor case A,\nOption B: CH4\nMethane, CH4, has a central carbon atom\nbonded to four hydrogen atoms. Carbon has\nfour valence electrons and needs four more to\ncomplete its octet, which it gains by forming\ncovalent bonds with the four hydrogen atoms\n(each hydrogen providing one electron). In\nmethane, all atoms have full valence shells, so\nit is not electron deficient.\nOption C: B2H6\nDiborane (B2H6) is a molecule where each\nboron \natom \ncontributes \nthree \nvalence\nelectrons, \nand \neach \nhydrogen \natom\ncontributes one electron. In a simple model\nwhere we would expect each pair of atoms to\nbe connected by a single bond (two electrons\nper bond), the two boron atoms together with\nsix \nhydrogen \natoms \nwould \nrequire \n12\nelectrons for conventional two-electron bonds.\nHowever, diborane has only 12 valence\nelectrons in total (6 from boron and 6 from",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q001-sol0.png",
+    "w": 1215,
+    "h": 767
+   }
+  ],
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "diborane",
+   "boron",
+   "carbon"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "In which of the following compounds, an\nelement \nexhibits \ntwo \ndifferent \noxidation\nstates?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q002-stem0.png",
+    "w": 504,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "NH4NO3",
+    "img": {
+     "src": "chemistry-2022/q002-optA.png",
+     "w": 180,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "N2H4",
+    "img": {
+     "src": "chemistry-2022/q002-optB.png",
+     "w": 235,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "N3H",
+    "img": {
+     "src": "chemistry-2022/q002-optC.png",
+     "w": 180,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "NH2CONH2",
+    "img": {
+     "src": "chemistry-2022/q002-optD.png",
+     "w": 234,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "In NH4NO3, N exhibits two different oxidation\nstates. \nActually \nNH4NO3 \nexists \nas\n. Oxidation state of N in\n is –3 and in \n is +5.\nhydrogen), which are not enough to form\nconventional bonds for all atoms involved.\nDiborane forms multiple-center bonds, where\ntwo electrons are shared by more than two\natoms, specifically in the form of two three-\ncenter two-electron bonds, often referred to",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q002-sol0.png",
+    "w": 1215,
+    "h": 207
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 7,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "oxidation state",
+   "oxidation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which of the following hydrides is electron\ndeficient ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q003-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "CaH2",
+    "img": {
+     "src": "chemistry-2022/q003-optA.png",
+     "w": 180,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "CH4",
+    "img": {
+     "src": "chemistry-2022/q003-optB.png",
+     "w": 235,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "B2H6",
+    "img": {
+     "src": "chemistry-2022/q003-optC.png",
+     "w": 180,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "NaH",
+    "img": {
+     "src": "chemistry-2022/q003-optD.png",
+     "w": 234,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "An electron-deficient hydride is a compound\nthat has fewer valence electrons than are\nrequired to completely satisfy the traditional\nbonding requirements based on the concept\nof two electrons for every single bond between\natoms. To determine if a hydride is electron\ndeficient, we must consider the valence\nelectrons and bonding in each given molecule.\nLet's examine each option:\nOption A: CaH2\nCalcium hydride consists of calcium ions (Ca2+)\nand hydride ions ((H–). Each calcium atom\nprovides two electrons to form two ionic\nbonds with two hydride ions This compound\nas banana bonds. This is indicative of electron\ndeficiency. \nTherefore, \nB2H6 \nis \nelectron\ndeficient.\nOption D: NaH\nSodium hydride consists of sodium ions (Na+)\nand hydride ions (H–). Sodium loses one\nelectron to the hydride ion, and this fulfilling\nthe octet rule (or the duet rule for hydrogen).\nEach resultant ion has a complete octet or\nduet, and thus this ionic compound is not\nelectron deficient.\nBased on the explanation above, the electron-\ndeficient hydride among the given options is:\nOption C: B2H6",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q003-sol0.png",
+    "w": 1215,
+    "h": 531
+   }
+  ],
+  "chapter": "Hydrogen",
+  "chapterScore": 13,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "hydride",
+   "hydrogen"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Amphoteric oxide among the following",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q004-stem0.png",
+    "w": 504,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "CO2",
+    "img": {
+     "src": "chemistry-2022/q004-optA.png",
+     "w": 180,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Ag2O",
+    "img": {
+     "src": "chemistry-2022/q004-optB.png",
+     "w": 235,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "SnO2",
+    "img": {
+     "src": "chemistry-2022/q004-optC.png",
+     "w": 180,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "BeO",
+    "img": {
+     "src": "chemistry-2022/q004-optD.png",
+     "w": 234,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "bonds with two hydride ions. This compound\nis not electron deficient; it is an ionic hydride\nwhere the bonding requirements for both the\nmetal and the hydrogen are fulfilled.\nQ4\nSnO2and BeO both are amphoteric in nature.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q004-sol0.png",
+    "w": 1215,
+    "h": 128
+   }
+  ],
+  "chapter": "Hydrogen",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "hydride",
+   "hydrogen"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which property of CO2 makes it biologically\nand geo-chemically important?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q005-stem0.png",
+    "w": 504,
+    "h": 90
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Its colourless and odourless nature",
+    "img": {
+     "src": "chemistry-2022/q005-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Its low solubility in water",
+    "img": {
+     "src": "chemistry-2022/q005-optB.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Its high compressibility",
+    "img": {
+     "src": "chemistry-2022/q005-optC.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Its acidic nature",
+    "img": {
+     "src": "chemistry-2022/q005-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The property of low solubility of carbon\ndioxide in water makes it biologically and geo-\nchemically important. Carbon dioxide on\nreaction with water form carbonic acid, which\ndissociates \nto \ngive \n \nbuffer\nsystem helps to maintain pH of blood between\n7.29 – 7.42.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q005-sol0.png",
+    "w": 595,
+    "h": 329
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "ph",
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The IUPAC name for",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q006-stem0.png",
+    "w": 504,
+    "h": 155
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1,4-dioxopentanol",
+    "img": {
+     "src": "chemistry-2022/q006-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1-carboxybutan-3-one",
+    "img": {
+     "src": "chemistry-2022/q006-optB.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4-oxopentanoic acid",
+    "img": {
+     "src": "chemistry-2022/q006-optC.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1-hydroxy pentane-1, 4-dione",
+    "img": {
+     "src": "chemistry-2022/q006-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The given compound contains a carboxylic\nacid group (-COOH) and a ketone group (-CO-)\nwithin the carbon chain. When naming\ncompounds according to the IUPAC system,\npriority is given to certain functional groups.\nThe carboxylic acid group has higher priority\nthan the ketone group. Thus, the compound\nwill be named with the suffix \"-oic acid\" to\ndenote the presence of the carboxylic acid.\nThe longest carbon chain that contains the\ncarboxylic acid group has five carbons, so the\nbase name will be \"pentanoic acid.\" The\ncarbon atoms are numbered starting from the\ncarboxylic acid group to give the substituent,\nin this case, the ketone group, the lowest\npossible number. The ketone is on the fourth\ncarbon, so it will be indicated with \"4-oxo.\"\nTherefore, the correct IUPAC name for the\ncompound is \"4-oxopentanoic acid,\" which\ncorresponds to Option C. Options A, B, and D\ndo not correctly prioritize the functional\ngroups nor do they name the compound with\nproper numbering and suffixes based on\nIUPAC rules.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q006-sol0.png",
+    "w": 595,
+    "h": 1017
+   }
+  ],
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 15,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "carboxylic acid",
+   "ketone"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "1 mole of HI is heated in a closed container of\ncapacity of 2L. At equilibrium half a mole of HI\nis dissociated. The equilibrium constant of the\nreaction is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q007-stem0.png",
+    "w": 504,
+    "h": 149
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.5",
+    "img": {
+     "src": "chemistry-2022/q007-optA.png",
+     "w": 180,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.25",
+    "img": {
+     "src": "chemistry-2022/q007-optB.png",
+     "w": 235,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.35",
+    "img": {
+     "src": "chemistry-2022/q007-optC.png",
+     "w": 180,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1",
+    "img": {
+     "src": "chemistry-2022/q007-optD.png",
+     "w": 234,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q007-sol0.png",
+    "w": 595,
+    "h": 45
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 6,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Vacant space in body centered cubic lattice\nunit cell is about",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q008-stem0.png",
+    "w": 522,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10%",
+    "img": {
+     "src": "chemistry-2022/q008-optA.png",
+     "w": 201,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "23%",
+    "img": {
+     "src": "chemistry-2022/q008-optB.png",
+     "w": 253,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "46%",
+    "img": {
+     "src": "chemistry-2022/q008-optC.png",
+     "w": 201,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "32%",
+    "img": {
+     "src": "chemistry-2022/q008-optD.png",
+     "w": 251,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "For bcc, number of atoms = 2",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q008-sol0.png",
+    "w": 591,
+    "h": 336
+   }
+  ],
+  "chapter": "Solid State",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "unit cell",
+   "bcc",
+   "lattice"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "How many number of atoms are there in a\ncube based unit cell, having one atom on each\ncorner and 2 atoms on each body diagonal of\ncube?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q009-stem0.png",
+    "w": 522,
+    "h": 150
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "chemistry-2022/q009-optA.png",
+     "w": 201,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4",
+    "img": {
+     "src": "chemistry-2022/q009-optB.png",
+     "w": 253,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "9",
+    "img": {
+     "src": "chemistry-2022/q009-optC.png",
+     "w": 201,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "8",
+    "img": {
+     "src": "chemistry-2022/q009-optD.png",
+     "w": 251,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Total atoms in a cube based unit cell",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q009-sol0.png",
+    "w": 591,
+    "h": 128
+   }
+  ],
+  "chapter": "Solid State",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "unit cell"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which of the following is not true about the\namorphous solids?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q010-stem0.png",
+    "w": 509,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "They may become crystalline on keeping\nfor long time.",
+    "img": {
+     "src": "chemistry-2022/q010-optA.png",
+     "w": 480,
+     "h": 74
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Amorphous solids can be moulded by\nheating.",
+    "img": {
+     "src": "chemistry-2022/q010-optB.png",
+     "w": 480,
+     "h": 75
+    }
+   },
+   {
+    "letter": "C",
+    "text": "They are anisotropic in nature.",
+    "img": {
+     "src": "chemistry-2022/q010-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "On heating they may become crystalline at\ncertain temperature.",
+    "img": {
+     "src": "chemistry-2022/q010-optD.png",
+     "w": 478,
+     "h": 74
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The correct answer is Option C.\nAmorphous solids are characterized by the\nlack of a long-range ordered structure that is\ntypical in crystalline solids. This means that in\namorphous \nsolids, \nthe \narrangement \nof\nparticles does not repeat periodically over long\ndistances. This structure (or lack thereof) leads\nto different properties as compared to\ncrystalline solids.\nLet's go over each option to see why Option C\nis not true:\nOption A: They may become crystalline on\nkeeping for long time.\nThis statement is true. Amorphous solids can\nsometimes transition into a crystalline state if\nthey are kept at a steady temperature for a\nlong time, a process known as devitrification.\nThis is because many amorphous solids are\nactually supercooled liquids—substances that\nhave been cooled below their melting points\nwithout crystallization occurring—and given\ntime, they can rearrange themselves into a\ncrystalline structure.\nOption B: Amorphous solids can be moulded\nby heating.\nThis is also true. Due to their lack of a rigid,\nlong-range order, amorphous solids like glass\nand \nplastics \ncan \nsoften \nand \nbecome\nmouldable when heated. This is in contrast to\ncrystalline solids, which usually have distinct\nmelting points at which they transition sharply\nfrom solid to liquid.\nOption C: They are anisotropic in nature.\nThis statement is false, which makes it the\ncorrect \nanswer \nto \nthe \nquestion. \nUnlike\ncrystalline \nsolids, \namorphous \nsolids \nare\nisotropic, not anisotropic. Isotropic materials\nhave properties that are the same in all\ndirections \nbecause \ntheir \nmolecular\narrangement is similar in all orientations.\nAnisotropy, \non \nthe \nother \nhand, \nis \na\ncharacteristic of crystalline solids, where the\nproperties \ncan \nvary \ndepending \non \nthe\ndirection \ndue \nto \nthe \nordered \nperiodic\narrangement of particles.\nOption D: On heating they may become\ncrystalline at certain temperature.\nTrue, similar to Option A, amorphous solids\ncan transition to a crystalline state when\nheated to certain temperatures where the\nthermal \nenergy \nallows \nthe \nparticles \nto\novercome any barriers to rearrangement into\na more ordered structure. This is usually\nreferred to as the glass transition temperature\nin materials like glass or certain polymers.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q010-sol0.png",
+    "w": 591,
+    "h": 1278
+   },
+   {
+    "src": "chemistry-2022/q010-sol1.png",
+    "w": 607,
+    "h": 668
+   }
+  ],
+  "chapter": "Solid State",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "amorphous",
+   "crystalline"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Identify, A and B in the following reaction",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q011-stem0.png",
+    "w": 509,
+    "h": 261
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q011-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q011-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q011-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q011-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q011-sol0.png",
+    "w": 607,
+    "h": 313
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Solubility of a gas in a liquid increases with",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q012-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "decrease of p and increase of T",
+    "img": {
+     "src": "chemistry-2022/q012-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "increase of p and decrease of T",
+    "img": {
+     "src": "chemistry-2022/q012-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "decrease of p and decrease of T",
+    "img": {
+     "src": "chemistry-2022/q012-optC.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "increase of p and increase of T",
+    "img": {
+     "src": "chemistry-2022/q012-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Solubility of a gas in a liquid increases with\nincrease of p and decrease of T.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q012-sol0.png",
+    "w": 607,
+    "h": 124
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The rise in boiling point of a solution\ncontaining 1.8 g of glucose in 100 g of solvent\nis 0.1°C. The molal elevation constant of the\nliquid is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q013-stem0.png",
+    "w": 504,
+    "h": 149
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1 K kg/mol",
+    "img": {
+     "src": "chemistry-2022/q013-optA.png",
+     "w": 174,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2 K kg/mol",
+    "img": {
+     "src": "chemistry-2022/q013-optB.png",
+     "w": 235,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "10 K kg/mol",
+    "img": {
+     "src": "chemistry-2022/q013-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.1 K kg/mol",
+    "img": {
+     "src": "chemistry-2022/q013-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q013-sol0.png",
+    "w": 607,
+    "h": 398
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 6,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "molal elevation",
+   "solution",
+   "solvent"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "If 3 g of glucose (molar mass = 180 g) is\ndissolved in 60 g of water at 15°C, the osmotic\npressure of the solution will be",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q014-stem0.png",
+    "w": 504,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.65 atm",
+    "img": {
+     "src": "chemistry-2022/q014-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6.57 atm",
+    "img": {
+     "src": "chemistry-2022/q014-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5.57 atm",
+    "img": {
+     "src": "chemistry-2022/q014-optC.png",
+     "w": 174,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.34 atm",
+    "img": {
+     "src": "chemistry-2022/q014-optD.png",
+     "w": 233,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q014-sol0.png",
+    "w": 607,
+    "h": 45
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "osmotic pressure",
+   "solution"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which of the following colligative properties\ncan provide molar mass of proteins, polymers\nand colloids with greater precision?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q015-stem0.png",
+    "w": 504,
+    "h": 150
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Elevation in boiling point",
+    "img": {
+     "src": "chemistry-2022/q015-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Depression in freezing point",
+    "img": {
+     "src": "chemistry-2022/q015-optB.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Osmotic pressure",
+    "img": {
+     "src": "chemistry-2022/q015-optC.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Relative lowering of vapour pressure",
+    "img": {
+     "src": "chemistry-2022/q015-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Among \nthe \ngiven \ncolligative \nproperties,\nosmotic pressure can provide molar mass of\nproteins, polymers and colloids with greater\nprecision. Because for these substances, the\nvalue of other given colligative properties are\ntoo small to be measured. Secondly, this\nmethod has the advantage i.e., this use\nmolarities instead of molalities.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q015-sol0.png",
+    "w": 591,
+    "h": 330
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 33,
+  "chapterMargin": 31,
+  "chapterHits": [
+   "colligative",
+   "osmotic pressure",
+   "elevation in boiling point",
+   "depression in freezing point",
+   "relative lowering of vapour pressure",
+   "vapour pressure"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "In fuel cells _______ are used as catalysts.",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q016-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "nickel-cadmium",
+    "img": {
+     "src": "chemistry-2022/q016-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "lead-manganese",
+    "img": {
+     "src": "chemistry-2022/q016-optB.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "zinc-mercury",
+    "img": {
+     "src": "chemistry-2022/q016-optC.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "platinum-palladium",
+    "img": {
+     "src": "chemistry-2022/q016-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "In fuel cells platinum-palladium are used as\ncatalysts.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q016-sol0.png",
+    "w": 591,
+    "h": 124
+   }
+  ],
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "manganese",
+   "zinc"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The molar conductivity is maximum for the\nsolution of concentration",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q017-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.002 M",
+    "img": {
+     "src": "chemistry-2022/q017-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.005 M",
+    "img": {
+     "src": "chemistry-2022/q017-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.001 M",
+    "img": {
+     "src": "chemistry-2022/q017-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.004 M",
+    "img": {
+     "src": "chemistry-2022/q017-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that,\nmolar conductivity,\nThat means \n is inversely proportional to\nthe molarity. The solution which is less\nconcentrated \nhave \nmaximum \nmolar\nconductivity: Thus, among the given option\n0.001 M has the maximum molar conductivity.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q017-sol0.png",
+    "w": 591,
+    "h": 299
+   }
+  ],
+  "chapter": "Electrochemistry",
+  "chapterScore": 15,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "molar conductivity",
+   "conductivity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Alkali halides do not show dislocation defect\nbecause",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q018-stem0.png",
+    "w": 504,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "anions cannot be accommodated in vacant\nspaces",
+    "img": {
+     "src": "chemistry-2022/q018-optA.png",
+     "w": 475,
+     "h": 75
+    }
+   },
+   {
+    "letter": "B",
+    "text": "cations and anions have almost equal size",
+    "img": {
+     "src": "chemistry-2022/q018-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "there is large difference in size of cations\nand anions",
+    "img": {
+     "src": "chemistry-2022/q018-optC.png",
+     "w": 475,
+     "h": 75
+    }
+   },
+   {
+    "letter": "D",
+    "text": "cations and anions have low coordination\nnumber",
+    "img": {
+     "src": "chemistry-2022/q018-optD.png",
+     "w": 473,
+     "h": 74
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Generally in alkali halides, cations and anions\nhave almost equal size, thus they do not show\ndislocation defect.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q018-sol0.png",
+    "w": 591,
+    "h": 158
+   }
+  ],
+  "chapter": "Solid State",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "defect"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "For spontaneity of a cell, which is correct?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q019-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q019-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q019-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q019-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q019-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "For spontaneity of a cell, the value of \nshould be negative.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q019-sol0.png",
+    "w": 591,
+    "h": 124
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "spontaneity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "For nth order of reaction, half-life period is\ndirectly proportional to",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q020-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q020-optA.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q020-optB.png",
+     "w": 240,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q020-optC.png",
+     "w": 190,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q020-optD.png",
+     "w": 238,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "For nth order of reaction, half-life period is\ndirectly proportional to",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q020-sol0.png",
+    "w": 591,
+    "h": 125
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "period"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Half-life of a reaction is found to be inversely\nproportional to the fifth power of its initial\nconcentration, the order of reaction is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q021-stem0.png",
+    "w": 509,
+    "h": 150
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4",
+    "img": {
+     "src": "chemistry-2022/q021-optA.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5",
+    "img": {
+     "src": "chemistry-2022/q021-optB.png",
+     "w": 240,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6",
+    "img": {
+     "src": "chemistry-2022/q021-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "chemistry-2022/q021-optD.png",
+     "w": 238,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The half-life period of nth order reaction is",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q021-sol0.png",
+    "w": 591,
+    "h": 45
+   },
+   {
+    "src": "chemistry-2022/q021-sol1.png",
+    "w": 639,
+    "h": 350
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "A first order reaction is half completed in 45\nmin. How long does it need 99.9% of the\nreaction to be completed ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q022-stem0.png",
+    "w": 509,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "7.5 Hours",
+    "img": {
+     "src": "chemistry-2022/q022-optA.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "10 Hours",
+    "img": {
+     "src": "chemistry-2022/q022-optB.png",
+     "w": 240,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "20 Hours",
+    "img": {
+     "src": "chemistry-2022/q022-optC.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5 Hours",
+    "img": {
+     "src": "chemistry-2022/q022-optD.png",
+     "w": 238,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q022-sol0.png",
+    "w": 639,
+    "h": 223
+   }
+  ],
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "first order reaction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The rate of the reaction, CH3COOC2H5 + NaOH\n CH3COONa + C2H5OH is given by the\nequation, rate = k [CH3COOC2H5] [NaOH]. If\nconcentration is expressed in molL–1, the unit\nof k is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q023-stem0.png",
+    "w": 509,
+    "h": 215
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "mol L–1 s–1",
+    "img": {
+     "src": "chemistry-2022/q023-optA.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "L mol–1 s–1",
+    "img": {
+     "src": "chemistry-2022/q023-optB.png",
+     "w": 480,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "s–1",
+    "img": {
+     "src": "chemistry-2022/q023-optC.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "mol–2 L2 S–1",
+    "img": {
+     "src": "chemistry-2022/q023-optD.png",
+     "w": 478,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q023-sol0.png",
+    "w": 639,
+    "h": 295
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Colloidal solution commonly used in the\ntreatment of skin disease is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q024-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "colloidal silver",
+    "img": {
+     "src": "chemistry-2022/q024-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "colloidal antimony",
+    "img": {
+     "src": "chemistry-2022/q024-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "colloidal gold",
+    "img": {
+     "src": "chemistry-2022/q024-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "colloidal sulphur",
+    "img": {
+     "src": "chemistry-2022/q024-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Among the given solution colloidal sulphur is\ncommonly used in the treatment of skin\ndisease.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q024-sol0.png",
+    "w": 639,
+    "h": 158
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Specific conductance of 0.1 M HNO3 is 6.3 ×\n10–2 ohm–1 cm–1. The molar conductance of\nthe solution is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q025-stem0.png",
+    "w": 509,
+    "h": 133
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "315 ohm–1 cm2 mol–1",
+    "img": {
+     "src": "chemistry-2022/q025-optA.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6.300 ohm–1 cm2 mol–1",
+    "img": {
+     "src": "chemistry-2022/q025-optB.png",
+     "w": 480,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "63.0 ohm–1 cm2 mol–1",
+    "img": {
+     "src": "chemistry-2022/q025-optC.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "630 ohm–1 cm2 mol–1",
+    "img": {
+     "src": "chemistry-2022/q025-optD.png",
+     "w": 478,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q025-sol0.png",
+    "w": 639,
+    "h": 303
+   }
+  ],
+  "chapter": "Electrochemistry",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "specific conductance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The property of halogens which is not correctly\nmatched is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q026-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "F > Cl > Br > I (Electronegativity)",
+    "img": {
+     "src": "chemistry-2022/q026-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "I > Br > Cl > F (Density)",
+    "img": {
+     "src": "chemistry-2022/q026-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "F > Cl > Br > 1 (Electron gain enthalpy)",
+    "img": {
+     "src": "chemistry-2022/q026-optC.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "F > Cl > Br > 1 (lonisation enthalpy)",
+    "img": {
+     "src": "chemistry-2022/q026-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Down the group, electron gain enthalpies\nbecome less and less negative with the\nincrease in the size of the halogen. However,\nelectron gain enthalpy of F is less negative\nthan Cl. This is due to small size of F-atom. As a\nresult, there are strong inter electronic\nrepulsions in the relatively small 2p-orbitals of\nF and thus incoming electrons experience\nmuch less attraction. Thus, the correct order is\nCl > F > Br > I.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q026-sol0.png",
+    "w": 639,
+    "h": 388
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 14,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "electron gain enthalpy",
+   "electronegativity",
+   "group",
+   "down the group"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which noble gas has least tendency to form\ncompounds?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q027-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Ne",
+    "img": {
+     "src": "chemistry-2022/q027-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Ar",
+    "img": {
+     "src": "chemistry-2022/q027-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Kr",
+    "img": {
+     "src": "chemistry-2022/q027-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "He",
+    "img": {
+     "src": "chemistry-2022/q027-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Noble gas has least tendency to form\ncompounds with helium due to highest\nionisation enthalpy.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q027-sol0.png",
+    "w": 591,
+    "h": 158
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 9,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "noble gas",
+   "helium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "(NH4)2Cr2O7 on heating liberates a gas. The\nsame gas will be obtained by",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q028-stem0.png",
+    "w": 504,
+    "h": 88
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "heating NH4NO2",
+    "img": {
+     "src": "chemistry-2022/q028-optA.png",
+     "w": 475,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "treating H2O2 with NaNO2",
+    "img": {
+     "src": "chemistry-2022/q028-optB.png",
+     "w": 474,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "treating Mg3 N2 with H2O",
+    "img": {
+     "src": "chemistry-2022/q028-optC.png",
+     "w": 475,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "heating NH4NO3",
+    "img": {
+     "src": "chemistry-2022/q028-optD.png",
+     "w": 473,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "(NH4)2Cr2O7 and NH4NO2 both on heating\nliberate nitrogen gas. The reaction involve are\nas follows",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q028-sol0.png",
+    "w": 591,
+    "h": 247
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nitrogen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The \nstrong \nreducing \nproperty \nof\nhypophosphorus acid is due to",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q029-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "the positive valency of phosphorus",
+    "img": {
+     "src": "chemistry-2022/q029-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "two P – H bonds",
+    "img": {
+     "src": "chemistry-2022/q029-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "presence of phosphorus in its highest\noxidation state",
+    "img": {
+     "src": "chemistry-2022/q029-optC.png",
+     "w": 475,
+     "h": 75
+    }
+   },
+   {
+    "letter": "D",
+    "text": "its concentration",
+    "img": {
+     "src": "chemistry-2022/q029-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The \nstrong \nreducing \nproperty \nof\nhypophosphorus acid is due to the presence\nof two P – H bonds. Its structure is as follows",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q029-sol0.png",
+    "w": 591,
+    "h": 275
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "oxidation state",
+   "oxidation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "A transition metal exists in its highest\noxidation state. It is expected to behave as",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q030-stem0.png",
+    "w": 504,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a central metal in a coordination\ncompound",
+    "img": {
+     "src": "chemistry-2022/q030-optA.png",
+     "w": 475,
+     "h": 75
+    }
+   },
+   {
+    "letter": "B",
+    "text": "an oxidising agent",
+    "img": {
+     "src": "chemistry-2022/q030-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a reducing agent",
+    "img": {
+     "src": "chemistry-2022/q030-optC.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a chelating agent",
+    "img": {
+     "src": "chemistry-2022/q030-optD.png",
+     "w": 473,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "In highest oxidation state of transition metals\ncan undergo reduction and thus act as the\noxidising agent.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q030-sol0.png",
+    "w": 591,
+    "h": 158
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 23,
+  "chapterMargin": 21,
+  "chapterHits": [
+   "oxidation state",
+   "oxidising agent",
+   "reducing agent",
+   "oxidation",
+   "reduction"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "What will be the value of x in Fex+, if the\nmagnetic moment,",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q031-stem0.png",
+    "w": 504,
+    "h": 128
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "+3",
+    "img": {
+     "src": "chemistry-2022/q031-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0",
+    "img": {
+     "src": "chemistry-2022/q031-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "+1",
+    "img": {
+     "src": "chemistry-2022/q031-optC.png",
+     "w": 174,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "+2",
+    "img": {
+     "src": "chemistry-2022/q031-optD.png",
+     "w": 233,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q031-sol0.png",
+    "w": 591,
+    "h": 45
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which can adsorb larger volume of hydrogen\ngas ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q032-stem0.png",
+    "w": 504,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Colloidal solution of palladium",
+    "img": {
+     "src": "chemistry-2022/q032-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Finely divided platinum",
+    "img": {
+     "src": "chemistry-2022/q032-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Colloidal Fe(OH)3",
+    "img": {
+     "src": "chemistry-2022/q032-optC.png",
+     "w": 475,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Finely divided nickel",
+    "img": {
+     "src": "chemistry-2022/q032-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q032-sol0.png",
+    "w": 1215,
+    "h": 10
+   }
+  ],
+  "chapter": "Hydrogen",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "hydrogen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "All Cu(II) halides are known, except the iodide,\nthe reason for it is that",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q033-stem0.png",
+    "w": 509,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Cu2+ oxidises iodide to iodine",
+    "img": {
+     "src": "chemistry-2022/q033-optA.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Cu2+ has much more negative hydration\nenthalpy",
+    "img": {
+     "src": "chemistry-2022/q033-optB.png",
+     "w": 480,
+     "h": 81
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Cu2+ ion has smaller size.",
+    "img": {
+     "src": "chemistry-2022/q033-optC.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "iodide is bulky ion.",
+    "img": {
+     "src": "chemistry-2022/q033-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The ability of a substance to adsorb hydrogen\ngas depends on the surface area and the\nnature of the adsorbent material. The higher\nthe surface area and the stronger the\ninteraction between the adsorbate (in this\nQ33\nThis Cu (II) iodide immediately decomposes to\nliberate I2 and insoluble copper (I) iodide.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q033-sol0.png",
+    "w": 1215,
+    "h": 200
+   }
+  ],
+  "chapter": "Surface Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "adsorbent",
+   "adsorbate",
+   "surface"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The correct IUPAC name of cis-platin is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q034-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "diamminedichloridoplatinum (IV)",
+    "img": {
+     "src": "chemistry-2022/q034-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "diamminedichloridoplatinum (0)",
+    "img": {
+     "src": "chemistry-2022/q034-optB.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "dichloridodiammineplatinum (IV)",
+    "img": {
+     "src": "chemistry-2022/q034-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "diamminedichloridoplatinum (II)",
+    "img": {
+     "src": "chemistry-2022/q034-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "interaction between the adsorbate (in this\ncase, hydrogen) and the adsorbent, the\ngreater the volume of gas that can be\nadsorbed.\nAmong the given options:\nOption A: A colloidal solution of palladium has\nparticles dispersed in a medium, which\nincreases the surface area available for\nhydrogen adsorption. Palladium is particularly\neffective at adsorbing hydrogen due to its\nelectronic structure and the ability to form\npalladium hydride (PdHx).\nOption B: Finely divided platinum has a high\nsurface area due to its particulate form, and\nplatinum is also known to adsorb hydrogen\neffectively. However, it does not form a\nhydride as readily as palladium, so it may\nadsorb slightly less hydrogen under similar\nconditions.\nOption C: Colloidal Fe(OH)3 or ferric hydroxide\nis not particularly known for its ability to\nadsorb hydrogen. While it might have a\nreasonable surface area in its colloidal form,\nits interaction with hydrogen is not as strong\nas that of the noble metals.\nOption D: Finely divided nickel has a decent\nadsorption capacity for hydrogen due to its\nsurface area and can adsorb hydrogen to form\nnickel hydride. However, it is generally less\neffective \nthan \npalladium \nin \nadsorbing\nhydrogen.\nConsidering the above factors, the most likely\nanswer would be:\nOption A: Colloidal solution of palladium\nPalladium has the unique ability to adsorb\nlarge volumes of hydrogen, and when in a\ncolloidal \nsolution, \nits \nsurface \narea \nis\nmaximized, making it the most efficient\nadsorbent for hydrogen among the given\noptions.\nQ34\nThe correct IUPAC name for cis-platin, a\nchemotherapy drug used to treat various\ntypes \nof \ncancers, \nis \nOption \nD:\ndiamminedichloridoplatinum (II).\nThe reason for this naming is based on IUPAC\nrules for naming coordination complexes,\nwhich are as follows:\nFirst, the ligands are named in alphabetical\norder, regardless of charge or the number of\neach type of ligand present.\nThe prefix \"diammine\" indicates the presence\nof two ammine (NH3) ligands.\nThe prefix \"dichlorido\" indicates the presence\nof two chlorido (Cl-) ligands.\nFollowing the ligands, the metal atom is\nnamed, which in this case is platinum. The\noxidation state of the metal is indicated by\nRoman numerals in parentheses immediately\nfollowing the metal's name.\nIn cis-platin, the platinum has an oxidation\nstate of +2. We know this because there are\ntwo ammonia molecules and two chloride ions\nas ligands, each contributing either to the\nneutrality or the charge balance of the\ncomplex:\n[Pt(NH3)2Cl2]}\nSolving for platinum's oxidation state:\nLet \n be the oxidation state of platinum. The\nammonia ligands do not have a charge, but\neach chloride ion has a charge of -1. Therefore,\nwe have:\nx + 2(charge of NH3) + 2(-1) = 0\nx + 0 – 2 = 0\nx = 2\nThus, Option D, diamminedichloridoplatinum\n(II), is the correct IUPAC name, where (II)\nreflects the +2 oxidation state of the platinum\nin the complex.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q034-sol0.png",
+    "w": 1215,
+    "h": 1375
+   }
+  ],
+  "chapter": "Hydrogen",
+  "chapterScore": 15,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "hydride",
+   "hydrogen"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Crystal \nfield \nsplitting \nenergy \n(CFSE) \nfor \n The crystal field\nsplitting energy (CFSE) for \n will be",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q035-stem0.png",
+    "w": 509,
+    "h": 155
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "16000 cm–1",
+    "img": {
+     "src": "chemistry-2022/q035-optA.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8000 cm–1",
+    "img": {
+     "src": "chemistry-2022/q035-optB.png",
+     "w": 480,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "10000 cm–1",
+    "img": {
+     "src": "chemistry-2022/q035-optC.png",
+     "w": 480,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "18000 cm–1",
+    "img": {
+     "src": "chemistry-2022/q035-optD.png",
+     "w": 478,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q035-sol0.png",
+    "w": 639,
+    "h": 225
+   }
+  ],
+  "chapter": "Coordination Compounds",
+  "chapterScore": 16,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "crystal field",
+   "crystal field splitting"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "he complex hexamineplatinum(IV)chloride will\ngive _____ number of ions on ionisation.",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q036-stem0.png",
+    "w": 509,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4",
+    "img": {
+     "src": "chemistry-2022/q036-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "chemistry-2022/q036-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "chemistry-2022/q036-optC.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "chemistry-2022/q036-optD.png",
+     "w": 238,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The formula of hexamineplatinum (IV) chloride\nis \nThus, five ions are produced.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q036-sol0.png",
+    "w": 639,
+    "h": 206
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "chloride"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "In the following pairs of halogen compounds,\nwhich \ncompound \nundergoes \nfaster \nSN1\nreaction?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q037-stem0.png",
+    "w": 509,
+    "h": 253
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q037-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q037-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q037-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q037-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The \nreactivity \nof \ncompound \nunder \nSN1\nreaction is 3° > 2° > 1°. Thus, among the given\nundergoes faster SN1 reaction.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q037-sol0.png",
+    "w": 639,
+    "h": 276
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "sn1"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 38,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The only lanthanoid which is radioactive",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q038-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "cerium",
+    "img": {
+     "src": "chemistry-2022/q038-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "promethium",
+    "img": {
+     "src": "chemistry-2022/q038-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "praseodymium",
+    "img": {
+     "src": "chemistry-2022/q038-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "lanthanum",
+    "img": {
+     "src": "chemistry-2022/q038-optD.png",
+     "w": 238,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Promethium is a radioactive lanthanoid.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q038-sol0.png",
+    "w": 639,
+    "h": 90
+   }
+  ],
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "lanthanoid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Identify the products A and B in the reactions :",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q039-stem0.png",
+    "w": 504,
+    "h": 152
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A = RCN; B = RNC",
+    "img": {
+     "src": "chemistry-2022/q039-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A = RNC; B = RCN",
+    "img": {
+     "src": "chemistry-2022/q039-optB.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A = RNC; B = RNC",
+    "img": {
+     "src": "chemistry-2022/q039-optC.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "AR-CN; B = RCN",
+    "img": {
+     "src": "chemistry-2022/q039-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "R - X + AgCN → RNC + AgX\nR - X + KCN → RCN + KX\nKCN is predominantly ionic in nature, its C - C\nbond is more stable than C - N bond.\nTherefore, in this case attack takes place\nthrough carbon atom. On other hand, AgCN is\npredominantly covalent in nature, hence only\nnitrogen is available for bonding result in\nformation of RNC.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q039-sol0.png",
+    "w": 639,
+    "h": 363
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "covalent",
+   "bonding"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "An organic compound with molecular formula\nC7H8O dissolves in NaOH and gives a\ncharacteristic colour with FeCl3. On treatment\nwith bromine, it gives a tribromo derivative\nC7H5OBr3. The compound is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q040-stem0.png",
+    "w": 504,
+    "h": 206
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "o-cresol",
+    "img": {
+     "src": "chemistry-2022/q040-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "m-cresol",
+    "img": {
+     "src": "chemistry-2022/q040-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p-cresol",
+    "img": {
+     "src": "chemistry-2022/q040-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "benzyl alcohol",
+    "img": {
+     "src": "chemistry-2022/q040-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q040-sol0.png",
+    "w": 639,
+    "h": 45
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "molecular formula"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "In Kolbe's reaction the reacting substances are",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q041-stem0.png",
+    "w": 504,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "phenol and CCl4",
+    "img": {
+     "src": "chemistry-2022/q041-optA.png",
+     "w": 475,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "sodium phenolate and CCl4",
+    "img": {
+     "src": "chemistry-2022/q041-optB.png",
+     "w": 474,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "phenol and CHCl3",
+    "img": {
+     "src": "chemistry-2022/q041-optC.png",
+     "w": 475,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "sodium phenolate and CO2",
+    "img": {
+     "src": "chemistry-2022/q041-optD.png",
+     "w": 473,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "In the Kolbes reaction the reacting substances\nare sodium phenolate and CO2. The reaction\ninvolve are as follows",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q041-sol0.png",
+    "w": 591,
+    "h": 309
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "kolbe's reaction",
+   "phenol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The major product obtained when ethanol is\nheated with excess of conc. H2SO4 at 443 K is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q042-stem0.png",
+    "w": 504,
+    "h": 124
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "ethyne",
+    "img": {
+     "src": "chemistry-2022/q042-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "ethane",
+    "img": {
+     "src": "chemistry-2022/q042-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "methane",
+    "img": {
+     "src": "chemistry-2022/q042-optC.png",
+     "w": 174,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "ethene",
+    "img": {
+     "src": "chemistry-2022/q042-optD.png",
+     "w": 233,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The major product obtained when ethanol is\nheated with excess of conc. H2SO4 at 443 K is\nethene. The reaction involve is as follows",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q042-sol0.png",
+    "w": 591,
+    "h": 306
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Among the following, the products formed by\nthe reaction of anisole with HI are",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q043-stem0.png",
+    "w": 504,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "sodium phenate + methanol",
+    "img": {
+     "src": "chemistry-2022/q043-optA.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "benzene + methanol",
+    "img": {
+     "src": "chemistry-2022/q043-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "phenol + methane",
+    "img": {
+     "src": "chemistry-2022/q043-optC.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "phenol + iodomethane",
+    "img": {
+     "src": "chemistry-2022/q043-optD.png",
+     "w": 473,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Phenol and iodomethane are formed by the\nreaction of anisole with HI.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q043-sol0.png",
+    "w": 591,
+    "h": 273
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 20,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "phenol",
+   "methanol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which one of the following chlorohydrocarbon\nreadily undergoes solvolysis ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q044-stem0.png",
+    "w": 504,
+    "h": 128
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q044-optA.png",
+     "w": 475,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q044-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q044-optC.png",
+     "w": 475,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "CH2 = CHCl",
+    "img": {
+     "src": "chemistry-2022/q044-optD.png",
+     "w": 473,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q044-sol0.png",
+    "w": 591,
+    "h": 492
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The general name of the compound formed by\nthe reaction between aldehyde and alcohol is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q045-stem0.png",
+    "w": 509,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "acetal",
+    "img": {
+     "src": "chemistry-2022/q045-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "glycol",
+    "img": {
+     "src": "chemistry-2022/q045-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "acetate",
+    "img": {
+     "src": "chemistry-2022/q045-optC.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "ester",
+    "img": {
+     "src": "chemistry-2022/q045-optD.png",
+     "w": 238,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The general name of the compound formed by\nthe reaction between aldehyde and alcohol is\nacetal. e.g.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q045-sol0.png",
+    "w": 591,
+    "h": 148
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 6,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "glycol",
+   "alcohol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Reaction by which benzaldehyde cannot be\nprepared is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q046-stem0.png",
+    "w": 509,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q046-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q046-optB.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q046-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q046-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q046-sol0.png",
+    "w": 607,
+    "h": 587
+   }
+  ],
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "benzaldehyde"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The test to differentiate between pentan-2-one\nand pentan-3-one is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q047-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Benedict's test",
+    "img": {
+     "src": "chemistry-2022/q047-optA.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Fehling's test",
+    "img": {
+     "src": "chemistry-2022/q047-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "lodoform test",
+    "img": {
+     "src": "chemistry-2022/q047-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Baeyer's test",
+    "img": {
+     "src": "chemistry-2022/q047-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Pentan-2-one gives positive iodoform test\nwhen react with NaOH and I2 and form yellow\nprecipitates of iodoform. While pentan-3-one\ndoes not gives positive iodoform test. The\ninvolved reactions given below :",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q047-sol0.png",
+    "w": 607,
+    "h": 452
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "iodoform"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "In carbylamine test for primary amines the\nresulting foul smelling product is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q048-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "CH3CN",
+    "img": {
+     "src": "chemistry-2022/q048-optA.png",
+     "w": 190,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "CH3NC",
+    "img": {
+     "src": "chemistry-2022/q048-optB.png",
+     "w": 240,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "COCl2",
+    "img": {
+     "src": "chemistry-2022/q048-optC.png",
+     "w": 190,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "CH3NCl2",
+    "img": {
+     "src": "chemistry-2022/q048-optD.png",
+     "w": 238,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "In carbylamine test for primary amines the\nresulting foul smelling product is CH3NC",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q048-sol0.png",
+    "w": 607,
+    "h": 246
+   }
+  ],
+  "chapter": "Amines",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "carbylamine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Ethanoic acid undergoes Hell-Volhard Zelinsky\nreaction but methanoic acid does not, because\nof",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q049-stem0.png",
+    "w": 509,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "presence of -H atom in ethanoic acid",
+    "img": {
+     "src": "chemistry-2022/q049-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "absence of -H atom in ethanoic acid",
+    "img": {
+     "src": "chemistry-2022/q049-optB.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "higher acidic strength of ethanoic acid than\nmethanoic acid",
+    "img": {
+     "src": "chemistry-2022/q049-optC.png",
+     "w": 480,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "presence of -H atom in methanoic acid",
+    "img": {
+     "src": "chemistry-2022/q049-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Ethanoic acid has -H atom, thus it undergoes\nHell-Volhard \nZelinsky \nreaction. \nWhereas\nmethanoic acid does not has -H atom, thus it\ndoes not give this test.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q049-sol0.png",
+    "w": 607,
+    "h": 192
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which of the following is correctly matched?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q050-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Teflon - Caprolactum",
+    "img": {
+     "src": "chemistry-2022/q050-optA.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Bakelite - Novolac",
+    "img": {
+     "src": "chemistry-2022/q050-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Polyester - Tetrafluoroethene",
+    "img": {
+     "src": "chemistry-2022/q050-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Nylon - Acrylonitrile",
+    "img": {
+     "src": "chemistry-2022/q050-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The correct pair in bakelite and novalac. It is\nform by the polymerisation of phenol and\nformaldehyde monomer. While teflon is the\npolymer of tetrafluoroethylene, polyester is\nthe \npolymer \nof \nethyleneglycol \nand\nterephathalic acid and nylon is polymer of\ncaprolactum.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q050-sol0.png",
+    "w": 607,
+    "h": 285
+   }
+  ],
+  "chapter": "Polymers",
+  "chapterScore": 29,
+  "chapterMargin": 25,
+  "chapterHits": [
+   "nylon",
+   "bakelite",
+   "teflon",
+   "polymer",
+   "polymerisation",
+   "monomer"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which institute has approved the emergency\nuse of 2-deoxy-D-glucose as additive therapy\nfor COVID-19 patients?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q051-stem0.png",
+    "w": 509,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "World Health Organisation",
+    "img": {
+     "src": "chemistry-2022/q051-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Ministry of Health and Family Welfare",
+    "img": {
+     "src": "chemistry-2022/q051-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Drug Controller General of India",
+    "img": {
+     "src": "chemistry-2022/q051-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "India Council of Medical Research",
+    "img": {
+     "src": "chemistry-2022/q051-optD.png",
+     "w": 478,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The institute that has approved the emergency\nuse of 2-deoxy-D-glucose as an adjunct\ntherapy for COVID-19 patients is Option C, the\nDrug Controller General of India (DCGI). The\nDCGI is responsible for the regulation of\npharmaceuticals and medical devices in India,\nwhich includes the approval of drugs for use in\nthe country based on evidence of their safety\nand efficacy. The DCGI gave emergency use\nauthorization for 2-deoxy-D-glucose, which is\ndeveloped by the Institute of Nuclear Medicine\nand Allied Sciences (INMAS), a lab of the\nDefence \nResearch \nand \nDevelopment\nOrganisation (DRDO), in collaboration with Dr.\nReddy’s Laboratories in Hyderabad.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q051-sol0.png",
+    "w": 591,
+    "h": 569
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "glucose"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "A nucleic acid, whether DNA or RNA gives on\ncomplete hydrolysis, two purine bases, two\npyrimidine bases, a pentose sugar and\nphosphoric \nacid. \nNucleotides \nwhich \nare\nintermediate \nproducts \nin \nthe \nhydrolysis\ncontain",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q052-stem0.png",
+    "w": 504,
+    "h": 218
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a purine base, pentose sugar and ortho-\nphosphoric acid",
+    "img": {
+     "src": "chemistry-2022/q052-optA.png",
+     "w": 475,
+     "h": 74
+    }
+   },
+   {
+    "letter": "B",
+    "text": "purine or pyrimidine base and ortho-\nphosphoric acid",
+    "img": {
+     "src": "chemistry-2022/q052-optB.png",
+     "w": 474,
+     "h": 75
+    }
+   },
+   {
+    "letter": "C",
+    "text": "purine or pyrimidine base, a pentose sugar\nand ortho-phosphoric acid",
+    "img": {
+     "src": "chemistry-2022/q052-optC.png",
+     "w": 475,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "purine or pyrimidine base and pentose\nsugar",
+    "img": {
+     "src": "chemistry-2022/q052-optD.png",
+     "w": 473,
+     "h": 75
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Three part of nucleotide are ortho phosphoric\nacid, pentose sugar and nitrogenous base\n(purine or pyrimidine base).",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q052-sol0.png",
+    "w": 591,
+    "h": 159
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 13,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "nucleic acid",
+   "dna",
+   "rna",
+   "nucleotide"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "A secondary amine is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q053-stem0.png",
+    "w": 504,
+    "h": 47
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a compound with two carbon atoms and an\nNH2 group",
+    "img": {
+     "src": "chemistry-2022/q053-optA.png",
+     "w": 475,
+     "h": 80
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a compound with an NH2 group on the\ncarbon atom in number 2 position",
+    "img": {
+     "src": "chemistry-2022/q053-optB.png",
+     "w": 474,
+     "h": 81
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a compound in which 2 of the hydrogen of\nNH3 have been replaced by organic group",
+    "img": {
+     "src": "chemistry-2022/q053-optC.png",
+     "w": 475,
+     "h": 79
+    }
+   },
+   {
+    "letter": "D",
+    "text": "an organic compound with two NH2 groups",
+    "img": {
+     "src": "chemistry-2022/q053-optD.png",
+     "w": 473,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "A secondary amine is a compound in which 2\nof the hydrogen of NH3 have been replaced by\norganic group.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q053-sol0.png",
+    "w": 591,
+    "h": 242
+   }
+  ],
+  "chapter": "Amines",
+  "chapterScore": 10,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "secondary amine",
+   "amine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "If wavelength of photon is 2.2 × 10–11 m and h\n= 6.6 × 10–34 J s, then momentum of photon",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q054-stem0.png",
+    "w": 504,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q054-optA.png",
+     "w": 730,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q054-optB.png",
+     "w": 729,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q054-optC.png",
+     "w": 731,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q054-optD.png",
+     "w": 727,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q054-sol0.png",
+    "w": 591,
+    "h": 357
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Elements X, Y and Z have atomic numbers 19,\n37 and 55 respectively. Which of the following\nstatements is true about them?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q055-stem0.png",
+    "w": 509,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Y would have an ionisation potential\nbetween those of X and Z.",
+    "img": {
+     "src": "chemistry-2022/q055-optA.png",
+     "w": 480,
+     "h": 75
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Z would have the highest ionisation\npotential.",
+    "img": {
+     "src": "chemistry-2022/q055-optB.png",
+     "w": 480,
+     "h": 74
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Y would have the highest ionisation\npotential.",
+    "img": {
+     "src": "chemistry-2022/q055-optC.png",
+     "w": 480,
+     "h": 75
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Their ionisation potential would increase\nwith increasing atomic number.",
+    "img": {
+     "src": "chemistry-2022/q055-optD.png",
+     "w": 478,
+     "h": 74
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Elements X, Y and Z with atomic number 19, 37\nand 55 respectively K, Pb and Cs. These\nelements are belongs to group-l of periodic\ntable. On moving down the period in group-l\nionisation potential will decrease down the\ngroup. Thus, the order is X > Y > Z.\nTherefore, statement (a) is correct.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q055-sol0.png",
+    "w": 591,
+    "h": 285
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "periodic table",
+   "period",
+   "group",
+   "down the group"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "In oxygen and carbon molecule the bonding is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q056-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q056-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q056-optB.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q056-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2022/q056-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The bond order of C2 consists of both pi bond\nbecause of the presence of the four electrons\nin two pi molecular orbitals. Whereas in most\nof the other molecules a double bond is made\nup of a sigma bond and a pi bond. Thus,\noption (b) is correct.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q056-sol0.png",
+    "w": 607,
+    "h": 268
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 17,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "bond order",
+   "sigma bond",
+   "pi bond",
+   "bonding"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "Which is most VISCOUS ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q057-stem0.png",
+    "w": 509,
+    "h": 47
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Ethanol",
+    "img": {
+     "src": "chemistry-2022/q057-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Ethylene glycol",
+    "img": {
+     "src": "chemistry-2022/q057-optB.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Glycerol",
+    "img": {
+     "src": "chemistry-2022/q057-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Methanol",
+    "img": {
+     "src": "chemistry-2022/q057-optD.png",
+     "w": 478,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that, higher is the extent of H-\nbonding higher will be the viscosity.\nAmong the given option glycerol has the\nhighest viscosity as in this case 3-OH groups\nare involved in hydrogen bonding which is\ngreater than other ethylene glycol has two and\nboth ethanol and methanol has one - OH\ngroup.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q057-sol0.png",
+    "w": 607,
+    "h": 330
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 24,
+  "chapterMargin": 22,
+  "chapterHits": [
+   "ethanol",
+   "methanol",
+   "glycol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The volume of 2.8 g of CO at 27°C and 0.821\natm pressure is (R = 0.08210 L. atm K mol–1)",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q058-stem0.png",
+    "w": 509,
+    "h": 122
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.5 litres",
+    "img": {
+     "src": "chemistry-2022/q058-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3 litres",
+    "img": {
+     "src": "chemistry-2022/q058-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "30 litres",
+    "img": {
+     "src": "chemistry-2022/q058-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.3 litres",
+    "img": {
+     "src": "chemistry-2022/q058-optD.png",
+     "w": 238,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q058-sol0.png",
+    "w": 607,
+    "h": 45
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "The work done when 2 moles of an ideal gas\nexpands rèversibly and isothermally from a\nvolume of 1 L to 10 L at 300 K is (R = 0.0083 kJ\nK mol–1)",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q059-stem0.png",
+    "w": 509,
+    "h": 158
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5.8 kJ",
+    "img": {
+     "src": "chemistry-2022/q059-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.115 kJ",
+    "img": {
+     "src": "chemistry-2022/q059-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "58.5 kJ",
+    "img": {
+     "src": "chemistry-2022/q059-optC.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "11.5 kJ",
+    "img": {
+     "src": "chemistry-2022/q059-optD.png",
+     "w": 238,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q059-sol0.png",
+    "w": 591,
+    "h": 421
+   }
+  ],
+  "chapter": "States of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ideal gas"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 60,
+  "subject": "Chemistry",
+  "year": 2022,
+  "source": "Chemistry-2022.pdf",
+  "stemText": "An aqueous solution of alcohol contains 18 g\nof water and 414 g of ethyl alcohol. The mole\nfraction of water is",
+  "stemImages": [
+   {
+    "src": "chemistry-2022/q060-stem0.png",
+    "w": 509,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.4",
+    "img": {
+     "src": "chemistry-2022/q060-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.7",
+    "img": {
+     "src": "chemistry-2022/q060-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.9",
+    "img": {
+     "src": "chemistry-2022/q060-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.1",
+    "img": {
+     "src": "chemistry-2022/q060-optD.png",
+     "w": 238,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, amount of ethylalcohol = 414 g\nAmount of water = 18 g\nMolar mass of water = 18\nMolar mass of ethyl alcohol = 46",
+  "solutionImages": [
+   {
+    "src": "chemistry-2022/q060-sol0.png",
+    "w": 591,
+    "h": 181
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 5,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "mole fraction",
+   "solution"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

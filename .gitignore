@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.next-dev/
+.env.local
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Source crops and the OCR cache: large, and rebuildable from the PDFs by the
+# scripts in tools/. The *web* assets under public/questions are committed,
+# because the deployed app serves them.
+/data/*/crops/
+/data/ocr-cache/
+
+# Reference textbooks: large, and third-party copyright.
+/Ref_Books/
+/KCET Question Papers PY/

@@ -1,0 +1,3723 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A block kept on a rough surface starts sliding when the inclination of the surface is ‘θ’ with \nrespect to the horizontal. The coefficient of static friction between the block and the surface \nis",
+  "stemImages": [
+   {
+    "src": "physics-2012/q001-stem0.png",
+    "w": 1254,
+    "h": 100
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "tan θ",
+    "img": {
+     "src": "physics-2012/q001-optA.png",
+     "w": 232,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "cos θ",
+    "img": {
+     "src": "physics-2012/q001-optB.png",
+     "w": 260,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "sec θ",
+    "img": {
+     "src": "physics-2012/q001-optC.png",
+     "w": 248,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "sin θ",
+    "img": {
+     "src": "physics-2012/q001-optD.png",
+     "w": 297,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Laws of Motion",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "static friction",
+   "friction",
+   "block"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Two bodies of masses m1 and m2 are acted upon by a constant force F for a time t. They \nstart from rest and acquire kinetic energies E1 and E2 respectively. Then \n2\n1\nE\nE\n is \nm\nm",
+  "stemImages": [
+   {
+    "src": "physics-2012/q002-stem0.png",
+    "w": 1254,
+    "h": 134
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1\n2\nm\nm",
+    "img": {
+     "src": "physics-2012/q002-optA.png",
+     "w": 232,
+     "h": 65
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "physics-2012/q002-optB.png",
+     "w": 260,
+     "h": 65
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2\n1\n2\n1\nm\nm\nm\nm\n+",
+    "img": {
+     "src": "physics-2012/q002-optC.png",
+     "w": 249,
+     "h": 65
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n1\nm\nm",
+    "img": {
+     "src": "physics-2012/q002-optD.png",
+     "w": 297,
+     "h": 65
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "The X and Y components of a force F acting at 300 to x-axis are respectively \nF\n3\n3\n1\nF\nF",
+  "stemImages": [
+   {
+    "src": "physics-2012/q003-stem0.png",
+    "w": 1254,
+    "h": 61
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2\nF , 2\n3 F",
+    "img": {
+     "src": "physics-2012/q003-optA.png",
+     "w": 232,
+     "h": 69
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2\n3 F, 2\n1 F",
+    "img": {
+     "src": "physics-2012/q003-optB.png",
+     "w": 260,
+     "h": 69
+    }
+   },
+   {
+    "letter": "C",
+    "text": "F, \n2\nF",
+    "img": {
+     "src": "physics-2012/q003-optC.png",
+     "w": 249,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\nF\n, F",
+    "img": {
+     "src": "physics-2012/q003-optD.png",
+     "w": 297,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Spheres of iron and lead having same mass are completely immersed in water. Density of \nlead is more than that of iron. Apparent loss of weight is W1for iron sphere and W2 for lead \nsphere. Then \n2\n1\nW\nW is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q004-stem0.png",
+    "w": 1254,
+    "h": 140
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "between 0 and 1",
+    "img": {
+     "src": "physics-2012/q004-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "= 0",
+    "img": {
+     "src": "physics-2012/q004-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "> 1",
+    "img": {
+     "src": "physics-2012/q004-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "= 1",
+    "img": {
+     "src": "physics-2012/q004-optD.png",
+     "w": 296,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A hot body is allowed to cool. The surrounding temperature is constant at 300 C. The body \ntakes time t1 to cool from 900 C to 890 C and time t2 to cool from 600 C to 59.50 C. Then, \nt",
+  "stemImages": [
+   {
+    "src": "physics-2012/q005-stem0.png",
+    "w": 1254,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "t2 = 2\nt1",
+    "img": {
+     "src": "physics-2012/q005-optA.png",
+     "w": 232,
+     "h": 57
+    }
+   },
+   {
+    "letter": "B",
+    "text": "t2 = 4t1",
+    "img": {
+     "src": "physics-2012/q005-optB.png",
+     "w": 260,
+     "h": 57
+    }
+   },
+   {
+    "letter": "C",
+    "text": "t2 = t1",
+    "img": {
+     "src": "physics-2012/q005-optC.png",
+     "w": 248,
+     "h": 57
+    }
+   },
+   {
+    "letter": "D",
+    "text": "t2 = 2t1",
+    "img": {
+     "src": "physics-2012/q005-optD.png",
+     "w": 297,
+     "h": 57
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A particle executes SHM with amplitude 0.2 m and time period 24 s. The time required for it \nto move from the mean position to a point 0.1 m from the mean position is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q006-stem0.png",
+    "w": 1254,
+    "h": 69
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3 s",
+    "img": {
+     "src": "physics-2012/q006-optA.png",
+     "w": 232,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p\np\n8 s",
+    "img": {
+     "src": "physics-2012/q006-optB.png",
+     "w": 260,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p\n12 s",
+    "img": {
+     "src": "physics-2012/q006-optC.png",
+     "w": 248,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2 s",
+    "img": {
+     "src": "physics-2012/q006-optD.png",
+     "w": 296,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Oscillations",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "shm",
+   "amplitude",
+   "mean position"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "White light is incident normally on a glass slab. Inside the glass slab,",
+  "stemImages": [
+   {
+    "src": "physics-2012/q007-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\ny\ng\ng\nviolet light travels faster then other colours",
+    "img": {
+     "src": "physics-2012/q007-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\nyellow light travels faster than other colours",
+    "img": {
+     "src": "physics-2012/q007-optB.png",
+     "w": 1147,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "y\ng\nall colours travel with the same speed",
+    "img": {
+     "src": "physics-2012/q007-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p\nred light travels faster than other colours",
+    "img": {
+     "src": "physics-2012/q007-optD.png",
+     "w": 1147,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Two thin plano-convex lenses each of focal length f are placed as shown in the figure. The \nratio of their effective focal lengths in the three cases is \n \n \n \n \n \n \n \n \n \n(i) \n(ii) \n(iii)",
+  "stemImages": [
+   {
+    "src": "physics-2012/q008-stem0.png",
+    "w": 1254,
+    "h": 356
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1 : 2 : 1",
+    "img": {
+     "src": "physics-2012/q008-optA.png",
+     "w": 232,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1 : 1 : 1",
+    "img": {
+     "src": "physics-2012/q008-optB.png",
+     "w": 260,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3 : 2 : 1",
+    "img": {
+     "src": "physics-2012/q008-optC.png",
+     "w": 248,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1 : 2 : 3",
+    "img": {
+     "src": "physics-2012/q008-optD.png",
+     "w": 296,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "focal length",
+   "convex"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "If the two slits in Young’s double slit experiment are of unequal width, then",
+  "stemImages": [
+   {
+    "src": "physics-2012/q009-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\np\nq\nthe bright fringes will have unequal brightness",
+    "img": {
+     "src": "physics-2012/q009-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\ng\nq\ng\nthe fringes do not appear",
+    "img": {
+     "src": "physics-2012/q009-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "g\npp\nthe dark fringes are not perfectly dark",
+    "img": {
+     "src": "physics-2012/q009-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "g\np\ny\nthe bright fringes will have unequal spacing",
+    "img": {
+     "src": "physics-2012/q009-optD.png",
+     "w": 1147,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Wave Optics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "slit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "The phenomenon of polarization shows that light has ............ nature",
+  "stemImages": [
+   {
+    "src": "physics-2012/q010-stem0.png",
+    "w": 1254,
+    "h": 40
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\np\ntransverse",
+    "img": {
+     "src": "physics-2012/q010-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "longitudinal",
+    "img": {
+     "src": "physics-2012/q010-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "dual",
+    "img": {
+     "src": "physics-2012/q010-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "particle",
+    "img": {
+     "src": "physics-2012/q010-optD.png",
+     "w": 296,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "polarization"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n11. \nAcceleration of a charged particle of charge ‘q’ and mass ‘m’ moving in a uniform electric \nfield of strength ‘E’ is \nE",
+  "stemImages": [
+   {
+    "src": "physics-2012/q011-stem0.png",
+    "w": 1254,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "qE\nm",
+    "img": {
+     "src": "physics-2012/q011-optA.png",
+     "w": 232,
+     "h": 63
+    }
+   },
+   {
+    "letter": "B",
+    "text": "mqE",
+    "img": {
+     "src": "physics-2012/q011-optB.png",
+     "w": 260,
+     "h": 63
+    }
+   },
+   {
+    "letter": "C",
+    "text": "mE\nq",
+    "img": {
+     "src": "physics-2012/q011-optC.png",
+     "w": 248,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "m\nqE",
+    "img": {
+     "src": "physics-2012/q011-optD.png",
+     "w": 297,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge",
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n12. \nTwo fixed charges A and B of 5 μ C each are separated by a distance of 6 m. C is the mid \npoint of the line joining A and B. A charge ‘Q’ of -5 μ C is shot perpendicular to the line \njoining A and B through C with a kinetic energy of 0.06 J. The charge ‘Q’ comes to rest at a \npoint D. The distance CD is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q012-stem0.png",
+    "w": 1254,
+    "h": 136
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3 m",
+    "img": {
+     "src": "physics-2012/q012-optA.png",
+     "w": 232,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3\n3 m",
+    "img": {
+     "src": "physics-2012/q012-optB.png",
+     "w": 260,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4 m",
+    "img": {
+     "src": "physics-2012/q012-optC.png",
+     "w": 248,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3 m",
+    "img": {
+     "src": "physics-2012/q012-optD.png",
+     "w": 297,
+     "h": 48
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n13. \nA capacitor of capacitance 10 μ F is charged to 10 V. The energy stored in it is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q013-stem0.png",
+    "w": 1254,
+    "h": 40
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\np\n500 μ J",
+    "img": {
+     "src": "physics-2012/q013-optA.png",
+     "w": 232,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "μ\ng\n1000 μ J",
+    "img": {
+     "src": "physics-2012/q013-optB.png",
+     "w": 260,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "gy\n1 μ J \nf) 100 μ J",
+    "img": {
+     "src": "physics-2012/q013-optC.png",
+     "w": 582,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "capacitance",
+   "capacitor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n14. \nWhich of the following graphs correctly represents the variation of heat energy (U) produced \nin a metallic conductor in a given time as a function of potential difference (V) across the \nconductor?",
+  "stemImages": [
+   {
+    "src": "physics-2012/q014-stem0.png",
+    "w": 1254,
+    "h": 99
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "V\nU\nO",
+    "img": {
+     "src": "physics-2012/q014-optA.png",
+     "w": 232,
+     "h": 254
+    }
+   },
+   {
+    "letter": "B",
+    "text": "V\nU\nO",
+    "img": {
+     "src": "physics-2012/q014-optB.png",
+     "w": 260,
+     "h": 254
+    }
+   },
+   {
+    "letter": "C",
+    "text": "V\nU\nO",
+    "img": {
+     "src": "physics-2012/q014-optC.png",
+     "w": 248,
+     "h": 254
+    }
+   },
+   {
+    "letter": "D",
+    "text": "V\nU\nO",
+    "img": {
+     "src": "physics-2012/q014-optD.png",
+     "w": 297,
+     "h": 254
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "potential difference",
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A current of 2 A is passing through a metal wire of cross sectional area 2 x 106 m2. If the \nnumber density of free electrons in the wire is 5 x 1026 m-3, the drift speed of electrons is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q015-stem0.png",
+    "w": 1254,
+    "h": 70
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "40\n1 ms-1",
+    "img": {
+     "src": "physics-2012/q015-optA.png",
+     "w": 232,
+     "h": 60
+    }
+   },
+   {
+    "letter": "B",
+    "text": "80\n1 ms-1",
+    "img": {
+     "src": "physics-2012/q015-optB.png",
+     "w": 260,
+     "h": 60
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p\n1\n1\n1",
+    "img": {
+     "src": "physics-2012/q015-optC.png",
+     "w": 864,
+     "h": 54
+    }
+   },
+   {
+    "letter": "D",
+    "text": "16\n1 ms-1",
+    "img": {
+     "src": "physics-2012/q015-optD.png",
+     "w": 297,
+     "h": 60
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Magnetic field at a distance r from an infinitely long straight conductor carrying a steady \ncurrent varies as \n1\n1\n1\n1",
+  "stemImages": [
+   {
+    "src": "physics-2012/q016-stem0.png",
+    "w": 1254,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "r\n1",
+    "img": {
+     "src": "physics-2012/q016-optA.png",
+     "w": 232,
+     "h": 69
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3\nr\n1",
+    "img": {
+     "src": "physics-2012/q016-optB.png",
+     "w": 260,
+     "h": 69
+    }
+   },
+   {
+    "letter": "C",
+    "text": "r\n1",
+    "img": {
+     "src": "physics-2012/q016-optC.png",
+     "w": 249,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\nr\n1",
+    "img": {
+     "src": "physics-2012/q016-optD.png",
+     "w": 297,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In the loop shown, the magnetic induction at the point ‘O’ is \n \n \n \n \n \n \n \n \nI\n⎞\n⎛\nR\nR\nI\n⎞\n⎛\nR\nR\nI\n⎞\n⎛\nR\nR\nO• \nR2 \nR1 \nI",
+  "stemImages": [
+   {
+    "src": "physics-2012/q017-stem0.png",
+    "w": 1254,
+    "h": 310
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8\nI\n0\nμ\n \n⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛\n+\n2\n1\n2\n1\nR\nR\nR\nR",
+    "img": {
+     "src": "physics-2012/q017-optA.png",
+     "w": 232,
+     "h": 67
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8\nI\n0\nμ\n \n⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛\n+\n2\n1\n2\n1\nR\nR\nR\nR",
+    "img": {
+     "src": "physics-2012/q017-optB.png",
+     "w": 260,
+     "h": 67
+    }
+   },
+   {
+    "letter": "C",
+    "text": "zero",
+    "img": {
+     "src": "physics-2012/q017-optC.png",
+     "w": 248,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "8\nI\n0\nμ\n \n⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛\n−\n2\n1\n2\n1\nR\nR\nR\nR",
+    "img": {
+     "src": "physics-2012/q017-optD.png",
+     "w": 297,
+     "h": 67
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n18. \nAn α-particle and a proton moving with the same kinetic energy enter a region of uniform \nmagnetic field at right angles to the field. The ratio of the radii of the paths of α-particle to \nthat of the proton is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q018-stem0.png",
+    "w": 1254,
+    "h": 99
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\n1 : 2",
+    "img": {
+     "src": "physics-2012/q018-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1 : 4",
+    "img": {
+     "src": "physics-2012/q018-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1 : 8",
+    "img": {
+     "src": "physics-2012/q018-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1 : 1",
+    "img": {
+     "src": "physics-2012/q018-optD.png",
+     "w": 296,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n19. \nDirection of current induced in a wire moving in a magnetic field is found using",
+  "stemImages": [
+   {
+    "src": "physics-2012/q019-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\nFleming’s right hand rule",
+    "img": {
+     "src": "physics-2012/q019-optA.png",
+     "w": 530,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\ng\nAmpere’s rule",
+    "img": {
+     "src": "physics-2012/q019-optB.png",
+     "w": 580,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "g\ng\nRight hand clasp rule",
+    "img": {
+     "src": "physics-2012/q019-optC.png",
+     "w": 532,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p\nFleming’s left hand rule",
+    "img": {
+     "src": "physics-2012/q019-optD.png",
+     "w": 580,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n20. \nAn ideal resistance R, ideal inductance L, ideal capacitance C and AC volt meters V1 – V2, V3 \nand V4 are connected to an AC source as shown. At resonance, \n \n \n \n \n \n \n \n \n \n \n \n \n \n•\n•\n•\n•\n•\n•\n~ \nV4 \nV1 \nV2 \nV3 \nR \nL \nC",
+  "stemImages": [
+   {
+    "src": "physics-2012/q020-stem0.png",
+    "w": 1254,
+    "h": 499
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "reading in V1 = reading in V2",
+    "img": {
+     "src": "physics-2012/q020-optA.png",
+     "w": 530,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "reading in V2 = reading in V4",
+    "img": {
+     "src": "physics-2012/q020-optB.png",
+     "w": 580,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "g\ng\nreading in V2 = reading in V3",
+    "img": {
+     "src": "physics-2012/q020-optC.png",
+     "w": 532,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "g\ng\nreading in V3 = reading in V1",
+    "img": {
+     "src": "physics-2012/q020-optD.png",
+     "w": 580,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "capacitance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "X-rays, gamma rays and microwaves traveling in vacuum have",
+  "stemImages": [
+   {
+    "src": "physics-2012/q021-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y\ng\ny\nsame frequency but different velocities",
+    "img": {
+     "src": "physics-2012/q021-optA.png",
+     "w": 530,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "same velocity but different wavelengths",
+    "img": {
+     "src": "physics-2012/q021-optB.png",
+     "w": 580,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "q\ny\nsame velocity and same frequency",
+    "img": {
+     "src": "physics-2012/q021-optC.png",
+     "w": 532,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "y\ng\nsame wavelengths but different velocities",
+    "img": {
+     "src": "physics-2012/q021-optD.png",
+     "w": 580,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "gamma rays",
+   "x-rays"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n22. \nIf n is the orbit number of the electron in a hydrogen atom, the correct statement among \nthe following is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q022-stem0.png",
+    "w": 1254,
+    "h": 70
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\nhydrogen emits infrared rays for the electron transition from n = ∞ to n = 1.",
+    "img": {
+     "src": "physics-2012/q022-optA.png",
+     "w": 1147,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "y\ng\ny\nelectron energy is zero for n = 1",
+    "img": {
+     "src": "physics-2012/q022-optB.png",
+     "w": 1147,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "gy\nelectron energy varies as n2",
+    "img": {
+     "src": "physics-2012/q022-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "gy\nelectron energy increases as n increases",
+    "img": {
+     "src": "physics-2012/q022-optD.png",
+     "w": 1147,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "infrared"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n23. \nIn Ruby laser, the colour of laser light is due to .... Atom",
+  "stemImages": [
+   {
+    "src": "physics-2012/q023-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y\nAluminium",
+    "img": {
+     "src": "physics-2012/q023-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\nXenon",
+    "img": {
+     "src": "physics-2012/q023-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Chromium",
+    "img": {
+     "src": "physics-2012/q023-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Oxygen",
+    "img": {
+     "src": "physics-2012/q023-optD.png",
+     "w": 296,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "( )\n24. \nThe radius of 29Cu64 nucleus in Fermi is (given R0 = 1.2 x 10-15 m)",
+  "stemImages": [
+   {
+    "src": "physics-2012/q024-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "9\n1.2",
+    "img": {
+     "src": "physics-2012/q024-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(g\n7.7",
+    "img": {
+     "src": "physics-2012/q024-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0\n)\n9.6",
+    "img": {
+     "src": "physics-2012/q024-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4.8",
+    "img": {
+     "src": "physics-2012/q024-optD.png",
+     "w": 296,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nucleus"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In a radioactive decay, an element ZXA emits four α-particles, three β-particles and eight \ngamma photons. The atomic number and mass number of the resulting final nucleus are",
+  "stemImages": [
+   {
+    "src": "physics-2012/q025-stem0.png",
+    "w": 1254,
+    "h": 70
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\nZ – 5, A – 13",
+    "img": {
+     "src": "physics-2012/q025-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Z – 5, A – 16",
+    "img": {
+     "src": "physics-2012/q025-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Z – 8, A – 13",
+    "img": {
+     "src": "physics-2012/q025-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "g\nZ – 11, A – 16",
+    "img": {
+     "src": "physics-2012/q025-optD.png",
+     "w": 297,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Nuclei",
+  "chapterScore": 11,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "radioactive decay",
+   "mass number",
+   "nucleus",
+   "radioactive",
+   "gamma"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "For a transistor, β = 100. The value of α is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q026-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "β\n0.99",
+    "img": {
+     "src": "physics-2012/q026-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "100",
+    "img": {
+     "src": "physics-2012/q026-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.01",
+    "img": {
+     "src": "physics-2012/q026-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.01",
+    "img": {
+     "src": "physics-2012/q026-optD.png",
+     "w": 297,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "transistor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "The following truth table with A and B as inputs in for ......... gate. \n \n \nA \nB \nOutput \n1 \n0 \n1 \n1 \n1 \n0 \n0 \n1 \n1 \n0 \n0 \n0",
+  "stemImages": [
+   {
+    "src": "physics-2012/q027-stem0.png",
+    "w": 1254,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "OR",
+    "img": {
+     "src": "physics-2012/q027-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "XOR",
+    "img": {
+     "src": "physics-2012/q027-optB.png",
+     "w": 259,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "NOR",
+    "img": {
+     "src": "physics-2012/q027-optC.png",
+     "w": 249,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "AND",
+    "img": {
+     "src": "physics-2012/q027-optD.png",
+     "w": 297,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "nor",
+   "truth table"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "‘n’ photons of wavelength ‘λ’ are absorbed by a black body of mass ‘m’. The momentum \ngained by the body is \nh\nh\nh\nh",
+  "stemImages": [
+   {
+    "src": "physics-2012/q028-stem0.png",
+    "w": 1254,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "λ\nmnh",
+    "img": {
+     "src": "physics-2012/q028-optA.png",
+     "w": 232,
+     "h": 60
+    }
+   },
+   {
+    "letter": "B",
+    "text": "λ\nm\nnh",
+    "img": {
+     "src": "physics-2012/q028-optB.png",
+     "w": 260,
+     "h": 60
+    }
+   },
+   {
+    "letter": "C",
+    "text": "λ\nnh",
+    "img": {
+     "src": "physics-2012/q028-optC.png",
+     "w": 249,
+     "h": 60
+    }
+   },
+   {
+    "letter": "D",
+    "text": "λ\nm\nh",
+    "img": {
+     "src": "physics-2012/q028-optD.png",
+     "w": 297,
+     "h": 60
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "black body"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A radioactive nucleus has specific binding energy ‘E1’. It emits an α-particle. The resulting \nnucleus has specific binding energy ‘E2’. Then",
+  "stemImages": [
+   {
+    "src": "physics-2012/q029-stem0.png",
+    "w": 1254,
+    "h": 70
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\nE2 < E1",
+    "img": {
+     "src": "physics-2012/q029-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\ngy\nE2 > E1",
+    "img": {
+     "src": "physics-2012/q029-optB.png",
+     "w": 260,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "E2 = 0",
+    "img": {
+     "src": "physics-2012/q029-optC.png",
+     "w": 248,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "E2 = E1",
+    "img": {
+     "src": "physics-2012/q029-optD.png",
+     "w": 297,
+     "h": 39
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Nuclei",
+  "chapterScore": 11,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "binding energy",
+   "nucleus",
+   "radioactive"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "The dimensional formula of physical quantity is Ma Lb Tc. Then that physical quantity is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q030-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p y\nq\ny\np y\nq\ny\nforce if a = 1, b = 1, c = 2",
+    "img": {
+     "src": "physics-2012/q030-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "angular frequency if a = 0, b = 0, c = -1",
+    "img": {
+     "src": "physics-2012/q030-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "g\nq\ny\n spring constant if a = 1, b = - 1, c = - 2",
+    "img": {
+     "src": "physics-2012/q030-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p\ng\nsurface tension if a = 1, b = 1, c = - 2",
+    "img": {
+     "src": "physics-2012/q030-optD.png",
+     "w": 1147,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Units and Measurements",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "dimensional formula"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A person throws balls into air vertically upward in regular intervals of time of one second. \nThe next ball is thrown when the velocity of the ball thrown earlier becomes zero. The height \nto which the balls rise is \n(Assume , g = 10 ms-2)",
+  "stemImages": [
+   {
+    "src": "physics-2012/q031-stem0.png",
+    "w": 1254,
+    "h": 99
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10 m",
+    "img": {
+     "src": "physics-2012/q031-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "7.5 m",
+    "img": {
+     "src": "physics-2012/q031-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "g\n20 m",
+    "img": {
+     "src": "physics-2012/q031-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5 m",
+    "img": {
+     "src": "physics-2012/q031-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "The circular motion of a particle with constant speed is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q032-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\nSHM but not periodic",
+    "img": {
+     "src": "physics-2012/q032-optA.png",
+     "w": 529,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p\nperiodic and also SHM",
+    "img": {
+     "src": "physics-2012/q032-optB.png",
+     "w": 580,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p\nneither periodic nor SHM",
+    "img": {
+     "src": "physics-2012/q032-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p\nperiodic but not SHM",
+    "img": {
+     "src": "physics-2012/q032-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Oscillations",
+  "chapterScore": 15,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "shm",
+   "periodic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A planet moving around sun sweeps area A1 in 2 days, A2 in 3 days and A3 in 6 days. Then \nthe relation between A1, A2 and A3 is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q033-stem0.png",
+    "w": 1254,
+    "h": 284
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2 A1 = 3 A2 = 6 A3",
+    "img": {
+     "src": "physics-2012/q033-optA.png",
+     "w": 530,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3 A1 = 2 A2 = 6 A3",
+    "img": {
+     "src": "physics-2012/q033-optB.png",
+     "w": 580,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3\n6 A1 = 3 A2 = 2 A3",
+    "img": {
+     "src": "physics-2012/q033-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3\n 3 A1 = 2 A2 = A3",
+    "img": {
+     "src": "physics-2012/q033-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Gravitation",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "planet"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A, B and C are the three identical conductors but made from different materials. They are \nkept in contact as shown. \n \n \n \n \nTheir thermal conductivities are K, 2K and 2\nK . The free end of A is at 100oC and the free \nend of C is at 0oC. During steady state, the temperature of the junction of A and B is nearly \n________ oC. \n•\n•\n100oC\n0oC\nA\nB\nC",
+  "stemImages": [
+   {
+    "src": "physics-2012/q034-stem0.png",
+    "w": 1254,
+    "h": 306
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "_______\n29",
+    "img": {
+     "src": "physics-2012/q034-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "63",
+    "img": {
+     "src": "physics-2012/q034-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "37",
+    "img": {
+     "src": "physics-2012/q034-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "71",
+    "img": {
+     "src": "physics-2012/q034-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "One mole of an ideal gas is taken from A to B, from B to C and then back to A. The variation \nof its volume with temperature for that change is as shown. Its pressure at A is P0, volume \nis V0. Then, the internal energy \n \nA",
+  "stemImages": [
+   {
+    "src": "physics-2012/q035-stem0.png",
+    "w": 1254,
+    "h": 135
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "V\nA \nat C is less than at B",
+    "img": {
+     "src": "physics-2012/q035-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "V \nat B is more than at A",
+    "img": {
+     "src": "physics-2012/q035-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "at A and B are equal",
+    "img": {
+     "src": "physics-2012/q035-optC.png",
+     "w": 1149,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "B \nC\nq\nat A is more than at B",
+    "img": {
+     "src": "physics-2012/q035-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Kinetic Theory",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ideal gas",
+   "mole"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Which of the following is incorrect?",
+  "stemImages": [
+   {
+    "src": "physics-2012/q036-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\nIf the wave is mechanical, it may OR may not be a transverse wave.",
+    "img": {
+     "src": "physics-2012/q036-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "y\ny\nMechanical waves cannot propagate in vacuum.",
+    "img": {
+     "src": "physics-2012/q036-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p\np g\n‘Diffraction’ helps us to distinguish between sound wave and light wave.",
+    "img": {
+     "src": "physics-2012/q036-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p\ng\ng\nIf the wave is longitudinal, it must be a mechanical wave.",
+    "img": {
+     "src": "physics-2012/q036-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Waves",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "transverse wave",
+   "sound"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Intensity level of sound whose intensity is 10-8 wm-2 is _________ dB",
+  "stemImages": [
+   {
+    "src": "physics-2012/q037-stem0.png",
+    "w": 1254,
+    "h": 40
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y\n4",
+    "img": {
+     "src": "physics-2012/q037-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "y\n40",
+    "img": {
+     "src": "physics-2012/q037-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "_________\n80",
+    "img": {
+     "src": "physics-2012/q037-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "8",
+    "img": {
+     "src": "physics-2012/q037-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Waves",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sound"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A point source of light is kept below the surface of water (nw = 4/3) at a depth of 7 m. The \nradius of the circular bright patch of light noticed on the surface of water is _______ m. \n7\n3",
+  "stemImages": [
+   {
+    "src": "physics-2012/q038-stem0.png",
+    "w": 1254,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "physics-2012/q038-optA.png",
+     "w": 232,
+     "h": 67
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3\n7",
+    "img": {
+     "src": "physics-2012/q038-optB.png",
+     "w": 260,
+     "h": 67
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7",
+    "img": {
+     "src": "physics-2012/q038-optC.png",
+     "w": 248,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7\n3",
+    "img": {
+     "src": "physics-2012/q038-optD.png",
+     "w": 297,
+     "h": 67
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A monochromatic beam of light is travelling from medium A of refractive index n1 to a \nmedium B of refractive index n2. In the medium A, there are x number of waves in certain \ndistance. In the medium B, there are y number of waves in the same distance. Then, \nrefractive index of medium A with respect to medium B is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q039-stem0.png",
+    "w": 1254,
+    "h": 149
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y\nx",
+    "img": {
+     "src": "physics-2012/q039-optA.png",
+     "w": 232,
+     "h": 68
+    }
+   },
+   {
+    "letter": "B",
+    "text": "x\ny\nx\n−",
+    "img": {
+     "src": "physics-2012/q039-optB.png",
+     "w": 260,
+     "h": 68
+    }
+   },
+   {
+    "letter": "C",
+    "text": "y\nx",
+    "img": {
+     "src": "physics-2012/q039-optC.png",
+     "w": 249,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "x\ny",
+    "img": {
+     "src": "physics-2012/q039-optD.png",
+     "w": 297,
+     "h": 68
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In Young’s double slit experiment, fringes of width β are produced on a screen kept at a \ndistance of 1m from the slit. When the screen is moved away by 5 x 10-2 m, fringe width \nchanges by 3 x 10-5 m. The separation between the slits is 1 x 10-3 m. The wavelength of \nthe light used is ____ nm.",
+  "stemImages": [
+   {
+    "src": "physics-2012/q040-stem0.png",
+    "w": 1254,
+    "h": 129
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\n____\n600",
+    "img": {
+     "src": "physics-2012/q040-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "700",
+    "img": {
+     "src": "physics-2012/q040-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "400",
+    "img": {
+     "src": "physics-2012/q040-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "500",
+    "img": {
+     "src": "physics-2012/q040-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Wave Optics",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "fringe width",
+   "slit",
+   "fringe"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "For sustained inference fringes in double slit experiment, essential condition/s is/are",
+  "stemImages": [
+   {
+    "src": "physics-2012/q041-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\np\nsources must be coherent",
+    "img": {
+     "src": "physics-2012/q041-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "the intensities of the two sources must be equal \nere, the correct option/s is/are",
+    "img": {
+     "src": "physics-2012/q041-optB.png",
+     "w": 1147,
+     "h": 75
+    }
+   },
+   {
+    "letter": "C",
+    "text": "neither",
+    "img": {
+     "src": "physics-2012/q041-optC.png",
+     "w": 94,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "both",
+    "img": {
+     "src": "physics-2012/q041-optD.png",
+     "w": 63,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Wave Optics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "slit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In single slit experiment, the width of the slit is reduced. Then, the linear width of the \nprincipal maxima ________",
+  "stemImages": [
+   {
+    "src": "physics-2012/q042-stem0.png",
+    "w": 1254,
+    "h": 70
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\n________\ndecreases but becomes more bright",
+    "img": {
+     "src": "physics-2012/q042-optA.png",
+     "w": 1147,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\nincreases but becomes more bright",
+    "img": {
+     "src": "physics-2012/q042-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "g\ndecreases but becomes less bright",
+    "img": {
+     "src": "physics-2012/q042-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "g\nincreases but becomes less bright",
+    "img": {
+     "src": "physics-2012/q042-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Wave Optics",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "single slit",
+   "slit"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In the uniform electric field of E = 1 x 104 NC-1, an electron is accelerated from rest. The \nvelocity of the electron when it has travelled a distance of 2 x 10-2 m is nearly ________ \nms-1 ( m\ne of electron ≈ 1.8 x 1011 C kg-1)",
+  "stemImages": [
+   {
+    "src": "physics-2012/q043-stem0.png",
+    "w": 1254,
+    "h": 134
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.85 x 106",
+    "img": {
+     "src": "physics-2012/q043-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.425 x 106",
+    "img": {
+     "src": "physics-2012/q043-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8.5 x 106",
+    "img": {
+     "src": "physics-2012/q043-optC.png",
+     "w": 249,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.6 x 106",
+    "img": {
+     "src": "physics-2012/q043-optD.png",
+     "w": 297,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "velocity",
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In this diagram, the P.D between A and B is 60 V, the P.D across 6 μF capacitor is ________ \nV \n \n \n \n \n \n \n \n•\n•\nA\nB\n6 μF \n3 μF \n3 μF \n3 μF \n3 μF",
+  "stemImages": [
+   {
+    "src": "physics-2012/q044-stem0.png",
+    "w": 1254,
+    "h": 285
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5",
+    "img": {
+     "src": "physics-2012/q044-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "20",
+    "img": {
+     "src": "physics-2012/q044-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "physics-2012/q044-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10",
+    "img": {
+     "src": "physics-2012/q044-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "capacitor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In this circuit, when certain current flows, the heat produced in 5Ω is 4.05 J in a time t. The \nheat produced in 2Ω coil in the same time interval is \n \n \n \n \n \n \n6Ω \n9Ω\n5Ω\n2Ω",
+  "stemImages": [
+   {
+    "src": "physics-2012/q045-stem0.png",
+    "w": 1254,
+    "h": 285
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.44",
+    "img": {
+     "src": "physics-2012/q045-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2.88",
+    "img": {
+     "src": "physics-2012/q045-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2.02",
+    "img": {
+     "src": "physics-2012/q045-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5.76",
+    "img": {
+     "src": "physics-2012/q045-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "heat"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In this circuit, the value of I2 is \n \n \n \nI2 \nI1 \n1.2 A\n10 Ω \n15 Ω",
+  "stemImages": [
+   {
+    "src": "physics-2012/q046-stem0.png",
+    "w": 1254,
+    "h": 111
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.3 A",
+    "img": {
+     "src": "physics-2012/q046-optA.png",
+     "w": 232,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.4 A \n \n1.2 A",
+    "img": {
+     "src": "physics-2012/q046-optB.png",
+     "w": 877,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.6 A",
+    "img": {
+     "src": "physics-2012/q046-optC.png",
+     "w": 234,
+     "h": 77
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.2 A \nI3\n30 Ω",
+    "img": {
+     "src": "physics-2012/q046-optD.png",
+     "w": 877,
+     "h": 77
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A straight current carrying conductor is kept along the axis of circular loop carrying current. \nThe force exerted by the straight conductor on the loop is ________",
+  "stemImages": [
+   {
+    "src": "physics-2012/q047-stem0.png",
+    "w": 1254,
+    "h": 69
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y\ng\np\n________\nin the plane of the loop, away from the center",
+    "img": {
+     "src": "physics-2012/q047-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p\np\ny\nin the plane of the loop, towards the center",
+    "img": {
+     "src": "physics-2012/q047-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p\np\nzero",
+    "img": {
+     "src": "physics-2012/q047-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "perpendicular to the plane of the loop",
+    "img": {
+     "src": "physics-2012/q047-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "current carrying conductor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A resistor of 500 Ω, an inductance of 0.5 H are in series with an a.c. which is given by \n \nV = 100 2 sin(1000 t). The power factor of the combination is \n1\n1",
+  "stemImages": [
+   {
+    "src": "physics-2012/q048-stem0.png",
+    "w": 1254,
+    "h": 99
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3\n1",
+    "img": {
+     "src": "physics-2012/q048-optA.png",
+     "w": 232,
+     "h": 68
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.5",
+    "img": {
+     "src": "physics-2012/q048-optB.png",
+     "w": 260,
+     "h": 68
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.6",
+    "img": {
+     "src": "physics-2012/q048-optC.png",
+     "w": 248,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n1",
+    "img": {
+     "src": "physics-2012/q048-optD.png",
+     "w": 297,
+     "h": 68
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "power factor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Pick our the WRONG statement.",
+  "stemImages": [
+   {
+    "src": "physics-2012/q049-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "When an electron is shot at right angles to the electric field, it traces a parabolic path.",
+    "img": {
+     "src": "physics-2012/q049-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\ng\np\np\nAn electron moving in the direction of the electric field gains K.E",
+    "img": {
+     "src": "physics-2012/q049-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "g\ng\nAn electron at rest experiences no force in the magnetic field",
+    "img": {
+     "src": "physics-2012/q049-optC.png",
+     "w": 1149,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p\ng\nThe gain in the K.E of the electron moving at right angles to the magnetic field is zero",
+    "img": {
+     "src": "physics-2012/q049-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A proton and an alpha particle are accelerated under the same potential difference. The ratio \nof de-Broglie wavelengths of the proton and the alpha particle is \n1",
+  "stemImages": [
+   {
+    "src": "physics-2012/q050-stem0.png",
+    "w": 1254,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8\n1",
+    "img": {
+     "src": "physics-2012/q050-optA.png",
+     "w": 232,
+     "h": 68
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "physics-2012/q050-optB.png",
+     "w": 260,
+     "h": 68
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "physics-2012/q050-optC.png",
+     "w": 248,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "8",
+    "img": {
+     "src": "physics-2012/q050-optD.png",
+     "w": 297,
+     "h": 68
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "potential difference"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Spectrum of sunlight is an example for",
+  "stemImages": [
+   {
+    "src": "physics-2012/q051-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\ng\np\nLine absorption spectrum",
+    "img": {
+     "src": "physics-2012/q051-optA.png",
+     "w": 530,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Continuous emission spectrum",
+    "img": {
+     "src": "physics-2012/q051-optB.png",
+     "w": 580,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p\np\nContinuous absorption spectrum",
+    "img": {
+     "src": "physics-2012/q051-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p\nBand emission spectrum",
+    "img": {
+     "src": "physics-2012/q051-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "In hydrogen atom, electron excites from ground state to higher energy state and its orbit \nvelocity is reduced to 3\n1 rd of its initial value. The radius of the orbit in the ground state is. \nThe radius of the orbit in that higher energy state is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q052-stem0.png",
+    "w": 1254,
+    "h": 169
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3 R",
+    "img": {
+     "src": "physics-2012/q052-optA.png",
+     "w": 232,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "27 R",
+    "img": {
+     "src": "physics-2012/q052-optB.png",
+     "w": 260,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "9 R",
+    "img": {
+     "src": "physics-2012/q052-optC.png",
+     "w": 248,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2 R",
+    "img": {
+     "src": "physics-2012/q052-optD.png",
+     "w": 296,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Atoms",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "ground state",
+   "hydrogen atom",
+   "energy state",
+   "radius of the orbit",
+   "orbit velocity",
+   "electron excites"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Decay constants of two radio-active samples A and B are 15x and 3x respectively. The \nhave equal number of initial nuclei. The ratio of the number of nuclei left in A and B after \ntime \nx\n6\n1 is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q053-stem0.png",
+    "w": 1254,
+    "h": 133
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "e2",
+    "img": {
+     "src": "physics-2012/q053-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "e-1",
+    "img": {
+     "src": "physics-2012/q053-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "e-2",
+    "img": {
+     "src": "physics-2012/q053-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "e",
+    "img": {
+     "src": "physics-2012/q053-optD.png",
+     "w": 297,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Mass numbers of the elements A, B, C and D are 30, 60, 90 and 120 respectively. The \nspecific binding energy of them are 5 MeV, 8.5 MeV, 8 MeV and 7 MeV respectively. Then, in \nwhich of the following reaction/s energy is released?",
+  "stemImages": [
+   {
+    "src": "physics-2012/q054-stem0.png",
+    "w": 1254,
+    "h": 99
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "g\ngy\nD → 2B",
+    "img": {
+     "src": "physics-2012/q054-optA.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "B",
+    "text": "C → B + A",
+    "img": {
+     "src": "physics-2012/q054-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "B → 2A",
+    "img": {
+     "src": "physics-2012/q054-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "( ) (\n only in",
+    "img": {
+     "src": "physics-2012/q054-optD.png",
+     "w": 99,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Nuclei",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "binding energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Copper and germanium are cooled from room temperature to 100 K. Then the resistance of",
+  "stemImages": [
+   {
+    "src": "physics-2012/q055-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "pp\ng\np\nGermanium decreases, copper decreases",
+    "img": {
+     "src": "physics-2012/q055-optA.png",
+     "w": 1147,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "pp\nGermanium increases, copper decreases",
+    "img": {
+     "src": "physics-2012/q055-optB.png",
+     "w": 1147,
+     "h": 39
+    }
+   },
+   {
+    "letter": "C",
+    "text": "pp\nGermanium increases, copper increases",
+    "img": {
+     "src": "physics-2012/q055-optC.png",
+     "w": 1149,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "pp\nGermanium decreases, copper increases",
+    "img": {
+     "src": "physics-2012/q055-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "germanium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "The most stable particle in the Baryon group is",
+  "stemImages": [
+   {
+    "src": "physics-2012/q056-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\nProton",
+    "img": {
+     "src": "physics-2012/q056-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "y\ng\np\nlamda particle",
+    "img": {
+     "src": "physics-2012/q056-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "sigma particle",
+    "img": {
+     "src": "physics-2012/q056-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "neutron",
+    "img": {
+     "src": "physics-2012/q056-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Frequencies of light incident on a system of scattering particles are in the ratio 1 : 2. Then, \nthe intensity of scattered light in a particular direction is _______",
+  "stemImages": [
+   {
+    "src": "physics-2012/q057-stem0.png",
+    "w": 1254,
+    "h": 69
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y\n1 : 2",
+    "img": {
+     "src": "physics-2012/q057-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "g\np\n1 : 8",
+    "img": {
+     "src": "physics-2012/q057-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "_______\n1 : 16",
+    "img": {
+     "src": "physics-2012/q057-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1 : 4",
+    "img": {
+     "src": "physics-2012/q057-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "The ratio of the magnetic dipole moment to the angular momentum of the electron in the 1st \norbit of hydrogen atom is \n2",
+  "stemImages": [
+   {
+    "src": "physics-2012/q058-stem0.png",
+    "w": 1254,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "m\ne",
+    "img": {
+     "src": "physics-2012/q058-optA.png",
+     "w": 232,
+     "h": 61
+    }
+   },
+   {
+    "letter": "B",
+    "text": "e\nm\n2",
+    "img": {
+     "src": "physics-2012/q058-optB.png",
+     "w": 260,
+     "h": 61
+    }
+   },
+   {
+    "letter": "C",
+    "text": "e\nm",
+    "img": {
+     "src": "physics-2012/q058-optC.png",
+     "w": 248,
+     "h": 61
+    }
+   },
+   {
+    "letter": "D",
+    "text": "m\n2\ne",
+    "img": {
+     "src": "physics-2012/q058-optD.png",
+     "w": 297,
+     "h": 61
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angular momentum"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "Milk is an example for",
+  "stemImages": [
+   {
+    "src": "physics-2012/q059-stem0.png",
+    "w": 1254,
+    "h": 39
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p\nfoam",
+    "img": {
+     "src": "physics-2012/q059-optA.png",
+     "w": 232,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "elastic gel",
+    "img": {
+     "src": "physics-2012/q059-optB.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "emulsion",
+    "img": {
+     "src": "physics-2012/q059-optC.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "inelastic gel",
+    "img": {
+     "src": "physics-2012/q059-optD.png",
+     "w": 296,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "Physics-2012.pdf",
+  "stemText": "A body of mass ‘m’ is travelling with a velocity ‘u’. When a constant retarding force ‘F’ is \napplied, it comes to rest after travelling a distance ‘s1’ . If the initial velocity is ‘2u’ , with the \nsame force ‘F’, the distance travelled it comes to rest is ‘s2’. Then",
+  "stemImages": [
+   {
+    "src": "physics-2012/q060-stem0.png",
+    "w": 1254,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "s2 = 2\ns1",
+    "img": {
+     "src": "physics-2012/q060-optA.png",
+     "w": 232,
+     "h": 61
+    }
+   },
+   {
+    "letter": "B",
+    "text": "s2 = s1",
+    "img": {
+     "src": "physics-2012/q060-optB.png",
+     "w": 260,
+     "h": 61
+    }
+   },
+   {
+    "letter": "C",
+    "text": "s2 = 4s1",
+    "img": {
+     "src": "physics-2012/q060-optC.png",
+     "w": 249,
+     "h": 61
+    }
+   },
+   {
+    "letter": "D",
+    "text": "s2 = 2s1",
+    "img": {
+     "src": "physics-2012/q060-optD.png",
+     "w": 297,
+     "h": 61
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "velocity",
+   "distance travelled",
+   "rest"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

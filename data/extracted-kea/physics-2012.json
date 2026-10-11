@@ -1,0 +1,2047 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "1. (1) surface tension ifa=1,b=1,c=-2 (2) force ifa=1,b=1,c=2 (3) angular frequency if a =0,b= 0,c=-1 (4) spring constant ifa=1,b=-1,c=-2",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q001-stem0.png",
+    "w": 1735,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "surface tension"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "2. Apersonthrowsballsinto airverticallyupwardinregularintervalsof timeofonesecond. heighttowhich theballsriseis.... (Assume, g = 10 ms-2) (1) 5m (2) 10m (3) 7.5m (4) 20 m",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q002-stem0.png",
+    "w": 1860,
+    "h": 527
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "The circular motionofaparticlewith constant speed is 3. periodicbut not SHM (1) (2) SHMbutnotperiodic periodic and alsoSHM (3) (4) neitherperiodicnor SHM Aplanet moving around sun sweeps areaA,in 2 days,Ain3days andAin6 days.Then",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q003-stem0.png",
+    "w": 1875,
+    "h": 320
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "shm",
+   "periodic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "4. the relation between A,A and Ais sun 3A,=2A2=A3 (1) (2)2A,=3A2=6A3 (3)3A=2A2=6A3 (4) 6A=3A2=2A3",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q004-stem0.png",
+    "w": 1876,
+    "h": 678
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "5. kept in contact as shown. B C A 100℃ 0°C K Their thermal conductivitiesareK,2Kand ThefreeendofAisat100°Cand thefree 2 end of C is at O°C.During steady state,the temperature of thejunction of A and Bis nearly .... C. (1) 71 (2) 29 (4) 37 (3) 63 One mole of an ideal gas is taken from A to B,from B to C and then back to A.The",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q005-stem0.png",
+    "w": 1869,
+    "h": 790
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Kinetic Theory",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ideal gas",
+   "mole"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "6. volume is Vo.Then,the internal energy B (1) atAismore thanatB (2) at Cis less than atB (3) at Bismore than atA (4) atAandBareequal Which ofthefollowingisincorrect?",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q006-stem0.png",
+    "w": 1859,
+    "h": 790
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "7. (1) If thewaveislongitudinal,it mustbea mechanical wave. (2) If the wave is mechanical,it may OR may not be a transversewave. (3) Mechanical waves cannot propagatein vacuum. Diffraction'helps us to distinguish between soundwave and lightwave. (4)",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q007-stem0.png",
+    "w": 1746,
+    "h": 401
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "diffraction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "8. Intensitylevel of soundwhose intensityis10-8wm-²is....dB (1) 8 (2) 4 (3) 40 (4) 80 A point source of light is kept below the surface of water (nw = 4/3) at a depth of 7 m.",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q008-stem0.png",
+    "w": 1858,
+    "h": 303
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "9. The radius of the circularbright patch of light noticed on the surface of water is....m. 3 (1) √ (2)3 (3) (4) √ 3",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q009-stem0.png",
+    "w": 1858,
+    "h": 499
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "10.A monochromatic beam of light is travelling from medium A of refractive index n to a mediumBofrefractive indexn.In the medium A,there arexnumber ofwaves incertain distance. In the medium B, there are y number of waves in the same distance. Then, refractiveindexofmediumAwithrespecttomediumBis... y (1) x .x (3) (4) y-x y",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q010-stem0.png",
+    "w": 1873,
+    "h": 677
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "(a) sourcesmustbecoherent (b) theintensitiesofthetwosourcesmustbeequal Here, the correct option/s is/are (1) both (a) (b) (2)only (a) (3) only (b) (4) neither (a) nor (b) In single slit experiment,the width of the slit is reduced.Then,the linear width of the",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q012-stem0.png",
+    "w": 1873,
+    "h": 476
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 6,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "single slit",
+   "slit"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "13. principal maxima...... (1) increasesbutbecomeslessbright (2) decreasesbutbecomesmorebright (3) increasesbutbecomesmorebright (4) decreasesbutbecomeslessbright In the uniform electric field of E = 1 × 104 NC-′, an electron is accelerated from rest. The",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q013-stem0.png",
+    "w": 1877,
+    "h": 457
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "14. velocity of the electronwhen it has travelleda distance of2x10-²m is nearly... ...ms-1 ofelectron = 1.8x 10l1 Ckg-1) 1.6 x 106 0.85 × 106 (1) (2) 8.5×106 (3) 0.425 × 106 (4) 15.In this diagram, the P.D. between A and B is 60 V, The P.D. across 6 μF capacitor is ....V",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q014-stem0.png",
+    "w": 1868,
+    "h": 446
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "16.In this circuit,when certain current flows, the heat produced in 5 Q is 4.05 J in a time t. Theheatproducedin2Qcoilin thesame timeintervalis 60 9Ω 20 WW 5Ω (1) 5.76 (2) 1.44 2.88 (3) (4) 2.02",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q016-stem0.png",
+    "w": 1860,
+    "h": 711
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "heat"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "17.In this circuit, the value of Iis 10Q 1.2A 15Q 30Q 0.2 A (1) (2) 0.3A (3) 0.4 A 4） 0.6A A straight current carrying conductor is kept along the axis of circular loop carrying",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q017-stem0.png",
+    "w": 1892,
+    "h": 562
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "current carrying conductor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "18. current.Theforceexerted by thestraightconductorontheloopis (1). perpendicular to the plane of the loop (2) intheplaneoftheloop,awayfromthecenter (3) in theplane oftheloop,towards thecenter (4) zero",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q018-stem0.png",
+    "w": 1887,
+    "h": 389
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "20.Pickout theWRONGstatement. (1) The gain in theK.E.of the electron moving at right angles to the magnetic field is zero. When anelectronis shot at right angles tothe electricfield,it traces aparabolic (2) path. (3) An electron movingin the direction of the electricfieldgainsK.E. (4) An electron atrest experiencesnoforcein themagneticfield.",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q020-stem0.png",
+    "w": 1742,
+    "h": 513
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "magnetic field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "21.A Aproton andanalphaparticle are acceleratedunder the samepotentialdifference.The ratioofde-Brogliewavelengthsoftheprotonandthealphaparticleis 1 (1) √8 (2) (3)",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q021-stem0.png",
+    "w": 1874,
+    "h": 281
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "25. specific binding energy of them are 5 MeV,8.5MeV,8 MeV and 7 MeVrespectively. Then,inwhich of the followingreaction/s energy is released? (a) D→2B C→B+A (b) (c) B→2A only in (a) (2) in (b), (c) (1) (3) in (a), (c) （4) in (a),(b) and (c)",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q025-stem0.png",
+    "w": 1860,
+    "h": 591
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "binding energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "26.Copper and Germanium are cooledfrom room temperature to100K.Then theresistance of (1) Germanium decreases,Copperincreases (2) Germanium decreases,Copper decreases (3) Germaniumincreases,Copper decreases (4) Germanium increases,Copperincreases",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q026-stem0.png",
+    "w": 1742,
+    "h": 402
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "germanium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "27.Themost stableparticlein theBaryon groupis (1) neutron (2) proton (3) lamdaparticle sigma particle (4)",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q027-stem0.png",
+    "w": 1742,
+    "h": 270
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "28. Frequencies of light incident on a system of scattering particles are in the ratio of 1 : 2. Then,the intensity of scattered light in a particular direction is... (1) 1:4 (2)1:2 1:8 (3) (4) 1:16",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q028-stem0.png",
+    "w": 1865,
+    "h": 318
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "29. Theratioof themagneticdipolemoment to the angularmomentum of the electronin the1st orbitofhydrogen atomis e e (1) (2) 2m m 2m m (3) (4) e e",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q029-stem0.png",
+    "w": 1861,
+    "h": 414
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "30.Milkisanexamplefor (1) inelasticgel (2) foam (3) elastic gel (4) emulsion A body of mass‘m’is travelling with a velocity‘u'.When a constant retarding force‘F’is",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q030-stem0.png",
+    "w": 1861,
+    "h": 235
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "31. applied,it comes torest after travelling a distance‘s’.If the initialvelocity is‘2u’,with the same force‘F',the distance travelled beforeit comes torest is‘s'.Then S1 (1) (2) S2=2 (3) S2=S (4) S2 4s A blockkept ona rough surface starts slidingwhen the inclination of the surface is‘O'with",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q031-stem0.png",
+    "w": 1874,
+    "h": 456
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "distance travelled"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "32. respect to thehorizontal.The coefficientof staticfrictionbetween theblock and the surface is sin θ (2) tan0 (1) (3) cOSθ (4) sec0",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q032-stem0.png",
+    "w": 1749,
+    "h": 345
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "33.Two bodies of masses m, and mare acted upon by a constant force F for a time t. They E start from rest and acquirekinetic energies E, and E,respectively.Then E2 1S m m2 (1) (2) m2 m √m,m2",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q033-stem0.png",
+    "w": 1864,
+    "h": 425
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "35. Spheresofironandleadhavingsamemassarecompictclyimmersedinwater.Densityof leadismore than thatofiron.Apparent lossofweightisW,foriron sphere andW,for W lead sphere.Then W 2 (1) =1 (2) betweenOand1 (3) =0 (4). .>1 A hot body is allowed to cool. The surrounding temperature is constant at 30 °C. The body",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q035-stem0.png",
+    "w": 1757,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "36. takes time t, to cool from 90 °C to 89 °C and time t2 to cool from 60 °℃ to 59.5 °C. Then, t (1) t2=2t, ②) (3) t2=4t (4)",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q036-stem0.png",
+    "w": 1757,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "37.Aparticle executesSHMwithamplitude0.2m and timeperiod 24s.Thetimerequiredfor it tomovefromthemeanposition toapointO.1mfrom themeanpositionis (1)2s (2)3 s (3) 8s (4)12s",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q037-stem0.png",
+    "w": 1885,
+    "h": 274
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "38. Whitelight is incidentnormally on aglassslab.Inside theglassslab, (1) redlighttravelsfaster thanothercolours (2) violetlighttravelsfasterthanothercolours (3) yellowlighttravelsfasterthanothercolours (4) allcolours travelwith thesamespeed",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q038-stem0.png",
+    "w": 1771,
+    "h": 346
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "the bright fringes will have unequal spacing.. (1) thebrightfringeswill haveunequal brightness. (2) thefringesdonot appear. (3) the darkfringes arenotperfectly dark. （4） 41.The phenomenon of polarization shows that light has nature.",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q040-stem0.png",
+    "w": 1756,
+    "h": 459
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "polarization"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "）particle (2) (1) transverse (3)longitudinal (4) dual",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q041-stem0.png",
+    "w": 1756,
+    "h": 282
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "42. Acceleration of a charged.particle of charge ‘q’and mass ‘m’ moving in a uniform electric field of strength‘E’is m (2) (1) qE m· (3) mqE (4) mE Two fixedchargesA and Bof 5μCeach are separated by a distanceof 6m.Cis the mid",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q042-stem0.png",
+    "w": 1876,
+    "h": 503
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge",
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "43. point of the line joining A and B.A charge‘Q’of-5 μC is shot perpendicular to the line joining A and B through C with a kinetic energy of 0.06 J. The charge *Q' comes to rest at apoint D.The distance CD is (2) √3 m (1) 3m 3√3 m (4) 4m (3) 44.A capacitor of capacitance 10 μF is charged to10 V. The energy stored in it is",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q043-stem0.png",
+    "w": 1749,
+    "h": 499
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 6,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "(1) 100μJ (2)500 μJ (3) 1000 μJ (4) 1μJ",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q044-stem0.png",
+    "w": 1753,
+    "h": 240
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "Which of the following graphs correctly represents the variation of heat energy (U) 45. produced in a metallic conductor in a given time as a function of potential difference (V) acrosstheconductor?. (1) U U (3)",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q045-stem0.png",
+    "w": 1867,
+    "h": 971
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "potential difference",
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "R,-R uo 1 R,+R (1) (2) 8 R, R2 8 R, R2 Ho I R, R2 (3) （4) Zero",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q048-stem0.png",
+    "w": 1744,
+    "h": 753
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "51. An ideal resistance R, ideal inductance L, ideal capacitance C and AC volt meters V, V2, V and Vare connected to an AC source as shown.At resonance, R C 000 (1) readinginV=readinginV (2) reading inV,=reading inV2 (3) reading in V,= reading in V4 （4) reading in V2 = reading in V3",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q051-stem0.png",
+    "w": 1851,
+    "h": 783
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "capacitance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "52.X-rays, gamma rays and microwaves travelling in vacuum have (1) samewavelengthsbut differentvelocities (2) samefrequencybutdifferentvelocities samevelocitybutdifferentwavelengths (3) (4) samevelocity andsamefrequency",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q052-stem0.png",
+    "w": 1741,
+    "h": 440
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "gamma rays",
+   "x-rays"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "53.If n is the orbit number of the electron in a hydrogen atom,the correct statement among the followingis (1) electron energyincreasesasnincreases (2) hydrogenemitsinfraredraysfor theelectrontransitionfromn=oton=1. (3) electron energy is zero for n =1 electron energy varies as n2. (4)",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q053-stem0.png",
+    "w": 1854,
+    "h": 538
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "54.In aRubylaser,the colourof laser light is due to atom. (1) Oxygen (2) Aluminium (3) Xenon (4) Chromium",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q054-stem0.png",
+    "w": 1741,
+    "h": 253
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "55. The radius of 29Cu64 nucleus in Fermi is (given Ro = 1.2 × 10-15 m) (1) 4.8 (2) 1.2 (3) 7.7 (4) 9.6 In a radioactive decay,an elementzXA emits four α-particles, threeβ-particles and eight",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q055-stem0.png",
+    "w": 1866,
+    "h": 245
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "radioactive decay",
+   "nucleus",
+   "radioactive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2012,
+  "source": "kcet-2012-physics-question-paper.pdf",
+  "stemText": "57.For a transistor,β=100.The value of α is 0.99 (1) 1.01 (2) (3) 100 (4) 0.01",
+  "stemImages": [
+   {
+    "src": "physics-2012-kea/q057-stem0.png",
+    "w": 1742,
+    "h": 203
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "transistor"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

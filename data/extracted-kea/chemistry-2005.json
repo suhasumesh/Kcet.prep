@@ -1,0 +1,1501 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "ignited to convert the carbon monoxide to carbon dioxide. If △H is the enthalpy change and △E is the change in internal energy, then, 1) △H> △E 2) △H<△E 3) △H = △E the relationship depends on the capacity of the vessel 4) The cooling in refrigerator is due to...",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q001-stem0.png",
+    "w": 1959,
+    "h": 500
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "carbon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "2. Reaction of the refrigerator gas 1) Expansion of ice 2) 3) The expansion of the gas in the refrigerator The work of the compressor .",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q002-stem0.png",
+    "w": 1836,
+    "h": 278
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "6. equilibrium, the concentration of HI is found to be 10 mioles. The equilibrium constant for the formation of HI is ... 1)50 2) 15 3) 100 4) 25",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q006-stem0.png",
+    "w": 1931,
+    "h": 370
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "If, in the reaction N, O4 → 2NO2, x is that part of N2 O4 which dissociates, then the number of molecules at equilibrium will be 1)1 2).3 3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q007-stem0.png",
+    "w": 1936,
+    "h": 250
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "equilibrium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "11. For the reaction N2(g)+ O2(g) > 2NO(g), the value of K。 at 800°C is 0.1. When the equilibrium concentrations of both the reactants is 0.5 mol, what is the value of K, at the same temperature ? 1)0.5 2) 0.1 3) 0.01 4) 0.025",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q011-stem0.png",
+    "w": 1917,
+    "h": 405
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "equilibrium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "12. The extent of adsorption of a gas on a solid depends on 1)nature of the gas 2) pressure of the gas 3)temperature of the gas 4) all are correct",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q012-stem0.png",
+    "w": 1804,
+    "h": 267
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "States of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "pressure of the gas"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "13. An emulsifier is a substance which stabilises the emulsion 2) homogenises the emulsion 1) accelerates the dispersion of liquid in liquid 3) coagulates the. emulsion 4）",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q013-stem0.png",
+    "w": 1796,
+    "h": 236
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "emulsion"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "14. Which of the following types of metals form the most efficient catalysts ? alkaline'earth metals 1) alkali metals 2) all the above' 3) transition metals 4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q014-stem0.png",
+    "w": 1796,
+    "h": 248
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "16.' A buffer solution has equal'volumes of 0.2M NH4OH and 0.02 M NH.Cl : The pkb of the base is 5. The pH is .. 1) 10 -2).9 3) 4 4) 7",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q016-stem0.png",
+    "w": 1878,
+    "h": 328
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "buffer solution",
+   "ph",
+   "base"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "The hydrogen electrode is dipped in a solution of pH 3 at 25°C. The potential would be (the 17. value of 2.303 RT/F is 0.059 V) : : 1) 0.177 V 2)0.087V 3)0.059 V : .4)-0.177 V",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q017-stem0.png",
+    "w": 1880,
+    "h": 305
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "ph"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "18. : 20 ml of 0:5 N HCl and 35'ml of 0.1N NaOH are mixed. The resulting solution will :1) be neutral 2) be basic . 3) turn phenolphthalein solution pink 4) turn methyl orange'red",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q018-stem0.png",
+    "w": 1803,
+    "h": 251
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "21. A precipitate of AgCl is formed when equal volumes of the following are mixed. [Ks for AgCl = 10-10］ 1) 10-4 M AgNO, and 10-7 M HCl 2) 10-5 M AgNO, and 10-6 M HCl 4) 10-6 M AgNO and 10-6 M HCl 3) . 10-5 M ·AgNO and 10-4 M HCl Which one of the following defects in the crystals lowers its density ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q021-stem0.png",
+    "w": 1904,
+    "h": 429
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "22. 1） Frenkel defect. 2) Schottky defect 3) F-centres 4) ）Interstitial defect",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q022-stem0.png",
+    "w": 1785,
+    "h": 221
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 11,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "schottky",
+   "frenkel",
+   "defect"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "23. A.radioactive isotope has a half life of 10 days. If today 125 mg is left over, what was its original weight 40 days earlier ? 1) 2g 2) 600 mg. .3) 1g 1.5 g 4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q023-stem0.png",
+    "w": 1898,
+    "h": 305
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "isotope"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "24. Which of the particles cannot be accelerated ? 2) β- particle -1) α-particle 3) Protons 4) Neutrons",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q024-stem0.png",
+    "w": 1803,
+    "h": 243
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "27. In blast furnace, iron oxide is reduced by '1)Hot blast of air .. Carbon monoxide 2) 3) Carbon 4) Silica",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q027-stem0.png",
+    "w": 1823,
+    "h": 242
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "blast furnace"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "28. Which of the following pairs of elements cannot form an alloy ? 1)2 Zn, Cu 2) Fe; Hg Fe, C 4)Hg, Na",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q028-stem0.png",
+    "w": 1817,
+    "h": 276
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "29. Which compound is zero valent metal complex ? [Cu(NH3)]SO4 1） 2) [Pt(NH), Cl2] [Ni (CO)] K, [Fe (CN)] 3) 4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q029-stem0.png",
+    "w": 1939,
+    "h": 297
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "complex"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "30. - Alum is a water purifier because it 1) coagulates the impurities. 2) softens hard water 3) gives taste 4) destroys the pathogenic bacteria (Space for Rough Work) SR - 17",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q030-stem0.png",
+    "w": 1825,
+    "h": 1605
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrogen",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "hard water"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "31. A compound A has a molecular formula C2Cl, OH . It reduces Fehling's solution and on oxidation, gives a monocarboxylic acid B. A can be obtained by the action of chlorine.on ethyl alcohol.. A is .... 2)chloral 1) chloroform methyl chloride monochloro acetic acid 3） 4) Which of the following haloalkanes is most reactive ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q031-stem0.png",
+    "w": 1906,
+    "h": 413
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 5,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "chloroform",
+   "chloride"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "32. 1-chloropropane 2)1-bromopropane 1) 3) 2-chloropropane 4) 2-bromopropane",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q032-stem0.png",
+    "w": 1790,
+    "h": 238
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "33. The reaction in which phenol differs from alcohol is 1) it undergoes esterification with carboxylic acid 2) it reacts with ammonia 3) it forms yellow crystals of iodoform 4) it liberates H, with Na metal",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q033-stem0.png",
+    "w": 1796,
+    "h": 435
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 9,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "phenol",
+   "esterification",
+   "alcohol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "34. An organic compound A containing C, H and O has a pleasant cdour with boiling. point of 78°C. On boiling A with conc. H, SO4, a colourless gas is produced which decolourises. . bromine water and alkaline KMnO, . The organic liquid A is C,H,COOCH3 1) C,HsCl 2) C, H, OH 4) C2H6 3) Which of the following is an amphoteric acid ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q034-stem0.png",
+    "w": 1912,
+    "h": 460
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "36. Benzyl alcohol and sodium benzoate is obtained by the action of sodium hydroxide on benzaldehyde. This reaction is known as ... 1) Perkin's reaction 2)·Cannizzaro'sreaction 3) Sandmeyer's reaction 4) Claisen condensation",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q036-stem0.png",
+    "w": 1771,
+    "h": 307
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "cannizzaro",
+   "benzaldehyde"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "39.Grignard reagent adds to 1) >C=0 2) -C = N 3) >C = s 4) all of the above",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q039-stem0.png",
+    "w": 1783,
+    "h": 292
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "grignard reagent"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "40. Which of the following biomolecules contain a non-transition metal ion ? 1)Vitamin B12 . 2) Chlorophyll 3) Haemoglobin 4) Insulin (Space for Rough Work) SR - 17",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q040-stem0.png",
+    "w": 1784,
+    "h": 1533
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "vitamin"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "41. Three dimensional molecules with cross links are formed in the case of a 1) Thermoplastic 2) Thermosetting plastic Both...* 3) 4)None",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q041-stem0.png",
+    "w": 1772,
+    "h": 271
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "thermoplastic",
+   "thermosetting"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "47. 1) cytosine 2) guanine 3) adenine 4) tyrosine",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q047-stem0.png",
+    "w": 1762,
+    "h": 263
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "50. Among Na+ , Na, Mg and Mg?+ , the largest particle is 1) Mg² 2+ 2) Mg",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q050-stem0.png",
+    "w": 1767,
+    "h": 214
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "51. . Molarity of 0.2 N H2 SO is 1）0.2 2)0.4 3) 0.6 4) 0.1 In the equation of state of an ideal gas PV = n RT , the value of the universal gas constant",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q051-stem0.png",
+    "w": 1895,
+    "h": 241
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "molarity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "54. Activated charcoal is used to remove colouring matter from pure substances. It works by 1) oxidation 2) reduction 3) bleaching adsorption",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q054-stem0.png",
+    "w": 1881,
+    "h": 219
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidation",
+   "reduction"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2005,
+  "source": "kcet-2005-chemistry-question-paper.pdf",
+  "stemText": "56. A gas decolourised by KMnO4 solution but gives no precipitate with ammonical cuprous chloride is ... 1）Ethane 2) Methane . 3) Ethene 4)Acetylene HC - C =CH - CH -CH, is",
+  "stemImages": [
+   {
+    "src": "chemistry-2005-kea/q056-stem0.png",
+    "w": 1927,
+    "h": 357
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ }
+]

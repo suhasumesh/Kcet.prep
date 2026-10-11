@@ -1,0 +1,2526 @@
+[
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 3,
+  "page": 22,
+  "seq": 41,
+  "answer": "C",
+  "stemText": "3. A planet revolves round the Sun in an elliptical orbit. The linear speed of the planet will be maximum at D Sun (a) D (b) B (c) A (d) C (2009)",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0022-q003.png",
+   "w": 645,
+   "h": 568
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 5,
+  "page": 22,
+  "seq": 42,
+  "answer": "C",
+  "stemText": "5. Two satellites of mass m and 9m are orbiting a planet in orbits of radius R. Their periods of revolution will be in the ratio of (a) 9:1 (b) 3:1 (c)1:1 (d) 1:3 (2011)",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0022-q005.png",
+   "w": 645,
+   "h": 251
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0022-q005-s.png",
+    "w": 676,
+    "h": 189
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 6,
+  "page": 22,
+  "seq": 43,
+  "answer": "A",
+  "stemText": "6. A planet moving around sun sweeps area A in 2 days, A, in 3 days and A, in 6 days. Then the relation between A, Az and Ais Ag Sun iiil| A (a) 3A = 2A2 = As (6) 24, = 3A = 6A, (c) 3A, = 2A, = 64, (d) 6A = 3A = 243 (2012)",
+  "year": 2012,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0022-q006.png",
+   "w": 650,
+   "h": 598
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0022-q006-s.png",
+    "w": 616,
+    "h": 274
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 7,
+  "page": 22,
+  "seq": 44,
+  "answer": "A",
+  "stemText": "What is a period of revolution of earth satellite? lgnore the height of satellite above 7. the surface of earth. Given (1) The value of gravitational acceleration 8= 10 ms2 (2) Radius of earth Rg = 6400 km. Take 3.14 (a) 83.73 minutes (b) 85 minutes (c) 90 minutes (d) 156 minutes (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0022-q007.png",
+   "w": 655,
+   "h": 549
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0022-q007-s.png",
+    "w": 701,
+    "h": 674
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 8,
+  "page": 22,
+  "seq": 45,
+  "answer": "B",
+  "stemText": "8. A period of geostationary satellite is (a) 30 h (b) 24 h (c) 48 h (d) 12h (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0022-q008.png",
+   "w": 655,
+   "h": 176
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0022-q008-s.png",
+    "w": 699,
+    "h": 154
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 10,
+  "page": 23,
+  "seq": 46,
+  "answer": "D",
+  "stemText": "10. Variation of acceleration due to gravity (g) with distance x from the centre of the earth is best represented by (R » Radius of the earth) (a) (b) ( (d) (2016)",
+  "year": 2016,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0023-q010.png",
+   "w": 634,
+   "h": 753
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0023-q010-s.png",
+    "w": 725,
+    "h": 605
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 11,
+  "page": 23,
+  "seq": 47,
+  "answer": "C",
+  "stemText": "11. The value of acceleration due to gravity at a depth of 1600 km is equal to [Radius of earth 6400 km] (a) 9.8 m s2 (b) 4.9 m s2 (c) 7.35 m s2 (d) 19.6 ms2 (2017)",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0023-q011.png",
+   "w": 636,
+   "h": 257
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 14,
+  "page": 23,
+  "seq": 48,
+  "answer": "A",
+  "stemText": "14. A mass m on shifted to a target equal to the radius of the Earth. If R is the radius and M is the mass of the Earth, then work done in this process is (a) mgR 2 (b) mgR (c) 2mgR (d) mgR (2018) 4",
+  "year": 2018,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0023-q014.png",
+   "w": 621,
+   "h": 391
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0023-q014-s.png",
+    "w": 740,
+    "h": 233
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 15,
+  "page": 23,
+  "seq": 49,
+  "answer": "B",
+  "stemText": "15. A satellite is orbiting close to the earth and has a kinetic energy K. The minimum extra kinetic energy required by it to just overcome the gravitation pull of the earth is (a) v3K (b) K (c) 2/2K (d) 2K (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0023-q015.png",
+   "w": 621,
+   "h": 347
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0023-q015-s.png",
+    "w": 794,
+    "h": 317
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Gravitation",
+  "number": 16,
+  "page": 23,
+  "seq": 50,
+  "answer": "D",
+  "stemText": "16. The value of acceleration due to gravity ata height of 10 km from the surface of earth is x At what depth inside the earth is the value of the acceleration due to gravity has the same value x? (a) 10 km (b) 15 kmn (c) 5 km (d) 20 km (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c07-p0023-q016.png",
+   "w": 621,
+   "h": 366
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c07-p0023-q016-s.png",
+    "w": 588,
+    "h": 540
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Kinetic Theory",
+  "number": 2,
+  "page": 44,
+  "seq": 84,
+  "answer": "B",
+  "stemText": "2. During an adiabatic process, the cube of the pressure is found to be inversely proportional to the fourth power of the volume. Then the ratio of specific heats is (a) 1 (b) 1.33 (d) 1.4 (c) 1.67 (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c11-p0044-q002.png",
+   "w": 738,
+   "h": 324
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Kinetic Theory",
+  "number": 6,
+  "page": 44,
+  "seq": 85,
+  "answer": "C",
+  "stemText": "6. The mean energy of a molecule gas is (b) (a) kT (d) 2kT (2017) (c)kT ideal gas is increased by",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c11-p0044-q006.png",
+   "w": 775,
+   "h": 377
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 1,
+  "page": 11,
+  "seq": 21,
+  "answer": "B",
+  "stemText": "1. For terrestrial experiments, the observer in an inertial frame in the following cases is (a) a child revolving in a giant wheel (b) a driver in a sports car moving witha constant high speed of 200 kmh-l on a straight rod (c) the pilot of an aeroplane which is taking off (d) a cyclist negotiating a sharp curve. (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0011-q001.png",
+   "w": 709,
+   "h": 540
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0011-q001-s.png",
+    "w": 741,
+    "h": 421
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 2,
+  "page": 11,
+  "seq": 22,
+  "answer": "D",
+  "stemText": "2. A simple pendulum is suspended from the ceiling of a lift. When the lift is at rest its time period is T. With what acceleration should the lift be accelerated upwards in order to reduce its period to T/2? (g is acceleration due to gravity). (a) 4g (c) 2g (b) (d) 3g (2008)",
+  "year": 2008,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0011-q002.png",
+   "w": 707,
+   "h": 403
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0011-q002-s.png",
+    "w": 735,
+    "h": 512
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 3,
+  "page": 11,
+  "seq": 23,
+  "answer": "C",
+  "stemText": "3. A mass of 10 kg is suspended from a spring balance. It is pulled aside by a horizontal string so that it makes an angle of 60\" with the vertical. The new reading of the balance is (a) 10/3 kg wt (c) 20 kg wt (b) 203 kg wt (d) 10 kg wt (2008)",
+  "year": 2008,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0011-q003.png",
+   "w": 704,
+   "h": 326
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0011-q003-s.png",
+    "w": 695,
+    "h": 459
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 4,
+  "page": 11,
+  "seq": 24,
+  "answer": "D",
+  "stemText": "4. A body of mass 4 kg is accelerated upon by a constant force, travels a distance of 5 m in the first second and a distance of 2 m in the third second. The force acting on the body is (a) 6N (c) 2N (b) 8N (d) 4N (2008) 5./A body of mass 0.05 kg is observed to fall with an acceleration of 9.5 m s The opposing force of air on the body is. g= 9.8 m s*). (a) 0.015 N () 0.030 N (b) 0.15 N (d) zero. (2009)",
+  "year": 2008,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0011-q004.png",
+   "w": 739,
+   "h": 593
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0011-q004-s.png",
+    "w": 729,
+    "h": 485
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 7,
+  "page": 11,
+  "seq": 25,
+  "answer": "A",
+  "stemText": "7. A ball rests upon a flat piece of paper on a table top. 1he paper is pulled horizontally but quickly towards right as shown. Relative to its initial position with respect to the table, the ball (1) remains stationary if there is no friction between the paper and the ball. (2) moves to the left and starts rolling backwards, i.e. to the left if there is a friction between the paper and the ball. (3) moves forward, i.e. in the direction in which the paper is pulled. Here, the correct statement/s is/are (a) both (1) and (2) (b) only (3) (c) only (1) (d) only (2) (2010)",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0011-q007.png",
+   "w": 723,
+   "h": 824
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 11,
+  "page": 12,
+  "seq": 26,
+  "answer": "A",
+  "stemText": "11. A person upward in regular intervals of time of one second. The next ball is thrown when the velocity of the ball thrown earlier becomes zero. The height to which the balls rise is... (Assume, g = 10 m s2) (a) 5 m (c) 7.5 m (b) 10 mn (d) 20 m (2012)",
+  "year": 2012,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0012-q011.png",
+   "w": 683,
+   "h": 380
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0012-q011-s.png",
+    "w": 665,
+    "h": 427
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 12,
+  "page": 12,
+  "seq": 27,
+  "answer": "D",
+  "stemText": "12. A body of mass m' is travelling with a velocity 'u. When a constant retarding force F'is applied, it comes to rest after travelling a distance s. If the initial velocity is '2u, with the same force F, the distance travelled before it comes to rest is 's. Then a) s 25 (b) s= 2 (d) s = 4s (2012) (c)$=5",
+  "year": 2012,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0012-q012.png",
+   "w": 680,
+   "h": 465
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0012-q012-s.png",
+    "w": 669,
+    "h": 759
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 13,
+  "page": 12,
+  "seq": 28,
+  "answer": "B",
+  "stemText": "13. A block kept on a rough surface starts sliding when the inclination of the surface is '0' with respect to the horizontal. The coefficient of static friction between the block and the surface is a) sine (c) cose (b) tane (d) sec6 (2012)",
+  "year": 2012,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0012-q013.png",
+   "w": 676,
+   "h": 361
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 16,
+  "page": 12,
+  "seq": 29,
+  "answer": "D",
+  "stemText": "16. A person is a of 5 m s on a level curved track of radius 5 m. The coefficient of static friction between tyres and road is 0.1. Will the person slip while taking the turn with the same speed? Take g= 10 ms, Choose the correct statement. (a) A person will slip if <5 ms- (b) A person will slip if = 5 ms () A person will not slip if v2> 10 m s (d) A person will slip if > 5 ms-, (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0012-q016.png",
+   "w": 692,
+   "h": 517
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0012-q016-s.png",
+    "w": 491,
+    "h": 117
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 17,
+  "page": 12,
+  "seq": 30,
+  "answer": "B",
+  "stemText": "17. An aeroplane executes a horizontal loop at a speed of 720 kmph with its wings banked at 45°. What is the radius of the loop ? Take g= 10 ms2 (a) 7.2 km (c) 2 km (b) 4 km (d) 4.5 km (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0012-q017.png",
+   "w": 693,
+   "h": 305
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 18,
+  "page": 12,
+  "seq": 31,
+  "answer": "A",
+  "stemText": "18. A. stone of mass 0.05 kg is thrown vertically upwards. What is the direction and magnitude of net force on the stone during its upward motion? (a) 0.49 N vertically downwards. (b) 9.8 N vertically downwards. (c) 0.49 N vertically upwards. (d) 0.98 N vertically downwards. (2015)",
+  "year": 2015,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0012-q018.png",
+   "w": 699,
+   "h": 408
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0012-q018-s.png",
+    "w": 630,
+    "h": 227
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 19,
+  "page": 12,
+  "seq": 32,
+  "answer": "B",
+  "stemText": "19. Maximum acceleration of the train in which a 50 kg box lying on its floor will remain stationary (Given : Co-eficient of static friction between the box and the train's floor is 0.3 and g= 10 m s*) (a) 5.0 m s2 (c) 1.5 m s2 (b) 3.0 ms-2 (d) 15 m s2 (2016)",
+  "year": 2016,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0012-q019.png",
+   "w": 698,
+   "h": 361
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 21,
+  "page": 13,
+  "seq": 33,
+  "answer": "B",
+  "stemText": "21. A block rests on a rough inclined plane making an angle of 30° with the horizontal. The coefticient of static friction between the block and the plane is 0.8. If the frictional force on the block is 10 N, the mass of the block is (g 10 m s) (a) 1 kg (c) 3 kg (b) 2 kg (d) 4 kg (2018) 2A man weighing 60 kg is in a lift moving down with an acceleration of 1.8 m s2. The force exerted by the floor on him is (a) 588 N (b) 480 N d) 696 N (c) zero (2018)",
+  "year": 2018,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0013-q021.png",
+   "w": 708,
+   "h": 638
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Laws of Motion",
+  "number": 24,
+  "page": 13,
+  "seq": 34,
+  "answer": "C",
+  "stemText": "24. One end of a string of length I is connected to a particle of mass m and the other to a small peg on a smooth horizontal table. If the particle moves in a circle with speed v, the net force on the particle (directed towards the centre)is (Tis the tension in the string) (a) T+v (b) 0 mv (d) T (c) T (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c04-p0013-q024.png",
+   "w": 681,
+   "h": 568
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c04-p0013-q024-s.png",
+    "w": 758,
+    "h": 153
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 2,
+  "page": 28,
+  "seq": 55,
+  "answer": "D",
+  "stemText": "2. If there were no gravity, which of the following will not be there for a fluid? (a) Viscosity () Pressure (d) Archimedes's upward thrust (b) Surface tension (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0028-q002.png",
+   "w": 706,
+   "h": 272
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c09-p0028-q002-s.png",
+    "w": 706,
+    "h": 996
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 3,
+  "page": 28,
+  "seq": 56,
+  "answer": "B",
+  "stemText": "3. Water rises in plant fibres due to (a) capillarity (c) fluid pressure (b) viscosity (d) osmosis. (2007) The cylindrical tube of a spray pump has a",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0028-q003.png",
+   "w": 708,
+   "h": 223
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 4,
+  "page": 28,
+  "seq": 57,
+  "answer": "D",
+  "stemText": "cross-section of 8 cm?, one end of which 4. has 40 fine holes each of area 10 m?. If the liquid flows inside the tube with a speed of 0.15 m s', the speed with which the liquid is ejected through the holes is (a) 50 m s-l (c) 0.05 m s (6) 5 m s-l (d) 0.5 m sl (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0028-q004.png",
+   "w": 707,
+   "h": 389
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 6,
+  "page": 28,
+  "seq": 58,
+  "answer": "D",
+  "stemText": "6. Two solid pieces, one of steel and the other of aluminium when immersed completely in water have equal weights. When the solid pieces are weighed in air (a) the weight of aluminium is half the weight of steel (6) steel piece will weigh more (c)they have the same weight (d) aluminium piece will weigh more. (2009)",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0028-q006.png",
+   "w": 701,
+   "h": 495
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 9,
+  "page": 28,
+  "seq": 59,
+  "answer": "D",
+  "stemText": "pipewithnonuniformcross-section. Atapoint in the pipe where the area of cross-section is 10 cm, the velocity of water is 1 m sl and the pressure is 2000 Pa. The pressure at another point where the cross-sectional area is 5 cm2 9. (a) 4000 Pa (c) 1000 Pa (b) 2000 Pa (d) 500 Pa (2010)",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0028-q009.png",
+   "w": 690,
+   "h": 424
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 10,
+  "page": 28,
+  "seq": 60,
+  "answer": "A",
+  "stemText": "10. Eight equal drops of water are falling through air with a steady velocity of 10 cm s-l. If the drops combine to form a single drop big in size, then the terminal velocity of this big drop is (a) 40 cms- (c) 30 cm s (b) 10 cms (d) 80 cm s (2011)",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0028-q010.png",
+   "w": 691,
+   "h": 364
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 11,
+  "page": 29,
+  "seq": 61,
+  "answer": "C",
+  "stemText": "11. Two capillary tulbes of diflerent dlameters are dipped in water. The rise of water (a) the sanme in both tubes (b) greater in the tube of larger dianmeter (c) greater in the tube of smaller diameter (d) independent of the diameter of the tube. (2011)",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q011.png",
+   "w": 673,
+   "h": 390
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 12,
+  "page": 29,
+  "seq": 62,
+  "answer": "D",
+  "stemText": "12. Spheres of iron and lead having same mass are completely immersed in water. Density of lead is more than that of iron. Apparent loss of weight is W, for iron sphere and W, for lead sphere. Then is W, (b) between 0 and 1 (d) >1 (a) =1 (c) = 0 (2012)",
+  "year": 2012,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q012.png",
+   "w": 674,
+   "h": 435
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 14,
+  "page": 29,
+  "seq": 63,
+  "answer": "B",
+  "stemText": "14. A flow of liquid is streamline if the Reynold number is (a) between 2000 to 3000 (b) less than 1000 (c) between 4000 to 5000 (d) greater than 1000 (2014) An ideal fluid flows through a pipe of circular cross section with diameters 5 cm and 10 cmn as shown. The ratio of velocities of fluid at A and B is",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q014.png",
+   "w": 705,
+   "h": 497
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c09-p0029-q014-s.png",
+    "w": 763,
+    "h": 334
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 16,
+  "page": 29,
+  "seq": 64,
+  "answer": "D",
+  "stemText": "16. Hydraulic (a) Stoke's law (c) Toricelli's law (b) Bernoulli's law (d) Pascal's law (2017) the bottom of a liquid tank is",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q016.png",
+   "w": 676,
+   "h": 243
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 17,
+  "page": 29,
+  "seq": 65,
+  "answer": "D",
+  "stemText": "17. The pressure at not proportional to the (a) acceleration due to gravity (b) density of the liquid (c) height of the liquid (d) area of the liquid surface (2018) containing water has",
+  "year": 2018,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q017.png",
+   "w": 676,
+   "h": 339
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c09-p0029-q017-s.png",
+    "w": 901,
+    "h": 436
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 18,
+  "page": 29,
+  "seq": 66,
+  "answer": "B",
+  "stemText": "18. A cylindrical container a small hole at height of H = 8 cm from the bottom and at a depth of 2 cm from the top surface of the liquid. The maximum horizontal distance travelled by the water before it hits the ground (x) is (a) 4 cm (b) 8 cm (c) 6 cm H (d) 4v2 cm (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q018.png",
+   "w": 676,
+   "h": 509
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c09-p0029-q018-s.png",
+    "w": 881,
+    "h": 338
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 19,
+  "page": 29,
+  "seq": 67,
+  "answer": "B",
+  "stemText": "19. An aluminium sphere is dipped into water. Which of the following is true? (a) Buoyancy in water at 0 °C will be same as that in water at 4 °C. (b) Buoyancy will be less in water at 0 °C than that in water at 4 °C. (c) Buoyancy may be more or less in water at 4C depending on the radius of the sphere. (d) Buoyancy will be more in water at 0 °C than that in water at 4 °C. (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q019.png",
+   "w": 676,
+   "h": 539
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c09-p0029-q019-s.png",
+    "w": 895,
+    "h": 127
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Fluids",
+  "number": 20,
+  "page": 29,
+  "seq": 68,
+  "answer": "C",
+  "stemText": "20. Iceberg floats in water with part of it submerged. What is the fraction of the volume of iceberg submerged if the density of ice is P= 0.917 g cm? (a) 0.458 (c) 0.917 0 (d) 1 (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c09-p0029-q020.png",
+   "w": 676,
+   "h": 313
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c09-p0029-q020-s.png",
+    "w": 914,
+    "h": 626
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Solids",
+  "number": 5,
+  "page": 26,
+  "seq": 51,
+  "answer": "D",
+  "stemText": "\"Young's modulus' is defined as the ratioof (a) bulk stress and longitudinal strain (b) hydraulic stress and hydraulic strain (c) shearing stress and shearing strain (d) tensile stress and longitudinal strain. (2017) 5.",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c08-p0026-q005.png",
+   "w": 639,
+   "h": 272
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c08-p0026-q005-s.png",
+    "w": 740,
+    "h": 256
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Solids",
+  "number": 6,
+  "page": 26,
+  "seq": 52,
+  "answer": "B",
+  "stemText": "Two wires A and B are stretched by the same load. If the area of cross-section of wire A is 6. double that of B, then the stress on B is (a) equal to that on A (b) twice that on A (c) half that on A (d) four times that on A. (2018)",
+  "year": 2018,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c08-p0026-q006.png",
+   "w": 640,
+   "h": 313
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Solids",
+  "number": 7,
+  "page": 26,
+  "seq": 53,
+  "answer": "D",
+  "stemText": "7. A wire is stretched such that its volume remains constant. The Poisson's ratio of the material of the wire is (a) 0.25 (c) -0.25 (b) 0.50 (d) -0.50 (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c08-p0026-q007.png",
+   "w": 641,
+   "h": 232
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c08-p0026-q007-s.png",
+    "w": 769,
+    "h": 486
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Mechanical Properties of Solids",
+  "number": 8,
+  "page": 26,
+  "seq": 54,
+  "answer": "A",
+  "stemText": "8. Young's modulus of a perfect rigid body is (a) infinity (b) between zero and unity (c) zero (d) unity. (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c08-p0026-q008.png",
+   "w": 640,
+   "h": 255
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c08-p0026-q008-s.png",
+    "w": 631,
+    "h": 189
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Plane",
+  "number": 12,
+  "page": 9,
+  "seq": 18,
+  "answer": "C",
+  "stemText": "12. the angle between velocity and acceleration of a particle deseribing uniform circular motion is (a) 180 (b) 45° (d) 60° (c) 90° (2017)",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c03-p0009-q012.png",
+   "w": 638,
+   "h": 257
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Plane",
+  "number": 13,
+  "page": 9,
+  "seq": 19,
+  "answer": "D",
+  "stemText": "13. The trajectory of a projectile projected from origin is given by the equation y = x - The initial velocity of the projectile is (a) 25 m s 2 (b) m s- (c)ms (d) 5 m s (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c03-p0009-q013.png",
+   "w": 638,
+   "h": 350
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c03-p0009-q013-s.png",
+    "w": 471,
+    "h": 327
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Plane",
+  "number": 15,
+  "page": 9,
+  "seq": 20,
+  "answer": "C",
+  "stemText": "15. A wheel starting from rest gains an angular velocity of 10 rad s\" after uniformly accelerated for 5 sec. The total angle through which it has turned is (a) 257 rad (b) 507t rad about a vertical axis (c) 25 rad (2020) (d) 100 rad",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c03-p0009-q015.png",
+   "w": 668,
+   "h": 410
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c03-p0009-q015-s.png",
+    "w": 681,
+    "h": 435
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 2,
+  "page": 4,
+  "seq": 10,
+  "answer": "D",
+  "stemText": "A cyclist starts from the centre O of a circular park of radius one kilometre, reaches the edge P of the park, then cycles along the 2. circumference and returns to the centre along Q0 as shown in the figure. If the round trip takes ten minutes, the net displacement and average speed of the cyclist (in metre and kilometre per hour) is (a) 0,1 (b) 0 Tt+4 (c) 21.4, (d) 0,21.4 (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0004-q002.png",
+   "w": 675,
+   "h": 606
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 4,
+  "page": 4,
+  "seq": 11,
+  "answer": "D",
+  "stemText": "A train is moving slowly on a straight track with a constant speed of 2 ms'. A passenger in that train starts walking at a steady speed of 2 ms' to the back of the train in the opposite 4. direction of the motion of the train. So to an observer standing on the platform directly in front of that passenger, the velocity of the passenger appears to be (a) 4 ms (b) 2 m s (c) 2 m s-l in the opposite direction of the train (d) zero (2010)",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0004-q004.png",
+   "w": 664,
+   "h": 572
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 5,
+  "page": 4,
+  "seq": 12,
+  "answer": "B",
+  "stemText": "5. A motorboat covers a given distance in 6 hours moving downstream on a river. It covers the same distance in 10 hours moving upstream. The time it takes to cover the same distance in still water is (a) 9 hours (c) 6.5 hours (b) 7.5 hours (d) 8 hours (2010)",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0004-q005.png",
+   "w": 660,
+   "h": 325
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c02-p0004-q005-s.png",
+    "w": 674,
+    "h": 394
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 6,
+  "page": 4,
+  "seq": 13,
+  "answer": "D",
+  "stemText": "placem time graphs of two moving Particles make angles of 30° and 45°with the 6. The di 30 X-axis. The ratio of A car moves from A to B with a speed of Time their velocities is (a) 3:2 (b) 1:1 (c) 1:2 (d) 1: 3 (2011) 30 kmph and from B to A with a speed of 20 kmph. What is the average speed of the car? (a) 50 kmph (c) 10 kmph (6) 25 kmph (d) 24 kmph (2014)",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0004-q006.png",
+   "w": 661,
+   "h": 683
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 10,
+  "page": 5,
+  "seq": 14,
+  "answer": "C",
+  "stemText": "10. A body falls freely for 10 sec. Its average velocity during this journey (takeg= 10 m s) (a) 100 ms (c) 50 ms-l (6) 10 msl (d) 5ms (2016)",
+  "year": 2016,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0005-q010.png",
+   "w": 682,
+   "h": 208
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c02-p0005-q010-s.png",
+    "w": 675,
+    "h": 420
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 11,
+  "page": 5,
+  "seq": 15,
+  "answer": "D",
+  "stemText": "11. A car moving with a velocity of 20 m s-l is stopped in a distance of 40 m. If the same car is travelling at double the velocity, the distance travelled by it for same retardation is (a) 640 m (b) 320 m (c) 1280 m (d) 160 m (2017)",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0005-q011.png",
+   "w": 677,
+   "h": 301
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c02-p0005-q011-s.png",
+    "w": 595,
+    "h": 350
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 13,
+  "page": 5,
+  "seq": 16,
+  "answer": "A",
+  "stemText": "13. The given graph shows the v variation of velocity (v) with position (x) for a particle moving along a straight line. Which of the following graph shows the variation of acceleration (a) with position (x)? (a) (b) a (d) (c) (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0005-q013.png",
+   "w": 684,
+   "h": 938
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c02-p0005-q013-s.png",
+    "w": 662,
+    "h": 322
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Motion in a Straight Line",
+  "number": 14,
+  "page": 5,
+  "seq": 17,
+  "answer": "A",
+  "stemText": "14. At ametro station, a girl walks up a stationary escalator in 20 sec. If she remains stationary on the escalator, then the escalator take her up in 30 sec. The time taken by her to walk up on the moving escalator will be (a) 12 sec (c) 25 sec (b) 10 sec (d) 60 sec (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c02-p0005-q014.png",
+   "w": 687,
+   "h": 390
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c02-p0005-q014-s.png",
+    "w": 659,
+    "h": 625
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Oscillations",
+  "number": 3,
+  "page": 50,
+  "seq": 98,
+  "answer": "A",
+  "stemText": "3. The circular motion of a particle with constant speed is (a) periodic but not SHM . (b) SHM but not periodic C)periodic and also SHM (d) neither periodic nor SHM. (2012) A particle executes SHM with amplitude 0.2 m and time period 24 s. The time required for it to move from the mean position to a point 0.1 m from the mean position is (a) 2s (c) 8s . (b) 3s (d) 12s (2012)",
+  "year": 2012,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c13-p0050-q003.png",
+   "w": 746,
+   "h": 595
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Oscillations",
+  "number": 5,
+  "page": 50,
+  "seq": 99,
+  "answer": "B",
+  "stemText": "5. A 10 kg metal block is attached to a spring of spring constant 1000 N m'. A block is displaced from equilibrium position by 10 cm and released. The maximum acceleration of the block is (a) 200 m s-2 (b) 10 m s2 (d) 100 ms2 (2014) 0.1ms? The ratio of kinetic energy to the potential energy of a particle executing SHM at a",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c13-p0050-q005.png",
+   "w": 715,
+   "h": 469
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c13-p0050-q005-s.png",
+    "w": 523,
+    "h": 450
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Oscillations",
+  "number": 8,
+  "page": 50,
+  "seq": 100,
+  "answer": "D",
+  "stemText": "8. Two simple pendulums A and B are made to oscillate simultaneously and it is found that A completes 10 oscillations in 20 s and B completes 8 oscillations in 10 s. The ratio of the lengths of A and B is (a) 5/4 (c) 25/64 (b) 8/5 (d) 64/25 (2017)",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c13-p0050-q008.png",
+   "w": 733,
+   "h": 384
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c13-p0050-q008-s.png",
+    "w": 1140,
+    "h": 564
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Oscillations",
+  "number": 9,
+  "page": 50,
+  "seq": 101,
+  "answer": "B",
+  "stemText": "9. A piston is performing S.H.M. in the vertical direction with a frequencyof0.5 Hz. Ablockof 10 kg is placed on the piston. The maximum amplitude of the system such that the block remains in contact with the piston is (a) 1.5 m (c) 0.1 m (b) 1 m (d) 0.5 m (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c13-p0050-q009.png",
+   "w": 733,
+   "h": 375
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Oscillations",
+  "number": 10,
+  "page": 50,
+  "seq": 102,
+  "answer": "A",
+  "stemText": "10. A tray of mass 12 kg is supported by two identical springs as shown in figure. When the tray is pressed down slightly and then released, it executes SHM with atimeperiodo 1.5 s. The spring constant of each spring is 2 kg (a) 105 Nm- (c) 50 N m- (b)c (d) o (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c13-p0050-q010.png",
+   "w": 733,
+   "h": 603
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c13-p0050-q010-s.png",
+    "w": 1041,
+    "h": 692
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 1,
+  "page": 38,
+  "seq": 69,
+  "answer": "C",
+  "stemText": "1. unit of Stefans constant is (a) WmK- (c) Wm?K-4 (b) Wm K-4 (d) Nm2K'. (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0038-q001.png",
+   "w": 752,
+   "h": 166
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 2,
+  "page": 38,
+  "seq": 70,
+  "answer": "C",
+  "stemText": "2. The sprinkling of water reduces slightly the temperature of a closed room because (a) temperature of water is less than that of the roomn (b) specific heat of water is high (c)water has large latent heat of vaporisation (d) water is a bad conductor of heat. (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0038-q002.png",
+   "w": 755,
+   "h": 362
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 3,
+  "page": 38,
+  "seq": 71,
+  "answer": "A",
+  "stemText": "3. Two identical rods AC and CB made of two different metals having thermal conductivities in the ratio 2 :3 are kept in contact with each other at the end Cas shown in the figure. A is at 100°C and B is at 25°C. Then the junction C is at (a) 55°C (b) 60°C (d) 50°C. (c) 75°C C 100°C 25°C (2007) 8",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0038-q003.png",
+   "w": 750,
+   "h": 576
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0038-q003-s.png",
+    "w": 738,
+    "h": 462
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 7,
+  "page": 38,
+  "seq": 72,
+  "answer": "A",
+  "stemText": "of water at 60°C. The final temperature of the 7. mixture is (b) 70°C (d) 75°C (a) 65°C (c) 60°C (2009) of heat radiated by metal",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0038-q007.png",
+   "w": 739,
+   "h": 346
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 9,
+  "page": 38,
+  "seq": 73,
+  "answer": "B",
+  "stemText": "9. The surface temperature of the stars is determined using (a) Planck's law (b) Wein's displacement law (c) Rayleigh-Jeans law (d) Kirchhoff's law. (2009)",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0038-q009.png",
+   "w": 739,
+   "h": 335
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 10,
+  "page": 38,
+  "seq": 74,
+  "answer": "C",
+  "stemText": "10. Two slabs are of the thicknesses d and d Their thermal conductivities are Ki and K respectively. They are in series. The free ends of the combination ofthese two slabs are kept at temperatures 6, and 62. Assume 6, > B The temperature B of their common junction is (a) +K,0, 6+62 b) d +K2,4 Kd +K2d (c) 8,4, +K,6,d, (d) K+ +K,82 Kd +Kz41 K +K2 (2010)",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0038-q010.png",
+   "w": 739,
+   "h": 674
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0038-q010-s.png",
+    "w": 735,
+    "h": 1284
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 13,
+  "page": 39,
+  "seq": 75,
+  "answer": "A",
+  "stemText": "13. The quantities of heat required to raise the temperatures of two copper spheres of radii r and r (r = 1.57,) through 1 K are in the ratio of (a) 27/8 (c) 3/2 (b) 9/4 (d) 1 (2011)",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q013.png",
+   "w": 694,
+   "h": 288
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0039-q013-s.png",
+    "w": 748,
+    "h": 395
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 14,
+  "page": 39,
+  "seq": 76,
+  "answer": "C",
+  "stemText": "14. Which one of the following is vn - T graph for perfectly black body? v,, is the frequency of radiation with maximum intensity. Tis the absolute temperature. B D T(K) (a) (c) C (b) B (d) D A (2011) conductors",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q014.png",
+   "w": 691,
+   "h": 617
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0039-q014-s.png",
+    "w": 736,
+    "h": 435
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 15,
+  "page": 39,
+  "seq": 77,
+  "answer": "A",
+  "stemText": "15. A, B and Care the three identical but made from diferent materials. They are kept in contact as shown. Their thermal conductivities are K, 2K and K/2. The free end of A is at 100°C and the free end of C is at 0°C. During steady state, the temperature of the junction of A and B is nearly... °C. C A B 0C 100°C (a) 71 (c) 63 (b) 29 (d) 37 (2012)",
+  "year": 2012,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q015.png",
+   "w": 685,
+   "h": 572
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0039-q015-s.png",
+    "w": 771,
+    "h": 1301
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 17,
+  "page": 39,
+  "seq": 78,
+  "answer": "D",
+  "stemText": "17. A solid cylinder of radius R made of a material of thermal conductivity K, is surrounded by a cylindrical shell of inner radius R and outer radius 2R made ofa material of thermal conductivity K. The two ends of the combined system are maintained at two different temperatures. Then there is no loss of heat across the cylindrical surface and the system is in steady state. The effective thermal conductivity of the system is KK K +K2 (a) Ki t K (b) (c) K+K (d)At5K2 (2013 4",
+  "year": 0,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q017.png",
+   "w": 680,
+   "h": 606
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0039-q017-s.png",
+    "w": 711,
+    "h": 1405
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 18,
+  "page": 39,
+  "seq": 79,
+  "answer": "C",
+  "stemText": "18. Two stars A and B radiate maximum energy at the wavelengths of 360 nm and 480 nm respectively. Then the ratio of the surface temperatures of A and B is (a) 3:4 (c) 4:3 (b) 81:256 (d) 256:81 (2013)",
+  "year": 2013,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q018.png",
+   "w": 683,
+   "h": 264
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 19,
+  "page": 39,
+  "seq": 80,
+  "answer": "B",
+  "stemText": "19. In anomalous expansion of water, at what temperature, the density of water is maximum? (a) > 4°C (c) 10°C (b) 4°C (d) <4°C (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q019.png",
+   "w": 682,
+   "h": 188
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 20,
+  "page": 39,
+  "seq": 81,
+  "answer": "A",
+  "stemText": "20. 1 gram of ice is mixed with 1 gram of steam. At thermal equilibrium, the temperature of the mixture is (a) 100°C (c) 0°C (b) 55°C (d) 50°C (2015) 10°C, then",
+  "year": 2015,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q020.png",
+   "w": 688,
+   "h": 283
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0039-q020-s.png",
+    "w": 729,
+    "h": 791
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 21,
+  "page": 39,
+  "seq": 82,
+  "answer": "B",
+  "stemText": "21. Water is heated from 0°C to its volume (a) increases (b) first decreases and then increases (c) decreases (d) does not change. (2015)",
+  "year": 2015,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0039-q021.png",
+   "w": 684,
+   "h": 265
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0039-q021-s.png",
+    "w": 732,
+    "h": 188
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermal Properties of Matter",
+  "number": 25,
+  "page": 40,
+  "seq": 83,
+  "answer": "A",
+  "stemText": "25. A sphere, a all of same material and same mass initialy heated to same high temperature are allowed to cool down under similar conditions. Then the (a) plate will cool the fastest and sphere the slowest (b) cube will cool the fastest and plate the slowest (c) plate will cool the fastest and cube the slowest (d) sphere will cool the fastest and cube the slowest. (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c10-p0040-q025.png",
+   "w": 684,
+   "h": 570
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c10-p0040-q025-s.png",
+    "w": 738,
+    "h": 266
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 2,
+  "page": 46,
+  "seq": 86,
+  "answer": "C",
+  "stemText": "A Carnot engine takes heat from a reservoir at 627 C and rejects heat to a sink at 27°C. Its effhciency will be (a) 3/5 2. (b) 1/3 (c) 2/3 (d) 200/209 (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0046-q002.png",
+   "w": 735,
+   "h": 375
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c12-p0046-q002-s.png",
+    "w": 597,
+    "h": 357
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 3,
+  "page": 46,
+  "seq": 87,
+  "answer": "B",
+  "stemText": "3. 310 J of heat is required to raise the temperature of 2 moles of an ideal gas at constant pressure from 25°C to 35°C. The amount of heat required to raise the temperature of the gas through the same 3. range at constant volume is (a) 384J (b) 144J (c) 276J (d) 452J (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0046-q003.png",
+   "w": 763,
+   "h": 531
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 4,
+  "page": 46,
+  "seq": 88,
+  "answer": "B",
+  "stemText": "A Carnots engine operates with source at 127°C and sink at 27°C. If the source supplies 40 kJ of heat energy, the work done by the 4. engine is (a) 30 kJ (c) 4kJ (b) 10 kJ (d) 1kJ (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0046-q004.png",
+   "w": 740,
+   "h": 338
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c12-p0046-q004-s.png",
+    "w": 616,
+    "h": 495
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 8,
+  "page": 46,
+  "seq": 89,
+  "answer": "D",
+  "stemText": "A graph of pressure versus volume for an ideal gas for different processes is as shown. In the graph curve OC represents 8. B c D (a) isochoric process (b) isothermal process (c) isobaric process (d) adiabatic process. (2009)",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0046-q008.png",
+   "w": 771,
+   "h": 771
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c12-p0046-q008-s.png",
+    "w": 733,
+    "h": 788
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 11,
+  "page": 47,
+  "seq": 90,
+  "answer": "D",
+  "stemText": "11. For which combination of working temperatures of source and sink, the efficiency of Carnots heat engine is maximum? (b) 400 K, 200 K (d) 300 K, 100 K (2013) (a) 600 K, 400 K (C) 500 K, 300 K",
+  "year": 2013,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q011.png",
+   "w": 687,
+   "h": 299
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 12,
+  "page": 47,
+  "seq": 91,
+  "answer": "C",
+  "stemText": "12. What is the source temperature of the Carnot engine required to get 70% efficiency? Given sink temperature = 27°C (a) 270°C (c) 727°C (b) 1000°C (d) 90°C (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q012.png",
+   "w": 689,
+   "h": 251
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 13,
+  "page": 47,
+  "seq": 92,
+  "answer": "D",
+  "stemText": "13. A cycle tyre bursts suddenly. What is the type of this process? (a) Isochoric (c) Isobaric (b) Isothermal (d) Adiabatic (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q013.png",
+   "w": 689,
+   "h": 209
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 14,
+  "page": 47,
+  "seq": 93,
+  "answer": "B",
+  "stemText": "14. The eficiency of a Carnot engine which operates between the two temperatures T 500 K and T2 = 300 K is (a) 25% (c) 50% (b) 40% (d) 75% (2015)",
+  "year": 2015,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q014.png",
+   "w": 690,
+   "h": 254
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 17,
+  "page": 47,
+  "seq": 94,
+  "answer": "C",
+  "stemText": "which combination of working temperatures, the efficiency of 'Carnots engine' is the least? (a) 40 K, 20 K (c) 100 K, 80 K 17. For (b) 60 K, 40 K (d) 80 K, 60 K (2017)",
+  "year": 2017,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q017.png",
+   "w": 680,
+   "h": 299
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c12-p0047-q017-s.png",
+    "w": 700,
+    "h": 192
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 18,
+  "page": 47,
+  "seq": 95,
+  "answer": "B",
+  "stemText": "18. A Carnot engine takes 300 calories of heat from a source at 500 K and rejects 150 calories of heat to the sink. The temperature of the sink is (b) 250 K (a) 125 K (c) 750 K (d) 1000 K (2018)",
+  "year": 2018,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q018.png",
+   "w": 684,
+   "h": 308
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c12-p0047-q018-s.png",
+    "w": 582,
+    "h": 484
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 19,
+  "page": 47,
+  "seq": 96,
+  "answer": "A",
+  "stemText": "19. A thermodynamic system undergoes a cyclic rocess ABC as shown in the diagram. The work done by the system per cycleis 400 (Nm-) 100 B 10 V(in m) (a) -750J (c) 1250 J (b) 750J (d) -1250 J (2019) expansion of the",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q019.png",
+   "w": 697,
+   "h": 673
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c12-p0047-q019-s.png",
+    "w": 724,
+    "h": 299
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Thermodynamics",
+  "number": 20,
+  "page": 47,
+  "seq": 97,
+  "answer": "C",
+  "stemText": "20. In an adiabatic an ideal gas product of pressure and volume (a) remains constant (b) at first increases and then decreases (c) decreases (d) increases. (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c12-p0047-q020.png",
+   "w": 699,
+   "h": 307
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c12-p0047-q020-s.png",
+    "w": 732,
+    "h": 254
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Unclassified",
+  "number": 3,
+  "page": 0,
+  "seq": 1,
+  "answer": "D",
+  "stemText": "3. Two protons are kept at a separation of 10 nm. Let F, and F, be the nuclear force and the electromagnetic force between them (b) F = F, (c) F and F, differ only slightly (d) F>> F (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c00-p0000-q003.png",
+   "w": 741,
+   "h": 407
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 1,
+  "page": 1,
+  "seq": 2,
+  "answer": "C",
+  "stemText": "The physical quantity having the dimensions M-'L \"T'A?] is 1. (a) resistance (b) resistivity (c) electrical conductivity (d) electromotive force. (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0001-q001.png",
+   "w": 642,
+   "h": 235
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c01-p0001-q001-s.png",
+    "w": 561,
+    "h": 386
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 2,
+  "page": 1,
+  "seq": 3,
+  "answer": "A",
+  "stemText": "The dimensional formula for impulse is (a) MLT- (c) M-'LT 2. (b) ML-IT (d) ML-'T (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0001-q002.png",
+   "w": 640,
+   "h": 149
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c01-p0001-q002-s.png",
+    "w": 538,
+    "h": 116
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 8,
+  "page": 1,
+  "seq": 4,
+  "answer": "D",
+  "stemText": "8. Which one of the formula of thermal (a) Dimensional conductivity (K) is M'L'T'K-\". (6) Dimensional formula of potential (V) is M'LT A- (c) Dimensional formula of permeability of free space(4,) is M'L'T2A2 (d) Dimensional formula of RC is M°LT. (2013)",
+  "year": 2013,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0001-q008.png",
+   "w": 659,
+   "h": 411
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c01-p0001-q008-s.png",
+    "w": 562,
+    "h": 817
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 9,
+  "page": 1,
+  "seq": 5,
+  "answer": "A",
+  "stemText": "9. A physical quantity Q is found to depend on observables x, y and z, obeying relation Q-.The percentage error in the Z measurements of x, y and z are 1%, 2% and 4% respectively. What is percentage error in the quantity Q? (a) 11% (c)1 1% (b) 4% (d) 3% (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0001-q009.png",
+   "w": 656,
+   "h": 432
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 10,
+  "page": 1,
+  "seq": 6,
+  "answer": "A",
+  "stemText": "10. The ratio of the dimensions of Planck's constant and that of moment of inertia has the dimensions of (a) frequency (b) velocity (c)time (d) angular momentum. (2015)",
+  "year": 2015,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0001-q010.png",
+   "w": 657,
+   "h": 342
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 11,
+  "page": 1,
+  "seq": 7,
+  "answer": "A",
+  "stemText": "11. The dimensions of the ratio of magnetic flux ()) and permeability (u) are (a) [M°L'T°A'] (c) [M°L'T'A-] (b) [ML-TA] (d) [M°LT°A') (2018)",
+  "year": 2018,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0001-q011.png",
+   "w": 657,
+   "h": 251
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c01-p0001-q011-s.png",
+    "w": 699,
+    "h": 183
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 12,
+  "page": 1,
+  "seq": 8,
+  "answer": "C",
+  "stemText": "12. The resistance R=where V= (100 + 5) V and I = (10 t0.2) A. The percentage error in Ris (a) 5.2% (c) 7% (b) 4.8% (d) 3% (2018)",
+  "year": 2018,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0001-q012.png",
+   "w": 660,
+   "h": 265
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c01-p0001-q012-s.png",
+    "w": 763,
+    "h": 503
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Units and Measurements",
+  "number": 13,
+  "page": 2,
+  "seq": 9,
+  "answer": "B",
+  "stemText": "13. dutferent dimenstons, which of the following combinations can never be a meaningful quantity P PQ (a (b) Q R R PR-Q (c) (d) PQ- R (2019) R",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c01-p0002-q013.png",
+   "w": 601,
+   "h": 355
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c01-p0002-q013-s.png",
+    "w": 527,
+    "h": 100
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 3,
+  "page": 53,
+  "seq": 103,
+  "answer": "C",
+  "stemText": "3. The equation of a simple harmonic wave is given by y=5sin(100t-x) where x and y are in metre and time is in second. The period ofthe wave in second will be (a) 0.04 (c) 1 (b) 0.01 (d) 5 (2006) The loudness and pitch of a sound note",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0053-q003.png",
+   "w": 697,
+   "h": 363
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 4,
+  "page": 53,
+  "seq": 104,
+  "answer": "A",
+  "stemText": "depends on (a) intensity and frequency (b) frequency and number of harmonics (c) intensity and velocity (d) frequency and velocity. velocity a 4. (2006)",
+  "year": 2006,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0053-q004.png",
+   "w": 691,
+   "h": 349
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0053-q004-s.png",
+    "w": 741,
+    "h": 108
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 5,
+  "page": 53,
+  "seq": 105,
+  "answer": "A",
+  "stemText": "5. The maximum particle in wavemotion is half the wave velocity. Then the amplitude of the wave is equal to (a) /47 (c) /27 (b) 2/T (d) (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0053-q005.png",
+   "w": 686,
+   "h": 238
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0053-q005-s.png",
+    "w": 632,
+    "h": 844
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 7,
+  "page": 53,
+  "seq": 106,
+  "answer": "C",
+  "stemText": "An engine is moving towards a wall with a velocity 50 ms' emits a note of 1.2 kHz. Speed of sound in air = 350 ms\". The frequency of 7. the note after reflection from the wall as heard by the driver of the engine is (a) 2.4 kHz (b) 0.24 kHz (c) 1.6 kHz (d) 1.2 kHz (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0053-q007.png",
+   "w": 677,
+   "h": 325
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 8,
+  "page": 53,
+  "seq": 107,
+  "answer": "C",
+  "stemText": "8. A glass tube is open at both the ends. A tuning fork of frequency f resonates with the air column inside the tube. Now the tube is placed vertically inside water so that half the length of the tube is filled with water. Now the air column inside the tube is in unison with another fork of frequencyf'. Then (a) f'=f (c) f'=2f (6) f'= 4f (d) f=f/2 (2007)",
+  "year": 2007,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0053-q008.png",
+   "w": 676,
+   "h": 442
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 10,
+  "page": 53,
+  "seq": 108,
+  "answer": "B",
+  "stemText": "10. With what velocity should an observer approach a stationary sound source so that the apparent frequency of sound should appear double the actual frequency? (v is velocity of sound). (a) 2v (b) v (c) v/2 (d) 3v (2008)",
+  "year": 2008,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0053-q010.png",
+   "w": 682,
+   "h": 361
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0053-q010-s.png",
+    "w": 726,
+    "h": 558
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 8,
+  "page": 54,
+  "seq": 115,
+  "answer": "C",
+  "stemText": "8. A osed organ pipe of same length produce 2 beats/secona while vibrating in their fundamental mode The length of the open organ Pipe is halyed and that of closed pipe is doubled. Then, th number of beats produced per second whjl vibrating in the fundamental mode is (a) 2 (b) 6 (d) 7 (2010) (c) 8 of length L, diameter D and",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q008.png",
+   "w": 693,
+   "h": 465
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 12,
+  "page": 54,
+  "seq": 109,
+  "answer": "C",
+  "stemText": "12. How many times more intense is a 60 d sound than a 30 dB sound? (a) 100 (b) 4 (d) 2 (c) 1000 (2008)",
+  "year": 2008,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q012.png",
+   "w": 696,
+   "h": 235
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q012-s.png",
+    "w": 700,
+    "h": 263
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 13,
+  "page": 54,
+  "seq": 110,
+  "answer": "D",
+  "stemText": "13. Sound waves transfer (a) only energy not momentum (b) energy (d) both energy and momentum. (c) momentum (2009)",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q013.png",
+   "w": 694,
+   "h": 237
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q013-s.png",
+    "w": 701,
+    "h": 97
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 14,
+  "page": 54,
+  "seq": 111,
+  "answer": "D",
+  "stemText": "14. A stationary point source of sound emits sound uniformly in all directions in a non- absorbing medium. Two points P and Q are at a distance of 4 m and 9 m respectively from the source. The ratio of amplitudes of the waves at P and Q is (a) 3/2 (c) 2/3 (b) 4/9 (d) 9/4. (2009) |-representsa",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q014.png",
+   "w": 706,
+   "h": 528
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q014-s.png",
+    "w": 686,
+    "h": 500
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 15,
+  "page": 54,
+  "seq": 112,
+  "answer": "B",
+  "stemText": "15. y=3sin an equation of a progressive wave, where t is in second and x is in metre. The distance travelled by the wave in 5 seconds is (a) 8 m (b) 10 m (d) 32 m. (c) 5 m (2009)",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q015.png",
+   "w": 709,
+   "h": 348
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q015-s.png",
+    "w": 770,
+    "h": 1103
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 16,
+  "page": 54,
+  "seq": 113,
+  "answer": "A",
+  "stemText": "16. A cylindrical tube open at both the ends has a fundamental frequency of 390 Hz in air If 1/4th of the tube is immersed vertically in water the fundamental frequency of air column is (a) 260 Hz (b) 130 Hz (c) 390 Hz (d) 520 Hz. (2009) s",
+  "year": 2009,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q016.png",
+   "w": 711,
+   "h": 429
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 17,
+  "page": 54,
+  "seq": 114,
+  "answer": "C",
+  "stemText": "17. A bat flies at a steady speed of 4 m emitting a sound of f = 90 x 10* Hz. It is flying horizontally towardsa vertical wall. The frequency of the reflected sound as detected by the bat will be (Take velocity of sound in air as 330 m s-). (a) 88.1 x 103 Hz (b) 87.1 x 10° Hz (c) 92.1 x 10 Hz (d) 89.1 x 10 Hz (2010)",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q017.png",
+   "w": 715,
+   "h": 455
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q017-s.png",
+    "w": 715,
+    "h": 821
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 19,
+  "page": 54,
+  "seq": 116,
+  "answer": "A",
+  "stemText": "19. A uniform wire density p is stretched under a tension T. The correct relation between its fundamenta frequency f, the length L and the diameter Di (a)D (b) f« LD 1 () f (d) s (2010) LD",
+  "year": 2010,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q019.png",
+   "w": 697,
+   "h": 379
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q019-s.png",
+    "w": 686,
+    "h": 406
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 20,
+  "page": 54,
+  "seq": 117,
+  "answer": "B",
+  "stemText": "20. The equation of a wave is given by 10o-ia If the displace total phase at t = 7.5 sec is ment is 5 cm at t = 0, then the (a) n/3 (b) t/2 (c)t/6 (d) T (2011) of",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q020.png",
+   "w": 721,
+   "h": 461
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q020-s.png",
+    "w": 725,
+    "h": 771
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 21,
+  "page": 54,
+  "seq": 118,
+  "answer": "C",
+  "stemText": "21. Two tuning forks, A and B, produce notes frequencies 258 Hz and 262 Hz. An unknown note sounded with A produces certain beats. When the same note is sounded with B, the beat frequency gets doubled. The unknown frequency is (a) 250 Hz (b) 252 Hz (c) 254 Hz (d) 256 Hz (2011)",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q021.png",
+   "w": 721,
+   "h": 401
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0054-q021-s.png",
+    "w": 725,
+    "h": 505
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 22,
+  "page": 54,
+  "seq": 119,
+  "answer": "A",
+  "stemText": "22. A wire under tension vibrates with a fundamental frequency of 600 Hz. If the length of the wire is doubled, the radius is halved and the wire is made to vibrate under one-ninth the tension. Then the fundamental frequency will become (a) 200 Hz (c) 600 Hz (b) 300 Hz (d) 400 Hz (2011)",
+  "year": 2011,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0054-q022.png",
+   "w": 712,
+   "h": 395
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 26,
+  "page": 55,
+  "seq": 120,
+  "answer": "A",
+  "stemText": "26. The frequency of the second overtone of the open pipe is equal to the frequency of first overtone of the closed pipe. The ratio of the lengths of the open pipe and the closed pipe is (b) 1:2 (a) 2:1 (c) 1:3 (d) 3:1 (2013)",
+  "year": 2013,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0055-q026.png",
+   "w": 656,
+   "h": 299
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0055-q026-s.png",
+    "w": 696,
+    "h": 290
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 27,
+  "page": 55,
+  "seq": 121,
+  "answer": "B",
+  "stemText": "27. A person with vibrating tuning fork of frequency 338 Hz is moving towards a vertical wall with a speed of 2 ms'. Velocity of sound in air is 340 m s-. The number of beats heard by that person per second is (a) 2 (b) 4 (c) 6 (d) 8 (2013)",
+  "year": 2013,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0055-q027.png",
+   "w": 656,
+   "h": 350
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Waves",
+  "number": 28,
+  "page": 55,
+  "seq": 122,
+  "answer": "B",
+  "stemText": "28. A metallic wire of 1m length has a mass of 10x 10-3 kg. If a tension of 100 N is applied to a wire, what is the speed of transverse wave? (a) 200 m s (c) 0.1 m s (b) 100 m sl (d) 10 ms (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c14-p0055-q028.png",
+   "w": 656,
+   "h": 262
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c14-p0055-q028-s.png",
+    "w": 605,
+    "h": 477
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Work, Energy and Power",
+  "number": 7,
+  "page": 16,
+  "seq": 35,
+  "answer": "C",
+  "stemText": "A gun fires a small bullet with kinetic energy K. Then kinetic energy of the gun while recoiling is (a) K (c) less than K 7. (6) more than K (d) K (2013)",
+  "year": 2013,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c05-p0016-q007.png",
+   "w": 646,
+   "h": 239
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c05-p0016-q007-s.png",
+    "w": 722,
+    "h": 374
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Work, Energy and Power",
+  "number": 9,
+  "page": 17,
+  "seq": 36,
+  "answer": "A",
+  "stemText": "A truck accelerates from speed v to 2v. Work done in during this is (a) three times as the work done in 9. accelerating it from rest to v (6) same as the work done In accelerating it from rest to v (c) four times as the work done in accelerating it from rest to v (d) less than the work done in accelerating it from rest to v. (2013)",
+  "year": 2013,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c05-p0017-q009.png",
+   "w": 680,
+   "h": 493
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Work, Energy and Power",
+  "number": 10,
+  "page": 17,
+  "seq": 37,
+  "answer": "D",
+  "stemText": "10. The kinetic energy of a body of mass 4 kg and momentum 6 Nswillbe (a) 3.5 (c) 2.5J (b) 5.5J (d) 4.5J (2015) 12kg",
+  "year": 2015,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c05-p0017-q010.png",
+   "w": 677,
+   "h": 287
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c05-p0017-q010-s.png",
+    "w": 785,
+    "h": 458
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Work, Energy and Power",
+  "number": 11,
+  "page": 17,
+  "seq": 38,
+  "answer": "A",
+  "stemText": "11. A bomb at rest explodes into two pieces of 4 kg and 8 kg. If the momentum of 4 kg piece is 20N s, the kinetic energy of the 8 kg piece is (a) 25] (b) 20J (d) 40J (c) 50 (2016)",
+  "year": 2016,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c05-p0017-q011.png",
+   "w": 676,
+   "h": 326
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c05-p0017-q011-s.png",
+    "w": 758,
+    "h": 258
+   }
+  ]
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Work, Energy and Power",
+  "number": 14,
+  "page": 17,
+  "seq": 39,
+  "answer": "A",
+  "stemText": "14. During objects, which of the following quantity always remains conserved? (a) Total linear momentum (b) Total kinetic energy (c) Speed of each body (d) Total mechanical energy (2019)",
+  "year": 2019,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c05-p0017-q014.png",
+   "w": 717,
+   "h": 313
+  },
+  "solutionImages": []
+ },
+ {
+  "subject": "Physics",
+  "source": "mtg-physics",
+  "chapter": "Work, Energy and Power",
+  "number": 15,
+  "page": 17,
+  "seq": 40,
+  "answer": "D",
+  "stemText": "15. A body is initially at rest. It undergoes one-dimensional motion with constant acceleration. The power delivered to it at time tis proportional to (a) t3/2 t/2 (b) P (d) (c) (2020)",
+  "year": 2020,
+  "image": {
+   "src": "mtg-physics/mtg-physics-c05-p0017-q015.png",
+   "w": 717,
+   "h": 302
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-physics/mtg-physics-c05-p0017-q015-s.png",
+    "w": 775,
+    "h": 709
+   }
+  ]
+ }
+]

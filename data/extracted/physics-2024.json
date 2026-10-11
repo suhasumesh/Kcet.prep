@@ -1,0 +1,4186 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The ratio of molar specific heats of oxygen is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q001-stem0.png",
+    "w": 575,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.4",
+    "img": {
+     "src": "physics-2024/q001-optA.png",
+     "w": 206,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.67",
+    "img": {
+     "src": "physics-2024/q001-optB.png",
+     "w": 266,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.33",
+    "img": {
+     "src": "physics-2024/q001-optC.png",
+     "w": 206,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.28",
+    "img": {
+     "src": "physics-2024/q001-optD.png",
+     "w": 264,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The \nratio \nof \nmolar \nspecific \nheats \nFor",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q001-sol0.png",
+    "w": 677,
+    "h": 323
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "ratio of molar specific heats"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "For a particle executing simple harmonic\nmotion (SHM), at its mean position",
+  "stemImages": [
+   {
+    "src": "physics-2024/q002-stem0.png",
+    "w": 575,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Velocity is zero and acceleration is\nmaximum.",
+    "img": {
+     "src": "physics-2024/q002-optA.png",
+     "w": 542,
+     "h": 84
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Velocity is maximum and acceleration is\nzero.",
+    "img": {
+     "src": "physics-2024/q002-optB.png",
+     "w": 541,
+     "h": 84
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both velocity and acceleration are\nmaximum.",
+    "img": {
+     "src": "physics-2024/q002-optC.png",
+     "w": 542,
+     "h": 84
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both velocity and acceleration are zero",
+    "img": {
+     "src": "physics-2024/q002-optD.png",
+     "w": 539,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "We know that velocity and acceleration of a\nparticle in SHM.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q002-sol0.png",
+    "w": 677,
+    "h": 331
+   }
+  ],
+  "chapter": "Oscillations",
+  "chapterScore": 13,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "simple harmonic motion",
+   "shm",
+   "mean position"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A motor-cyclist moving towards a huge cliff\nwith a speed of 18kmh–1, blows a horn of\nsource frequency 325 Hz. If the speed of the\nsound in air is 330 ms–1, the number of beats\nheard by him is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q003-stem0.png",
+    "w": 575,
+    "h": 226
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5",
+    "img": {
+     "src": "physics-2024/q003-optA.png",
+     "w": 313,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4",
+    "img": {
+     "src": "physics-2024/q003-optB.png",
+     "w": 266,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "10",
+    "img": {
+     "src": "physics-2024/q003-optC.png",
+     "w": 313,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7",
+    "img": {
+     "src": "physics-2024/q003-optD.png",
+     "w": 264,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "find the number of beats heard by the motor-\ncyclist:\nConvert the speed of the motor-cyclist:\nThe speed given is 18 km/h.\nConvert km/h to m/s:\n, this is speed\nof observer as well speed of source.\nDetermine the properties given:\nFrequency of the source, f = 325Hz\nSpeed of sound in air, v = 330m / s\nMotor cyclist hears two frequencies , \nDirect sound from the horn \n = 325 Hz,\nReflected sound from the cliff",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q003-sol0.png",
+    "w": 677,
+    "h": 565
+   }
+  ],
+  "chapter": "Waves",
+  "chapterScore": 17,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "beats",
+   "speed of sound",
+   "frequency",
+   "sound"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A body has a charge of \n. The number\nof excess electrons will be",
+  "stemImages": [
+   {
+    "src": "physics-2024/q004-stem0.png",
+    "w": 575,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5.12 ×1025",
+    "img": {
+     "src": "physics-2024/q004-optA.png",
+     "w": 542,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5 ×1012",
+    "img": {
+     "src": "physics-2024/q004-optB.png",
+     "w": 541,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2 ×1013",
+    "img": {
+     "src": "physics-2024/q004-optC.png",
+     "w": 542,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5.12 ×1013",
+    "img": {
+     "src": "physics-2024/q004-optD.png",
+     "w": 539,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Charge \non \nbody, \nNumber of excess eletrons",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q004-sol0.png",
+    "w": 671,
+    "h": 286
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A point charge A of +10μC and another point\ncharge B of +20μC are kept 1 m apart in free\nspace. The electrostatic force on A due to B is\nF1 and the electrostatic force on B due to A is\nF2. Then",
+  "stemImages": [
+   {
+    "src": "physics-2024/q005-stem0.png",
+    "w": 575,
+    "h": 225
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q005-optA.png",
+     "w": 206,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q005-optB.png",
+     "w": 266,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q005-optC.png",
+     "w": 206,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q005-optD.png",
+     "w": 264,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Electrostatic force on each charges placed at\ncertain distance is equal in magnitude but\nopposite in direction.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q005-sol0.png",
+    "w": 671,
+    "h": 180
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 19,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "electrostatic force",
+   "charge",
+   "point charge",
+   "electrostatic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A uniform electric field \n is\nacting along the positive Y-axis. The electric\nflux through a rectangle of area 10 cm x 30 cm\nwhose plane is parallel to the ZX-plane is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q006-stem0.png",
+    "w": 595,
+    "h": 214
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "12 × 103 Vm",
+    "img": {
+     "src": "physics-2024/q006-optA.png",
+     "w": 562,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "9 × 103 Vm",
+    "img": {
+     "src": "physics-2024/q006-optB.png",
+     "w": 561,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "15 × 103 Vm",
+    "img": {
+     "src": "physics-2024/q006-optC.png",
+     "w": 562,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "18 × 103 Vm",
+    "img": {
+     "src": "physics-2024/q006-optD.png",
+     "w": 559,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q006-sol0.png",
+    "w": 671,
+    "h": 342
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "electric flux",
+   "electric field"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The total electric flux through a closed\nspherical surface of radius r enclosing an\nelectric dipole of dipole moment 2aq is (Give \npermittivity of free space)",
+  "stemImages": [
+   {
+    "src": "physics-2024/q007-stem0.png",
+    "w": 595,
+    "h": 169
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2024/q007-optA.png",
+     "w": 562,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q007-optB.png",
+     "w": 561,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q007-optC.png",
+     "w": 562,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q007-optD.png",
+     "w": 559,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The total electric flux through a closed surface\nis given by Gauss's Law, which states that:\nenc\nWhere \n is the electric flux, \n is the total\ncharge enclosed by the surface, and \n is the\npermittivity of free space.\nIn the case of an electric dipole, the dipole\nconsists of two equal and opposite charges\nseparated by some distance. Therefore, the\nnet charge \n enclosed by the spherical\nsurface is zero, because the positive and\nnegative charges cancel each other out.\nThus, the total electric flux through the closed\nspherical surface enclosing an electric dipole\nis:\nTherefore, the correct option is:",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q007-sol0.png",
+    "w": 671,
+    "h": 750
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 36,
+  "chapterMargin": 33,
+  "chapterHits": [
+   "electric dipole",
+   "dipole moment",
+   "electric flux",
+   "gauss",
+   "charge",
+   "permittivity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Under electrostatic condition of a charged\nconductor, \nwhich \namong \nthe \nfollowing\nstatements is true?",
+  "stemImages": [
+   {
+    "src": "physics-2024/q008-stem0.png",
+    "w": 595,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "The electric field on the suriacie of a\ncharged conductor is where o is the surface\ncharge density.",
+    "img": {
+     "src": "physics-2024/q008-optA.png",
+     "w": 562,
+     "h": 123
+    }
+   },
+   {
+    "letter": "B",
+    "text": "The electric potential inside a charged\nconductor is always zero.",
+    "img": {
+     "src": "physics-2024/q008-optB.png",
+     "w": 561,
+     "h": 84
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Any excess charge resides on the surface of\nthe conductor.",
+    "img": {
+     "src": "physics-2024/q008-optC.png",
+     "w": 562,
+     "h": 84
+    }
+   },
+   {
+    "letter": "D",
+    "text": "The net electric filed is tangential to the\nsurface of the conductor",
+    "img": {
+     "src": "physics-2024/q008-optD.png",
+     "w": 559,
+     "h": 84
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Since, there is no electric field inside the\nconductor, hence according to Coulomb's law,\nthe mutual repulsion of like charges demands\nthat the charges be as for apart as possible.\nHence, on the surface of the conductor, the\nnet electric charge resides entirely on its\nsurface. Electric field on the surface of a\ncharged conductor is \n Electric potential\ninside a charged conductor is constant (non-\nzero). \nThe \nnet \nelectric \nfield \nlines \nis\nperpendicular to the surface of the conductor.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q008-sol0.png",
+    "w": 677,
+    "h": 494
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 16,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "coulomb's law",
+   "surface charge density",
+   "charge",
+   "electric field",
+   "electrostatic",
+   "field lines"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A cube of side 1 cm contains 100 molecules\neach having an induced dipole moment of 0.2\n× 10–6 C–m electric field of 4NC–1. The electric\nsusceptibility \nof \nthe \nmaterials \nis \n_____",
+  "stemImages": [
+   {
+    "src": "physics-2024/q009-stem0.png",
+    "w": 589,
+    "h": 217
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "50",
+    "img": {
+     "src": "physics-2024/q009-optA.png",
+     "w": 213,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5",
+    "img": {
+     "src": "physics-2024/q009-optB.png",
+     "w": 280,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.5",
+    "img": {
+     "src": "physics-2024/q009-optC.png",
+     "w": 213,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.05",
+    "img": {
+     "src": "physics-2024/q009-optD.png",
+     "w": 278,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Induced dipole moment, \nNumber of molecuels, n = 100 molecule/ \nElectric susceptibility",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q009-sol0.png",
+    "w": 677,
+    "h": 361
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "dipole moment",
+   "electric field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A capacitor of capacitance 5μ F is charged by a\nbattery of emf 10 V. At an instant of time, the\npotential difference across the capacitors is 4\nV and the time rate of change of potential\ndifference across the capacitor is 0.6Vs–1.\nThen, the time rate at which energy is stored\nthe capacitor at > instant is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q010-stem0.png",
+    "w": 574,
+    "h": 298
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q010-optA.png",
+     "w": 302,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q010-optB.png",
+     "w": 266,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2024/q010-optC.png",
+     "w": 302,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q010-optD.png",
+     "w": 264,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, battery emf, \nWe know that stored energy,",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q010-sol0.png",
+    "w": 677,
+    "h": 373
+   }
+  ],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "capacitance",
+   "potential difference",
+   "capacitor"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "E is the electric field inside a conductor whose\nmaterial has conductivity \n and resistivity \n.\nThe current density inside the conductor is J.\nThe correct form of Ohm's law is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q011-stem0.png",
+    "w": 574,
+    "h": 170
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q011-optA.png",
+     "w": 302,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q011-optB.png",
+     "w": 266,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q011-optC.png",
+     "w": 302,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q011-optD.png",
+     "w": 264,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q011-sol0.png",
+    "w": 677,
+    "h": 49
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "ohm's law",
+   "resistivity",
+   "current"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "In the circuit shown, the end A is at potential\nV0 and end B is grounded. The electric current\nI indicated in the circuit is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q012-stem0.png",
+    "w": 574,
+    "h": 300
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q012-optA.png",
+     "w": 198,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q012-optB.png",
+     "w": 266,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q012-optC.png",
+     "w": 198,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q012-optD.png",
+     "w": 264,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "1st \nand \n2nd \nnetworks \nform \nbalanced\nWheatstone bridge.\nHence, circuit diagram can be redrawn as",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q012-sol0.png",
+    "w": 691,
+    "h": 559
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "wheatstone",
+   "current"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The electric current flowing through a given\nconductor varies with time as shown in the\ngraph below. The number of free electrons\nwhich flow through a given cross-section of the\nconductor in the time interval \n is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q013-stem0.png",
+    "w": 580,
+    "h": 544
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3.125 × 1019",
+    "img": {
+     "src": "physics-2024/q013-optA.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.6 × 1019",
+    "img": {
+     "src": "physics-2024/q013-optB.png",
+     "w": 547,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6.25 × 1018",
+    "img": {
+     "src": "physics-2024/q013-optC.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.625 × 1018",
+    "img": {
+     "src": "physics-2024/q013-optD.png",
+     "w": 545,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Total charge flowing the cross-section of the\nconductor is equal to area under I - t graph.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q013-sol0.png",
+    "w": 691,
+    "h": 435
+   }
+  ],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The IV graph for a conductor at two different\ntemperatures 100°C and 400°C is as shown in\nthe figure. The temperature coefficient of\nresistance of the conductor is about (in per\ndegree Celsius).",
+  "stemImages": [
+   {
+    "src": "physics-2024/q014-stem0.png",
+    "w": 580,
+    "h": 537
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q014-optA.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q014-optB.png",
+     "w": 547,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q014-optC.png",
+     "w": 547,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q014-optD.png",
+     "w": 545,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q014-sol0.png",
+    "w": 691,
+    "h": 305
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "temperature coefficient of resistance",
+   "resistance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "An electric blub of 60 W, 120 V is to be\nconnected to 220 V source. What resistance\nshould be connected in series with the bulb, so\nthat the bulb glows properly?",
+  "stemImages": [
+   {
+    "src": "physics-2024/q015-stem0.png",
+    "w": 574,
+    "h": 170
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q015-optA.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q015-optB.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q015-optC.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q015-optD.png",
+     "w": 539,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Resistance of the bulb,\n \nSince, bulb is connected with 220 V supply.\n Resistance required,\nThus, for the bulb to glow properly required\nresistance in series",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q015-sol0.png",
+    "w": 691,
+    "h": 398
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "resistance in series",
+   "resistance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "In \nan \nexperiment \nto \ndetermine \nthe\ntemperature coefficient of resistance of a\nconductor, a coil of wire X is immersed in a\nliquid. It is heated by an external agent. A\nmeter bridge set up is used to determine\nresistance \nof \nthe \ncoil \nX \nat \ndifferent\ntemperatures. The balancing points measured\nat temperatures \n and \nare 50 cm and 60 cm respectively. If the\nstandard resistance taken out is \n in\nboth trials, the temperature coefficient of the\ncoil is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q016-stem0.png",
+    "w": 574,
+    "h": 749
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q016-optA.png",
+     "w": 833,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q016-optB.png",
+     "w": 833,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q016-optC.png",
+     "w": 833,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q016-optD.png",
+     "w": 830,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Standard resistance \nAt \nTemperture coefficient of the coil, \nHence, velocity at point P,",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q016-sol0.png",
+    "w": 1388,
+    "h": 381
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 11,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "meter bridge",
+   "temperature coefficient of resistance",
+   "resistance"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A moving electron produces",
+  "stemImages": [
+   {
+    "src": "physics-2024/q017-stem0.png",
+    "w": 574,
+    "h": 52
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "only electric filed both",
+    "img": {
+     "src": "physics-2024/q017-optA.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "electric and magnetic-field",
+    "img": {
+     "src": "physics-2024/q017-optB.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "only magnetic field",
+    "img": {
+     "src": "physics-2024/q017-optC.png",
+     "w": 541,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "neither electric nor magnetic field",
+    "img": {
+     "src": "physics-2024/q017-optD.png",
+     "w": 539,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "A moving electron produces electric field and\nmagnetic field both, while static charge\nproduces only electric field.\nQ\nThe magnetic field at the center of a circular\ncoil with radius R carrying a current I is given\nby:",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q017-sol0.png",
+    "w": 1388,
+    "h": 180
+   }
+  ],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "magnetic field",
+   "circular coil"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A coil having 9 turns carrying a current\nproduces magnetic field B1 at the centre. Now\nthe coil is rewounded into 3 turns carrying\nsame current. Then, the magnetic field at the\ncentre B2 =",
+  "stemImages": [
+   {
+    "src": "physics-2024/q018-stem0.png",
+    "w": 580,
+    "h": 225
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q018-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q018-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q018-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q018-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Case - I\n Number of turns, \nCase-II \nIf radius of turns be \n, then\n \nwhere μo is the permeability of free space.\nThe magnetic field at a distance x on the axis\nfrom the center of the coil is given by:\nAccording to the problem, the field at the\ncenter is 64 times the field at distance x:\nSubstituting the expressions for Bcenter and Bx\nwe get:\nSimplifying, and cancelling out common terms,\nwe have:\nRearranging gives:",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q018-sol0.png",
+    "w": 1388,
+    "h": 588
+   }
+  ],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 7,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "magnetic field at the centre",
+   "magnetic field"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A particle of specific charge \n is\nprojected the origin towards positive X-axis\nwith the velocity 10 ms–1 uniform magnetic\nfield \n. The velocity v of particle after\ntime t = 1/12 s will be (in ms–1)",
+  "stemImages": [
+   {
+    "src": "physics-2024/q019-stem0.png",
+    "w": 580,
+    "h": 233
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q019-optA.png",
+     "w": 217,
+     "h": 54
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q019-optB.png",
+     "w": 272,
+     "h": 54
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q019-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q019-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We know that time period, \n \nSince, the particle will be at point P after time,\n \n \nIt \nwill \nbe \ndeviated \nby \nan \nangle, \nRearranging gives:\nTaking the cube roots on both sides:\nCalculating the right-hand side:\nR2\nSince 64 = 43, we can simplify 642/3 as:\nSo the equation becomes\nTherefore:\nThus, the value of x is \nThe correct answer is option D:",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q019-sol0.png",
+    "w": 1388,
+    "h": 398
+   },
+   {
+    "src": "physics-2024/q019-sol1.png",
+    "w": 691,
+    "h": 260
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The magnetic field at the centre of a circular\ncoil of radius R carrying current I is 64 times\nthe magnetic field at a distance x on its axis\nfrom the centre of the coil. Then, the value of\nX is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q020-stem0.png",
+    "w": 580,
+    "h": 215
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q020-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q020-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q020-optC.png",
+     "w": 217,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q020-optD.png",
+     "w": 270,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q020-sol0.png",
+    "w": 1388,
+    "h": 43
+   }
+  ],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 7,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "magnetic field at the centre",
+   "magnetic field",
+   "circular coil"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Magnetic hysterisis is exhibited by ............\nmagnetic materials",
+  "stemImages": [
+   {
+    "src": "physics-2024/q021-stem0.png",
+    "w": 580,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Only para",
+    "img": {
+     "src": "physics-2024/q021-optA.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Only dia",
+    "img": {
+     "src": "physics-2024/q021-optB.png",
+     "w": 547,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Only ferro",
+    "img": {
+     "src": "physics-2024/q021-optC.png",
+     "w": 547,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both para and ferro",
+    "img": {
+     "src": "physics-2024/q021-optD.png",
+     "w": 545,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Magnetic \nhysteresis \nis \nexhibited \nby\nferromagnetic materials.\nIn ferromagnetism, materials like iron and\ncobalt show hysteresis when subjected to an\nexternal magnetic field. The process involves\nthe \nalignment \nof \nmagnetic \ndomains \nin\nresponse to the applied field and retains a\ncertain level of magnetization even when the\nfield is removed. This characteristic behavior,\nwhich results from the energy loss in the\nsystem, manifests as a lag between changes in\nmagnetization and the external magnetic field,\nforming a hysteresis loop.\nTherefore, the correct choice is:",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q021-sol0.png",
+    "w": 691,
+    "h": 612
+   }
+  ],
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 16,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "ferromagnetic",
+   "hysteresis"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Magnetic susceptibility of Mg at 300 K is 1.2 ×\n10–5. What is its susceptibility at 200",
+  "stemImages": [
+   {
+    "src": "physics-2024/q022-stem0.png",
+    "w": 580,
+    "h": 104
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "18 × 10–5",
+    "img": {
+     "src": "physics-2024/q022-optA.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "180 × 10–5",
+    "img": {
+     "src": "physics-2024/q022-optB.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.8 × 10–5",
+    "img": {
+     "src": "physics-2024/q022-optC.png",
+     "w": 547,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.18 × 10–5",
+    "img": {
+     "src": "physics-2024/q022-optD.png",
+     "w": 545,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that magnetic susceptibility.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q022-sol0.png",
+    "w": 691,
+    "h": 259
+   }
+  ],
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "magnetic susceptibility"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A uniform magnetic field of strength B = 2mT\nexists vertically downwards. These magnetic\nfield lines pass through a closed surface as\nshown in the figure. The closed surface\nconsists of a hemisphere S1, a right circular\ncone S2 and a circular surface S3. The magnetic\nflux through S1 and S2 are respectively",
+  "stemImages": [
+   {
+    "src": "physics-2024/q023-stem0.png",
+    "w": 574,
+    "h": 657
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q023-optA.png",
+     "w": 833,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q023-optB.png",
+     "w": 833,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q023-optC.png",
+     "w": 833,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q023-optD.png",
+     "w": 830,
+     "h": 68
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given \nMagnetic flux passing through surface \nSince, Total entering magnetic flux = Total\nleaving magnetic flux",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q023-sol0.png",
+    "w": 691,
+    "h": 499
+   }
+  ],
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "flux"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "In the figure, a conducting ring of certain\nresistance is falling towards a current carrying\nstraight \nlong \nconductor. \nThe \nring \nand\nconductor are in the same plane. Then, the",
+  "stemImages": [
+   {
+    "src": "physics-2024/q024-stem0.png",
+    "w": 574,
+    "h": 412
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "induced electric current is zero",
+    "img": {
+     "src": "physics-2024/q024-optA.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "induced electric current is anti-clockwise",
+    "img": {
+     "src": "physics-2024/q024-optB.png",
+     "w": 541,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "induced electric current is clockwise",
+    "img": {
+     "src": "physics-2024/q024-optC.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "ring will come to rest",
+    "img": {
+     "src": "physics-2024/q024-optD.png",
+     "w": 539,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Magnetic field around the current carrying\nstraight long conductor.\nwhere, r is distance from the conductor.\nHence, magnetic field increases on moving\ntowards the conductor.\nSince, metal ring is moving towards the\nconducting wire, hence flux linked with ring,\nincreases continuously in the out of plane\ndirection. \nHence, \nthe \ninduced \ncurrent\nproduces a magnetic field into the plane of\npaper. Thus, induced current will produce in\nthe clockwise direction.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q024-sol0.png",
+    "w": 671,
+    "h": 585
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current",
+   "resistance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "An induced current of 2 A flows through a coil.\nThe resistance of the coil is \n. What is the\nchange in magnetic flux associated with the\ncoil in 1 ms ?",
+  "stemImages": [
+   {
+    "src": "physics-2024/q025-stem0.png",
+    "w": 580,
+    "h": 174
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.2 × 10–2 Wb",
+    "img": {
+     "src": "physics-2024/q025-optA.png",
+     "w": 547,
+     "h": 52
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2 × 10–2 Wb",
+    "img": {
+     "src": "physics-2024/q025-optB.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "22 × 10–2 Wb",
+    "img": {
+     "src": "physics-2024/q025-optC.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.22 × 10–2 Wb",
+    "img": {
+     "src": "physics-2024/q025-optD.png",
+     "w": 545,
+     "h": 52
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given\nWe know that,",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q025-sol0.png",
+    "w": 671,
+    "h": 328
+   }
+  ],
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "induced",
+   "flux",
+   "coil"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A square loop of side length a is moving away\nfrom an infinitely long current carrying\nconductor at a constant speed v as shown. Let\nx be the instantaneous distance between the\nlong conductor and side AB. The mutual\ninductance \nM \nof \nthe \nsquare \nloop-long\nconductor pair changes with time t according\nto which of the following graphs? \n(C) \n(D)",
+  "stemImages": [
+   {
+    "src": "physics-2024/q026-stem0.png",
+    "w": 574,
+    "h": 1035
+   },
+   {
+    "src": "physics-2024/q026-stem1.png",
+    "w": 671,
+    "h": 475
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q026-optA.png",
+     "w": 833,
+     "h": 201
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q026-optC.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q026-optD.png",
+     "w": 545,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "As the mutual inductance is independent with\ntime, hence graph shown in option (c) is\ncorrect.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q026-sol0.png",
+    "w": 671,
+    "h": 180
+   }
+  ],
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 10,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "mutual inductance",
+   "inductance"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Which of the following combinations should be\nselected for better tuning of an L - C - R circuit\nused for communication ?",
+  "stemImages": [
+   {
+    "src": "physics-2024/q027-stem0.png",
+    "w": 580,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q027-optA.png",
+     "w": 547,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q027-optB.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q027-optC.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q027-optD.png",
+     "w": 545,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "For better tunning of an \n circuit\nused in for communication, quality factor \n must be high.\nIn option (d), \n and \n is minimum and \n is\nmaximum. Thus, the value of R, Land C given\nin \noption \n(d) \nsuitable \nfor \nbetter\ncommunication.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q027-sol0.png",
+    "w": 671,
+    "h": 394
+   }
+  ],
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "quality factor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "In an L–C–R series circuit, the value of only\ncapacitance C is varied. The resulting variation\nof resonance frequency fo as a function of C\ncan be represented as\n(D)",
+  "stemImages": [
+   {
+    "src": "physics-2024/q028-stem0.png",
+    "w": 574,
+    "h": 505
+   },
+   {
+    "src": "physics-2024/q028-stem1.png",
+    "w": 671,
+    "h": 68
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q028-optA.png",
+     "w": 833,
+     "h": 382
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q028-optB.png",
+     "w": 833,
+     "h": 358
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q028-optD.png",
+     "w": 545,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Resonance frequency in L–C–R series circuit,\ni.e. f0 decreases with C, hence graph shown in\noption (c) is correct.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q028-sol0.png",
+    "w": 671,
+    "h": 232
+   }
+  ],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "capacitance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The figure shows variation of R, XL and X with\nfrequency f in a series LCR circuit. Then, for\nwhat frequency point is the circuit capacitive?",
+  "stemImages": [
+   {
+    "src": "physics-2024/q029-stem0.png",
+    "w": 580,
+    "h": 654
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "B",
+    "img": {
+     "src": "physics-2024/q029-optA.png",
+     "w": 217,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "D",
+    "img": {
+     "src": "physics-2024/q029-optB.png",
+     "w": 272,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A",
+    "img": {
+     "src": "physics-2024/q029-optC.png",
+     "w": 217,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "C",
+    "img": {
+     "src": "physics-2024/q029-optD.png",
+     "w": 270,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "For a capacitive circuit, Xc > XL For the given\ndiagram \nin \nquestion, \nthe \nvalue \nXc\ncorresponding A is greater than the value of XL",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q029-sol0.png",
+    "w": 691,
+    "h": 205
+   }
+  ],
+  "chapter": "Alternating Current",
+  "chapterScore": 6,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "lcr circuit",
+   "capacitive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Electromagnetic waves are incident normally\non a perfectly reflecting surface having surface\narea A. If I is the intensity of the incident\nelectromagnetic radiation and c is the speed of\nlight in vacuum, the force exerted by the\nelectromagnetic wave on the reflecting surface\nis",
+  "stemImages": [
+   {
+    "src": "physics-2024/q030-stem0.png",
+    "w": 580,
+    "h": 288
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2I A/c",
+    "img": {
+     "src": "physics-2024/q030-optA.png",
+     "w": 217,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "LA /C",
+    "img": {
+     "src": "physics-2024/q030-optB.png",
+     "w": 272,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "IA/2c",
+    "img": {
+     "src": "physics-2024/q030-optC.png",
+     "w": 217,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "I/2Ac",
+    "img": {
+     "src": "physics-2024/q030-optD.png",
+     "w": 270,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The force exerted by electromagnetic waves\non a perfectly reflecting surface can be derived\nusing the concept of radiation pressure. When\nelectromagnetic waves are incident on a\nreflecting surface, they exert a pressure due to\nthe change in momentum as they reflect.\nFor a perfectly reflecting surface, the radiation\npressure P is given by:\nwhere:\nI is the intensity of the incident radiation,\nc is the speed of light.\nThe force F exerted on a surface due to\nradiation pressure is given by multiplying the\nradiation pressure by the surface area A:\nTherefore, the correct expression for the force\nexerted by the electromagnetic wave on the\nreflecting surface is:\nOption A",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q030-sol0.png",
+    "w": 691,
+    "h": 854
+   }
+  ],
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "pressure"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The final image formed by an astronomical\ntelescope is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q031-stem0.png",
+    "w": 580,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "real, erect and diminished",
+    "img": {
+     "src": "physics-2024/q031-optA.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "virtual, inverted and diminished",
+    "img": {
+     "src": "physics-2024/q031-optB.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "real, inverted and magnified",
+    "img": {
+     "src": "physics-2024/q031-optC.png",
+     "w": 547,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "virtual, inverted and magnified",
+    "img": {
+     "src": "physics-2024/q031-optD.png",
+     "w": 545,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The final image formed by an astronomical\ntelescope is:\nOption D\nvirtual, inverted and magnified\nIn an astronomical telescope, the objective\nlens (or mirror) creates a real, inverted image\nof a distant object at its focal plane. The\neyepiece, which functions as a magnifying\nglass, then takes this real image and forms a\nvirtual image that is also inverted but\nmagnified for the viewer's eye. This is why\nwhen you look through an astronomical\ntelescope, the image appears larger and\nupside down.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q031-sol0.png",
+    "w": 671,
+    "h": 612
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 18,
+  "chapterMargin": 18,
+  "chapterHits": [
+   "astronomical telescope",
+   "mirror",
+   "lens",
+   "image formed",
+   "objective",
+   "eyepiece"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "If the angle of minimum deviation is equal to\nangle of a prism for an equilateral prism, then\nthe speed of light inside the prism is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q032-stem0.png",
+    "w": 574,
+    "h": 172
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q032-optA.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q032-optB.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q032-optC.png",
+     "w": 541,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q032-optD.png",
+     "w": 539,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given that the angle of minimum deviation \nis equal to the angle of the prism A for an\nequilateral prism, we have:\nThe refractive index \n of the prism can be\ndetermined using the formula:\nSubstitute the values:\nTherefore, if is the speed of light inside the\nprism, the relationship with is:\nRearrange to find :\nm/s\nm/s",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q032-sol0.png",
+    "w": 671,
+    "h": 700
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 24,
+  "chapterMargin": 21,
+  "chapterHits": [
+   "refractive index",
+   "angle of minimum deviation",
+   "prism"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A luminous point object O is placed at a\ndistance 2R from the spherical boundary\nseparating two transparent media of refractive\nindices n1 and as shown, where R is the radius\nof curvature of the n2 spherical surface. If \nthe image is\nobtained at a distance from P equal to",
+  "stemImages": [
+   {
+    "src": "physics-2024/q033-stem0.png",
+    "w": 574,
+    "h": 526
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "30 cm in the rarer medium",
+    "img": {
+     "src": "physics-2024/q033-optA.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "30 cm in the denser medium",
+    "img": {
+     "src": "physics-2024/q033-optB.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "18 cm in the rarer medium",
+    "img": {
+     "src": "physics-2024/q033-optC.png",
+     "w": 541,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "18 cm in the denser medium",
+    "img": {
+     "src": "physics-2024/q033-optD.png",
+     "w": 539,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "From the given diagram in question, \nUsing refraction formula through convex\nUsing lens formula,",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q033-sol0.png",
+    "w": 1388,
+    "h": 213
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "lens",
+   "refraction",
+   "convex"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "An equiconvex lens of radius of curvature 14\ncm is made up of two different materials. Left\nhalf and right half of vertical portion is made\nup of material of refractive index 1.5 and 1.2\nrespectively as shown in the figure. If a point\nobject is placed at a distance of 40 cm ,\ncalculate the image distance.",
+  "stemImages": [
+   {
+    "src": "physics-2024/q034-stem0.png",
+    "w": 580,
+    "h": 805
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "25 cm",
+    "img": {
+     "src": "physics-2024/q034-optA.png",
+     "w": 217,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "50 cm",
+    "img": {
+     "src": "physics-2024/q034-optB.png",
+     "w": 272,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "35 cm",
+    "img": {
+     "src": "physics-2024/q034-optC.png",
+     "w": 217,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "40 cm",
+    "img": {
+     "src": "physics-2024/q034-optD.png",
+     "w": 270,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "From the diagram, \nCombined focal length, \nAgain, \n?\nwritten as:\nobserved\noriginal\noriginal\nwhere:\n \n(the \nwavelength\nobserved),\n (the original wavelength).\nSubstitute the given values:\nnm\nnm\nnm\nThe redshift is also related to the velocity v of\nthe galaxy and the speed of light \n by the\nformula:\nUsing this relationship, we can solve for v, the\nspeed of the galaxy:\nkm/s\nCalculating this gives:\nkm/s\nkm/s\nThus, the speed of the galaxy with respect to\nthe Earth is 500 km/s\nCorrect Option: A",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q034-sol0.png",
+    "w": 1388,
+    "h": 1130
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 9,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "refractive index",
+   "focal length",
+   "lens"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A galaxy is moving away from the Earth so that\na spectral line at 600 nm is observed at 601\nnm . Then, the speed of the galaxy with\nrespect to the Earth is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q035-stem0.png",
+    "w": 580,
+    "h": 173
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "500 km s–1",
+    "img": {
+     "src": "physics-2024/q035-optA.png",
+     "w": 547,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "200 km s–1",
+    "img": {
+     "src": "physics-2024/q035-optB.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "50 km s–1",
+    "img": {
+     "src": "physics-2024/q035-optC.png",
+     "w": 547,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "20 km s–1",
+    "img": {
+     "src": "physics-2024/q035-optD.png",
+     "w": 545,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "g\ng\nspherical surface.\nSince, v is negative, thus image is obtained al a\ndistance from P equal to 30 cm in the rarer\nmedium.\nQ35\nThe Doppler effect describes the change in\nfrequency or wavelength of a wave in relation\nto an observer moving relative to the source of\nthe waves. For light, this effect is observed in\nthe form of redshift or blueshift, depending on\nwhether the object is moving away from or\ntowards the observer, respectively.\nThe formula to calculate the redshift z can be\nwritten as:",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q035-sol0.png",
+    "w": 1388,
+    "h": 395
+   }
+  ],
+  "chapter": "Waves",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "doppler effect",
+   "wavelength",
+   "frequency"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Three polaroid sheets are co-axially placed as\nindicated in the diagram. Pass axes of the\npolaroids 2 and 3 make 30 deg and 90 deg\nwith pass axis of polaroid sheet 1. If I0 is the\nintensity of the incident unpolarised light\nentering sheet 1, the intensity of the emergent\nlight through sheet 3 is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q036-stem0.png",
+    "w": 574,
+    "h": 583
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2024/q036-optA.png",
+     "w": 302,
+     "h": 60
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q036-optB.png",
+     "w": 266,
+     "h": 49
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q036-optC.png",
+     "w": 302,
+     "h": 72
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q036-optD.png",
+     "w": 264,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "After passing through sheet I",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q036-sol0.png",
+    "w": 691,
+    "h": 344
+   }
+  ],
+  "chapter": "Wave Optics",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "polaroid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "In Young's double slit experiment, an electron\nbeam is used to produce interference fringes\nof width \n Now the electron beam is replaced\nby a beam of protons with the same\nexperimental set-up and same speed. The\nfringe width obtained is \n The correct relation\nbetween \n and \n is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q037-stem0.png",
+    "w": 574,
+    "h": 288
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q037-optA.png",
+     "w": 833,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "No fringes are formed",
+    "img": {
+     "src": "physics-2024/q037-optB.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q037-optC.png",
+     "w": 833,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q037-optD.png",
+     "w": 830,
+     "h": 68
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "In Young's double slit experiment, the fringe\nwidth is determined by the formula:\nwhere \n is the wavelength of the particles\ninvolved, D is the distance from the slits to the\nscreen, and d is the separation between the\ntwo slits.\nFor particles like electrons and protons, the de\nBroglie wavelength is given by:\nwhere h is Planck's constant, m is the mass of\nthe particle, and v is the velocity (or speed) of\nthe particle.\nBoth electrons and protons are used at the\nsame speed v in this scenario, and the\nexperimental setup (slit separation d and\ndistance to screen D) remains unchanged.\nTherefore, the ratio of their fringe widths, \n(for electrons) and \n (for protons), is\ndetermined by their respective de Broglie\nwavelengths:\nCalculate the wavelength of the electrons:\nelectron\nelectron\nCalculate the wavelength of the protons:\nproton\nproton\nSince \n, \nit \nfollows \nthat\n when both have the same\nspeed. The narrower wavelength of protons\nresults in narrower fringes. Therefore:\nelectron\nproton\nThus, the correct relation between \n and \nis:\nOption D:",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q037-sol0.png",
+    "w": 691,
+    "h": 1372
+   },
+   {
+    "src": "physics-2024/q037-sol1.png",
+    "w": 686,
+    "h": 57
+   }
+  ],
+  "chapter": "Wave Optics",
+  "chapterScore": 26,
+  "chapterMargin": 17,
+  "chapterHits": [
+   "young's double slit",
+   "interference",
+   "fringe width",
+   "slit",
+   "fringe"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Light of energy E falls normally on a metal of\nwork function E/3. The kinetic energies K of the\nphoto electrons are",
+  "stemImages": [
+   {
+    "src": "physics-2024/q038-stem0.png",
+    "w": 574,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q038-optA.png",
+     "w": 198,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q038-optB.png",
+     "w": 266,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q038-optC.png",
+     "w": 198,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q038-optD.png",
+     "w": 264,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, work function, \nAccording to Einstein's photoelectric equation,\n Kinetic energy lies between 0 to 2E/3",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q038-sol0.png",
+    "w": 686,
+    "h": 328
+   }
+  ],
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 12,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "work function",
+   "einstein's photoelectric"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The photoelectric work function for photo\nmetal is 2.4 eV . Among the four wavelengths,\nthe \nwavelength \nof \nlight \nfor \nwhich\nphotoemission does not take place is [KCET\n2024}]",
+  "stemImages": [
+   {
+    "src": "physics-2024/q039-stem0.png",
+    "w": 574,
+    "h": 209
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "200 nm",
+    "img": {
+     "src": "physics-2024/q039-optA.png",
+     "w": 198,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "300 nm",
+    "img": {
+     "src": "physics-2024/q039-optB.png",
+     "w": 266,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "700 nm",
+    "img": {
+     "src": "physics-2024/q039-optC.png",
+     "w": 198,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "400 nm",
+    "img": {
+     "src": "physics-2024/q039-optD.png",
+     "w": 264,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, \nWe know that, \nin \n in \n \n For \n, photoelectric emission\ndoes not take place",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q039-sol0.png",
+    "w": 686,
+    "h": 292
+   }
+  ],
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "work function"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "In alpha particle scattering experiment, if v is\nthe initial velocity of the particle, then the\ndistance of closest approach is d. If the velocity\nis doubled, then the distance of closest\napproach becomes",
+  "stemImages": [
+   {
+    "src": "physics-2024/q040-stem0.png",
+    "w": 580,
+    "h": 209
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4 d",
+    "img": {
+     "src": "physics-2024/q040-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2 d",
+    "img": {
+     "src": "physics-2024/q040-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "d/2",
+    "img": {
+     "src": "physics-2024/q040-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "d/4",
+    "img": {
+     "src": "physics-2024/q040-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q040-sol0.png",
+    "w": 686,
+    "h": 371
+   }
+  ],
+  "chapter": "Atoms",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "alpha particle scattering"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The ratio of area of first excited state to\nground state of orbit of hydrogen atom is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q041-stem0.png",
+    "w": 580,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1 : 16",
+    "img": {
+     "src": "physics-2024/q041-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1 : 4",
+    "img": {
+     "src": "physics-2024/q041-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4 : 1",
+    "img": {
+     "src": "physics-2024/q041-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "16 : 1",
+    "img": {
+     "src": "physics-2024/q041-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q041-sol0.png",
+    "w": 686,
+    "h": 259
+   }
+  ],
+  "chapter": "Atoms",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "excited state",
+   "ground state",
+   "hydrogen atom"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The ratio of volume of AI27 nucleus to its\nsurface area is (Given, \n)",
+  "stemImages": [
+   {
+    "src": "physics-2024/q042-stem0.png",
+    "w": 580,
+    "h": 104
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2.1 × 10–15 m",
+    "img": {
+     "src": "physics-2024/q042-optA.png",
+     "w": 547,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.3 × 10–15 m",
+    "img": {
+     "src": "physics-2024/q042-optB.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.22 × 10–15 m",
+    "img": {
+     "src": "physics-2024/q042-optC.png",
+     "w": 547,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.2 × 10–15 m",
+    "img": {
+     "src": "physics-2024/q042-optD.png",
+     "w": 545,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q042-sol0.png",
+    "w": 686,
+    "h": 50
+   }
+  ],
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nucleus"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Consider \nthe \nnuclear \nfission \nreaction\n.\nAssuming all the kinetic energy is carried away\nby the fast neutrons only and total binding\nenergies of \n to be\n \nrespectively, \nthe\naverage kinetic energy carried by each fast\nneutron is (in MeV)",
+  "stemImages": [
+   {
+    "src": "physics-2024/q043-stem0.png",
+    "w": 580,
+    "h": 339
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "200",
+    "img": {
+     "src": "physics-2024/q043-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "180",
+    "img": {
+     "src": "physics-2024/q043-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "67",
+    "img": {
+     "src": "physics-2024/q043-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "60",
+    "img": {
+     "src": "physics-2024/q043-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Binding energy\nBinding energy\nBinding energy\nBinding \nenergy \nof \nreactants\nBinding \nenergy \nof \nproducts\nAverage kinetic energy carried by each fast\nneutron",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q043-sol0.png",
+    "w": 702,
+    "h": 604
+   }
+  ],
+  "chapter": "Nuclei",
+  "chapterScore": 17,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "binding energy",
+   "nuclear fission",
+   "nuclear"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The natural logarithm of the activity R of a\nradioactive sample varies with time t as\nshown. At t = 0, there are No undecayed\nnuclei. Then, No is equal to [Take e2 = 7.5]",
+  "stemImages": [
+   {
+    "src": "physics-2024/q044-stem0.png",
+    "w": 574,
+    "h": 611
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "7500",
+    "img": {
+     "src": "physics-2024/q044-optA.png",
+     "w": 302,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3500",
+    "img": {
+     "src": "physics-2024/q044-optB.png",
+     "w": 266,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "75000",
+    "img": {
+     "src": "physics-2024/q044-optC.png",
+     "w": 302,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "150000",
+    "img": {
+     "src": "physics-2024/q044-optD.png",
+     "w": 264,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "From the diagram at t = 0",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q044-sol0.png",
+    "w": 702,
+    "h": 874
+   }
+  ],
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "radioactive"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Depletion \nregion \nin \nan \nunbiased\nsemiconductor diode is a region consisting of",
+  "stemImages": [
+   {
+    "src": "physics-2024/q045-stem0.png",
+    "w": 574,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "both free electrons and holes",
+    "img": {
+     "src": "physics-2024/q045-optA.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "neither free electrons nor holes",
+    "img": {
+     "src": "physics-2024/q045-optB.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "only free electrons",
+    "img": {
+     "src": "physics-2024/q045-optC.png",
+     "w": 541,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "only holes",
+    "img": {
+     "src": "physics-2024/q045-optD.png",
+     "w": 539,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Depletion \nregion \nin \nan \nunbiased\nsemiconductor diode is a region consisting of\nimmobile ions only. i.e. In depletion region,\nneither free elements nor holes exist.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q045-sol0.png",
+    "w": 702,
+    "h": 206
+   }
+  ],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 24,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "depletion region",
+   "nor",
+   "diode",
+   "semiconductor"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "The upper level of valence band and lower\nlevel of conduction band overlap in the case of",
+  "stemImages": [
+   {
+    "src": "physics-2024/q046-stem0.png",
+    "w": 574,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Silicon",
+    "img": {
+     "src": "physics-2024/q046-optA.png",
+     "w": 198,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Copper",
+    "img": {
+     "src": "physics-2024/q046-optB.png",
+     "w": 266,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Carbon",
+    "img": {
+     "src": "physics-2024/q046-optC.png",
+     "w": 198,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "germanium",
+    "img": {
+     "src": "physics-2024/q046-optD.png",
+     "w": 264,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "There is no forbidden energy gap between\nconduction bond and valence band for a\nconductor (copper). Hence, in copper, valence\nband and conduction band are overlapped.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q046-sol0.png",
+    "w": 691,
+    "h": 219
+   }
+  ],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 26,
+  "chapterMargin": 23,
+  "chapterHits": [
+   "valence band",
+   "conduction band",
+   "forbidden energy gap",
+   "silicon",
+   "germanium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "In the diagram shown, the Zener diode has a\nreverse breakdown voltage of VZ. The current\nthrough the load resistance RL is IL. The\ncurrent through the Zener diode is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q047-stem0.png",
+    "w": 580,
+    "h": 657
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q047-optA.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q047-optB.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q047-optC.png",
+     "w": 547,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q047-optD.png",
+     "w": 545,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q047-sol0.png",
+    "w": 691,
+    "h": 584
+   }
+  ],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 10,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "zener",
+   "diode"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A p – n junction diode is connected to a battery\nof emf 5.7 V in series with a resistant \nsuch that it is forward biased. If the barrier\npotential of the diode is 0.7 V , neglecting the\ndiode resistance, the current in the circuit is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q048-stem0.png",
+    "w": 580,
+    "h": 209
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.14 mA",
+    "img": {
+     "src": "physics-2024/q048-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1 mA",
+    "img": {
+     "src": "physics-2024/q048-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1 A",
+    "img": {
+     "src": "physics-2024/q048-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.14 A",
+    "img": {
+     "src": "physics-2024/q048-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, barrier potential, \nSeries resistance,",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q048-sol0.png",
+    "w": 691,
+    "h": 518
+   }
+  ],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 11,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "barrier potential",
+   "diode"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "An athlete runs along a circular track of\ndiameter 80 m . The distance travelled and the\nmagnitude of displacement of the athlete\nwhen he covers 3/4 th of the circle is (in m )",
+  "stemImages": [
+   {
+    "src": "physics-2024/q049-stem0.png",
+    "w": 580,
+    "h": 216
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q049-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q049-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q049-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q049-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q049-sol0.png",
+    "w": 1388,
+    "h": 11
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "displacement",
+   "distance travelled"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Among the given pair of vectors, the resultant\nof two vectors can never be 3 units. The\nvectors are",
+  "stemImages": [
+   {
+    "src": "physics-2024/q050-stem0.png",
+    "w": 574,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1 unit and 2 units",
+    "img": {
+     "src": "physics-2024/q050-optA.png",
+     "w": 541,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3 units and 6 units",
+    "img": {
+     "src": "physics-2024/q050-optB.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2 units and 5 units",
+    "img": {
+     "src": "physics-2024/q050-optC.png",
+     "w": 541,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4 units and 8 units",
+    "img": {
+     "src": "physics-2024/q050-optD.png",
+     "w": 539,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, diameter, d = 80 m\nDistance travelled after completion of 3/4\nrevolution \nQ50\nTo determine in which case the resultant of\ntwo vectors can never be 3 units, we need to\nuse the triangle inequality theorem for\nvectors: For two vectors with magnitudes |A|\nand B, the resultant vector |R| satisfies: ||A| -\n|B|| <= |R| <= |A| + |B|\nLet's analyze each option to see if a resultant\nof 3 units is possible:\nOption A: 1 unit and 2 units Minimum\nresultant: |1 - 2| = 1\nMaximum resultant: 1+2=3\nA resultant of 3 is possible.\nOption B: 3 units and 6 units\nMinimum resultant: |3 - 6| = 3\nMaximum resultant: 3+6=9\nA resultant of 3 is possible.\nOption C: 2 units and 5 units\nMinimum resultant: |2 - 5| = 3\nMaximum resultant: 2+5=7\nA resultant of 3 is possible.\nOption D: 4 units and 8 units\nMinimum resultant: | 4–8| = 4\nMaximum resultant: 4 + 8 = 12\nA resultant of 3 units is not possible as the\nminimum resultant is 4.\nTherefore, the pair of vectors where the\nresultant can never be 3 units is Option D (4\nunits and 8 units).",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q050-sol0.png",
+    "w": 1388,
+    "h": 1162
+   }
+  ],
+  "chapter": "Motion in a Plane",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "resultant of two vectors",
+   "vector"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A block of certain mass is placed on a rough\ninclined plane. The angle between the plane\nand the horizontal is 30° The coefficients of\nstatic and kinetic frictions between the block\nand the inclined plane are 0.6 and 0.5\nrespectively. Then, the magnitude of the\nacceleration of the block is [Take g = 10 ms–2 ]",
+  "stemImages": [
+   {
+    "src": "physics-2024/q051-stem0.png",
+    "w": 574,
+    "h": 703
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2 ms–2",
+    "img": {
+     "src": "physics-2024/q051-optA.png",
+     "w": 541,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2024/q051-optB.png",
+     "w": 833,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.196 ms–2",
+    "img": {
+     "src": "physics-2024/q051-optC.png",
+     "w": 541,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.67 ms–2",
+    "img": {
+     "src": "physics-2024/q051-optD.png",
+     "w": 539,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "From the diagram, frictional force\nMagnitude of force pulling the block along the\nplane downward,\nSince, \nHence, block will not move.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q051-sol0.png",
+    "w": 1388,
+    "h": 441
+   },
+   {
+    "src": "physics-2024/q051-sol1.png",
+    "w": 691,
+    "h": 217
+   }
+  ],
+  "chapter": "Laws of Motion",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "block"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A particle of mass 500 g is at rest. It is free to\nmove along a straight line. The power\ndelivered to the particle varies with time\naccording to the following graph [ KCET 2024]\nThe momentum of the particle at t = 5 s is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q052-stem0.png",
+    "w": 580,
+    "h": 619
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q052-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q052-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q052-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q052-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Area under P – t graph is equal to work done\n(or change in kinetic energy)",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q052-sol0.png",
+    "w": 691,
+    "h": 797
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 11,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "kinetic energy",
+   "power delivered",
+   "work done",
+   "energy",
+   "power"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Dimensional \nformula \nfor \nactivity \nof \na\nradioactive substance is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q053-stem0.png",
+    "w": 580,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q053-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q053-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q053-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q053-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The dimensional formula for the activity of a\nradioactive substance is expressed as the\nnumber of disintegrations per unit time.\nTherefore, the dimensions are related to\ninverse time.\n \n \nThis indicates that activity is independent of\nmass (M0) and length (L0), and it depends on\ninverse time (T–1). Hence, the correct\noption is C.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q053-sol0.png",
+    "w": 691,
+    "h": 486
+   }
+  ],
+  "chapter": "Nuclei",
+  "chapterScore": 10,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "activity of a radioactive",
+   "radioactive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A ceiling fan is rotating around a fixed axle as\nshown. The direction of angular velocity is\nalong ..........",
+  "stemImages": [
+   {
+    "src": "physics-2024/q054-stem0.png",
+    "w": 580,
+    "h": 545
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q054-optA.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q054-optB.png",
+     "w": 272,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q054-optC.png",
+     "w": 217,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q054-optD.png",
+     "w": 270,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "According to right hand rule, direction of\nangular velocity is along Z-axis.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q054-sol0.png",
+    "w": 671,
+    "h": 141
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A body of mass 1 kg is suspended by a\nweightless \nstring \nwhich \npasses \nover \na\nfrictionless pulley of mass 2 kg as shown in the\nfigure. The mass is released from a height of\n1.6 m from the ground. With what velocity\ndoes it strike the ground?",
+  "stemImages": [
+   {
+    "src": "physics-2024/q055-stem0.png",
+    "w": 574,
+    "h": 661
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "16 ms–1",
+    "img": {
+     "src": "physics-2024/q055-optA.png",
+     "w": 541,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8 ms–1",
+    "img": {
+     "src": "physics-2024/q055-optB.png",
+     "w": 541,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q055-optC.png",
+     "w": 833,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q055-optD.png",
+     "w": 830,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, \nmass \nof \nthe \nbody, \nMass of pulley, \n According to conservation of energy,",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q055-sol0.png",
+    "w": 671,
+    "h": 1032
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "What is the value of acceleration due to gravity\nat a height equal to half the radius of the\nEarth, from its surface ?",
+  "stemImages": [
+   {
+    "src": "physics-2024/q056-stem0.png",
+    "w": 574,
+    "h": 134
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4.4 ms–2",
+    "img": {
+     "src": "physics-2024/q056-optA.png",
+     "w": 541,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6.5 ms–2",
+    "img": {
+     "src": "physics-2024/q056-optB.png",
+     "w": 541,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2024/q056-optC.png",
+     "w": 833,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "9.8 ms–2",
+    "img": {
+     "src": "physics-2024/q056-optD.png",
+     "w": 539,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Acceleration due to gravity at height h from\nthe surface of the earth.",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q056-sol0.png",
+    "w": 671,
+    "h": 421
+   }
+  ],
+  "chapter": "Gravitation",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "acceleration due to gravity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A thick metal wire of density and length L is\nhung from a rigid support. The increase in\nlength of the wire due to its own weight is ( Y =\nYoung's modulus of the material of the wire)",
+  "stemImages": [
+   {
+    "src": "physics-2024/q057-stem0.png",
+    "w": 574,
+    "h": 175
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q057-optA.png",
+     "w": 198,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q057-optB.png",
+     "w": 266,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q057-optC.png",
+     "w": 198,
+     "h": 53
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q057-optD.png",
+     "w": 264,
+     "h": 53
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Weight of the metal wire, \n Longitudinal stress\nLongitudinal stress \n Longitudinal strain \n Weight of the wire acts at its centre \nliquify at \n latent heat of fusion + heat\ngiven to vaporise at \n latent Heat of\nvaporisation",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q057-sol0.png",
+    "w": 671,
+    "h": 130
+   },
+   {
+    "src": "physics-2024/q057-sol1.png",
+    "w": 1388,
+    "h": 217
+   }
+  ],
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 11,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "young's modulus",
+   "longitudinal strain",
+   "stress",
+   "strain"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "Water flows through a horizontal pipe of\nvarying cross-section at a rate of \n. The velocity of water at a point where the\nradius of the pipe is 10 cm is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q058-stem0.png",
+    "w": 587,
+    "h": 173
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.1 ms–1",
+    "img": {
+     "src": "physics-2024/q058-optA.png",
+     "w": 220,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1 ms–1",
+    "img": {
+     "src": "physics-2024/q058-optB.png",
+     "w": 279,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "10 ms–1",
+    "img": {
+     "src": "physics-2024/q058-optC.png",
+     "w": 220,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "100 ms–1",
+    "img": {
+     "src": "physics-2024/q058-optD.png",
+     "w": 277,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given flow rate\nSince,",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q058-sol0.png",
+    "w": 1388,
+    "h": 443
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "A solid cube of mass m at a temperature \n is\nheated at a constant rate. It becomes liquid at\ntemperature 1 and vapour at temperature \n. Let s1 and s2 be specific heats in its solid and\nliquid states respectively. If Lf and Lv are latent\nheats of fusion and vaporisation respectively,\nthen the minimum heat energy supplied to the\ncube until it vaporises is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q059-stem0.png",
+    "w": 587,
+    "h": 350
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q059-optA.png",
+     "w": 554,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q059-optB.png",
+     "w": 554,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q059-optC.png",
+     "w": 554,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q059-optD.png",
+     "w": 552,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Minimum heat energy supplied to the cube\nuntil it vaporises, is given as Q = heat given to",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q059-sol0.png",
+    "w": 1388,
+    "h": 128
+   }
+  ],
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 6,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "temperature",
+   "heat"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 60,
+  "subject": "Physics",
+  "year": 2024,
+  "source": "Physics-2024.pdf",
+  "stemText": "One mole of an ideal monoatomic gas is taken\nround the cyclic process MNOM. The work\ndone by the gas is",
+  "stemImages": [
+   {
+    "src": "physics-2024/q060-stem0.png",
+    "w": 587,
+    "h": 519
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q060-optA.png",
+     "w": 220,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q060-optB.png",
+     "w": 279,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q060-optC.png",
+     "w": 220,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2024/q060-optD.png",
+     "w": 277,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2024/q060-sol0.png",
+    "w": 1388,
+    "h": 252
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cyclic process",
+   "work done by the gas"
+  ],
+  "chapterConfidence": "low"
+ }
+]

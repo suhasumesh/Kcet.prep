@@ -1,0 +1,4132 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If A = {x : x is an integer and x2 - 9 = 0} B = {x : x\nis a natural number and \n}, C = {x : x\nis a prime number \n 4} Then (B - C) U A is :",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q001-stem0.png",
+    "w": 535,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "{-3, 3, 4}",
+    "img": {
+     "src": "mathematics-2025/q001-optA.png",
+     "w": 191,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "{2, 3, 4}",
+    "img": {
+     "src": "mathematics-2025/q001-optB.png",
+     "w": 249,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "{3, 4, 5}",
+    "img": {
+     "src": "mathematics-2025/q001-optC.png",
+     "w": 191,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "{2, 3, 5}",
+    "img": {
+     "src": "mathematics-2025/q001-optD.png",
+     "w": 247,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q001-sol0.png",
+    "w": 631,
+    "h": 345
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "A and B are two sets having 3 and 6 elements\nrespectively. \nConsider \nthe \nfollowing\nstatements.\nStatement (I): Minimum number of elements\nin AUB is 3\nStatement \n(II): \nMaximum \nnumber \nof\nelements in AB is 3 Which of the following is\ncorrect?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q002-stem0.png",
+    "w": 535,
+    "h": 304
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Statement (I) is true, statement (II) is false",
+    "img": {
+     "src": "mathematics-2025/q002-optA.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement (I) is false, statement (II) is true",
+    "img": {
+     "src": "mathematics-2025/q002-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both Statements (I) and (II) are true",
+    "img": {
+     "src": "mathematics-2025/q002-optC.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both Statements (I) and (II) are false",
+    "img": {
+     "src": "mathematics-2025/q002-optD.png",
+     "w": 502,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q002-sol0.png",
+    "w": 631,
+    "h": 383
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "statement"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Domain \nof \nthe \nfunction \nf, \ngiven \nby \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q003-stem0.png",
+    "w": 535,
+    "h": 103
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q003-optA.png",
+     "w": 776,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q003-optB.png",
+     "w": 776,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q003-optC.png",
+     "w": 776,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q003-optD.png",
+     "w": 773,
+     "h": 64
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q003-sol0.png",
+    "w": 631,
+    "h": 217
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "domain of the function",
+   "function",
+   "domain"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 4,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \n where [x] =\ngreatest integer \n x, then which of the\nfollowing is not true?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q004-stem0.png",
+    "w": 535,
+    "h": 127
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "f(0) = 0",
+    "img": {
+     "src": "mathematics-2025/q004-optA.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "f(p/2) = 1",
+    "img": {
+     "src": "mathematics-2025/q004-optB.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q004-optC.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q004-optD.png",
+     "w": 502,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q004-sol0.png",
+    "w": 631,
+    "h": 222
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "greatest integer"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Which of the following is not correct?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q005-stem0.png",
+    "w": 535,
+    "h": 50
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q005-optA.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q005-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q005-optC.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q005-optD.png",
+     "w": 502,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Let's check each identity:\nThese are not equal, so A is false.\nOnly Option A fails, so the incorrect statement\nis Option A.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q005-sol0.png",
+    "w": 631,
+    "h": 343
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "statement"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If cos x + cos2x = 1, then the value of sin2x +\nsin4x is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q006-stem0.png",
+    "w": 535,
+    "h": 100
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2025/q006-optA.png",
+     "w": 191,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q006-optB.png",
+     "w": 249,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2025/q006-optC.png",
+     "w": 191,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q006-optD.png",
+     "w": 247,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q006-sol0.png",
+    "w": 742,
+    "h": 228
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The mean deviation about the mean for the\ndate \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q007-stem0.png",
+    "w": 554,
+    "h": 87
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2025/q007-optA.png",
+     "w": 215,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2025/q007-optB.png",
+     "w": 268,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8.5",
+    "img": {
+     "src": "mathematics-2025/q007-optC.png",
+     "w": 215,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4.03",
+    "img": {
+     "src": "mathematics-2025/q007-optD.png",
+     "w": 266,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Mean derivation about mean",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q007-sol0.png",
+    "w": 742,
+    "h": 270
+   }
+  ],
+  "chapter": "Statistics",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "mean deviation",
+   "mean"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "A random experiment has five outcomes \n and \n. The probabilities of\nthe \noccurrence \nof \nthe \noutcomes \n and \n are respectively \n and \n such that \n.\nThen the probabilities of occurrence of the\noutcome \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q008-stem0.png",
+    "w": 554,
+    "h": 283
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2/3",
+    "img": {
+     "src": "mathematics-2025/q008-optA.png",
+     "w": 215,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1/3",
+    "img": {
+     "src": "mathematics-2025/q008-optB.png",
+     "w": 268,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/6",
+    "img": {
+     "src": "mathematics-2025/q008-optC.png",
+     "w": 215,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/12",
+    "img": {
+     "src": "mathematics-2025/q008-optD.png",
+     "w": 266,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q008-sol0.png",
+    "w": 742,
+    "h": 301
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "A die has two face each with number '1', three\nfaces each with number '2' and one face with\nnumber '3'. If the die is rolled once, then P(1 or\n3) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q009-stem0.png",
+    "w": 554,
+    "h": 159
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2/3",
+    "img": {
+     "src": "mathematics-2025/q009-optA.png",
+     "w": 215,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2025/q009-optB.png",
+     "w": 268,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/3",
+    "img": {
+     "src": "mathematics-2025/q009-optC.png",
+     "w": 215,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/6",
+    "img": {
+     "src": "mathematics-2025/q009-optD.png",
+     "w": 266,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "To determine the probability of rolling a 1 or a\n3 on this die, let's first outline the probability\nof each individual outcome:\nProbability of rolling a 1, \n: Since there are\n2 faces showing the number 1, the probability\nis \n.\nProbability of rolling a 3, \n: There is 1 face\nshowing the number 3, so the probability is \n.\nTo find the probability of rolling a 1 or a 3, we\nuse the rule for the union of two mutually\nexclusive events:\nP(1 U 3) = P(1) + P()\nSubstituting the known probabilities:\nThus, the probability of rolling a 1 or a 3 is 1/2.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q009-sol0.png",
+    "w": 742,
+    "h": 680
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "mutually exclusive",
+   "probability"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Let A = {a, b, c}, then the number of\nequivalence relations on A containing (b, c) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q010-stem0.png",
+    "w": 541,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q010-optA.png",
+     "w": 202,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2025/q010-optB.png",
+     "w": 254,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q010-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2025/q010-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To determine the number of equivalence\nrelations on the set A = {a, b, c} that include\nthe pair (b, c), we must ensure the relations\nsatisfy \nthe \nreflexivity, \nsymmetry, \nand\ntransitivity properties of equivalence relations.\nReflexivity requires that every element is\nrelated to itself: (a, a), (b, b) and (c, c) must be\nincluded.\nSymmetry necessitates that if (b, c) is included,\nthen (c, b) must also be included.\nTransitivity requires that for the inclusion of (b,\nc) \nthe \nset \nmust \nalso \nconsider \nthe\nrelationships between (a, b), (b, a), (a, c) and (c,\na)\nThere are two potential equivalence relations:\nMinimal relation involving (b, c):\n{(a, a), (b, b), (c, c), (b, c), (c, b)}\nFull equivalence connecting all elements:\n{(a, a), (b, b), (c, c), (a, b), (b, a), (a, c), (c, a), (b,\nc), (c, b)}\nThus, there are 2 equivalence relations on A\ncontaining (b, c).",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q010-sol0.png",
+    "w": 742,
+    "h": 157
+   },
+   {
+    "src": "mathematics-2025/q010-sol1.png",
+    "w": 644,
+    "h": 748
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Let the functions \"f\" and \"g\" be \ngiven by f(x) = sin x and \n where\nR is the set of real numbers\nConsider the following statements :\nStatement (I) : f and g are one-one\nStatement (II) : f + g is one-one\nWhich of the following is correct?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q011-stem0.png",
+    "w": 541,
+    "h": 276
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Statement (I) is true, statement (II) is false",
+    "img": {
+     "src": "mathematics-2025/q011-optA.png",
+     "w": 510,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement (I) is false, statement (II) is true",
+    "img": {
+     "src": "mathematics-2025/q011-optB.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both statements (I) and (II) are true",
+    "img": {
+     "src": "mathematics-2025/q011-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both statements (I) and (II) are false",
+    "img": {
+     "src": "mathematics-2025/q011-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Statement I is true",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q011-sol0.png",
+    "w": 644,
+    "h": 409
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "statement"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q012-stem0.png",
+    "w": 541,
+    "h": 54
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q012-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2025/q012-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "15",
+    "img": {
+     "src": "mathematics-2025/q012-optC.png",
+     "w": 202,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2025/q012-optD.png",
+     "w": 253,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q012-sol0.png",
+    "w": 644,
+    "h": 141
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "is valid for\nall values of 'x' satisfying",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q013-stem0.png",
+    "w": 535,
+    "h": 109
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q013-optA.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q013-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q013-optC.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q013-optD.png",
+     "w": 502,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine the values of 'x' that satisfy the\nequation \n,\nlet's analyze the components: \nLet x = cos q. This implies q = cos-1x.\nThe \nequation \ncan \nbe \nexpressed \nas \n \nwhich \nsimplifies \nto \nHence,\nFor \nmust lie within the range \nGiven :\nTherefore, \nThis implies :\nx lies within \nThus, the equation is satisfied for values of x in\nthe interval",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q013-sol0.png",
+    "w": 644,
+    "h": 375
+   },
+   {
+    "src": "mathematics-2025/q013-sol1.png",
+    "w": 627,
+    "h": 582
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Consider the following statements:\nStatement (I): In a LPP, the objective function is\nalways linear.\nStatement (II): Ina LPP, the linear inequalities\non variables are called constraints. Which of\nthe following is correct?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q014-stem0.png",
+    "w": 535,
+    "h": 232
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Statement (I) is true, statement (II) is true",
+    "img": {
+     "src": "mathematics-2025/q014-optA.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement (I) is true, Statement (II) is false",
+    "img": {
+     "src": "mathematics-2025/q014-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both Statements (I) and (II) are false",
+    "img": {
+     "src": "mathematics-2025/q014-optC.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Statement (I) is false, Statement (II) is true",
+    "img": {
+     "src": "mathematics-2025/q014-optD.png",
+     "w": 502,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Both statements are true.\nReasoning:\nBy definition, a Linear Programming Problem\n(LPP) has a linear objective function, for\nexample\nThe restrictions on the variables take the form\nof linear inequalities (or equalities), such as\nand these are called constraints.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q014-sol0.png",
+    "w": 627,
+    "h": 423
+   }
+  ],
+  "chapter": "Linear Programming",
+  "chapterScore": 32,
+  "chapterMargin": 29,
+  "chapterHits": [
+   "linear programming",
+   "objective function",
+   "constraints",
+   "lpp"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The maximum value of z = 3x + 4y, subject to\nthe \nconstraints \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q015-stem0.png",
+    "w": 535,
+    "h": 122
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "130",
+    "img": {
+     "src": "mathematics-2025/q015-optA.png",
+     "w": 281,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "120",
+    "img": {
+     "src": "mathematics-2025/q015-optB.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "140",
+    "img": {
+     "src": "mathematics-2025/q015-optC.png",
+     "w": 281,
+     "h": 64
+    }
+   },
+   {
+    "letter": "D",
+    "text": "40",
+    "img": {
+     "src": "mathematics-2025/q015-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q015-sol0.png",
+    "w": 627,
+    "h": 431
+   }
+  ],
+  "chapter": "Linear Programming",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "constraints",
+   "subject to"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Consider the following statements.\nStatement (I): If E and F are two independent\nevents, then \n and \n are also independent.\nStatement (II): Two mutually exclusive events\nwith non-zero probabilities of occurrence\ncannot be independent.\nWhich of the following is correct?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q016-stem0.png",
+    "w": 535,
+    "h": 269
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Statement (I) is true and Statement (II) is\nfalse",
+    "img": {
+     "src": "mathematics-2025/q016-optA.png",
+     "w": 504,
+     "h": 79
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement (I) is false and statement (II) is\ntrue",
+    "img": {
+     "src": "mathematics-2025/q016-optB.png",
+     "w": 504,
+     "h": 79
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both the statements are true",
+    "img": {
+     "src": "mathematics-2025/q016-optC.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both the statements are false",
+    "img": {
+     "src": "mathematics-2025/q016-optD.png",
+     "w": 502,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To enhance understanding of the statements,\nlet's examine each one in detail:\nStatement (I): If events E and F are\nindependent, \nthe \ncomplements of \nthese\nevents, E' and F', are also independent. This\nstatement is true.\nWhen two events, E and F, are independent,\nthe occurrence of one does not affect the\nlikelihood \nof \nthe \nother \noccurring,\nmathematically \nexpressed \nas \n.\nSimilarly, the complements of these events, \n and \n, retain this independence property.\nStatement (II): Two mutually exclusive events\ncannot be independent if they have non-zero\nprobabilities. This statement holds true. \nMutually exclusive events are defined by \n \nwhich \nimplies \nFor these events to be independent, it would\nrequire \n However, \n \ncontradicting the independence condition.\nThus, two non-zero mutually exclusive events\ncannot be independent.\nConclusively, \nStatement \nI \nis \ntrue \nand\nStatement II is also true.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q016-sol0.png",
+    "w": 627,
+    "h": 265
+   },
+   {
+    "src": "mathematics-2025/q016-sol1.png",
+    "w": 644,
+    "h": 786
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 16,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "mutually exclusive",
+   "independent events"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If A and B are two non-mutually exclusive\nevents such that P(A|B| = P(B|A, then",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q017-stem0.png",
+    "w": 535,
+    "h": 125
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q017-optA.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A = B",
+    "img": {
+     "src": "mathematics-2025/q017-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q017-optC.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "P(A) = P(B)",
+    "img": {
+     "src": "mathematics-2025/q017-optD.png",
+     "w": 183,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "A and B are non mutually exclusive",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q017-sol0.png",
+    "w": 644,
+    "h": 226
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "mutually exclusive",
+   "p(a)",
+   "p(b)"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If A and B are two events such that\n then which of the\nfollowing is correct?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q018-stem0.png",
+    "w": 541,
+    "h": 128
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q018-optA.png",
+     "w": 510,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "P(A | B) < P(A)",
+    "img": {
+     "src": "mathematics-2025/q018-optB.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "P(A | B) \n P(A)",
+    "img": {
+     "src": "mathematics-2025/q018-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "P(A) = P(B)",
+    "img": {
+     "src": "mathematics-2025/q018-optD.png",
+     "w": 200,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q018-sol0.png",
+    "w": 644,
+    "h": 277
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "p(a)",
+   "p(b)"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Meera visits only one of the two temples A and\nB in her locality. Probability that she visits\ntemple A is 2/5. If she visits temple A, 1/3 is\nthe probability that she meets her friend,\nwhereas it is 2/7 if she visits temple B. Meera\nmet her friend at one of the two temples. The\nprobability that she met her at temple B is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q019-stem0.png",
+    "w": 541,
+    "h": 268
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "7/16",
+    "img": {
+     "src": "mathematics-2025/q019-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5/16",
+    "img": {
+     "src": "mathematics-2025/q019-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3/16",
+    "img": {
+     "src": "mathematics-2025/q019-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "9/16",
+    "img": {
+     "src": "mathematics-2025/q019-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "he events of meera meets\nher friend.\nThe probability she meet her at temple B",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q019-sol0.png",
+    "w": 644,
+    "h": 302
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "probability"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If Z1 and Z2 are two non-zero complex\nnumbers, then which of the following is not\ntrue?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q020-stem0.png",
+    "w": 541,
+    "h": 129
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q020-optA.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q020-optB.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q020-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q020-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q020-sol0.png",
+    "w": 627,
+    "h": 95
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Consider the following statements :\nStatement(I) : The set of all solutions of the\nlinear inequalities 3x + 8 < 17 and 2x + 8 \n 12\nare x < 3 x \n 2 respectively.\nStatement(II) : The common set of solutions\nof linear inequalities 3x + 8 < 17 and 2x + 8 \n12 is (2, 3) Which of the following is true?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q021-stem0.png",
+    "w": 541,
+    "h": 268
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Statement (I) is true but statement (II) is\nfalse",
+    "img": {
+     "src": "mathematics-2025/q021-optA.png",
+     "w": 510,
+     "h": 79
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement (I) is false but statement (II) is\ntrue",
+    "img": {
+     "src": "mathematics-2025/q021-optB.png",
+     "w": 510,
+     "h": 79
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both the statements are true",
+    "img": {
+     "src": "mathematics-2025/q021-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both the statements are false",
+    "img": {
+     "src": "mathematics-2025/q021-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Statement I is correct.\nThe common set of solution \n Statement II is false",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q021-sol0.png",
+    "w": 627,
+    "h": 248
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The number of four digit even number that\ncan be formed using the digits 0, 1, 2 and 3\nwithout repetition is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q022-stem0.png",
+    "w": 541,
+    "h": 123
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2025/q022-optA.png",
+     "w": 202,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2025/q022-optB.png",
+     "w": 254,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2025/q022-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "12",
+    "img": {
+     "src": "mathematics-2025/q022-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Here’s a quick breakdown by cases (last digit\nmust be 0 or 2):\nLast digit = 0\nFirst digit can be 1, 2 or 3 ⇒ 3 choices\nThe two middle places are filled by the\nremaining 2 digits in 2! = 2 ways\n numbers\nLast digit = 2\nFirst digit can be 1 or 3 (can’t be 0 or 2) ⇒ 2\nchoices\nThe two middle places are filled by the\nremaining 2 digits in 2! = 2 ways",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q022-sol0.png",
+    "w": 627,
+    "h": 573
+   }
+  ],
+  "chapter": "Permutations and Combinations",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "digits",
+   "ways"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The number of diagonals that can be drawn in\nan octagon is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q023-stem0.png",
+    "w": 535,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "15",
+    "img": {
+     "src": "mathematics-2025/q023-optA.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "20",
+    "img": {
+     "src": "mathematics-2025/q023-optB.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "28",
+    "img": {
+     "src": "mathematics-2025/q023-optC.png",
+     "w": 185,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "30",
+    "img": {
+     "src": "mathematics-2025/q023-optD.png",
+     "w": 246,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "To find the number of diagonals in an octagon\n(a polygon with 8 sides), use the formula for\nthe number of diagonals in a polygon, which\nis: \nwhere n is the number of sides of the polygon.\nFor an octagon, n = 8. Plug this value into the\nformula:\nTherefore, an octagon has 20 diagonals.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q023-sol0.png",
+    "w": 627,
+    "h": 394
+   }
+  ],
+  "chapter": "Permutations and Combinations",
+  "chapterScore": 9,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "polygon",
+   "octagon",
+   "number of diagonals"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If the number of terms in the binomial\nexpansion of (2x + 3)3n is 22, then the value of\nn is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q024-stem0.png",
+    "w": 535,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2025/q024-optA.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2025/q024-optB.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7",
+    "img": {
+     "src": "mathematics-2025/q024-optC.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2025/q024-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "A binomial expansion \ndistinct terms. Here k = 3n, so :\nNumber of terms = 3n + 1\nSet 3n + 1 = 22\n3n + 1 = 22\n3n = 21\nn = 7",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q024-sol0.png",
+    "w": 644,
+    "h": 316
+   }
+  ],
+  "chapter": "Binomial Theorem",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "binomial expansion",
+   "expansion of"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If 4th, 10th and 16th terms of a G.P. are x, y\nand z respectively, then",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q025-stem0.png",
+    "w": 535,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q025-optA.png",
+     "w": 185,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q025-optB.png",
+     "w": 248,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q025-optC.png",
+     "w": 281,
+     "h": 70
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q025-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "In a G.P. the nth term is arn-1. Thus,\n4th term : x = ar3\n10th term : y = ar9\n16th term z = ar15\nNow \nSo",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q025-sol0.png",
+    "w": 644,
+    "h": 361
+   }
+  ],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "z ="
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \nA \nis \na \nsquare \nmatrix \nsuch \nthat \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q026-stem0.png",
+    "w": 535,
+    "h": 87
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "I - A",
+    "img": {
+     "src": "mathematics-2025/q026-optA.png",
+     "w": 281,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A - I",
+    "img": {
+     "src": "mathematics-2025/q026-optB.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "I + A",
+    "img": {
+     "src": "mathematics-2025/q026-optC.png",
+     "w": 281,
+     "h": 64
+    }
+   },
+   {
+    "letter": "D",
+    "text": "- I - A",
+    "img": {
+     "src": "mathematics-2025/q026-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q026-sol0.png",
+    "w": 644,
+    "h": 269
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "matrix"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If A and B are two matrices such that AB is an\nidentity matrix and the order of matrix B is 3 x\n4, then the order of matrix A is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q027-stem0.png",
+    "w": 535,
+    "h": 123
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3 x 4",
+    "img": {
+     "src": "mathematics-2025/q027-optA.png",
+     "w": 281,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3 x 3",
+    "img": {
+     "src": "mathematics-2025/q027-optB.png",
+     "w": 248,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4 x 3",
+    "img": {
+     "src": "mathematics-2025/q027-optC.png",
+     "w": 281,
+     "h": 64
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4 x 4",
+    "img": {
+     "src": "mathematics-2025/q027-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Let’s find the size of \n step by step:\nB has size 3 x 4.\nFor AB to be defined, if A is m x n, then n must\nequal 3.\nSo \nA \nis \nm \nx \n3, \nand \nAB \nhas \nsize \nTherefore\nA is 4 x 3.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q027-sol0.png",
+    "w": 644,
+    "h": 353
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "identity matrix",
+   "matrix",
+   "matrices"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Which of the following statements is not\ncorrect?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q028-stem0.png",
+    "w": 535,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A row matrix has only one row",
+    "img": {
+     "src": "mathematics-2025/q028-optA.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A diagonal matrix has all diagonal elements\nequal to zero",
+    "img": {
+     "src": "mathematics-2025/q028-optB.png",
+     "w": 504,
+     "h": 78
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A symmetric matrix A is a square matrix\nsatisfying A' = A",
+    "img": {
+     "src": "mathematics-2025/q028-optC.png",
+     "w": 504,
+     "h": 78
+    }
+   },
+   {
+    "letter": "D",
+    "text": "A skew symmetric matrix has all diagonal\nelements equal to zero",
+    "img": {
+     "src": "mathematics-2025/q028-optD.png",
+     "w": 502,
+     "h": 78
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "A diagonal matrix need not be contains only\nzero as it diagonal element.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q028-sol0.png",
+    "w": 644,
+    "h": 132
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 23,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "symmetric matrix",
+   "skew symmetric",
+   "diagonal matrix",
+   "matrix"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If a matrix \n satisfies \nthen the value of k is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q029-stem0.png",
+    "w": 535,
+    "h": 126
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "32",
+    "img": {
+     "src": "mathematics-2025/q029-optA.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q029-optB.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/32",
+    "img": {
+     "src": "mathematics-2025/q029-optC.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2025/q029-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q029-sol0.png",
+    "w": 644,
+    "h": 47
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "matrix"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \n then the value\nof k is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q030-stem0.png",
+    "w": 535,
+    "h": 126
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q030-optA.png",
+     "w": 185,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2025/q030-optB.png",
+     "w": 248,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-5",
+    "img": {
+     "src": "mathematics-2025/q030-optC.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-4",
+    "img": {
+     "src": "mathematics-2025/q030-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q030-sol0.png",
+    "w": 627,
+    "h": 372
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If A is a square matrix satisfying the equation\nA2 - 5A + 7I = 0, where I is the identity matrix\nand 0 is null matrix of same order, then",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q031-stem0.png",
+    "w": 541,
+    "h": 166
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1/7(5I - A)",
+    "img": {
+     "src": "mathematics-2025/q031-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1/7(A - 5I)",
+    "img": {
+     "src": "mathematics-2025/q031-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7(5I - A)",
+    "img": {
+     "src": "mathematics-2025/q031-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/5(7I - A)",
+    "img": {
+     "src": "mathematics-2025/q031-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q031-sol0.png",
+    "w": 627,
+    "h": 233
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "identity matrix",
+   "matrix"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "if A is a square matrix of order 3 x 3, det A = 3,\nthen the value of det (3A-1) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q032-stem0.png",
+    "w": 541,
+    "h": 95
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1/3",
+    "img": {
+     "src": "mathematics-2025/q032-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2025/q032-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "27",
+    "img": {
+     "src": "mathematics-2025/q032-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2025/q032-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "First note for a 3×3 matrix A with det A = 3:\nWhen you multiply a 3×3 matrix by a scalar 3,\nits determinant is multiplied by 33.\nSo \nHence the correct choice is Option D: 9.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q032-sol0.png",
+    "w": 627,
+    "h": 293
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 7,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "determinant",
+   "det"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \n be the adjoint of a matrix A and\n|A| = 2, then the value of a is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q033-stem0.png",
+    "w": 541,
+    "h": 125
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2025/q033-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2025/q033-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q033-optC.png",
+     "w": 202,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2025/q033-optD.png",
+     "w": 253,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Let B = adj (A) for a 2 x 2 matrix \n.\nRecall that for 2 x 2.\nHere we're given \nBy matching entries:\nSo \nSince |A| = 2, we get\n.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q033-sol0.png",
+    "w": 627,
+    "h": 349
+   },
+   {
+    "src": "mathematics-2025/q033-sol1.png",
+    "w": 644,
+    "h": 231
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 7,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "adjoint",
+   "|a|",
+   "adj"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The system of equations 4x + 6y = 5 and 8x +\n12 y = 10 has",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q034-stem0.png",
+    "w": 541,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "No solution",
+    "img": {
+     "src": "mathematics-2025/q034-optA.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Infinitely many solutions",
+    "img": {
+     "src": "mathematics-2025/q034-optB.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A unique solution",
+    "img": {
+     "src": "mathematics-2025/q034-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Only two solutions",
+    "img": {
+     "src": "mathematics-2025/q034-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Notice that the second equation is just twice\nthe first:\nFirst equation:\n4x + 6y = 5\nMultiply both sides by 2:\n8x + 12y = 10\nSince both equations represent the same line,\nthere are infinitely many solutions.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q034-sol0.png",
+    "w": 644,
+    "h": 350
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \nāre such that \n is perpendicular to \n,\nthen the value of l is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q035-stem0.png",
+    "w": 541,
+    "h": 183
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q035-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q035-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2025/q035-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2025/q035-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given \nWe need the expression \n to be\nperpendicular to \n.\nFirst, calculate \nExpanding this, we get:\nNext, calculate the dot product with \nPerforming the dot product:\nSet \nthe \nexpression \nto \nzero \nfor\nperpendicularity:\nSolving for l:\n4l = -4\nl = -1\nThus, the correct value of l is -1.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q035-sol0.png",
+    "w": 644,
+    "h": 941
+   },
+   {
+    "src": "mathematics-2025/q035-sol1.png",
+    "w": 627,
+    "h": 163
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "dot product"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \n then\nthe value of \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q036-stem0.png",
+    "w": 541,
+    "h": 124
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-5",
+    "img": {
+     "src": "mathematics-2025/q036-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2025/q036-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "14",
+    "img": {
+     "src": "mathematics-2025/q036-optC.png",
+     "w": 202,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "16",
+    "img": {
+     "src": "mathematics-2025/q036-optD.png",
+     "w": 253,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To find the value of \n remember that\nthe relationship with the dot product and\nmagnitudes is given by:\nwhere q is the angle between the vectors\n.\nWe use the formula for the dot product to\ncalculate cos q.\nGiven \nSubstitute these values into the dot product\nformula:\nThus, \nNow, substitute back to find the magnitude of\nthe cross product:\nTherefore, the value of \n is 16.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q036-sol0.png",
+    "w": 627,
+    "h": 1126
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 16,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "dot product",
+   "cross product"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Consider the following statements :\nStatement \n(I) \n: \nIf \neither \nStatement (II) : If \n then a is\nperpendicular to b. Which of the following is\ncorrect?",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q037-stem0.png",
+    "w": 535,
+    "h": 260
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Statement (I) is true but Statement (II) is\nfalse",
+    "img": {
+     "src": "mathematics-2025/q037-optA.png",
+     "w": 504,
+     "h": 78
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement (I) is false but Statement (II) is\ntrue",
+    "img": {
+     "src": "mathematics-2025/q037-optB.png",
+     "w": 504,
+     "h": 78
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both Statement (I) and Statement (II) is true",
+    "img": {
+     "src": "mathematics-2025/q037-optC.png",
+     "w": 504,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both Statement (I) and Statement (II) is\nfalse",
+    "img": {
+     "src": "mathematics-2025/q037-optD.png",
+     "w": 502,
+     "h": 79
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Let’s check each statement in turn:\nStatement \n(I): \n“If \neither \nIf one of the vectors is the zero vector,\nsay \n then for any \nHence (I) is true.\nStatement (II) : If \n then \n-is\nperpendicular to\nRecal \n is the\nangle between them.\n-means \nthe \nvectors \nare\nparallel (or nor is zero), not perpendicular.\nHence (II) is false\nConclusion:\nStatement (I) is true, Statement (II) is false.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q037-sol0.png",
+    "w": 627,
+    "h": 431
+   },
+   {
+    "src": "mathematics-2025/q037-sol1.png",
+    "w": 644,
+    "h": 328
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "statement"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If a line makes angles \n with x, y\nand z axes respectively, where q is acute, then\nthe value of q is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q038-stem0.png",
+    "w": 535,
+    "h": 122
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p/6",
+    "img": {
+     "src": "mathematics-2025/q038-optA.png",
+     "w": 281,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p/4",
+    "img": {
+     "src": "mathematics-2025/q038-optB.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p/3",
+    "img": {
+     "src": "mathematics-2025/q038-optC.png",
+     "w": 281,
+     "h": 64
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p/2",
+    "img": {
+     "src": "mathematics-2025/q038-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "A line’s direction cosines along the x, y, z axes\nare\nThey satisfy \nCompute the known cosines:\nPlug in and solve for cos g:\nSince \nTherefore",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q038-sol0.png",
+    "w": 644,
+    "h": 660
+   }
+  ],
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "direction cosines"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The equation of the line through the point (0,\n1, \n2) \nand \nperpendicular \nto \nthe \nline \n is\nVasu",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q039-stem0.png",
+    "w": 535,
+    "h": 175
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q039-optA.png",
+     "w": 776,
+     "h": 55
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q039-optB.png",
+     "w": 776,
+     "h": 54
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q039-optC.png",
+     "w": 776,
+     "h": 54
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q039-optD.png",
+     "w": 773,
+     "h": 68
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The given line has direction vector\nv = (2, 3, -2)\nWe seek a directi on \n with\nOne convenicent choice is\nSince\n2(-3) + 3(4) - 2(3) = -6 + 12 - 6 = 0\nHence the required line through (0, 1, 2) is \nWhich is option B.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q039-sol0.png",
+    "w": 644,
+    "h": 462
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "perpendicular to the line"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "A \nline \npasses \nthrough \n(-1, \n-3) \nand\nperpendicular to x + 6y = 5. Its x intercept is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q040-stem0.png",
+    "w": 535,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2025/q040-optA.png",
+     "w": 281,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "-1/2",
+    "img": {
+     "src": "mathematics-2025/q040-optB.png",
+     "w": 248,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-2",
+    "img": {
+     "src": "mathematics-2025/q040-optC.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q040-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "y + 3 = 6(x + 1)\nx intercept y = 0\nx = -1/2",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q040-sol0.png",
+    "w": 627,
+    "h": 355
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "intercept"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The length of the latus rectum of x2 + 3y2 = 12\nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q041-stem0.png",
+    "w": 535,
+    "h": 95
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2/3 units",
+    "img": {
+     "src": "mathematics-2025/q041-optA.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1/3 units",
+    "img": {
+     "src": "mathematics-2025/q041-optB.png",
+     "w": 248,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q041-optC.png",
+     "w": 185,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "24 units",
+    "img": {
+     "src": "mathematics-2025/q041-optD.png",
+     "w": 246,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q041-sol0.png",
+    "w": 627,
+    "h": 172
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "latus rectum"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q042-stem0.png",
+    "w": 535,
+    "h": 80
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2025/q042-optA.png",
+     "w": 185,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "7",
+    "img": {
+     "src": "mathematics-2025/q042-optB.png",
+     "w": 248,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Does not exist",
+    "img": {
+     "src": "mathematics-2025/q042-optC.png",
+     "w": 185,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2025/q042-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q042-sol0.png",
+    "w": 627,
+    "h": 189
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \n then\n(i) \n(ii) \n(iii) \n(iv)",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q043-stem0.png",
+    "w": 541,
+    "h": 238
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Only b is correct",
+    "img": {
+     "src": "mathematics-2025/q043-optA.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Only a is correct",
+    "img": {
+     "src": "mathematics-2025/q043-optB.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both a and c are correct",
+    "img": {
+     "src": "mathematics-2025/q043-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both b and d are correct",
+    "img": {
+     "src": "mathematics-2025/q043-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q043-sol0.png",
+    "w": 627,
+    "h": 368
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "Match the following:\nIn the following, [x] denotes the greatest\ninteger less than or equal to x.\n \nColum\nn - I\n \nColumn - II\n(\na\n)\nx|x|\n(i)\ncontinuous in (-1, 1)\n(\nb\n)\n(ii)\ndifferentiable in (-1, 1)\n(\nc\n)\nx + [x]\n(iii\n)\nStrictly increasing in (-1,\n1)\n(\nd\n)\n|x - 1|\n+ |x +\n1|\n(iv\n)\nnot differentiable at, at\nleast one point in (-1, 1)",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q044-stem0.png",
+    "w": 541,
+    "h": 758
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a - i, b - ii, c- iv, d - iii",
+    "img": {
+     "src": "mathematics-2025/q044-optA.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a - iv, b - iii, c - i, d - ii",
+    "img": {
+     "src": "mathematics-2025/q044-optB.png",
+     "w": 510,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a - ii, b - iv, c - iii, d - i",
+    "img": {
+     "src": "mathematics-2025/q044-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a - iii, b - ii, c - iv, d - i",
+    "img": {
+     "src": "mathematics-2025/q044-optD.png",
+     "w": 508,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "(a) \n differentiable\nin (-1, 1)\n(b) \n \nNot\ndifferentiable at x = 0\n(c) x + [x] strictly increasing in (-1, 1)\n(d) \nContinuous",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q044-sol0.png",
+    "w": 627,
+    "h": 650
+   },
+   {
+    "src": "mathematics-2025/q044-sol1.png",
+    "w": 671,
+    "h": 296
+   }
+  ],
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 8,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "differentiable at"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The function \nis\ndifferentiable at x = 0. Then",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q045-stem0.png",
+    "w": 541,
+    "h": 128
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a = 1, b = 1",
+    "img": {
+     "src": "mathematics-2025/q045-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a = 3, b = 1",
+    "img": {
+     "src": "mathematics-2025/q045-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a = -3, b = 1",
+    "img": {
+     "src": "mathematics-2025/q045-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a = 3, b = -1",
+    "img": {
+     "src": "mathematics-2025/q045-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Continuity LHL = 1\nRHL = b \n b = 1\nDifferentiability LHD = 1 + a\nRHD = -2b\n1 + a = -2b\na = -3",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q045-sol0.png",
+    "w": 671,
+    "h": 356
+   }
+  ],
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "differentiable at",
+   "continuity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "A function",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q046-stem0.png",
+    "w": 512,
+    "h": 162
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "continuous at x = 0",
+    "img": {
+     "src": "mathematics-2025/q046-optA.png",
+     "w": 481,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "not continuous at x = 0",
+    "img": {
+     "src": "mathematics-2025/q046-optB.png",
+     "w": 481,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "differentiable at x = 0",
+    "img": {
+     "src": "mathematics-2025/q046-optC.png",
+     "w": 481,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "differentiable at x = 0, but not continuous\nat x = 0",
+    "img": {
+     "src": "mathematics-2025/q046-optD.png",
+     "w": 479,
+     "h": 79
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "LHL = -1, RHL = 1, not continuous.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q046-sol0.png",
+    "w": 671,
+    "h": 244
+   }
+  ],
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 20,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "continuous at x",
+   "differentiable at"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q047-stem0.png",
+    "w": 512,
+    "h": 108
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2025/q047-optA.png",
+     "w": 173,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q047-optB.png",
+     "w": 225,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q047-optC.png",
+     "w": 173,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q047-optD.png",
+     "w": 223,
+     "h": 48
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q047-sol0.png",
+    "w": 671,
+    "h": 277
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The derivative of sin x with respect to log x is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q048-stem0.png",
+    "w": 512,
+    "h": 50
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "cos x",
+    "img": {
+     "src": "mathematics-2025/q048-optA.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "x cos x",
+    "img": {
+     "src": "mathematics-2025/q048-optB.png",
+     "w": 225,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q048-optC.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q048-optD.png",
+     "w": 223,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "To find the derivative of sin x with respect to\nlog x, we need to use the concept of implicit\ndifferentiation and the chain rule.\nLet f(x) = sin x\nWe want to find \nUsing the chain rule, we have:\nFirst, we calculate each part separately:\nTo find \n consider that \nhence :\nPutting it all together, we get:\nTherefore, the derivative of sin x with respect\nto log x is x cos x.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q048-sol0.png",
+    "w": 671,
+    "h": 592
+   },
+   {
+    "src": "mathematics-2025/q048-sol1.png",
+    "w": 627,
+    "h": 90
+   }
+  ],
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 11,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "chain rule",
+   "derivative"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The minimum value of 1 - sin x is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q049-stem0.png",
+    "w": 512,
+    "h": 49
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2025/q049-optA.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2025/q049-optB.png",
+     "w": 225,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q049-optC.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q049-optD.png",
+     "w": 223,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "To find the minimum value of the expression\nf(x) = 1 - sin x,\nwe start by considering the range of the sine\nfunction.\nSince \n \nthis \nmeans \nthe\nminimum value of sin x is -1.\nNow, compute f(x) when sin x = -1:\nf(x) = 1 - (-1) = 1 + 1 = 2\nCheck if sin x = 1:\nf(x) = 1 - 1 = 0\nThus, the minimum value of f(x) = 1 - sin x\noccurs when sin x = 1, making the minimum\nvalue :\nfmin = 0",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q049-sol0.png",
+    "w": 627,
+    "h": 576
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 5,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "function",
+   "f(x)",
+   "range"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The function f(x) = tan x - x",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q050-stem0.png",
+    "w": 512,
+    "h": 50
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "always increases",
+    "img": {
+     "src": "mathematics-2025/q050-optA.png",
+     "w": 481,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "always decreases",
+    "img": {
+     "src": "mathematics-2025/q050-optB.png",
+     "w": 481,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "never increases",
+    "img": {
+     "src": "mathematics-2025/q050-optC.png",
+     "w": 481,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "neither increases nor decreases",
+    "img": {
+     "src": "mathematics-2025/q050-optD.png",
+     "w": 479,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The function given is f(x) = tan x - x.\nTo \ndetermine \nwhether \nthis \nfunction \nis\nincreasing, decreasing, or neither, we need to\nanalyze its derivative:\nSince tan2x is always greater than or equal to\nzero \n the derivative f'(x) is non-\nnegative across its domain. This implies that\nthe function f(x) is always increasing or at the\nvery least, non-decreasing.\nThus, the function f(x) = tan x - x consistently\nincreases.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q050-sol0.png",
+    "w": 627,
+    "h": 509
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 15,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "tan x",
+   "tan"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The value of \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q051-stem0.png",
+    "w": 512,
+    "h": 60
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q051-optA.png",
+     "w": 740,
+     "h": 52
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q051-optB.png",
+     "w": 740,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q051-optC.png",
+     "w": 481,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q051-optD.png",
+     "w": 479,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q051-sol0.png",
+    "w": 627,
+    "h": 207
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The value of \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q052-stem0.png",
+    "w": 512,
+    "h": 95
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-p/2",
+    "img": {
+     "src": "mathematics-2025/q052-optA.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p",
+    "img": {
+     "src": "mathematics-2025/q052-optB.png",
+     "w": 225,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p/2",
+    "img": {
+     "src": "mathematics-2025/q052-optC.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2025/q052-optD.png",
+     "w": 223,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Since it is odd function.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q052-sol0.png",
+    "w": 627,
+    "h": 165
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The value of \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q053-stem0.png",
+    "w": 512,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2025/q053-optA.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2025/q053-optB.png",
+     "w": 225,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q053-optC.png",
+     "w": 173,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-2",
+    "img": {
+     "src": "mathematics-2025/q053-optD.png",
+     "w": 223,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q053-sol0.png",
+    "w": 622,
+    "h": 202
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "equals",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q054-stem0.png",
+    "w": 541,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q054-optA.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q054-optB.png",
+     "w": 510,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q054-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2025/q054-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q054-sol0.png",
+    "w": 622,
+    "h": 348
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q055-stem0.png",
+    "w": 541,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q055-optA.png",
+     "w": 202,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2025/q055-optB.png",
+     "w": 254,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "loge2",
+    "img": {
+     "src": "mathematics-2025/q055-optC.png",
+     "w": 202,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "loge(1/2)",
+    "img": {
+     "src": "mathematics-2025/q055-optD.png",
+     "w": 253,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q055-sol0.png",
+    "w": 622,
+    "h": 365
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The area bounded by the curve \n x\naxis, the lines x = 0 and x = 3p is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q056-stem0.png",
+    "w": 541,
+    "h": 90
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "9 sq. units",
+    "img": {
+     "src": "mathematics-2025/q056-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1/3 sq. units",
+    "img": {
+     "src": "mathematics-2025/q056-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6 sq. units",
+    "img": {
+     "src": "mathematics-2025/q056-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3 sq. units",
+    "img": {
+     "src": "mathematics-2025/q056-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q056-sol0.png",
+    "w": 622,
+    "h": 47
+   }
+  ],
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area bounded by the curve"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The area of the region bounded by the curve y\n= x2 and the line y = 16 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q057-stem0.png",
+    "w": 541,
+    "h": 93
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "32/3 sq. units",
+    "img": {
+     "src": "mathematics-2025/q057-optA.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "256/3 sq. units",
+    "img": {
+     "src": "mathematics-2025/q057-optB.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "64/3 sq. units",
+    "img": {
+     "src": "mathematics-2025/q057-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "128/3 sq. units",
+    "img": {
+     "src": "mathematics-2025/q057-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q057-sol0.png",
+    "w": 627,
+    "h": 472
+   }
+  ],
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "General solution of the differential equation\n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q058-stem0.png",
+    "w": 541,
+    "h": 95
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y sec x = tan x + c",
+    "img": {
+     "src": "mathematics-2025/q058-optA.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "y tan x = sec x + c",
+    "img": {
+     "src": "mathematics-2025/q058-optB.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "cosec x = y tan x + c",
+    "img": {
+     "src": "mathematics-2025/q058-optC.png",
+     "w": 510,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "x sec x = tan y + c",
+    "img": {
+     "src": "mathematics-2025/q058-optD.png",
+     "w": 508,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q058-sol0.png",
+    "w": 627,
+    "h": 254
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 23,
+  "chapterMargin": 18,
+  "chapterHits": [
+   "general solution",
+   "tan x",
+   "tan",
+   "sec",
+   "cosec"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "If 'a' and 'b' are the order and degree\nrespectively of the differentiable equation. \n, then a - b =",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q059-stem0.png",
+    "w": 541,
+    "h": 150
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2025/q059-optA.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2025/q059-optB.png",
+     "w": 254,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2025/q059-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2025/q059-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Here the highest derivative is \n so the order\na = 2.\nThe equation is a polynomial in derivatives and\nthe highest derivative appears as \nSo the degree b = 2.\nHence a - b = 2 - 2 = 0.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q059-sol0.png",
+    "w": 627,
+    "h": 320
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "degree"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2025,
+  "source": "Mathematics-2025.pdf",
+  "stemText": "The distance of the point P(-3, 4, 5) from yz\nplane is",
+  "stemImages": [
+   {
+    "src": "mathematics-2025/q060-stem0.png",
+    "w": 541,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4 units",
+    "img": {
+     "src": "mathematics-2025/q060-optA.png",
+     "w": 202,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5 units",
+    "img": {
+     "src": "mathematics-2025/q060-optB.png",
+     "w": 254,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-3 units",
+    "img": {
+     "src": "mathematics-2025/q060-optC.png",
+     "w": 202,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3 units",
+    "img": {
+     "src": "mathematics-2025/q060-optD.png",
+     "w": 253,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The yz-plane is given by x = 0. So the distance\nfrom \n to that plane is",
+  "solutionImages": [
+   {
+    "src": "mathematics-2025/q060-sol0.png",
+    "w": 627,
+    "h": 122
+   }
+  ],
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "plane"
+  ],
+  "chapterConfidence": "low"
+ }
+]

@@ -1,0 +1,1523 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "1. (1)（a,b）=1 (2)(a,y)=1 (4)(b,y)=1TzMHW. AEOGMMEUMLMXAM MOHALIGATOT 3AMMMYH",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q001-stem0.png",
+    "w": 1744,
+    "h": 393
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "The digit in the unit place of thenumber |2009+37886 is 2. (1) O0EJOARUOR 9 (2)7 (3)3 (4) 088805 x+1 x+2 x+a",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q002-stem0.png",
+    "w": 1869,
+    "h": 480
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "3. If x+2 x+3 x+b =0,then x+4 x+3 x+c a,b,c are (1) in A.P. (2) in G.P. (3) in H.P. (4) equal",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q003-stem0.png",
+    "w": 1881,
+    "h": 581
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "5. IfA= 1 0 2 (2) 0 (1) 81 1 (4) (3) 9 9 If A and B are square matrices of the same order such that (A + B) (A-B) =A²-B2,then",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q005-stem0.png",
+    "w": 1895,
+    "h": 535
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "matrices"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "6. (ABA-1)²= (2)B² (1) A2 (4)A²B² (3) I and b is 7.If .b =-a I], then the angle between a a",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q006-stem0.png",
+    "w": 1880,
+    "h": 527
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "(2)45° (1) 60° 180° 90° (3) (4) (E)",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q007-stem0.png",
+    "w": 1759,
+    "h": 465
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "9. and+bas coterminous edges in cubic units is (1) 40 (2) 80 (3) 120 (4) 160",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q009-stem0.png",
+    "w": 1862,
+    "h": 467
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "10.In the groupG={0,1,2,3,4,5}under addition modulo6,(23-14)-1= (1) 0 Al8Alnhadouksm (2)2 (3) 3 (4)5 A8A",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q010-stem0.png",
+    "w": 1759,
+    "h": 340
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "11.Which one of the following is not true? (1) Identity element in a group is unique. Inverse of an element in a group is unique. (2) Fourth roots of unity form an additive abelian group. (3) Cancellation laws hold in a group. (4) ndslyw",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q011-stem0.png",
+    "w": 1766,
+    "h": 507
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "12.The number of subgroups of the group (Z,) is (1)2 (2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q012-stem0.png",
+    "w": 1780,
+    "h": 187
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "1 log2020n log2n logsn log4n (2) 2020 (1) 0 (4) 2020 (3) 1 15.If ‘n' is a positive integer,then n²+ 2n is divisible by",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q014-stem0.png",
+    "w": 1771,
+    "h": 550
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "(2) 2 (1) 3",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q015-stem0.png",
+    "w": 1769,
+    "h": 151
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "R15 (1) (2) 4 π13 元12 (3) (4) 20.If x takes negative permissible value, then sinx is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q019-stem0.png",
+    "w": 1746,
+    "h": 436
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "cos-1√1-x2 -cos-1√1-x² (1) (2) cos-1√x2-1 π-cos-1√1-x (3) （4) 21.If1+sinx+sin²x+..upto∞=4+2√3，0<x<πandx≠",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q020-stem0.png",
+    "w": 1743,
+    "h": 360
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "匹匹 匹5元 (1) (2) 3，6 6'3 2π 匹2 (3) (4) 3′3 3:6 1+2i",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q021-stem0.png",
+    "w": 1746,
+    "h": 495
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "22.The complexnumber lies in 1-i (1) first quadrant second quadrant (2) (3) third quadrant (4) fourth quadrant 23.If Pis the point in theArgand diagram corresponding to the complex number3+i and if",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q022-stem0.png",
+    "w": 1748,
+    "h": 337
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "OPQ is an isosceles right angled triangle,right angled at ‘O',then Q represents the complex number (1)-1±iv3 (2)-1+i√3or1-i√3 1±iv3 (3) (4）√3-ior1-iv3",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q023-stem0.png",
+    "w": 1867,
+    "h": 361
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "complex number"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "匹 1+sin icos 8 8 imaginary is,n = (1) 8 (2) 4 (4) 2 (3) 3 Whichone of thefollowingispossible?",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q024-stem0.png",
+    "w": 1889,
+    "h": 545
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "(2)2 (1) 1 (3) (4) 0 3 33.The co-ordinates of the centre of the smallest circle passing through the origin and having",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q032-stem0.png",
+    "w": 1776,
+    "h": 369
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "y=x+las a diameter are (2() (号,) (1) (③() (4)(-1,0) 34.The length of the diameter of the circle which cuts three circles",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q033-stem0.png",
+    "w": 1897,
+    "h": 554
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "36.The angle between the tangents drawn to the parabola y²=12x from the point (-3,2) is (1) 45° (2)90° (3) 09 (4) 30°",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q036-stem0.png",
+    "w": 1728,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "parabola"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "37.Thenumber of values of‘c'such that the line y= 4x + c touches the curve e4+y²=1is (1) 0 (2) 1 (3) 2 (4) infinite 38.If the circle x²+ y²=a² intersects the hyperbola xy = c² in four points P(x, y), Q(x. y2),",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q037-stem0.png",
+    "w": 1738,
+    "h": 400
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "hyperbola",
+   "circle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "R(x,y3)andS(x4,y4),then (1 x+x+x+x4=0 (2)y+y2+y3+y4=2 x1x2x3x=2c4 (3) (4)yy2y3y4=2c4",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q038-stem0.png",
+    "w": 1857,
+    "h": 484
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "39.The foot of the perpendicular from the point (2,4)upon x + y=4 is (1)(3,-1) (2) (2,2) (3) (4,0) (1,3) (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q039-stem0.png",
+    "w": 1753,
+    "h": 364
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "foot of the perpendicular"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "40.The vertices ofa triangle are (6,0),(0,6) and （6,6).The distance between its circumcentre and centroidis (1)2√2 (2) (3)√2 (4)1",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q040-stem0.png",
+    "w": 1874,
+    "h": 346
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "41.Theanglebetween thepair of lines x²+2xy-y²=0 is 匹 (1) (2) 3 6 π2 (3) (4) 0 3.2n+1-4.5n+1 lim",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q041-stem0.png",
+    "w": 1864,
+    "h": 628
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Limits and Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "lim"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "dx iS nsinn-lxcos（n+1）x n sinn-Ixsin（n + 1）x (1) 2 n sinn-1xcos（n-1)x (4)n sin-1x cos nx (3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q046-stem0.png",
+    "w": 1737,
+    "h": 432
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "1 (1) (2)-5 27 1 (4) (3) 5 243 50.A stone is thrown vertically upwards from the top of a tower 64 metres high according to",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q049-stem0.png",
+    "w": 1747,
+    "h": 494
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "the law s = 48t -16t².The greatest height attained by the stone above the ground is (1) 64metre (2)36metre (4) 100 metre 0-16 (3) 32metre",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q050-stem0.png",
+    "w": 1864,
+    "h": 430
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "51.The length of the subtangent at“t'on the curve x=a (t + sin t), y= a (1 -cos t) is （) (1) 2a sin3 asint (2) (3) 2asin()(a() (4) 2a sin2 dx is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q051-stem0.png",
+    "w": 1764,
+    "h": 591
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "54.Iff（x)= tdt,thenforanyx≥O,f(x)= (1) (2)1-x² (1+x) (4)1+x² (3) 4-x",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q054-stem0.png",
+    "w": 1729,
+    "h": 574
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "57.The differential equation of the family of circles passing through the orign and having their centresonthex-axisis (2)y²=x2+2xy dy (1)x²=y²+3xy dy dx (3)y2=x²-2xyx dy (4)x²=y2+xy dy",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q057-stem0.png",
+    "w": 1861,
+    "h": 534
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2009,
+  "source": "kcet-2009-mathematics-question-paper.pdf",
+  "stemText": "59.On the set of all natural numbers N,which one of the following * is a binary operation ? (2) a*b=√ab (1)a*b=3a-4b a-b (3)a*b= （4) a*b=a+3b a+b f（x)dx=5,then thevalueof x9f(xl0)dxisequal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2009-kea/q059-stem0.png",
+    "w": 1750,
+    "h": 562
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "binary operation",
+   "binary operation"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

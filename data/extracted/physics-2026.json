@@ -1,0 +1,2306 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "1. length (L), time (T) and electric current (A) given in List-II. List-II List-I (i) [M-L-2T4A²] (a) Torque [M'L²T-1] (b) Gravitational constant (ii) [M-L3T-²] (c) Capacitance (ii) Planck's constant (iv) [M'L²T-²] (d) Codes: (l)a-iv,b-ii,c-ii,d-i (2)a-iv,b-ii,c-i,d-ii (4)a-ii,b-i,c-ili,d-iv (3)a-iv,b-i,c-ii,d-ii Acar coversthe firsthalfof thedistance between twoplacesat40 km/h and anotherhalf at",
+  "stemImages": [
+   {
+    "src": "physics-2026/q001-stem0.png",
+    "w": 1997,
+    "h": 1029
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "torque"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "2. 50km/h.The average speed of thecar is (1)45.00km/h (2) 44.44 km/h (3) 43.14 km/h (4)42.04km/h Twobodies are projected with the same velocity.If one isprojected at an angleof 30°and the",
+  "stemImages": [
+   {
+    "src": "physics-2026/q002-stem0.png",
+    "w": 1981,
+    "h": 402
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "velocity",
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "3. other at 45°to thehorizontal,then theratio ofmaximumheights attained is (1) 3:1 (2) 1:2 (3) 4:1 (4) 1:3",
+  "stemImages": [
+   {
+    "src": "physics-2026/q003-stem0.png",
+    "w": 1974,
+    "h": 872
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "xdenotes the x-coordinate of theparticle inmetres.The magnitude of the acceleration of the particlewhen the velocity of theparticle zero is (1) 2 m/s² (2) 3 m/s2 (4) 1 m/s2 (3) Zero A man weighs80 kg.He stands on a weighing scale in a lift which is moving upwards with a",
+  "stemImages": [
+   {
+    "src": "physics-2026/q004-stem0.png",
+    "w": 1984,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "acceleration",
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "5. uniform acceleration of 6 m/s². What would be his weight in kg? (g = 10 m/s²) (2) 48 kg (1) Zero (3) 120kg (4) 128 kg A mass M is hung with a light inextensible string as shown in figure.Find the tension of the",
+  "stemImages": [
+   {
+    "src": "physics-2026/q005-stem0.png",
+    "w": 1979,
+    "h": 410
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "acceleration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "8. Ahorizontalforceof5Nis appliedon a stationarybodyofmass5kg,which isinitially atrest on a frictionless table.The change in kinetic energy of the body in 10 s is (1) 25 J (2) Zero (3) 125 J (4) 250 J",
+  "stemImages": [
+   {
+    "src": "physics-2026/q008-stem0.png",
+    "w": 2020,
+    "h": 346
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "9. Theangularmomentum of a movingbodyremains constant,if (1)net external force is applied (2)net pressure is applied (3) net external torque is applied (4)net external torque isnot applied",
+  "stemImages": [
+   {
+    "src": "physics-2026/q009-stem0.png",
+    "w": 2017,
+    "h": 280
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "torque"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "10. If the earthwere tosuddenly contract tohalfofitspresentradius,whatwould be the duration of the day? (1) 6 h (2) 18 h (3)24 h (4)30 h Imagine a new planet having the same density as that of the earth,but it is two times bigger",
+  "stemImages": [
+   {
+    "src": "physics-2026/q010-stem0.png",
+    "w": 2017,
+    "h": 345
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Gravitation",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "planet"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "11. than theearth in size.If the acceleration due togravity on the surfaceoftheearth isg and that on thesurfaceofthenewplanetisg',then g (1)g = (2) g = 8g",
+  "stemImages": [
+   {
+    "src": "physics-2026/q011-stem0.png",
+    "w": 2016,
+    "h": 253
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acceleration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "13. Instrumentfitted in thecarburetorofthe automobile toprovidethecorrectmixtureofairand fuelnecessaryforcombustionworkson (1)Pascal's Law (2) Bernoulli's Principle (3)Newton's LawofCooling (4)Archimedes'Principle",
+  "stemImages": [
+   {
+    "src": "physics-2026/q013-stem0.png",
+    "w": 1976,
+    "h": 613
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "bernoulli",
+   "pascal's law"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "14. There are twowires of same material and same lengthwhile thediameterofsecondwire is two times the diameter of the first wire. Then the ratio of extensions produced in the wires by applyingsame loadwillbe (1) 1:1 (2) 1:2 (3) 2:1 (4) 4:1",
+  "stemImages": [
+   {
+    "src": "physics-2026/q014-stem0.png",
+    "w": 1968,
+    "h": 697
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "In a capillary tube experiment,a vertical 30 cm long capillary tube is dipped in water, 15. water rises upto a height of10 cm due to capillarity.If this experiment is conducted in a freely fallingwaterin an elevator,then thelengthof thewater columnbecomes (1) 10 cm (2) 20 cm (3)30cm (4) Zero",
+  "stemImages": [
+   {
+    "src": "physics-2026/q015-stem0.png",
+    "w": 1971,
+    "h": 501
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "In thermodynamic processes,which of the following statements is not true? 16. (1) In an isothermal process, the temperature remains constant (2)In an isobaric process, the volume remains constant (3) In an adiabatic process, the system is insulated from the surroundings (4)In an adiabaticprocess,PvY=a constant",
+  "stemImages": [
+   {
+    "src": "physics-2026/q016-stem0.png",
+    "w": 1967,
+    "h": 511
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "isothermal",
+   "adiabatic",
+   "isobaric"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "17.ThegraphofpressureP andvolumeVof 1moleofanidealgasatconstant temperatureis Graph-I Graph-I (1) (2) Graph-III Graph-IV (3) (4)",
+  "stemImages": [
+   {
+    "src": "physics-2026/q017-stem0.png",
+    "w": 1972,
+    "h": 1206
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "18.A mass of 1 kg is executing SHM. Its displacement is given by x = 6.0 cos(100t +π/4) cm. Whatisthemaximumkineticenergy? (1) 3 J (2) 6 J (3) 9 J (4) 18 J",
+  "stemImages": [
+   {
+    "src": "physics-2026/q018-stem0.png",
+    "w": 1970,
+    "h": 620
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "shm"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "19. Asourceoffrequencyvgives6beats/secondwhensoundedwithasourceoffrequency2ooHz. The secondHarmonicoffrequency2v of the sourcegives8beats/secondwhensoundedwith a sourceoffrequency420Hz.Thevalueofvis (1) 205 Hz (2)206Hz (3) 195 Hz (4) 210 Hz",
+  "stemImages": [
+   {
+    "src": "physics-2026/q019-stem0.png",
+    "w": 1978,
+    "h": 499
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "20. Followingarestatements of afewprocessestakingplace innature. 1.Free expansion of a gas I1.The combustion of a mixture ofpetrol and air ignited by a spark Iml.The leaking ofgas from the kitchen cylinder IV.Thetransferofheatfrom oneheatedpartof aliquid to theothercolderpart Which amongst these processes are irreversible in nature? (1) I and ⅡI (2) III and IV (4) I, II, III and IV (3) II, III and IV",
+  "stemImages": [
+   {
+    "src": "physics-2026/q020-stem0.png",
+    "w": 1974,
+    "h": 824
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "An electron falls through a distance 1.5 cm.in a uniform electric field of magnitude 21. 2.0 x 10 N/C from rest.The time taken to cover this distance in second is (e=1.6 × 10-19 C, m。 = 9.11 × 10-31kg) (2) 2.9 x 109 (1) 2.9 × 10-9 (3) 4 × 10-6 (4) 4 × 106",
+  "stemImages": [
+   {
+    "src": "physics-2026/q021-stem0.png",
+    "w": 1985,
+    "h": 504
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "22. Whatwill bethe total electricfluxthrough thefaces ofthe cubeasgivenin thefigurewith side of length 'a' if a charge Q is placed at B,midpoint of an edge of the cube (see figure)? Q B a Q (2) Q (1)",
+  "stemImages": [
+   {
+    "src": "physics-2026/q022-stem0.png",
+    "w": 1964,
+    "h": 678
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "23. figure.Match the entries of List-I with that of List-II. List-I List-II -2Q -2Q (a) Net flux through S (i) S Eo -Q (i) (b)Net flux through S2 Eo (c) Net flux through S (ii) Zero Codes: (1)a-ii,b-i,c-ii (2)a-iii,b -ii,c-i (3)a-i,b- i, c-ii (4) a-ii,b -ii, c-i 24.A parallel plate capacitor has a uniform electric field ‘E'in the space between the plates.",
+  "stemImages": [
+   {
+    "src": "physics-2026/q023-stem0.png",
+    "w": 1970,
+    "h": 943
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 5,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "parallel plate capacitor",
+   "capacitor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "26.An electricdipoleof dipolemoment P isplacedin theuniformelectricfield E.Thenwhich of the following statements are correct? Statement I: The torque on the dipole is P × E StatementIll:Thenetforceonthedipoleisnonzero (1) I, II and III (2) I and HI only (3) II and III only (4) I and III only A 200J ofwork is done inmoving a charge5C from a point A where thepotential is-20V to",
+  "stemImages": [
+   {
+    "src": "physics-2026/q026-stem0.png",
+    "w": 1985,
+    "h": 969
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "torque"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "27. anotherpointBwherepotential isVvolt.ThevalueofV atB is (1) 10 V (2) 20 V (3) 40 V (4) 60 V",
+  "stemImages": [
+   {
+    "src": "physics-2026/q027-stem0.png",
+    "w": 1970,
+    "h": 440
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "28. In the figure, the values of currents I, I, and I, respectively are 5A I 1.5A 1A 1.5A (1) 6A, 1.5A and 1A (2)4A,2.5A and 2A (3)4A,2.5Aand 1A (4)6A,4.5Aand1.5A",
+  "stemImages": [
+   {
+    "src": "physics-2026/q028-stem0.png",
+    "w": 1978,
+    "h": 888
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "29. at 120V is nearly (e = 1.6× 10-19C) (1) 6.2 × 1018 (2) 6.2 × 1019 (3) 3.1 × 1018 (4) 3.1 x 1019",
+  "stemImages": [
+   {
+    "src": "physics-2026/q029-stem0.png",
+    "w": 1989,
+    "h": 354
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "30. Given beloware two statements: StatementI:Theresistivityofa conductorisindependentofits temperature StatementII:Theresistivityofa semiconductordecreaseswith increasein temperature Select the correct option. (1)Both Statement I and Statement II are false (2)BothStatementIandStatementIIare true (3) Statement Iis true butStatementII is false (4)StatementIis falsebutStatementIIis true Current flowing through a wire decreases linearly from 1oA to zero in 4s as shown in the graph.",
+  "stemImages": [
+   {
+    "src": "physics-2026/q030-stem0.png",
+    "w": 1982,
+    "h": 702
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "the ground observe the fields due to this charge.Then (1)A observes both electric and magnetic fields (2)B observes both electric and magneticfields (3)A observes only magnetic field (4)B observes onlyelectricfield Aproton,an electron and an a-particle enter atrightanglesto a uniform magneticfieldwith",
+  "stemImages": [
+   {
+    "src": "physics-2026/q033-stem0.png",
+    "w": 1975,
+    "h": 525
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "34. the same velocity.If R,Rand Rare the radii of circular paths of these particles, then (1) R= R,= R (2) R >R> R",
+  "stemImages": [
+   {
+    "src": "physics-2026/q034-stem0.png",
+    "w": 1970,
+    "h": 184
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "37.If a paramagnetic bar is brought near a bar magnet, then it is (1)Attracted byboth thepoles of thebarmagnet (2)Repelled byboth thepolesof thebarmagnet (3)AttractedbytheSouth-poleandrepelledby theNorth-poleofthebarmagnet (4)Attractedby theNorth-poleandrepelledby theSouth-poleof thebarmagnet",
+  "stemImages": [
+   {
+    "src": "physics-2026/q037-stem0.png",
+    "w": 1975,
+    "h": 601
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "paramagnetic",
+   "bar magnet",
+   "magnet"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "PickouttheWRONGstatementsaboutmagneticsubstances 38. (x =magnetic susceptibility) (μ, = relative permeability). I.Substanceswith-1≤x<0arediamagnetic II.Substanceswithx>>1areparamagnetic II1.Substanceswithx<<1 are ferromagnetic IV. Substances with μ, > >1 are ferromagnetic (1) I and II (2) III and IV (3) II and III (4) II and IV",
+  "stemImages": [
+   {
+    "src": "physics-2026/q038-stem0.png",
+    "w": 1973,
+    "h": 1151
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 16,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "magnetic susceptibility",
+   "ferromagnetic",
+   "permeability"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "39. Workfunction ofthemetal is (1)Maximumpossibleenergyacquiredbyanelectron (2) Equal for all metals (3)Minimum energyrequired by an electron to justejectfrommetal surface (4)Maximum energywhichis given toelectron tomove out ofmetal surface",
+  "stemImages": [
+   {
+    "src": "physics-2026/q039-stem0.png",
+    "w": 1965,
+    "h": 569
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "40. option (V。= stopping potential). Graph-I Graph-II Photo Photo electric electric (1) (2) current current Anode potential Anodepotential> Graph-III Graph-IV Photo Photo electric electric current (3) current (4) Anode potential Anodepotential—→ In Faraday-Henry's experiment, a coil is connected to a galvanometer. For the deflection of",
+  "stemImages": [
+   {
+    "src": "physics-2026/q040-stem0.png",
+    "w": 1976,
+    "h": 1415
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "henry",
+   "coil"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "41. pointer in the galvanometer,which of the following statement/s is/are WRONG? The pointer in the galvanometer deflects- (a) When the bar magnet is moved towards the stationary coil along its axis (b) When the bar magnet is moved away from the stationary coil along its axis (c) When the coil is moved towards the stationary bar magnet along its axis (d) When the coil and the magnet are moved without relative motion between them (1) a and b (2) b and c (3) a, b and c (4) Only d",
+  "stemImages": [
+   {
+    "src": "physics-2026/q041-stem0.png",
+    "w": 1966,
+    "h": 903
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 15,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "bar magnet",
+   "magnet"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "42. x = 2b with a constant velocity . A uniform magnetic field B is perpendicular to the plane of thepaper and extends from x=O to x=b and it is zero from x>b.The magnitude of emf induced in the conductor is B x=2b (1)Blx;0≤x<b (2) Zero ;0 ≤x<b (4)Blv;b≤x<2b (3)Blv;0≤x≤b In a circuit containing a pure resistor connected to an AC source,",
+  "stemImages": [
+   {
+    "src": "physics-2026/q042-stem0.png",
+    "w": 1986,
+    "h": 1026
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "43. (1) Voltage leads the currentby90° (2)Currentleads thevoltageby90° (3)Voltageandcurrentareinsamephasewith eachother (4) Currentleadsthevoltageby180° A light bulbrated100W is connected to anAC source of 220V,50Hz.The rms current through",
+  "stemImages": [
+   {
+    "src": "physics-2026/q043-stem0.png",
+    "w": 1970,
+    "h": 449
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "44. the bulb is (1) 0.454A (2) 0.545A (4)0.22A (3) 2.20A A small town with a demand of 900 kW of electric power at 220 V is situated 20 km away",
+  "stemImages": [
+   {
+    "src": "physics-2026/q044-stem0.png",
+    "w": 1967,
+    "h": 352
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "45. from an electric power generating station. The two-wires line has resistance per unit length of 5 × 10-4 Qm-1. The town gets power from the line through 45000 V to 220 V stepdown transformer at a substation in the town.The linepower loss in the form of heat is (1) 4 kW (2) 8 kW (4) 80 kW (3) 40 kW",
+  "stemImages": [
+   {
+    "src": "physics-2026/q045-stem0.png",
+    "w": 1970,
+    "h": 488
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "transformer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "46. enaqg,qacagaaeuasoacaooo.（g@cagα&a&a＆ceo 3 canaaasooa) 3 a8-1 -1 w fE.dA =Q (a) qg2 (!) ? 80 B.dl =μoic+ 80 (b) o (ii) 1P fB.dA= 0 (c) aaaog2ogo (ii) d中B Goeoqiαg,ql@2ooao =P (iv) dt oneo: (1)a-i,b-ii,c-iv,d-ii (2) a - ii, b - iii, c - i, d - iv (3) a -i, b -ii, c -ii, d -iv (4) a - i, b - iii, c-iv, d -i",
+  "stemImages": [
+   {
+    "src": "physics-2026/q046-stem0.png",
+    "w": 1963,
+    "h": 1131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "47.eoadoco@ao,oodgaαs@ouacoaga. coc(gm) adada 30° a 8- ew ew (a) (i) 60° (b) αe, (ii) 120° (c) (iii) 30° one: (1) a-i,b-ii,c-ii (2)a-ii,b-i, c-ii (3)a-iii,b-i,c-ii (4)a-ii,b-ii,c-i",
+  "stemImages": [
+   {
+    "src": "physics-2026/q047-stem0.png",
+    "w": 1972,
+    "h": 1252
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "48. The direction of a ray of lightincident on a concave mirror is shown byPQ,while direction in which the raywould travel after reflection is shown by four rays marked as A,B,C and D as shown in the figure.Which of the four rays correctly shows the direction of thereflected ray? P PQ is a paraxial ray F B C (1) D (2) C (3) B (4) A",
+  "stemImages": [
+   {
+    "src": "physics-2026/q048-stem0.png",
+    "w": 1965,
+    "h": 1031
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "mirror",
+   "reflection",
+   "concave"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "49. The incorrect statement aboutrefractive index for apair ofmedia is (1)It dependsupon nature of the first medium (2)Itdependsuponnatureofthesecondmedium (3) It depends upon wavelength of light (4)It depends upon angle of incidence",
+  "stemImages": [
+   {
+    "src": "physics-2026/q049-stem0.png",
+    "w": 1960,
+    "h": 503
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "50. The critical angle for a monochromatic light going from medium A to medium B is 0.If the speed of light in medium A is V, then the speed of light in medium B is (2) _V (1) V (1 -cosθ) COS0 (3) : V (4) V (1 - sin0) sino",
+  "stemImages": [
+   {
+    "src": "physics-2026/q050-stem0.png",
+    "w": 1962,
+    "h": 479
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "critical angle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "51. What range of electromagnetic spectrum is considered as light? （1) 1mmto700nm (2)400nm to 1nm (3)400nmto700nm (4) 1 nm to 10-3 nm",
+  "stemImages": [
+   {
+    "src": "physics-2026/q051-stem0.png",
+    "w": 1957,
+    "h": 310
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "electromagnetic spectrum"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "52.In Young's double slit experiment,how many maxima can be seen on a screen (including central 2 (1) 5 (2) 4 (3) 7 (4) 1 The radius of first orbit in hydrogen atom is 5.3 x10-l m. The kinetic energy Ek, potential",
+  "stemImages": [
+   {
+    "src": "physics-2026/q052-stem0.png",
+    "w": 1980,
+    "h": 433
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "53. energy E,and total energy E of electron in first orbit are (1) Ek = - 13.6 eV, Ep = 27.2 eV, E= 13.6 eV (2) Ek = 13.6 eV, Ep = - 27.2 eV, E= - 13.6 eV (3) Ek = - 27.2 eV, Ep = - 13.6 eV, E= 13.6 eV (4) Ek = 13.6 eV, Ep = - 6.8 eV, E= - 13.6 eV",
+  "stemImages": [
+   {
+    "src": "physics-2026/q053-stem0.png",
+    "w": 1470,
+    "h": 587
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "54. Bohr's secondpostulateimplies quantisation of (1) Charge of an electron (2)Energy of an electron (3)Angularmomentum of electron (4) Radiated energy by an electron",
+  "stemImages": [
+   {
+    "src": "physics-2026/q054-stem0.png",
+    "w": 1972,
+    "h": 313
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "bohr"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "55.An electron transition takes placefrom excited state to ground state inhydrogen atom,then (2)Its kinetic energy,potential energy and total energy decrease (3) Kinetic energy decreases,potential energy increases but total energy remains same s",
+  "stemImages": [
+   {
+    "src": "physics-2026/q055-stem0.png",
+    "w": 1967,
+    "h": 506
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 19,
+  "chapterMargin": 17,
+  "chapterHits": [
+   "kinetic energy",
+   "potential energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "An n-type and p-type semiconductor can be obtained by respectively doping pure silicon with 56. (1) Arsenic and Phosphorous respectively (2)Indium andAluminiumrespectively (3) Phosphorous and Indium respectively (4)AluminiumandBoronrespectively",
+  "stemImages": [
+   {
+    "src": "physics-2026/q056-stem0.png",
+    "w": 1967,
+    "h": 496
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "doping",
+   "semiconductor",
+   "n-type",
+   "p-type",
+   "silicon"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "57.In which of the following figures,diode is reverse biased? (1) (2) -20V --10V 5V (3) (4) 20V 15V 10V -5V",
+  "stemImages": [
+   {
+    "src": "physics-2026/q057-stem0.png",
+    "w": 1965,
+    "h": 904
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "diode"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2026,
+  "source": "Physics-2026.pdf",
+  "stemText": "58.A wafer of pure germanium crystal has two parts X and Y.The end X is obtained by doping with arsenic and Y with indium.It is connected to a battery as shown in the figure.Which of thefollowingstatementsiscorrect? X (1)X is p-type,Y is n-type and the junction is forward biased (2)X is n-type,Y is p-type and the junction is forward biased (3)X is p-type,Y isn-type and the junction is reversebiased (4)X is n-type,Y is p-type and the junction is reversebiased",
+  "stemImages": [
+   {
+    "src": "physics-2026/q058-stem0.png",
+    "w": 1963,
+    "h": 1424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 11,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "doping",
+   "n-type",
+   "p-type",
+   "germanium"
+  ],
+  "chapterConfidence": "high"
+ }
+]

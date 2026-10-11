@@ -1,0 +1,4126 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "For \nthe \nreaction,\n \nThe equilibrium constant cannot be disturbed\nby",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q001-stem0.png",
+    "w": 530,
+    "h": 194
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "addition of A",
+    "img": {
+     "src": "chemistry-2021/q001-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "addition of D",
+    "img": {
+     "src": "chemistry-2021/q001-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "increasing of pressure",
+    "img": {
+     "src": "chemistry-2021/q001-optC.png",
+     "w": 500,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "increasing of temperature",
+    "img": {
+     "src": "chemistry-2021/q001-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "For \nthe \ngiven \nhypothetical \nreaction, \n \n because number of molecules of\ngaseous molecule on both side are equal.\nThus, the equilibrium constant cannot be\ndisturbed by increasing of pressure.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q001-sol0.png",
+    "w": 625,
+    "h": 274
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "An organic compound X on treatment with\nPCC in dichloromethane gives the compound\nY. Compound Y reacts with I2 and alkali to\nform yellow precipitate of triiodomethane. The\ncompound X is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q002-stem0.png",
+    "w": 530,
+    "h": 201
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "CH3CHO",
+    "img": {
+     "src": "chemistry-2021/q002-optA.png",
+     "w": 189,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "CH3COCH3",
+    "img": {
+     "src": "chemistry-2021/q002-optB.png",
+     "w": 246,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "CH3CH2OH",
+    "img": {
+     "src": "chemistry-2021/q002-optC.png",
+     "w": 190,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "CH3COOH",
+    "img": {
+     "src": "chemistry-2021/q002-optD.png",
+     "w": 245,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Compound (Y) gives iodoform test, that means\nit contains acetyl group\nPCC is an oxidising agent which oxidised the\nalcohol to aldehyde or ketone (depends upon\nthe reactant alcohol). That means X is an\nalcohol.\nFrom the given information, it is concluded\nthat the compound X is an alcohol (which\ncontain two carbon). Thus, the alcohol is\nCH3CH2OH.\nThe \nreaction \ninvolves \nare \nas \nfollows:",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q002-sol0.png",
+    "w": 625,
+    "h": 600
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidising agent",
+   "oxidised"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A compound 'A' (C7H8O) is insoluble in\nNaHCO3 solution but dissolve in NaOH and\ngive a characteristic colour with neutral FeCl3\nsolution. When treated with bromine water\ncompound 'A' forms the compound B with the\nformula C7H5OBr3. 'A' is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q003-stem0.png",
+    "w": 530,
+    "h": 340
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q003-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q003-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q003-optC.png",
+     "w": 500,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q003-optD.png",
+     "w": 497,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "It is given in the question that, compound A\ngives a characteristic colour with neutral FeCl3\nsolution and soluble in NaOH solution that\nmeans it contains a phenolic group.\nSince compound 'A' when treated with Br2\nforms compound 'B' with molecular formula\nC7H5OBr3 (ppt.).\nConsidering the given information the given\ncompound is most likely to be m-cresol. i.e.\nThus, the overall reactions are as follows.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q003-sol0.png",
+    "w": 621,
+    "h": 1070
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "molecular formula"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "In set of reactions, identify D",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q004-stem0.png",
+    "w": 549,
+    "h": 276
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q004-optA.png",
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q004-optB.png",
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q004-optC.png",
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q004-optD.png",
+     "w": 516,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "In the set of the given reaction the final\nproduct D is\nThe overall reaction is as follows:",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q004-sol0.png",
+    "w": 621,
+    "h": 285
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Ka values for acids H2SO3, HNO2, CH3COOH\nand HCN are respectively 13 × 10–2, 4 × 10–4,\n1.8 × 10–5 and 4 × 10–10, which of the above\nacids produces stronger conjugate base in\naqueous solution?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q005-stem0.png",
+    "w": 549,
+    "h": 217
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "H2SO3",
+    "img": {
+     "src": "chemistry-2021/q005-optA.png",
+     "w": 213,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "HNO2",
+    "img": {
+     "src": "chemistry-2021/q005-optB.png",
+     "w": 265,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "CH2COOH",
+    "img": {
+     "src": "chemistry-2021/q005-optC.png",
+     "w": 213,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "HCN",
+    "img": {
+     "src": "chemistry-2021/q005-optD.png",
+     "w": 263,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Lower the value of Ka, lower will be the acidic\nstrength \nand \nstronger \nwill \nbe \nthe\nconjugate.base. Therefore, among the given\nacids, HCN has the lowest Ka value (i.e. 4 × 10–\n10)\nHence, it is the strongest conjugate base.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q005-sol0.png",
+    "w": 625,
+    "h": 297
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 11,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "conjugate base",
+   "base"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A, B and C respectively are",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q006-stem0.png",
+    "w": 549,
+    "h": 247
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "ethanol, ethane nitrile and ethyne",
+    "img": {
+     "src": "chemistry-2021/q006-optA.png",
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "ethane nitrile, ethanol and ethyne",
+    "img": {
+     "src": "chemistry-2021/q006-optB.png",
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "ethyne, ethanol and ethane nitrile",
+    "img": {
+     "src": "chemistry-2021/q006-optC.png",
+     "w": 518,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "ethyne, ethane nitrile and ethanol",
+    "img": {
+     "src": "chemistry-2021/q006-optD.png",
+     "w": 516,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Ethyne on reaction with HgSO4/H2SO4 gives\nethenol (i.e. CH2 = CH - OH) which interconvert\n(i.e. \ntautomerises) \nto \ngive \nacetaldehyde\n(CH3CHO).\nPCC is an oxidising agent, which oxidised the\nalcohol to aldehyde. Therefore, (B) is an\nalcohol, i.e. ethanol.\nEthane nitrile on reaction with SnCl2/HCl\nfollowed by acid hydrolysis give acetaldehyde.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q006-sol0.png",
+    "w": 625,
+    "h": 653
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 14,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "ethanol",
+   "alcohol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The reagent which can do the conversion",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q007-stem0.png",
+    "w": 543,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "LiAlH4/ether",
+    "img": {
+     "src": "chemistry-2021/q007-optA.png",
+     "w": 196,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "H2, Pt",
+    "img": {
+     "src": "chemistry-2021/q007-optB.png",
+     "w": 259,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "NaBH4",
+    "img": {
+     "src": "chemistry-2021/q007-optC.png",
+     "w": 197,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Na and C2H5OH",
+    "img": {
+     "src": "chemistry-2021/q007-optD.png",
+     "w": 258,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "LiAlH4/ether is an reducing agent, thus it can\nreduces carboxylic acid (in this case is acetic\nacid) to alcohols (in this case is ethanol). The\noverall reaction is as follows",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q007-sol0.png",
+    "w": 625,
+    "h": 198
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 6,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ethanol",
+   "ether"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A\nand C are",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q008-stem0.png",
+    "w": 543,
+    "h": 201
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Identical",
+    "img": {
+     "src": "chemistry-2021/q008-optA.png",
+     "w": 512,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Position isomers",
+    "img": {
+     "src": "chemistry-2021/q008-optB.png",
+     "w": 512,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Functional",
+    "img": {
+     "src": "chemistry-2021/q008-optC.png",
+     "w": 513,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Optical isomers",
+    "img": {
+     "src": "chemistry-2021/q008-optD.png",
+     "w": 510,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The complete given reaction is as follows\nIn compounds (A) and (C) only the position of -\nOH group is changed. Thus, compounds A and\nCare position isomers.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q008-sol0.png",
+    "w": 621,
+    "h": 641
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "group"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which of the following is not true for\noxidation?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q009-stem0.png",
+    "w": 543,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Addition of oxygen",
+    "img": {
+     "src": "chemistry-2021/q009-optA.png",
+     "w": 512,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Addition of electronegative element",
+    "img": {
+     "src": "chemistry-2021/q009-optB.png",
+     "w": 512,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Removal of hydrogen",
+    "img": {
+     "src": "chemistry-2021/q009-optC.png",
+     "w": 513,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Removal of electronegative element",
+    "img": {
+     "src": "chemistry-2021/q009-optD.png",
+     "w": 510,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "From the given option only (d) option is not\ntrue \nfor \noxidation \ni.e. \nremoval \nof\nelectronegative element does not takes place\nin case of oxidation.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q009-sol0.png",
+    "w": 621,
+    "h": 202
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "oxidation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which is the most suitable reagent for the\nfollowing conversion?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q010-stem0.png",
+    "w": 530,
+    "h": 256
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Tollen's reagent",
+    "img": {
+     "src": "chemistry-2021/q010-optA.png",
+     "w": 499,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Benzoyl peroxide",
+    "img": {
+     "src": "chemistry-2021/q010-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "I2 and NaOH solution with subsequent\nacidification",
+    "img": {
+     "src": "chemistry-2021/q010-optC.png",
+     "w": 499,
+     "h": 85
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Sn and NaOH solution",
+    "img": {
+     "src": "chemistry-2021/q010-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "In the given reaction –COCH3 group gets\noxidised to –COOH without affecting the\ndouble bond. This could occur when we use\nI2 and NaOH solution with subsequent\nacidification. \nThis \nreaction \nis \nknown \nas\niodoform reaction. The overall reaction is as\nfollows",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q010-sol0.png",
+    "w": 621,
+    "h": 498
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "iodoform"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q011-stem0.png",
+    "w": 530,
+    "h": 95
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "N, N-dimethylphenylmethanamine",
+    "img": {
+     "src": "chemistry-2021/q011-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "N, N-dimethylbenzenamine",
+    "img": {
+     "src": "chemistry-2021/q011-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "N-benzyl-N-methylmethanamine",
+    "img": {
+     "src": "chemistry-2021/q011-optC.png",
+     "w": 499,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "phenyl-N-N-dimethylmethanamine",
+    "img": {
+     "src": "chemistry-2021/q011-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Benzyl chloride on reaction with alc. NH3 gives\nbenzyl amine (A) which further on reaction\nwith two moles of CH3Cl give N, N-dimethyl\nphenylmethanamine (B).",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q011-sol0.png",
+    "w": 621,
+    "h": 207
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "chloride"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The method by which aniline cannot be\nprepared is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q012-stem0.png",
+    "w": 535,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "nitration of benzene followed by reduction\nwith Sn and conc. HCI",
+    "img": {
+     "src": "chemistry-2021/q012-optA.png",
+     "w": 505,
+     "h": 78
+    }
+   },
+   {
+    "letter": "B",
+    "text": "degradation of benzamide with bromine in\nalkaline solution",
+    "img": {
+     "src": "chemistry-2021/q012-optB.png",
+     "w": 504,
+     "h": 78
+    }
+   },
+   {
+    "letter": "C",
+    "text": "reduction of nitrobenzene with H2/Pd is\nethanol",
+    "img": {
+     "src": "chemistry-2021/q012-optC.png",
+     "w": 505,
+     "h": 85
+    }
+   },
+   {
+    "letter": "D",
+    "text": "potassium salt of phthalimide treated with\nchlorobenzene followed by the hydrolysis\nwith aqueous NaOH solution",
+    "img": {
+     "src": "chemistry-2021/q012-optD.png",
+     "w": 503,
+     "h": 114
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Aryl halides do not undergo nucleophilic\nsubstitution \nwith \npotassium \nphthalimide\nunder ordinary conditions. Thus, method (d)\ncannot be used for preparation of aniline.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q012-sol0.png",
+    "w": 638,
+    "h": 202
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 8,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "chlorobenzene",
+   "nucleophilic substitution"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Permanent hardness cannot be removed by",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q013-stem0.png",
+    "w": 535,
+    "h": 48
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "using washing soda",
+    "img": {
+     "src": "chemistry-2021/q013-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Calgon's method",
+    "img": {
+     "src": "chemistry-2021/q013-optB.png",
+     "w": 504,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Clark's method",
+    "img": {
+     "src": "chemistry-2021/q013-optC.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "ion exchange method",
+    "img": {
+     "src": "chemistry-2021/q013-optD.png",
+     "w": 503,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Permanent hardness cannot be removed by\nClark's method. This method is used for\nremoving temporary hardness.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q013-sol0.png",
+    "w": 638,
+    "h": 166
+   }
+  ],
+  "chapter": "Hydrogen",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "temporary hardness",
+   "permanent hardness"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A hydrocarbon A (C4H8) on reaction with HCl\ngives a compound B (C4H9CI) which on\nreaction with 1 mol of NH3 gives compound C\n(C4H10N). On reacting with NaNO2 and HCl\nfollowed by treatment with water, compound\nC yields an optically active compound D. The\ncompound D is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q014-stem0.png",
+    "w": 535,
+    "h": 379
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q014-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q014-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q014-optC.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q014-optD.png",
+     "w": 503,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "From the given information question, addition\nof HCI occured on A. That means A is an\nalkene.\nCl in compound B is substituted by NH2 to give\ncompound C (C4H11Ν).\nC gives a diazonium salt with NaNO2/HCl\nwhich on further treatment with water give an\noptically active alcohol. That means C is an\naliphatic amine.\nFrom the given information it is concluded that\nthe most probable structure of A is\nAs only but-2-ene gives optically active alcohol\n(D) as final product.\nThe reactions involves are as follows.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q014-sol0.png",
+    "w": 638,
+    "h": 825
+   }
+  ],
+  "chapter": "Hydrocarbons",
+  "chapterScore": 5,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "alkene",
+   "hydrocarbon"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "RNA and DNA are chiral molecules, their\nchirality is due to the presence of",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q015-stem0.png",
+    "w": 535,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "D-sugar component",
+    "img": {
+     "src": "chemistry-2021/q015-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "L-sugar component",
+    "img": {
+     "src": "chemistry-2021/q015-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "chiral bases",
+    "img": {
+     "src": "chemistry-2021/q015-optC.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "chiral phosphate ester unit",
+    "img": {
+     "src": "chemistry-2021/q015-optD.png",
+     "w": 503,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "RNA and DNA are chiral molecules, their\nchirality is due to the presence of D-sugar\ncomponent.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q015-sol0.png",
+    "w": 621,
+    "h": 372
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 16,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "dna",
+   "rna"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The property of the alkaline earth metals that\nincreases with their atomic number is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q016-stem0.png",
+    "w": 530,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "ionisation enthalpy",
+    "img": {
+     "src": "chemistry-2021/q016-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "electronegativity",
+    "img": {
+     "src": "chemistry-2021/q016-optB.png",
+     "w": 499,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "solubility of their hydroxide in water",
+    "img": {
+     "src": "chemistry-2021/q016-optC.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "solubility of their sulphate in water",
+    "img": {
+     "src": "chemistry-2021/q016-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The solubility of the ionic compounds (in this\ncase is hydroxide of alkaline earth metals)\ndepends on two factors, which are (i) lattice\nenergy and (ii) hydration energy. Hence,\nsolubility of alkaline earth metal increases with\nincrease in their atomic number.\nWhereas, other given properties i.e. ionisation\nenergy, electronegativity and solubility of their\nsulphate in water decreases with atomic\nnumber.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q016-sol0.png",
+    "w": 621,
+    "h": 419
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 12,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "ionisation enthalpy",
+   "electronegativity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Primary structure in a nucleic acid contain 3\nbases as GATGC ... The chain which is\ncomplementary to this chain is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q017-stem0.png",
+    "w": 530,
+    "h": 121
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "G G T G A...",
+    "img": {
+     "src": "chemistry-2021/q017-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "T G A A G...",
+    "img": {
+     "src": "chemistry-2021/q017-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "C T A C G...",
+    "img": {
+     "src": "chemistry-2021/q017-optC.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "T T T A G...",
+    "img": {
+     "src": "chemistry-2021/q017-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Primary structure in a nucleic acid contains\nbases as GATGC ...... . The chain which is\ncomplementary to this chain is CTACG...... .",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q017-sol0.png",
+    "w": 621,
+    "h": 166
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "nucleic acid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "In the detection of II group acid radical, the\nsalt \ncontaining \nchloride \nis \ntreated \nwith\nconcentrated sulphuric acid, the colourless gas\nis liberated. The name of the gas is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q018-stem0.png",
+    "w": 530,
+    "h": 157
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "hydrogen chloride gas",
+    "img": {
+     "src": "chemistry-2021/q018-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "chlorine gas",
+    "img": {
+     "src": "chemistry-2021/q018-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "sulphur dioxide gas",
+    "img": {
+     "src": "chemistry-2021/q018-optC.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "hydrogen gas",
+    "img": {
+     "src": "chemistry-2021/q018-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "In the detecting of II group acid radical, when\nsalt \ncontaining \nchloride \nis \ntreated \nwith\nconcentrated sulphuric acid, the colourless gas\nis liberated. The name of the gas is hydrogen\nchloride gas.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q018-sol0.png",
+    "w": 621,
+    "h": 238
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 10,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "sulphuric acid",
+   "sulphur",
+   "chlorine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The number of six membered and five\nmembered rings in Buckminster fullerene\nrespectively is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q019-stem0.png",
+    "w": 530,
+    "h": 121
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "20, 12",
+    "img": {
+     "src": "chemistry-2021/q019-optA.png",
+     "w": 183,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "12, 20",
+    "img": {
+     "src": "chemistry-2021/q019-optB.png",
+     "w": 246,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "14, 18",
+    "img": {
+     "src": "chemistry-2021/q019-optC.png",
+     "w": 183,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "14, 11",
+    "img": {
+     "src": "chemistry-2021/q019-optD.png",
+     "w": 244,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The number of six membered and five\nmembered rings in Buckminster fullerence\nrespectively is 20 and 12.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q019-sol0.png",
+    "w": 621,
+    "h": 166
+   }
+  ],
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "fullerene"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "In \nchrysoberyl, \na \ncompound \ncontaining\nberyllium, aluminium and oxygen, oxide ions\nform cubic close packed structure. Aluminium\nions occupy \nth of octahedral voids. The\nformula of the compound is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q020-stem0.png",
+    "w": 530,
+    "h": 198
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "BeAlO4",
+    "img": {
+     "src": "chemistry-2021/q020-optA.png",
+     "w": 183,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "BeAl2O4",
+    "img": {
+     "src": "chemistry-2021/q020-optB.png",
+     "w": 246,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Be2AlO2",
+    "img": {
+     "src": "chemistry-2021/q020-optC.png",
+     "w": 183,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "BeAlO2",
+    "img": {
+     "src": "chemistry-2021/q020-optD.png",
+     "w": 244,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, chrysoberyl forms ccp structure.\nOxygen occupies lattice points = N (say)\nAl occupies \n of octahedral voids = \nBe occupies \n of tetrahedral voids = \n The formula of compound is",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q020-sol0.png",
+    "w": 621,
+    "h": 236
+   }
+  ],
+  "chapter": "Solid State",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "ccp",
+   "lattice"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The correct statement regarding defects in\nsolid is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q021-stem0.png",
+    "w": 530,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Frenkel defect is a vacancy defect",
+    "img": {
+     "src": "chemistry-2021/q021-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Schottky defect is a dislocation defect",
+    "img": {
+     "src": "chemistry-2021/q021-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Trapping of an electron in the lattice leads\nto the formation of F-centre",
+    "img": {
+     "src": "chemistry-2021/q021-optC.png",
+     "w": 499,
+     "h": 78
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Schottky defect has no effect on density",
+    "img": {
+     "src": "chemistry-2021/q021-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The correct statements regarding defects in\nsolid is trapping of an electron in the lattice\nwhich leads to the formation of F-centre.\nOther statements are incorrect, because\nFrenkel defect is dislocation defect and density\ndecreases in case of Schottky defect as it is a\nvacancy defect.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q021-sol0.png",
+    "w": 638,
+    "h": 310
+   }
+  ],
+  "chapter": "Solid State",
+  "chapterScore": 33,
+  "chapterMargin": 31,
+  "chapterHits": [
+   "schottky",
+   "frenkel",
+   "f-centre",
+   "lattice",
+   "defect"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A metal crystallises in bcc lattice with unit cell\nedge length of 300 pm and density 6.15 g cm–3\nThe molar mass of the metal is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q022-stem0.png",
+    "w": 535,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "50 g mol–1",
+    "img": {
+     "src": "chemistry-2021/q022-optA.png",
+     "w": 505,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "60 g mol–1",
+    "img": {
+     "src": "chemistry-2021/q022-optB.png",
+     "w": 504,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "40 g mol–1",
+    "img": {
+     "src": "chemistry-2021/q022-optC.png",
+     "w": 505,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "70 g mol–1",
+    "img": {
+     "src": "chemistry-2021/q022-optD.png",
+     "w": 503,
+     "h": 48
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, \nmetal \ncrystallises \nin \nbcc \nlattice,\ntherefore Z = 2\nEdge length = 300pm\n= 300 × 10–10 cm\nDensity,",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q022-sol0.png",
+    "w": 638,
+    "h": 494
+   }
+  ],
+  "chapter": "Solid State",
+  "chapterScore": 14,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "unit cell",
+   "bcc",
+   "lattice"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Henry's law constant for the solubility of N2\ngas in water at 298 K is 1 × 105 atm. The mole\nfraction of N2 in air is 0.8. The number of\nmoles of N2 from air dissolved in 10 moles of\nwater at 298 K and 5 atm pressure is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q023-stem0.png",
+    "w": 535,
+    "h": 226
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4 × 10–4",
+    "img": {
+     "src": "chemistry-2021/q023-optA.png",
+     "w": 505,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4 × 10–5",
+    "img": {
+     "src": "chemistry-2021/q023-optB.png",
+     "w": 504,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5 × 10–4",
+    "img": {
+     "src": "chemistry-2021/q023-optC.png",
+     "w": 505,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4 × 10–6",
+    "img": {
+     "src": "chemistry-2021/q023-optD.png",
+     "w": 503,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, Henry's law constant (KH) for the\nsolubility of N2 gas in water at 298 K = 1 × 105\natm.\nMole fraction of \nHence, partial pressure of nitrogen,\nThus, the number of moles of N2 from air\ndissolved in 10 moles of water at 295 K and 5\natm pressure is 4 × 10–4.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q023-sol0.png",
+    "w": 638,
+    "h": 841
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 16,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "henry's law",
+   "mole fraction"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A pure compound contains 2.4 g of C, 1.2 ×\n1023 atoms of H, 0.2 moles of oxygen atoms.\nIts empirical formula is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q024-stem0.png",
+    "w": 535,
+    "h": 129
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "C2HO",
+    "img": {
+     "src": "chemistry-2021/q024-optA.png",
+     "w": 200,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "C2H2O2",
+    "img": {
+     "src": "chemistry-2021/q024-optB.png",
+     "w": 252,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "CH2O",
+    "img": {
+     "src": "chemistry-2021/q024-optC.png",
+     "w": 200,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "CHO",
+    "img": {
+     "src": "chemistry-2021/q024-optD.png",
+     "w": 250,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Thus, the empirical formula of the compound\nis CHO.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q024-sol0.png",
+    "w": 638,
+    "h": 47
+   },
+   {
+    "src": "chemistry-2021/q024-sol1.png",
+    "w": 621,
+    "h": 89
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "empirical formula"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Choose the correct statement.",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q025-stem0.png",
+    "w": 535,
+    "h": 48
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "KH value is same for a gas in any solution.",
+    "img": {
+     "src": "chemistry-2021/q025-optA.png",
+     "w": 505,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Higher the KH value more the solubility of\ngas.",
+    "img": {
+     "src": "chemistry-2021/q025-optB.png",
+     "w": 504,
+     "h": 85
+    }
+   },
+   {
+    "letter": "C",
+    "text": "KH value increases on increasing the\ntemperature of the solution.",
+    "img": {
+     "src": "chemistry-2021/q025-optC.png",
+     "w": 505,
+     "h": 85
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Easily liquefiable gases usually has lesser\nKH values.",
+    "img": {
+     "src": "chemistry-2021/q025-optD.png",
+     "w": 503,
+     "h": 82
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Among \nthe \ngiven \nstatements \nonly \n(c)\nstatement is correct about the Henry's law\nconstant. Other\nstatement are incorrect because\n(a) KH is a function of the nature of the gas and\nsolvent used, thus KH value is not same for a\ngas in any solution.\n(b) Higher the KH value, less the solubility of\nthe gas.\n(d) Easily liquefiable gases usually have higher\nKH values.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q025-sol0.png",
+    "w": 621,
+    "h": 478
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "henry's law",
+   "solution",
+   "solvent"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The KH value (K bar) of argon (I), carbondioxide\n(II), formaldehyde (III) and methane (IV) are\nrespectively 40.3, 167, 1.83 × 0–5 and 0.413 at\n298 K. The increasing order of solubility of gas\nin liquid is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q026-stem0.png",
+    "w": 535,
+    "h": 209
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "I < II < IV < III",
+    "img": {
+     "src": "chemistry-2021/q026-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "III < IV < II < I",
+    "img": {
+     "src": "chemistry-2021/q026-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "I < III < II < IV",
+    "img": {
+     "src": "chemistry-2021/q026-optC.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "I < IV < II < III",
+    "img": {
+     "src": "chemistry-2021/q026-optD.png",
+     "w": 503,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Higher is the \n value, less is the solubility of\nthe gas.\nGiven compound\n value at \n \nArgon \n40.3\nCarbon dioxide \n1.67\nFormaldehyde \nMethane \n0.413\nThus, the increasing order of solubility of gas\nin liquid is I < II < IV < III.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q026-sol0.png",
+    "w": 621,
+    "h": 522
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "argon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The vapour pressure of pure liquids A and B\nare 450 and 700 mm of Hg at 350 K\nrespectively. If the total vapour pressure of the\nmixture is 600 mm of Hg, the composition of\nthe mixture in the solution is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q027-stem0.png",
+    "w": 530,
+    "h": 193
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q027-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q027-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q027-optC.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q027-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, vapour pressure of pure liquid A, pA =\n450mm of Hg\nvapour pressure of pure liquid B,\nTotal \nvapour \npressure,\nFrom Raoult's law,",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q027-sol0.png",
+    "w": 621,
+    "h": 236
+   },
+   {
+    "src": "chemistry-2021/q027-sol1.png",
+    "w": 641,
+    "h": 351
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "raoult",
+   "solution",
+   "vapour pressure"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Consider the following electrodes\n \nelectrode\npotentials of the above electrodes in volts are\nin the order",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q028-stem0.png",
+    "w": 530,
+    "h": 345
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "P > S > R > Q",
+    "img": {
+     "src": "chemistry-2021/q028-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "S > R > Q < P",
+    "img": {
+     "src": "chemistry-2021/q028-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Q > R > S > P",
+    "img": {
+     "src": "chemistry-2021/q028-optC.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "P > Q > R > S",
+    "img": {
+     "src": "chemistry-2021/q028-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q028-sol0.png",
+    "w": 641,
+    "h": 511
+   }
+  ],
+  "chapter": "Electrochemistry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electrode"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The number of angular and radial nodes in\n3p orbital respectively are",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q029-stem0.png",
+    "w": 530,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3,1",
+    "img": {
+     "src": "chemistry-2021/q029-optA.png",
+     "w": 278,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1,1",
+    "img": {
+     "src": "chemistry-2021/q029-optB.png",
+     "w": 246,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2,1",
+    "img": {
+     "src": "chemistry-2021/q029-optC.png",
+     "w": 278,
+     "h": 64
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2,3",
+    "img": {
+     "src": "chemistry-2021/q029-optD.png",
+     "w": 244,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "For the given 3p orbital, the number of angular\nnodes, l = 1 (as it involve p orbital) As n = 3 and\n1 = 1\n Number of radial nodes = n – 1 – 1\n= 3 – 1 – 1 = 1\nHence, angular and radial nodes in 3p orbital\nrespectively are 1, 1.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q029-sol0.png",
+    "w": 641,
+    "h": 311
+   }
+  ],
+  "chapter": "Structure of Atom",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "orbital"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The resistance of 0.01 m KCl solution at 298 K\nis 15000. If the conductivity of 0.01 m KCl\nsolution at 298 K is 0.1466 × 10–3 S cm–1. The\ncell constant of the conductivity cell in cm–1 is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q030-stem0.png",
+    "w": 530,
+    "h": 173
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.219",
+    "img": {
+     "src": "chemistry-2021/q030-optA.png",
+     "w": 183,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.291",
+    "img": {
+     "src": "chemistry-2021/q030-optB.png",
+     "w": 246,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.301",
+    "img": {
+     "src": "chemistry-2021/q030-optC.png",
+     "w": 183,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.194",
+    "img": {
+     "src": "chemistry-2021/q030-optD.png",
+     "w": 244,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, concentration of KCl solution = 0.01 m\nResistance (R) of KCl solution = 1500\nConductivity (K) of 0.01 mKCl solution at 298K\n= 0.1466 × 10–3 S cm–1\n Cell constant (G*) = KR\n= 0.1466 × 10–3 × 1500\n= 0.219",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q030-sol0.png",
+    "w": 641,
+    "h": 314
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q031-stem0.png",
+    "w": 530,
+    "h": 136
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2.8 × 107",
+    "img": {
+     "src": "chemistry-2021/q031-optA.png",
+     "w": 499,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5.2 × 108",
+    "img": {
+     "src": "chemistry-2021/q031-optB.png",
+     "w": 499,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2.8 × 105",
+    "img": {
+     "src": "chemistry-2021/q031-optC.png",
+     "w": 499,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5.2 × 104",
+    "img": {
+     "src": "chemistry-2021/q031-optD.png",
+     "w": 497,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q031-sol0.png",
+    "w": 729,
+    "h": 318
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "For a reaction, A + 2B \n Products, when\nconcentration of B alone is increased half-life\nremains the same. If concentration of A alone\nis doubled, rate remains the same. The unit of\nrate constant for the reaction is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q032-stem0.png",
+    "w": 535,
+    "h": 196
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "s–1",
+    "img": {
+     "src": "chemistry-2021/q032-optA.png",
+     "w": 505,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "L mol–1 s–1",
+    "img": {
+     "src": "chemistry-2021/q032-optB.png",
+     "w": 504,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "mol L–1 s–1",
+    "img": {
+     "src": "chemistry-2021/q032-optC.png",
+     "w": 505,
+     "h": 46
+    }
+   },
+   {
+    "letter": "D",
+    "text": "atm–1",
+    "img": {
+     "src": "chemistry-2021/q032-optD.png",
+     "w": 503,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "For the reaction,\nA+2B \n Products\nHalf-life (t1/2) remains same as [B] increases\nfor 1st order, this implies reaction is of first\norder w.r.t B.\nAlso, as [A] is doubled, rate remains constant.\n It is zero order w.r.t. A.\n Rate law expression is k[A]0 [B]1\n Overall order = 0 + 1 = 1\n Unit of k = s–1",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q032-sol0.png",
+    "w": 729,
+    "h": 442
+   }
+  ],
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 12,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "rate constant",
+   "rate law",
+   "zero order"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The third ionisation enthalpy is highest in",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q033-stem0.png",
+    "w": 535,
+    "h": 49
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "alkali metals",
+    "img": {
+     "src": "chemistry-2021/q033-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "alkaline earth metals",
+    "img": {
+     "src": "chemistry-2021/q033-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "chalcogens",
+    "img": {
+     "src": "chemistry-2021/q033-optC.png",
+     "w": 505,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "pnictogens",
+    "img": {
+     "src": "chemistry-2021/q033-optD.png",
+     "w": 503,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The third ionisation enthalpy is highest in a\nalkaline earth metals because it achieves\nstable noble gas configuration after removal of\ntwo electrons. Further removal of electron\nfrom the completely filled orbital require high\nionisation enthalpy.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q033-sol0.png",
+    "w": 729,
+    "h": 275
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 12,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ionisation enthalpy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "If the rate constant for a first order reaction is\nk, the time (t) required for the completion of\n99% of the reaction is given by",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q034-stem0.png",
+    "w": 535,
+    "h": 122
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q034-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q034-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q034-optC.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q034-optD.png",
+     "w": 503,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q034-sol0.png",
+    "w": 729,
+    "h": 366
+   }
+  ],
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "rate constant",
+   "first order reaction"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The rate of a gaseous reaction is given by the\nexpression k[A][B]2. If the volume of vessel is\nreduced to one half of the initial volume, the\nreaction rate as compared to original rate is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q035-stem0.png",
+    "w": 535,
+    "h": 166
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q035-optA.png",
+     "w": 200,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q035-optB.png",
+     "w": 252,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8",
+    "img": {
+     "src": "chemistry-2021/q035-optC.png",
+     "w": 200,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "16",
+    "img": {
+     "src": "chemistry-2021/q035-optD.png",
+     "w": 250,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q035-sol0.png",
+    "w": 729,
+    "h": 46
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "reduced"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The correct IUPAC name of",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q036-stem0.png",
+    "w": 535,
+    "h": 293
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4-ethyl-1-fluoro-2-nitrobenzene",
+    "img": {
+     "src": "chemistry-2021/q036-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1-ethyl-4-fluoro-3-nitrobenzene",
+    "img": {
+     "src": "chemistry-2021/q036-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3-ethyl-6-fluoronitrobenzene",
+    "img": {
+     "src": "chemistry-2021/q036-optC.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5-ethyl-2-fluoronitrobenzene",
+    "img": {
+     "src": "chemistry-2021/q036-optD.png",
+     "w": 503,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The IUPAC name of\nis 4-ethyl-1-fluoro-2-nitrobenzene.\nNote Numbering of benzene ring is as per\nlowest locant sum rule.\ng p\nIn a chemical reaction, reactant molecules\nmust collide with the proper orientation and\nsufficient energy for a reaction to occur. As the\nnumber \nof \nreactant \nmolecules \ninvolved\nincreases, the likelihood of all these molecules\nmeeting at the same time and place with the\ncorrect \norientation \nand \nenough \nenergy\ndecreases dramatically. This is why higher\norder reactions (those of order greater than\nthree) \nare \nrare. \nThe \ncomplexity \nand\nimprobability \nof \nsuch \na \nsimultaneous\noccurrence make these reactions almost\nnonexistent under normal conditions.\nOption A talks about shifting of equilibrium\ntowards reactants due to elastic collisions. This\ndoes not directly explain why higher order\nreactions are rare but rather describes a\npossible dynamic in reactions where the\ncollisions do not lead to reaction but rather to\nthe dispersal of energy.\nOption B involves the loss of active species on\ncollision, which could in principle apply to any\nreaction order and does not specifically\naddress the rarity of high order reactions.\nOption D suggests an increase in entropy as\nmore molecules are involved, which may\ncontribute to the favorability of the overall\nreaction but does not explain why the\nreactions of higher order are rare. Entropy\nincreases with more molecules involved, but\nthis does not inherently prevent high order\nreactions; it is the collision probability that is\nthe key issue.\nTherefore, the best explanation for the rarity\nof higher order reactions is the low probability\nof a simultaneous collision involving all the\nreactants, as described in Option C.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q036-sol0.png",
+    "w": 1279,
+    "h": 1351
+   }
+  ],
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "iupac name"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Higher order (> 3) reactions are rare due to",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q037-stem0.png",
+    "w": 530,
+    "h": 48
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "shifting of equilibrium towards reactants\ndue to elastic collisions",
+    "img": {
+     "src": "chemistry-2021/q037-optA.png",
+     "w": 499,
+     "h": 78
+    }
+   },
+   {
+    "letter": "B",
+    "text": "loss of active species on collision",
+    "img": {
+     "src": "chemistry-2021/q037-optB.png",
+     "w": 499,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "low probability of simultaneous collision of\nall reacting species",
+    "img": {
+     "src": "chemistry-2021/q037-optC.png",
+     "w": 499,
+     "h": 78
+    }
+   },
+   {
+    "letter": "D",
+    "text": "increase in entropy as more molecules are\ninvolved",
+    "img": {
+     "src": "chemistry-2021/q037-optD.png",
+     "w": 497,
+     "h": 78
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The rarity of higher order reactions (those\ninvolving more than three reacting species\nsimultaneously) is primarily due to Option C:\nlow probability of simultaneous collision of all\nreacting species.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q037-sol0.png",
+    "w": 1279,
+    "h": 222
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "entropy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Arrange benzene, n-hexane and ethyne in\ndecreasing order of their acidic behaviour.",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q038-stem0.png",
+    "w": 530,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Benzene > n-hexane > Ethyne",
+    "img": {
+     "src": "chemistry-2021/q038-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "n-hexane > Benzene > Ethyne",
+    "img": {
+     "src": "chemistry-2021/q038-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Ethyne > n-hexane > Benzene",
+    "img": {
+     "src": "chemistry-2021/q038-optC.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Ethyne > Benzene > n-hexane",
+    "img": {
+     "src": "chemistry-2021/q038-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The decreasing order of acidic behaviour is\nethyne > benzene > n-hexane\nBecause carbon in ethyne, benzene and n-\nhexane are sp, sp2 and sp3 hybridised\nrespectively.\n The carbocation formed after the removal of\n'H' is more stable in sp hybridised carbon atom\nbecause of high electronegativity due to more\ns-character.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q038-sol0.png",
+    "w": 638,
+    "h": 566
+   }
+  ],
+  "chapter": "Hydrocarbons",
+  "chapterScore": 12,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "benzene"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A colloidal solution is subjected to an electric\nfield than colloidal particles move towards\nanode. The amount of electrolytes of BaCl2,\nAlCl3 and NaCl required to coagulate the given\ncolloid is in the order",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q039-stem0.png",
+    "w": 530,
+    "h": 208
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "NaCl > BaCl2 > AlCl3",
+    "img": {
+     "src": "chemistry-2021/q039-optA.png",
+     "w": 499,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "BaCl2 < AlCl3 > NaCl",
+    "img": {
+     "src": "chemistry-2021/q039-optB.png",
+     "w": 499,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "AlCl3 = NaCl = BaCl2",
+    "img": {
+     "src": "chemistry-2021/q039-optC.png",
+     "w": 499,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "AlCl3 > BaCl2 > NaCl",
+    "img": {
+     "src": "chemistry-2021/q039-optD.png",
+     "w": 497,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The \namount \nof \nelectrolyte \nrequired \nto\ncoagulate the given colloid is in order\nNaCl > BaCl2 < AlCl3\nBecause as colloids move towards anode they\nmust be negatively charge.\nAccording to Hardy Schulze rule,\nThe charge on the electrolyte; Na+, Ba2+ and\nAl3+ are 1, 2 and 3 respectively.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q039-sol0.png",
+    "w": 638,
+    "h": 458
+   }
+  ],
+  "chapter": "Surface Chemistry",
+  "chapterScore": 12,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "colloid",
+   "hardy schulze"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which of the following is an incorrect\nstatement?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q040-stem0.png",
+    "w": 530,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Hydrogen bonding is stronger than\ndispersion forces",
+    "img": {
+     "src": "chemistry-2021/q040-optA.png",
+     "w": 499,
+     "h": 78
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Sigma bonds are stronger than -bonds",
+    "img": {
+     "src": "chemistry-2021/q040-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "lonic bonding is non-directional",
+    "img": {
+     "src": "chemistry-2021/q040-optC.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "σ-electrons are referred to as mobile\nelectrons",
+    "img": {
+     "src": "chemistry-2021/q040-optD.png",
+     "w": 497,
+     "h": 78
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "All the statements except (d) are correct.\nThe correct statement is \n-electrons are\nreferred to as mobile electrons.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q040-sol0.png",
+    "w": 638,
+    "h": 167
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "bonding"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Zeta potential is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q041-stem0.png",
+    "w": 530,
+    "h": 49
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "potential required to bring about\ncoagulation of a colloidal sol.",
+    "img": {
+     "src": "chemistry-2021/q041-optA.png",
+     "w": 499,
+     "h": 78
+    }
+   },
+   {
+    "letter": "B",
+    "text": "potential required to give the particle a\nspeed of 1 cm s–1",
+    "img": {
+     "src": "chemistry-2021/q041-optB.png",
+     "w": 499,
+     "h": 86
+    }
+   },
+   {
+    "letter": "C",
+    "text": "potential difference between fixed charged\nlayer and the diffused layer having opposite\ncharges",
+    "img": {
+     "src": "chemistry-2021/q041-optC.png",
+     "w": 499,
+     "h": 114
+    }
+   },
+   {
+    "letter": "D",
+    "text": "potential energy of the colloidal particles.",
+    "img": {
+     "src": "chemistry-2021/q041-optD.png",
+     "w": 497,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Zeta potential is potential difference between\nfixed charged layer and the diffused layer\nhaving opposite charges.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q041-sol0.png",
+    "w": 638,
+    "h": 167
+   }
+  ],
+  "chapter": "Surface Chemistry",
+  "chapterScore": 13,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "zeta potential",
+   "coagulation",
+   "sol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which of the following compound on heating\ngives N2O ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q042-stem0.png",
+    "w": 629,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Pb(NO3)2\n(B",
+    "img": {
+     "src": "chemistry-2021/q042-optA.png",
+     "w": 247,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "B) NH4NO3",
+    "img": {
+     "src": "chemistry-2021/q042-optB.png",
+     "w": 363,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "NH4NO2\n(D",
+    "img": {
+     "src": "chemistry-2021/q042-optC.png",
+     "w": 247,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "D) NaNO3",
+    "img": {
+     "src": "chemistry-2021/q042-optD.png",
+     "w": 363,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "NH4NO3 on heating gives nitrous oxide\n(N2O). Its reaction is as follow\nNitrous oxide is also called laughing gas.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q042-sol0.png",
+    "w": 638,
+    "h": 300
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which of the following property is true for the\ngiven sequence ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q043-stem0.png",
+    "w": 629,
+    "h": 121
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Reducing property",
+    "img": {
+     "src": "chemistry-2021/q043-optA.png",
+     "w": 599,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Thermal stability",
+    "img": {
+     "src": "chemistry-2021/q043-optB.png",
+     "w": 598,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Bond angle",
+    "img": {
+     "src": "chemistry-2021/q043-optC.png",
+     "w": 599,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Acidic character",
+    "img": {
+     "src": "chemistry-2021/q043-optD.png",
+     "w": 597,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Thermal stability of the hydrides of nitrogen\nfamily decreases down the group as\nBecause on moving down the group size\nincrease (from N to Bi). As a result, bond\nstrength decreases.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q043-sol0.png",
+    "w": 621,
+    "h": 274
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "group",
+   "down the group"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The correct order of boiling point in the\nfollowing compounds is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q044-stem0.png",
+    "w": 629,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "HF > H2O > NH3",
+    "img": {
+     "src": "chemistry-2021/q044-optA.png",
+     "w": 599,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "H2O > HF > NH3",
+    "img": {
+     "src": "chemistry-2021/q044-optB.png",
+     "w": 598,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "NH3 > H2O > HF",
+    "img": {
+     "src": "chemistry-2021/q044-optC.png",
+     "w": 599,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "NH3 > HF > H2O",
+    "img": {
+     "src": "chemistry-2021/q044-optD.png",
+     "w": 597,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The correct order of boiling point of given\nhydrides is as follows H2O > HF > NH3 Strength\nof \nH-bonding \ndepends \nupon \nsize \nand\nelectronegativity of the atom. Smaller the size\nof the atom, greater is the electronegativity\nand stronger is the H-bonding.\nBut each H2O molecule has two hydrogen\natom, whereas each HF molecule has only one\nhydrogen atom.\n Hydrogen bonding is more strong in H2O\nmolecules. While NH3 molecules due to less\nelectronegativity. of 'N' atom than 'F' atom is\nless polar and hence, have weak hydrogen\nbonding than HF molecules.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q044-sol0.png",
+    "w": 621,
+    "h": 594
+   }
+  ],
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "electronegativity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "XeF6 on partial hydrolysis gives a compound X,\nwhich has square pyramidal geometry 'X' is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q045-stem0.png",
+    "w": 629,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "XeO3\n(B",
+    "img": {
+     "src": "chemistry-2021/q045-optA.png",
+     "w": 247,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "B) XeO4",
+    "img": {
+     "src": "chemistry-2021/q045-optB.png",
+     "w": 363,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "XeOF4\n(D",
+    "img": {
+     "src": "chemistry-2021/q045-optC.png",
+     "w": 247,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "D) XeO2F2",
+    "img": {
+     "src": "chemistry-2021/q045-optD.png",
+     "w": 363,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "XeF6 on partial hydrolysis with water gives\nXeOF4.\nThe reaction involve is as follows\nXeF6 + H2O → XeOF4 + 2HF\nThe structure of XeOF4 is",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q045-sol0.png",
+    "w": 621,
+    "h": 254
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "geometry"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "A colourless, neutral, paramagnetic oxide of\nnitrogen 'P' on oxidation gives reddish brown\ngas Q. Q on cooling gives colourless gas R. R\non reaction with P gives blue solid S. Identify P,\nQ, R, S respectively",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q046-stem0.png",
+    "w": 629,
+    "h": 193
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q046-optA.png",
+     "w": 599,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q046-optB.png",
+     "w": 598,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q046-optC.png",
+     "w": 599,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q046-optD.png",
+     "w": 597,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The complete given chemical reaction take\nplace as follows\nNote Nitric oxide is paramagnetic as it contain\nunpaired electron as per molecular orbital\ntheory.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q046-sol0.png",
+    "w": 638,
+    "h": 514
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "molecular orbital"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which of the following does not represent\nproperty stated against it ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q047-stem0.png",
+    "w": 629,
+    "h": 87
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q047-optA.png",
+     "w": 599,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q047-optB.png",
+     "w": 598,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q047-optC.png",
+     "w": 599,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q047-optD.png",
+     "w": 597,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The property stated against option (c) is\nincorrect.\nThe electronic configuration of given elements\n(ions) are\nIt is clear from above electronic configuration\nthat Mn2+ has maximum number of unpaired\nelectrons (5).\n \nIt \nshown \nmaximum \nparamagnetic\nbehaviours among the given ions.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q047-sol0.png",
+    "w": 638,
+    "h": 560
+   }
+  ],
+  "chapter": "Structure of Atom",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "electronic configuration"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which one of the following is correct for all\nelements from Sc to Cu?",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q048-stem0.png",
+    "w": 565,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "The lowest oxidation state shown by them\nis +2",
+    "img": {
+     "src": "chemistry-2021/q048-optA.png",
+     "w": 534,
+     "h": 78
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4s orbital is completely filled in the ground\nstate",
+    "img": {
+     "src": "chemistry-2021/q048-optB.png",
+     "w": 534,
+     "h": 78
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3d orbital is not completely filled in the\nground state",
+    "img": {
+     "src": "chemistry-2021/q048-optC.png",
+     "w": 534,
+     "h": 78
+    }
+   },
+   {
+    "letter": "D",
+    "text": "The ions in +2 oxidation states are\nparamagnetic",
+    "img": {
+     "src": "chemistry-2021/q048-optD.png",
+     "w": 532,
+     "h": 78
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "From \n to \n all the ions are\nparamagnetic in nature as they all contain\nunpaired electrons as shown below.\n \nElem\nents\nElectronic\nconfiguratio\nn\nNumber of\nunpaired\nelectron(s)\n1\n2\n3\n4\n5\nElem\nents\nElectronic\nconfiguratio\nn\nNumber of\nunpaired\nelectron(s)\n4\n3\n2\n1",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q048-sol0.png",
+    "w": 638,
+    "h": 637
+   },
+   {
+    "src": "chemistry-2021/q048-sol1.png",
+    "w": 621,
+    "h": 399
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 6,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "oxidation state",
+   "oxidation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "When the absolute temperature of ideal gas is\ndoubled and pressure is halved, the volume of\ngas",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q049-stem0.png",
+    "w": 565,
+    "h": 121
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "will be half of original volume",
+    "img": {
+     "src": "chemistry-2021/q049-optA.png",
+     "w": 534,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "will be 4 times the original volume",
+    "img": {
+     "src": "chemistry-2021/q049-optB.png",
+     "w": 534,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "will be 2 times the original volume",
+    "img": {
+     "src": "chemistry-2021/q049-optC.png",
+     "w": 534,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "will be 1/4th times the original volume",
+    "img": {
+     "src": "chemistry-2021/q049-optD.png",
+     "w": 532,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q049-sol0.png",
+    "w": 621,
+    "h": 483
+   }
+  ],
+  "chapter": "States of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ideal gas"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Which of the following pairs has both the ions\ncoloured \nin \naqueous \nsolution? \n[Atomic\nnumbers of Sc = 21 Ti = 22 Ni = 28 , Cu = 29 ,\nMn = 25 ]",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q050-stem0.png",
+    "w": 565,
+    "h": 158
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q050-optA.png",
+     "w": 305,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q050-optB.png",
+     "w": 281,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q050-optC.png",
+     "w": 305,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q050-optD.png",
+     "w": 279,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Elemen\nts\nElectronic\nconfiguration\nColour\nCololurle\nss\nViolet\nPink\nGreen\nColourle\nss\nColourle\nss\n Only option (d) (i.e. \n pair) is\ncoloured in aqueous solution.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q050-sol0.png",
+    "w": 621,
+    "h": 706
+   }
+  ],
+  "chapter": "Structure of Atom",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "electronic configuration"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "For the crystal field splitting in octahedral\ncomplexes,",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q051-stem0.png",
+    "w": 565,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q051-optA.png",
+     "w": 823,
+     "h": 96
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q051-optB.png",
+     "w": 823,
+     "h": 97
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q051-optC.png",
+     "w": 823,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q051-optD.png",
+     "w": 532,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "For \ncrystal \nfield \nsplitting \nin \noctahedral\ncomplexes, the energy of eg orbitals will\nincrease \nby \nThe splitting of degenerate d-orbital is as\nfollows.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q051-sol0.png",
+    "w": 638,
+    "h": 552
+   }
+  ],
+  "chapter": "Coordination Compounds",
+  "chapterScore": 16,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "crystal field",
+   "crystal field splitting"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Peroxide effect is observed with the addition\nof HBr but not with the addition of HI to\nunsymmetrical alkene because",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q052-stem0.png",
+    "w": 662,
+    "h": 121
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "H-I bond is stronger than H - Br and is not\ncleaved by the free radical",
+    "img": {
+     "src": "chemistry-2021/q052-optA.png",
+     "w": 632,
+     "h": 78
+    }
+   },
+   {
+    "letter": "B",
+    "text": "HI bond is weaker than H - Br bond so that\niodine free radicals combine to form iodine\nmolecules",
+    "img": {
+     "src": "chemistry-2021/q052-optB.png",
+     "w": 631,
+     "h": 114
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Bond strength of HI and HBr are same but\nfree radicals are formed in HBr",
+    "img": {
+     "src": "chemistry-2021/q052-optC.png",
+     "w": 632,
+     "h": 78
+    }
+   },
+   {
+    "letter": "D",
+    "text": "All of the above",
+    "img": {
+     "src": "chemistry-2021/q052-optD.png",
+     "w": 630,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Peroxide effect is observed with addition of\nHBr but not with the addition of H - I to\nunsymmetrical alkene because H - I bond is\nweaker than H - Br bond. So, unstable iodine\nfree radicals combine to form stable iodine\nmolecules as\ni.e.,\nThe addition of the iodine radical to the alkene\nis endothermic",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q052-sol0.png",
+    "w": 638,
+    "h": 486
+   }
+  ],
+  "chapter": "Hydrocarbons",
+  "chapterScore": 20,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "peroxide effect",
+   "alkene"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The IUPAC name of [Co(NH3)5 (CO3)] Cl is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q053-stem0.png",
+    "w": 662,
+    "h": 56
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "pentaamminecarbonatocobalt (III) chloride",
+    "img": {
+     "src": "chemistry-2021/q053-optA.png",
+     "w": 632,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "carbonatopentamminecobalt (III) chloride",
+    "img": {
+     "src": "chemistry-2021/q053-optB.png",
+     "w": 631,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "pentaamminecarbonatocobaltate (III)\nchloride",
+    "img": {
+     "src": "chemistry-2021/q053-optC.png",
+     "w": 632,
+     "h": 78
+    }
+   },
+   {
+    "letter": "D",
+    "text": "pentaammine cobalt (III) carbonate\nchloride",
+    "img": {
+     "src": "chemistry-2021/q053-optD.png",
+     "w": 630,
+     "h": 78
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "[Co(NH3)5 (CO3)] CI\nOxidation state of Co(x) can be calculated\nx + 0 + 0 - 3 = 0\n x = 3 \n \nThe \nIUPAC \nname \nis\npentaamminecarbonatocabolt(III) chloride.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q053-sol0.png",
+    "w": 638,
+    "h": 284
+   }
+  ],
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 8,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "iupac name"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Homoleptic complexes among the following\nare",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q054-stem0.png",
+    "w": 662,
+    "h": 225
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A only\n(B)",
+    "img": {
+     "src": "chemistry-2021/q054-optA.png",
+     "w": 263,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A and B only",
+    "img": {
+     "src": "chemistry-2021/q054-optB.png",
+     "w": 379,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A and C only\n(D)",
+    "img": {
+     "src": "chemistry-2021/q054-optC.png",
+     "w": 263,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "C only",
+    "img": {
+     "src": "chemistry-2021/q054-optD.png",
+     "w": 379,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "In homoleptic complex, all the bounded\nligands are identicals\n \nare\nhomoleptic complex as they contain identical\nligand",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q054-sol0.png",
+    "w": 638,
+    "h": 232
+   }
+  ],
+  "chapter": "Coordination Compounds",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "ligand",
+   "complex"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The correct order for wavelengths of light\nabsorbed \nin \nthe \ncomplex \nions",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q055-stem0.png",
+    "w": 662,
+    "h": 192
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q055-optA.png",
+     "w": 632,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q055-optB.png",
+     "w": 631,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q055-optC.png",
+     "w": 632,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q055-optD.png",
+     "w": 630,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Wavelengths of light absorbed is inversely\nproportional to strength of the ligand and\norder of strength of the given ligand is CN ̄ >\nNH3 > Cl ̄.\nTherefore, the correct order for wavelength of\nlight absorbed in the complex ions is",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q055-sol0.png",
+    "w": 621,
+    "h": 381
+   }
+  ],
+  "chapter": "Coordination Compounds",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "ligand",
+   "complex"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The compound A (major product) is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q056-stem0.png",
+    "w": 530,
+    "h": 274
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q056-optA.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q056-optB.png",
+     "w": 499,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q056-optC.png",
+     "w": 768,
+     "h": 128
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q056-optD.png",
+     "w": 765,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "In the presence of UV light free radicals\nsubstitution of alkane of the given compound\ntake place in the following way.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q056-sol0.png",
+    "w": 621,
+    "h": 467
+   }
+  ],
+  "chapter": "Hydrocarbons",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "alkane"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "Bond enthalpies of A2, B2 and AB are in the\nratio 2: 1: 2. If bond enthalpy of formation of\nAB is –100 kJ mol–1. The bond enthalpy of B2 is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q057-stem0.png",
+    "w": 530,
+    "h": 147
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "100 kJ mol–1",
+    "img": {
+     "src": "chemistry-2021/q057-optA.png",
+     "w": 499,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "50 kJ mol–1",
+    "img": {
+     "src": "chemistry-2021/q057-optB.png",
+     "w": 499,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "200 kJ mol–1",
+    "img": {
+     "src": "chemistry-2021/q057-optC.png",
+     "w": 499,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "150 kJ mol–1",
+    "img": {
+     "src": "chemistry-2021/q057-optD.png",
+     "w": 497,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q057-sol0.png",
+    "w": 621,
+    "h": 47
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 14,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "enthalpy of formation",
+   "bond enthalpy",
+   "enthalpy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The order of reactivity of the compounds",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q058-stem0.png",
+    "w": 535,
+    "h": 397
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q058-optA.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q058-optB.png",
+     "w": 504,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q058-optC.png",
+     "w": 505,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2021/q058-optD.png",
+     "w": 503,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q058-sol0.png",
+    "w": 1279,
+    "h": 10
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The major product of the following reaction is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q059-stem0.png",
+    "w": 535,
+    "h": 144
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "CH3 – CHBr – CH2Br",
+    "img": {
+     "src": "chemistry-2021/q059-optA.png",
+     "w": 505,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "CH2 = CH – CH2Br",
+    "img": {
+     "src": "chemistry-2021/q059-optB.png",
+     "w": 504,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "CH3CHBr – CH2 – OH",
+    "img": {
+     "src": "chemistry-2021/q059-optC.png",
+     "w": 505,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "CH3 – CHOH – CH2OH",
+    "img": {
+     "src": "chemistry-2021/q059-optD.png",
+     "w": 503,
+     "h": 46
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The given reaction take place in following way\nOn heating further, ketol gives 4-methylpent-3-\nen-2-one\n The product D is 4-methylpent-3-en-2-one.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q059-sol0.png",
+    "w": 1279,
+    "h": 347
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Chemistry",
+  "year": 2021,
+  "source": "Chemistry-2021.pdf",
+  "stemText": "The product 'A' gives white precipitate when\ntreated with bromine water. The product 'B' is\ntreated with barium hydroxide to give the\nproduct C. The compound C' is heated strongly\nto form product D. The product D is",
+  "stemImages": [
+   {
+    "src": "chemistry-2021/q060-stem0.png",
+    "w": 1171,
+    "h": 410
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4-methylpent-3-en-2-one",
+    "img": {
+     "src": "chemistry-2021/q060-optA.png",
+     "w": 1140,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "but-2 enal",
+    "img": {
+     "src": "chemistry-2021/q060-optB.png",
+     "w": 1140,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3-methylpent-3-en-2-one",
+    "img": {
+     "src": "chemistry-2021/q060-optC.png",
+     "w": 1140,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2-methylbut-2-enal",
+    "img": {
+     "src": "chemistry-2021/q060-optD.png",
+     "w": 1138,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The order of reactivity of given compounds in\nSN2 reaction is\nFor SN2 reaction, the order of reaction is\ninversely proportional to steric hinderance\ncause by bulky groups.\nIn\nthere are two bulky groups are present i.e.\nbenzene group and one methyl group which\nprovide steric hinderance for the attack of\nnucleophile. Hence, it is least reactive while in\nC6H5CH2Br \n(1° \nhalide), \nthe \nattack \nof\nnucleophile is easier due to less steric\nhinderance.\n \nQ60\nThe given reaction take place in following way\nPhenol gives white ppt. with bromine water.\nAcetone when treated with Ba(OH)2 undergoes\naldol condensation as follows",
+  "solutionImages": [
+   {
+    "src": "chemistry-2021/q060-sol0.png",
+    "w": 1279,
+    "h": 826
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 9,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sn2",
+   "halide"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

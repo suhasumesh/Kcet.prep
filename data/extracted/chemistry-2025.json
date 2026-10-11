@@ -1,0 +1,4153 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Match List-I with List-II and select the correct\noption: \n \nList-I\n(Molecule /\nion)\n \nList-II\n(Bond\norder)\n1.\nNO\n(i)\n15\n2.\nCO\n(ii)\n2.0\n3.\n(iii)\n2.5\n4.\nO2\n(iv)\n3.0",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q001-stem0.png",
+    "w": 503,
+    "h": 480
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a-iii, b-iv, c-i, d-ii",
+    "img": {
+     "src": "chemistry-2025/q001-optA.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a-i, b-iv, c-iii, d-ii",
+    "img": {
+     "src": "chemistry-2025/q001-optB.png",
+     "w": 473,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a-ii, b-iii, c-iv, d-i",
+    "img": {
+     "src": "chemistry-2025/q001-optC.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a-iv, b-iii, c-ii, d-i",
+    "img": {
+     "src": "chemistry-2025/q001-optD.png",
+     "w": 471,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q001-sol0.png",
+    "w": 638,
+    "h": 613
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "bond order"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The electronic configuration of X and Y are\ngiven below:\nWhich of the following is the correct molecular\nformula and type of bond formed between X\nand Y ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q002-stem0.png",
+    "w": 503,
+    "h": 257
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "X3Y, ionic bond",
+    "img": {
+     "src": "chemistry-2025/q002-optA.png",
+     "w": 474,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "X2Y3, coordinate bond",
+    "img": {
+     "src": "chemistry-2025/q002-optB.png",
+     "w": 473,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "XY3, covalent bond",
+    "img": {
+     "src": "chemistry-2025/q002-optC.png",
+     "w": 474,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "X2Y, covalent bond",
+    "img": {
+     "src": "chemistry-2025/q002-optD.png",
+     "w": 471,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The electronic configurations of elements X\nand Y are as follows:\nX: 1s22s22p63s23p3\nY: 1s22s22p63s23p5\nFor element X, the configuration corresponds\nto phosphorus (P), which is in group 15 of the\nperiodic table. For element Y, the configuration\ncorresponds to chlorine (CI), which is in group\n17.\nPhosphorus (P) has a valency of 3 or 5.\nChlorine (CI) has a valency of 1.\nGiven these valencies, possible compounds\ncould form:\nPCl3, where phosphorus uses its valency of 3\nto bond with three chlorine atoms.\nPCl5, where phosphorus uses an expanded\nvalency of 5 to bond with five chlorine atoms.\nBoth PCl3 and PCl5 are covalent compounds. In\nboth scenarios, sharing of electrons occurs\nbetween phosphorus and chlorine atoms,\nresulting in covalent bonds.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q002-sol0.png",
+    "w": 638,
+    "h": 808
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 14,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "group 15",
+   "group 17",
+   "phosphorus",
+   "chlorine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Match List-I with List-II \n \nList-I (Types\nof redox\nreactions)\n \nList-II (Examples)\n(\na\n)\nCombination\nreaction\n(i)\n(\nb\n)\nDecompositi\non reaction\n(ii\n)\n(\nc\n)\nDisplacemen\nt reaction\n(ii\ni)\n(\nd\n)\nDisproportio\nnation\nreaction\n(i\nv)\nChoose the correct answer from the options\ngiven below.",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q003-stem0.png",
+    "w": 521,
+    "h": 899
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a-iv, b-iii, c-i, d-ii",
+    "img": {
+     "src": "chemistry-2025/q003-optA.png",
+     "w": 492,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a-ii, b-i, c-iv, d-iii",
+    "img": {
+     "src": "chemistry-2025/q003-optB.png",
+     "w": 492,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a-iii, b-iv, c-i, d-ii",
+    "img": {
+     "src": "chemistry-2025/q003-optC.png",
+     "w": 492,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a-iii, b-ii, c-i, d-iv",
+    "img": {
+     "src": "chemistry-2025/q003-optD.png",
+     "w": 490,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q003-sol0.png",
+    "w": 638,
+    "h": 45
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "redox"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "In the following pairs, the one in which both\ntransition metal ions are colourless is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q004-stem0.png",
+    "w": 521,
+    "h": 117
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q004-optA.png",
+     "w": 200,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q004-optB.png",
+     "w": 253,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q004-optC.png",
+     "w": 200,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q004-optD.png",
+     "w": 251,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "In transition metal ions, the coloration typically\ndepends \non \nthe \npresence \nof \nunpaired\nelectrons in the d-orbitals. lons with either\ncompletely empty d-orbitals (d0) or fully filled\nd-orbitals (d10) do not exhibit d-d transitions,\nwhich are responsible for colored compounds.\nAs a result, these ions tend to be colorless.\nThe Sc3+ ion has the electron configuration\n[Ar] 3d0, meaning its d-orbitals are empty.\nThe Zn2+ ion has the electron configuration\n[Ar]3d10, indicating fully filled d-orbitals.\nSince both Sc3+ and Zn2+ lack the d-d electron\ntransitions necessary for color, they are\ncolorless.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q004-sol0.png",
+    "w": 591,
+    "h": 585
+   }
+  ],
+  "chapter": "Structure of Atom",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electron"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "In the reaction between hydrogen sulphide\nand acidified permanganate solution,",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q005-stem0.png",
+    "w": 503,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q005-optA.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q005-optB.png",
+     "w": 473,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q005-optC.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q005-optD.png",
+     "w": 471,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q005-sol0.png",
+    "w": 591,
+    "h": 91
+   }
+  ],
+  "chapter": "Hydrogen",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "hydrogen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "A member of the Lanthanoid series which is\nwell known to exhibit +4 oxidation state is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q006-stem0.png",
+    "w": 503,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Samarium",
+    "img": {
+     "src": "chemistry-2025/q006-optA.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Europium",
+    "img": {
+     "src": "chemistry-2025/q006-optB.png",
+     "w": 234,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Erbium",
+    "img": {
+     "src": "chemistry-2025/q006-optC.png",
+     "w": 180,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Cerium",
+    "img": {
+     "src": "chemistry-2025/q006-optD.png",
+     "w": 232,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The Lanthanoid series element known for\nexhibiting a +4 oxidation state is Cerium.\nThe electronic configuration of Cerium (Ce) is:\nCe: [Xe]4f15d16s2\nWhen Cerium is in the +4 oxidation state\n(Ce+4), it has the electronic configuration:\nCe+4: [Xe]4f05d06s0\nIn this state, Cerium has a stable noble gas\nconfiguration, which is why it is well-known to\nexhibit a +4 oxidation state.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q006-sol0.png",
+    "w": 591,
+    "h": 401
+   }
+  ],
+  "chapter": "Redox Reactions",
+  "chapterScore": 15,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "oxidation state",
+   "oxidation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "In which of the following pairs, both the\nelements \ndo \nnot \nhave \nconfiguration?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q007-stem0.png",
+    "w": 503,
+    "h": 120
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Cu, Zn",
+    "img": {
+     "src": "chemistry-2025/q007-optA.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Zn, Cd",
+    "img": {
+     "src": "chemistry-2025/q007-optB.png",
+     "w": 234,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Cd, Hg",
+    "img": {
+     "src": "chemistry-2025/q007-optC.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Ag, Cu",
+    "img": {
+     "src": "chemistry-2025/q007-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine which pairs of elements do not\nboth have the configuration (n – 1)d10ns2, let's\nexamine \nthe \nelectronic \nconfigurations\nprovided:\nCu (Copper): [Ar]3d104s1\nZn (Zinc): [Ar]3d104s2\nCd (Cadmium): [Kr]4d105s2\nHg (Mercury): [Xe]4f145d106s2\nAg (Silver): [Kr]4d105s1\nFrom the configurations:\nCopper \n(Cu) \ndoes \nnot \nhave \nan \nns2\nconfiguration (as it is 4s1).\nSilver (Ag) also lacks an ns2 configuration (as it\nis 5s1).\nThus, in the pair consisting of Ag and Cu,\nneither \nelement \nhas \nthe \n(n-1)d10ns2\nconfiguration.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q007-sol0.png",
+    "w": 606,
+    "h": 701
+   }
+  ],
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "copper",
+   "zinc"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "A ligand which has two different donor atoms\nand either of the two ligates with the central\nmetal atom/ion in the complex is called\n___________",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q008-stem0.png",
+    "w": 503,
+    "h": 149
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Chelate ligand",
+    "img": {
+     "src": "chemistry-2025/q008-optA.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Unidentate ligand",
+    "img": {
+     "src": "chemistry-2025/q008-optB.png",
+     "w": 473,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Polydentate ligand",
+    "img": {
+     "src": "chemistry-2025/q008-optC.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Ambidentate ligand",
+    "img": {
+     "src": "chemistry-2025/q008-optD.png",
+     "w": 471,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The correct answer is Option D: Ambidentate\nligand.\n• An ambidentate ligand has two (or more)\ndifferent donor atoms but binds through only\none donor site at a time.\n• Classic examples include SCN− (thiocyanate,\nwhich can bind through S or N) and NO2−\n(nitrite, which can bind through N or O).",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q008-sol0.png",
+    "w": 606,
+    "h": 329
+   }
+  ],
+  "chapter": "Coordination Compounds",
+  "chapterScore": 30,
+  "chapterMargin": 30,
+  "chapterHits": [
+   "ligand",
+   "chelate",
+   "ambidentate",
+   "complex",
+   "central metal"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which of the following statements are true\nabout [NiCl4]2– ?\n(a) The complex has tetrahedral geometry\n(b) Co-ordination number of Ni is 2 and\noxidation state is +4\n(c) The complex is sp3 hybridised\n(d) It is a high spin complex\n(e) The complex is paramagnetic",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q009-stem0.png",
+    "w": 503,
+    "h": 308
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a,c,d and e",
+    "img": {
+     "src": "chemistry-2025/q009-optA.png",
+     "w": 180,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a,b,d and e",
+    "img": {
+     "src": "chemistry-2025/q009-optB.png",
+     "w": 234,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "b,c,d and e",
+    "img": {
+     "src": "chemistry-2025/q009-optC.png",
+     "w": 180,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a,b,c and d",
+    "img": {
+     "src": "chemistry-2025/q009-optD.png",
+     "w": 232,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q009-sol0.png",
+    "w": 606,
+    "h": 342
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 6,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sp3",
+   "geometry",
+   "tetrahedral"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which formula and its name combination is\nincorrect?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q010-stem0.png",
+    "w": 704,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q010-optA.png",
+     "w": 675,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q010-optB.png",
+     "w": 674,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q010-optC.png",
+     "w": 675,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q010-optD.png",
+     "w": 673,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q010-sol0.png",
+    "w": 606,
+    "h": 165
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "In the complex ion \n, the co-\nordination number of Fe is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q011-stem0.png",
+    "w": 704,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4\n(B) 5",
+    "img": {
+     "src": "chemistry-2025/q011-optA.png",
+     "w": 288,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q011-optB.png",
+     "w": 397,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6\n(D) 3",
+    "img": {
+     "src": "chemistry-2025/q011-optC.png",
+     "w": 288,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q011-optD.png",
+     "w": 397,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The oxalate ion (C2O42−) is a bidentate ligand,\nmeaning it donates two oxygen atoms to the\ncentral metal. In [Fe(C2O4)3]3−:\nNumber of oxalate ligands = 3\nDonor atoms per oxalate = 2\nThus, the coordination number of Fe is",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q011-sol0.png",
+    "w": 606,
+    "h": 249
+   }
+  ],
+  "chapter": "Coordination Compounds",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "ligand",
+   "complex",
+   "coordination",
+   "central metal"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Match List-I with List-II for the following\nreaction pattern\n \nList - I\n(Reagents)\n \nList-II (Structural\nprediction)\n(\na\n)\nAcetic\nanhydride\n(i)\nGlucose has an\naldehyde group\n(\nb\n)\nBromine\nwater\n(ii)\nGlucose has a\nstraight chain of six\ncarbon atoms\n(\nc\n)\nHydroiodic\nacid\n(iii\n)\nGlucose has five\nhydroxyl group\n(\nd\n)\nHydrogen\ncyanide\n(iv\n)\nGlucose has a\ncarbonyl group\nChoose the correct answer from the options\ngiven below.",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q012-stem0.png",
+    "w": 704,
+    "h": 823
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a-iv, b-iii, c-ii, d-i",
+    "img": {
+     "src": "chemistry-2025/q012-optA.png",
+     "w": 675,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a-iii, b-i, c-ii, d-iv",
+    "img": {
+     "src": "chemistry-2025/q012-optB.png",
+     "w": 674,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a-i, b-ii, c-iii, d-iv",
+    "img": {
+     "src": "chemistry-2025/q012-optC.png",
+     "w": 675,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a-iii, b-ii, c-i, d-iv",
+    "img": {
+     "src": "chemistry-2025/q012-optD.png",
+     "w": 673,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The correct matching is:\n• a. Acetic anhydride → iii. Glucose has five\nhydroxyl groups\n(all five –OH’s get acetylated to give the penta-\nacetate)\n• b. Bromine water → i. Glucose has an\naldehyde group\n(Br2/H2O oxidises the –CHO to –COOH, leaving\nother –OH’s untouched)\n• c. Hydroiodic acid → ii. Glucose has a straight\nchain of six carbon atoms\n(HI reduces and cleaves C–C bonds to give n-\nhexane)\n• d. Hydrogen cyanide → iv. Glucose has a\ncarbonyl group\n(HCN adds to the C=O to form a cyanohydrin)\nSo the answer is Option B:\na–iii, b–i, c–ii, d–iv.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q012-sol0.png",
+    "w": 591,
+    "h": 671
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "glucose"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The correct sequence of \namino acids,\nhormone, vitamin, carbohydrates respectively\nis",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q013-stem0.png",
+    "w": 503,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Thiamine, Thyroxine, Vitamin A, Glucose",
+    "img": {
+     "src": "chemistry-2025/q013-optA.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Glutamine, Insulin, Aspartic acid, Fructose",
+    "img": {
+     "src": "chemistry-2025/q013-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Arginine, Testosterone, Glutamic acid,\nFructose",
+    "img": {
+     "src": "chemistry-2025/q013-optC.png",
+     "w": 474,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Aspartic acid, Insulin, Ascorbic acid,\nrhamnose",
+    "img": {
+     "src": "chemistry-2025/q013-optD.png",
+     "w": 472,
+     "h": 75
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Aspartic acid\n-amino acid\nInsulin\nhormone\nAscorbic acid (Vitamin C) → Vitamin\nRhamnose (deoxy sugar) → Carbohydrate",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q013-sol0.png",
+    "w": 591,
+    "h": 192
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 31,
+  "chapterMargin": 28,
+  "chapterHits": [
+   "glucose",
+   "fructose",
+   "amino acid",
+   "vitamin",
+   "carbohydrate",
+   "hormone"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which examples of carbohydrates exhibit \n–\nlink, ( –glycosidic link) in their structure?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q014-stem0.png",
+    "w": 503,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Maltose and Lactose",
+    "img": {
+     "src": "chemistry-2025/q014-optA.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Amylose and Amylopectin",
+    "img": {
+     "src": "chemistry-2025/q014-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Cellulose and Glycogen",
+    "img": {
+     "src": "chemistry-2025/q014-optC.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Glucose and Fructose",
+    "img": {
+     "src": "chemistry-2025/q014-optD.png",
+     "w": 472,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "- links over found in the structure of starch\nwhich consists of any lose and amylopectin.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q014-sol0.png",
+    "w": 591,
+    "h": 124
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 32,
+  "chapterMargin": 32,
+  "chapterHits": [
+   "glucose",
+   "fructose",
+   "maltose",
+   "lactose",
+   "starch",
+   "cellulose"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "In the titration of potassium permanganate\n(KMnO4) against Ferrous ammonium sulphate\n(FAS) solution, dilute sulphuric acid but not\nnitric acid is used to maintain acidic medium,\nbecause",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q015-stem0.png",
+    "w": 503,
+    "h": 191
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "It is difficult to identify the end point",
+    "img": {
+     "src": "chemistry-2025/q015-optA.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Nitric acid doesn't act as an indicator",
+    "img": {
+     "src": "chemistry-2025/q015-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Nitric acid itself is an oxidizing agent",
+    "img": {
+     "src": "chemistry-2025/q015-optC.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Nitric acid is a weak acid than sulphuric\nacid",
+    "img": {
+     "src": "chemistry-2025/q015-optD.png",
+     "w": 472,
+     "h": 74
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Nitric acid is not used in the redox titration\nbecause it is a strong OA itself.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q015-sol0.png",
+    "w": 591,
+    "h": 124
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 20,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "nitric acid",
+   "sulphuric acid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The group reagent NH4Cl(s) and aqueous NH3\nwill precipitate which of the following ion?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q016-stem0.png",
+    "w": 503,
+    "h": 122
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q016-optA.png",
+     "w": 174,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q016-optB.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q016-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q016-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Nylon in presence of NaCl is used for\ndetection of group III cations which are",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q016-sol0.png",
+    "w": 591,
+    "h": 159
+   }
+  ],
+  "chapter": "Polymers",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "nylon"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "In the preparation of sodium fusion extract,\nthe purpose of fusing organic compound with\na piece of sodium metal is to",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q017-stem0.png",
+    "w": 503,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Convert the organic compound into vapour\nstate",
+    "img": {
+     "src": "chemistry-2025/q017-optA.png",
+     "w": 474,
+     "h": 75
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Convert the elements of the compound\nfrom covalent form to ionic form",
+    "img": {
+     "src": "chemistry-2025/q017-optB.png",
+     "w": 474,
+     "h": 74
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Convert the elements of the compound\nfrom ionic form to covalent form",
+    "img": {
+     "src": "chemistry-2025/q017-optC.png",
+     "w": 474,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Decrease the melting point of the\ncompound",
+    "img": {
+     "src": "chemistry-2025/q017-optD.png",
+     "w": 472,
+     "h": 75
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The purpose of sodium fusion extract is to\nconvert the element in the organic compound\ninto ionic compound so that the detection\ncould become easier.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q017-sol0.png",
+    "w": 591,
+    "h": 192
+   }
+  ],
+  "chapter": "s-Block Elements",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The sodium fusion extract is boiled with\nconcentrated nitric acid while testing for\nhalogens. By doing so, it",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q018-stem0.png",
+    "w": 509,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "helps in precipitation of AgCl",
+    "img": {
+     "src": "chemistry-2025/q018-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "increases the solubility of AgCl",
+    "img": {
+     "src": "chemistry-2025/q018-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "increases the concentration of \n ion",
+    "img": {
+     "src": "chemistry-2025/q018-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "decomposes Na2S and NaCN, if formed",
+    "img": {
+     "src": "chemistry-2025/q018-optD.png",
+     "w": 478,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "It is done so that if there is any Na2s or NaCN,\nit can be decomposed.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q018-sol0.png",
+    "w": 591,
+    "h": 155
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "nitric acid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which of the following is not an aromatic\ncompound",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q019-stem0.png",
+    "w": 509,
+    "h": 211
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q019-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q019-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q019-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q019-optD.png",
+     "w": 478,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "1 \nis \nantiaromatic \nas \nit \nhas \n4πe–.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q019-sol0.png",
+    "w": 606,
+    "h": 133
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The IUPAC name of the given organic\ncompound \nis",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q020-stem0.png",
+    "w": 509,
+    "h": 150
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Hexa - 1 - yn - 3,5 - diene",
+    "img": {
+     "src": "chemistry-2025/q020-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Hexa - 5 - yn - 1,3 - diene",
+    "img": {
+     "src": "chemistry-2025/q020-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Hexa -1,3 - dien - 5 - yne",
+    "img": {
+     "src": "chemistry-2025/q020-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Hexa - 3,5 - dien - 1 - yne",
+    "img": {
+     "src": "chemistry-2025/q020-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Double bond is given preference over triple\nbond.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q020-sol0.png",
+    "w": 606,
+    "h": 261
+   }
+  ],
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "iupac name"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Among the following, identify the compound\nthat is not an isomer of hexane",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q021-stem0.png",
+    "w": 509,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q021-optA.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q021-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q021-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q021-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "above compounds are not isomer",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q021-sol0.png",
+    "w": 606,
+    "h": 197
+   }
+  ],
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "isomer"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The organic compound\ncan be classified as ________________",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q022-stem0.png",
+    "w": 503,
+    "h": 227
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Allylic halide",
+    "img": {
+     "src": "chemistry-2025/q022-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Benzyl halide",
+    "img": {
+     "src": "chemistry-2025/q022-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Aryl halide",
+    "img": {
+     "src": "chemistry-2025/q022-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Alkyl halide",
+    "img": {
+     "src": "chemistry-2025/q022-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q022-sol0.png",
+    "w": 606,
+    "h": 279
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 11,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "alkyl halide",
+   "aryl halide",
+   "halide"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Chlorobenzene reacts with bromine gas in the\npresence \nof \nAnhyd \nAlBr3 \nto \nyield \np-\nBromochlorobenzene. \nThis \nreaction \nis\nclassified as ____________",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q023-stem0.png",
+    "w": 503,
+    "h": 156
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Elimination reaction",
+    "img": {
+     "src": "chemistry-2025/q023-optA.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Nucleophilic substitution reaction",
+    "img": {
+     "src": "chemistry-2025/q023-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Electrophilic substitution reaction",
+    "img": {
+     "src": "chemistry-2025/q023-optC.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Addition reaction",
+    "img": {
+     "src": "chemistry-2025/q023-optD.png",
+     "w": 472,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q023-sol0.png",
+    "w": 606,
+    "h": 220
+   }
+  ],
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 8,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "chlorobenzene",
+   "nucleophilic substitution"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The organometallic compound (CH3)3CMgBr\non reaction with D2O produces",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q024-stem0.png",
+    "w": 503,
+    "h": 96
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q024-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q024-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q024-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q024-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q024-sol0.png",
+    "w": 606,
+    "h": 135
+   }
+  ],
+  "chapter": "Coordination Compounds",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "organometallic"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The major product formed when 1– Bromo –3–\nChlorocyclobutane \nreacts \nwith \nmetallic\nsodium in dry ether is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q025-stem0.png",
+    "w": 503,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q025-optA.png",
+     "w": 729,
+     "h": 118
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q025-optB.png",
+     "w": 729,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q025-optC.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q025-optD.png",
+     "w": 472,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q025-sol0.png",
+    "w": 606,
+    "h": 160
+   }
+  ],
+  "chapter": "s-Block Elements",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Ethyl alcohol is heated with concentrated\nsulphuric acid at 413 K . The major product",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q026-stem0.png",
+    "w": 503,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q026-optA.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q026-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q026-optC.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q026-optD.png",
+     "w": 472,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q026-sol0.png",
+    "w": 606,
+    "h": 45
+   }
+  ],
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "sulphuric acid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Phenol can be distinguished from propanol by\nusing the reagent",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q027-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Bromine water",
+    "img": {
+     "src": "chemistry-2025/q027-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Iron metal",
+    "img": {
+     "src": "chemistry-2025/q027-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "lodine in alcohol",
+    "img": {
+     "src": "chemistry-2025/q027-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Sodium metal",
+    "img": {
+     "src": "chemistry-2025/q027-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Where as propand Cannot form white ppt with\nBr2 water",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q027-sol0.png",
+    "w": 591,
+    "h": 323
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "phenol",
+   "alcohol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Match the following with their pKa values \n \nAcid\n \npka\n(I)\nPhenol\n(a)\n16\n(II)\np-Nitrophenol\n(b)\n0.78\n(III)\nEthyl alcohol\n(c)\n10\n(IV)\nPicric acid\n(d)\n7.1",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q028-stem0.png",
+    "w": 509,
+    "h": 404
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "I-c, II-d, III - a, IV - b",
+    "img": {
+     "src": "chemistry-2025/q028-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "I-a, II - d, III - c, IV - b",
+    "img": {
+     "src": "chemistry-2025/q028-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "I-a, II-b, III-c, IV - d",
+    "img": {
+     "src": "chemistry-2025/q028-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "I-b, II-a, III - d, IV - c",
+    "img": {
+     "src": "chemistry-2025/q028-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q028-sol0.png",
+    "w": 591,
+    "h": 283
+   }
+  ],
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "phenol",
+   "alcohol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "A and B respectively are",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q029-stem0.png",
+    "w": 509,
+    "h": 240
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q029-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q029-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q029-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q029-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q029-sol0.png",
+    "w": 591,
+    "h": 154
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Oxidation of Toluene with chromyl chloride\nfollowed by hydrolysis gives Benzaldehyde.\nThis reaction is known as ____________",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q030-stem0.png",
+    "w": 509,
+    "h": 149
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Etard Reaction",
+    "img": {
+     "src": "chemistry-2025/q030-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Kolbe reaction",
+    "img": {
+     "src": "chemistry-2025/q030-optB.png",
+     "w": 479,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Stephen reaction",
+    "img": {
+     "src": "chemistry-2025/q030-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Cannizzaro Reaction",
+    "img": {
+     "src": "chemistry-2025/q030-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q030-sol0.png",
+    "w": 591,
+    "h": 184
+   }
+  ],
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 16,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "cannizzaro",
+   "stephen reaction",
+   "etard",
+   "benzaldehyde"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Statement - I : Reduction of ester by DIABL-H\nfollowed by hydrolysis gives aldehyde.\nStatement - II : Oxidation of benzyl alcohol\nwith aqueous KMnO4 leads to the formation to\nBenzaldehyde.\nAmong the above statements, identify the\ncorrect statement.",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q031-stem0.png",
+    "w": 535,
+    "h": 258
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Both statements - I and II are false",
+    "img": {
+     "src": "chemistry-2025/q031-optA.png",
+     "w": 506,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement - I is true but statement - II is\nfalse",
+    "img": {
+     "src": "chemistry-2025/q031-optB.png",
+     "w": 506,
+     "h": 75
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Statement - I is false but statement - II is\ntrue",
+    "img": {
+     "src": "chemistry-2025/q031-optC.png",
+     "w": 506,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both statements - I and II are true.",
+    "img": {
+     "src": "chemistry-2025/q031-optD.png",
+     "w": 504,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Statement I is true, and Statement II is false.\nDIBAL-H (diisobutylaluminium hydride) at low\ntemperature selectively reduces an ester to\nthe corresponding aldehyde upon work-up.\nAqueous KMnO4 oxidizes benzyl alcohol all the\nway to benzoic acid, not benzaldehyde.\nAnswer: Option B.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q031-sol0.png",
+    "w": 591,
+    "h": 285
+   }
+  ],
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "benzaldehyde",
+   "aldehyde",
+   "ester"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Arrange the following compounds in their\ndecreasing order of reactivity towards Nucleop\naddition reaction.",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q032-stem0.png",
+    "w": 535,
+    "h": 184
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q032-optA.png",
+     "w": 778,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q032-optB.png",
+     "w": 778,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q032-optC.png",
+     "w": 778,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q032-optD.png",
+     "w": 775,
+     "h": 60
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "In considering the reactivity of compounds\ntowards nucleophilic addition reactions, two\nprimary factors need to be evaluated: the\npositive character of the electrophilic center\nand the degree of steric hindrance.\nElectrophilic Character: The more positive\nthe electrophilic center, the more reactive it is\ntowards \na \nnucleophile. \nThis \nis \ntypically\nobserved in aldehydes, where the electron-\nwithdrawing effect of the carbonyl group is not\ncounterbalanced by additional alkyl groups.\nSteric \nHindrance: \nAs \nsteric \nhindrance\nincreases, \nreactivity \ndecreases. \nLarger\nsubstituents around the electrophilic center\ncan block the approach of the nucleophile,\nthus lowering the reaction rate.\nGiven these considerations, aldehydes are\ngenerally more reactive than ketones due to\nless steric hindrance and a higher degree of\npositive charge on the carbonyl carbon.\nBetween ketones, those with smaller alkyl\ngroups are usually more reactive. Evaluate\neach compound based on these criteria to\ndetermine \ntheir \nrelative \nreactivity \nin\nnucleophilic addition reactions.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q032-sol0.png",
+    "w": 606,
+    "h": 909
+   }
+  ],
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 10,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "nucleophilic addition",
+   "carbonyl"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which of the following has most acidic\nHydrogen ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q033-stem0.png",
+    "w": 535,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Propanoic acid",
+    "img": {
+     "src": "chemistry-2025/q033-optA.png",
+     "w": 506,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Dichloroacetic acid",
+    "img": {
+     "src": "chemistry-2025/q033-optB.png",
+     "w": 506,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Trichloroacetic acid",
+    "img": {
+     "src": "chemistry-2025/q033-optC.png",
+     "w": 506,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Chloroacetic acid",
+    "img": {
+     "src": "chemistry-2025/q033-optD.png",
+     "w": 504,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Trichloroacetic acid (Option C) is the strongest\nacid. Here’s why:\nElectron-withdrawing effect\nChlorine atoms pull electron density away\nfrom \nthe \n–COOH \ngroup, \nstabilizing \nthe\nconjugate base (the carboxylate anion).\nMore Cl → greater stabilization → stronger acid.\nComparative pKa values\nPropanoic acid, CH3CH2COOH: pKa ≈ 4.87\nChloroacetic acid, ClCH2COOH: pKa ≈ 2.86\nDichloroacetic acid, Cl2CHCOOH: pKa ≈ 1.25\nTrichloroacetic acid, CCl3COOH: pKa ≈ 0.66\nSince trichloroacetic acid has the lowest pKa, it\ndonates its proton most readily and is thus the\nmost acidic.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q033-sol0.png",
+    "w": 606,
+    "h": 557
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "conjugate base",
+   "acid",
+   "base"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which of the following reagents are suitable to\ndifferentiate \nAniline \nand \nN-methylaniline\nchemical",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q034-stem0.png",
+    "w": 535,
+    "h": 116
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Acetic anhydride",
+    "img": {
+     "src": "chemistry-2025/q034-optA.png",
+     "w": 506,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Br2 water",
+    "img": {
+     "src": "chemistry-2025/q034-optB.png",
+     "w": 506,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Conc. Hydrochloric acid and anhydrous zinc\nchloride",
+    "img": {
+     "src": "chemistry-2025/q034-optC.png",
+     "w": 506,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Chloroform and Alcoholic potassium\nhydroxide",
+    "img": {
+     "src": "chemistry-2025/q034-optD.png",
+     "w": 504,
+     "h": 74
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The only reagent that will “pick out” a primary\naromatic amine (aniline) but not a secondary\none (N-methylaniline) is the carbylamine test:\n• Carbylamine test (Option D: CHCl3 + alcoholic\nKOH)\n– RNH2 + CHCl3 + 3 KOH → R–NC (isocyanide,\nfoul smell) + 3 KCl + 3 H2O\n– Only primary amines give the isocyanide;\nsecondary amines (like N-methylaniline) do not\nreact.\nOptions A, B and C all react (or fail to react)\nwith both aniline and N-methylaniline in\nessentially the same way, so they cannot be\nused to tell the two apart.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q034-sol0.png",
+    "w": 591,
+    "h": 533
+   }
+  ],
+  "chapter": "Amines",
+  "chapterScore": 21,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "carbylamine",
+   "aniline",
+   "amine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which of the following reaction/s does not\nyield an amine?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q035-stem0.png",
+    "w": 509,
+    "h": 415
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Both I and III",
+    "img": {
+     "src": "chemistry-2025/q035-optA.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Only II",
+    "img": {
+     "src": "chemistry-2025/q035-optB.png",
+     "w": 240,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Only III",
+    "img": {
+     "src": "chemistry-2025/q035-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both II and IV",
+    "img": {
+     "src": "chemistry-2025/q035-optD.png",
+     "w": 239,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Cyanides on hydrolysis gives Carboxylic acids,\nwhere as rest all 3 cases amines can be\nprepared.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q035-sol0.png",
+    "w": 591,
+    "h": 158
+   }
+  ],
+  "chapter": "Amines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "amine"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Match the compounds given in List - I with the\nitems given in List - II.\n \nList - I\n \nList - II\n(I\n)\nBenzenesulphon\nyl Chloride\n(\na\n)\nZwitterioin\n(I\nI)\nSulphanilic acid\n(\nb\n)\nHinsberg\nreagent\n(I\nII\n)\nAlkyl Diazonium\nsalts\n(\nc\n)\nDyes\n(I\nV\n)\nAryl Diazonium\nsalts\n(\nd\n)\nConversion to\nalcohols",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q036-stem0.png",
+    "w": 509,
+    "h": 677
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "I-c, II-b, III-a, IV - d",
+    "img": {
+     "src": "chemistry-2025/q036-optA.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "I-a, II-c, III-b, IV - d",
+    "img": {
+     "src": "chemistry-2025/q036-optB.png",
+     "w": 479,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "I-c, II-a, III - d, IV - b",
+    "img": {
+     "src": "chemistry-2025/q036-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "I-b, II-a, III - d, IV - c",
+    "img": {
+     "src": "chemistry-2025/q036-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Alkyl diazonium Salts\nConvert to alcohols as\nCarbocation intermediate formed is unstable.\nAryl diazonium Salts\nParticipate in dye test",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q036-sol0.png",
+    "w": 591,
+    "h": 593
+   }
+  ],
+  "chapter": "Amines",
+  "chapterScore": 16,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "hinsberg",
+   "diazonium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The number of orbitals associated with ' N '\nshell of an atom is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q037-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "16",
+    "img": {
+     "src": "chemistry-2025/q037-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "32",
+    "img": {
+     "src": "chemistry-2025/q037-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3",
+    "img": {
+     "src": "chemistry-2025/q037-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4",
+    "img": {
+     "src": "chemistry-2025/q037-optD.png",
+     "w": 239,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The \n\"N\" \nshell \ncorresponds \nto \nprincipal\nquantum number n = 4 The total number of\norbitals in a shell is given by n2.\nHere, n = 4\nSo, number of orbitals = 42 = 16\nAnswer: Option A (16)",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q037-sol0.png",
+    "w": 591,
+    "h": 258
+   }
+  ],
+  "chapter": "Structure of Atom",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "quantum number",
+   "shell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 38,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "According to the Heisenberg's Uncertainty\nprinciple, the value of \nb.\nx for an object\nwhose \nmass \nis \n10–6 \nkg \nis",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q038-stem0.png",
+    "w": 535,
+    "h": 161
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q038-optA.png",
+     "w": 506,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q038-optB.png",
+     "w": 506,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q038-optC.png",
+     "w": 506,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q038-optD.png",
+     "w": 504,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine the value of Δv – Δx for an object\nwith a mass of 10–6 kg using Heisenberg's\nUncertainty Principle, we start with the\nformula: \nGiven:\nPlanck's constant, h = 6.626 × 10–34 Js\nMass, m = 10–6 kg\nSubstitute these values into the formula:\nCalculating the above expression, we get: \nThis result provides the required uncertainty\nproduct for the given object under the\nconstraints of Heisenberg's principle.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q038-sol0.png",
+    "w": 606,
+    "h": 573
+   }
+  ],
+  "chapter": "Structure of Atom",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "heisenberg"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Given below are two statements.\nStatement-I : Adiabatic work done is positive\nwhen work is done on the system and internal\nenergy of the system increases.\nStatement - II : No work is done during free\nexpansion of an ideal gas.\nIn the light of the above statements, choose\nthe correct answer from the options given\nbelow.",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q039-stem0.png",
+    "w": 535,
+    "h": 320
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Both statements - I and Statement - II are\nfalse",
+    "img": {
+     "src": "chemistry-2025/q039-optA.png",
+     "w": 506,
+     "h": 75
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement - I is true but statement - II is\nfalse",
+    "img": {
+     "src": "chemistry-2025/q039-optB.png",
+     "w": 506,
+     "h": 74
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Statement - I is false but statement - Il is\ntrue",
+    "img": {
+     "src": "chemistry-2025/q039-optC.png",
+     "w": 506,
+     "h": 74
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both statements - I and Statement - II are\ntrue.",
+    "img": {
+     "src": "chemistry-2025/q039-optD.png",
+     "w": 504,
+     "h": 75
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Explanation:\nStatement I\nFor an adiabatic process Q = 0.\nIf \"work done\" W is taken positive when done\non the system, then the first law gives \nU = +\nQ + W = 0 + W = W.\nThus if work is done on the system (W > 0), its\ninternal energy increases (\nU > 0).\nStatement II\nIn a free (Joule) expansion the external\npressure \nHence no work is done during the free\nexpansion of an ideal gas.\nBoth statements are therefore true.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q039-sol0.png",
+    "w": 606,
+    "h": 568
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "adiabatic",
+   "system"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which one of the following reactions has\n ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q040-stem0.png",
+    "w": 535,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q040-optA.png",
+     "w": 778,
+     "h": 55
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q040-optB.png",
+     "w": 778,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q040-optC.png",
+     "w": 778,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q040-optD.png",
+     "w": 775,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To determine which reaction has \nH = \nU we\nuse the equation:\nH = \nU+ \nng.RT\nWhere:\nH is the change in enthalpy.\nU is the change in internal energy.\nng is the change in the number of moles of\ngas.\nR is the ideal gas constant.\nT is the temperature in Kelvin.\nFor the reaction:\nThe change in the number of moles of gas (\nng) can be calculated as follows:\nOn the reactant side, there are 2 moles of gas.\nOn the product side, there are 1 mole of H2\nplus 1 mole of I2 totaling 2 moles.\nThus, \nSince \n it follows that:\nH = \nU\nTherefore, for this reaction, the change in\nenthalpy is equal to the change in internal\nenergy.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q040-sol0.png",
+    "w": 606,
+    "h": 620
+   },
+   {
+    "src": "chemistry-2025/q040-sol1.png",
+    "w": 591,
+    "h": 266
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "mole"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Identify the incorrect statements among the\nfollowing:\n(a) All enthalpies of fusion are positive\n(b) The magnitude of enthalpy change does\nnot \ndepend \non \nthe \nstrength \nof \nthe\nintermolecular interactions in the substance\nundergoing phase transformations.\n(c) When a chemical reaction is reversed, the\nvalue of \n is reversed in sign.\n(d) The change in enthalpy is dependent of\npath between initial state (reactants) and final\nstate (products)\n(e) For most of the ionic compounds, \n is\nnegative",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q041-stem0.png",
+    "w": 535,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a, b and d",
+    "img": {
+     "src": "chemistry-2025/q041-optA.png",
+     "w": 189,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "b, d and e",
+    "img": {
+     "src": "chemistry-2025/q041-optB.png",
+     "w": 267,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a, d and e",
+    "img": {
+     "src": "chemistry-2025/q041-optC.png",
+     "w": 189,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a and e only",
+    "img": {
+     "src": "chemistry-2025/q041-optD.png",
+     "w": 265,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The incorrect statements are (b), (d) and (e), so\nthe correct choice is Option B.\n• (b) is false: ΔH for a phase change does\ndepend on how strong the intermolecular\nforces are—you must supply enough energy to\novercome them.\n• (d) is false: Enthalpy is a state function, so ΔH\ndepends only on initial and final states, not on\nthe path.\n• (e) is false: Many ionic salts dissolve\nendothermically (ΔsolH° > 0); only some give\noff heat on dissolving (ΔsolH° < 0).\n(a) and (c) are both true.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q041-sol0.png",
+    "w": 591,
+    "h": 507
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "state function",
+   "enthalpy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which of the following statements is/are true\nabout equilibrium?\n(a) Equilibrium is possible only in a closed\nsystem of at a given temperature\n(b) All the measurable properties of the system\nremain constant at equilibrium\n(c) Equilibrium constant for the reverse\nreaction is the inverse of the equilibrium\nconstant for the reaction in the forward\ndirection.",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q042-stem0.png",
+    "w": 509,
+    "h": 354
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Only b",
+    "img": {
+     "src": "chemistry-2025/q042-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Only c",
+    "img": {
+     "src": "chemistry-2025/q042-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a, b and c",
+    "img": {
+     "src": "chemistry-2025/q042-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Only a",
+    "img": {
+     "src": "chemistry-2025/q042-optD.png",
+     "w": 239,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The correct choice is Option C: all three\nstatements are true.\nHere’s why:\nEquilibrium requires a closed system at\nconstant temperature\nIf the system isn’t closed, reactants or\nproducts can escape and you never reach a\ntrue dynamic balance.\nAnd since the equilibrium constant depends\non temperature, “at a given temperature”\nensures K stays fixed.\nAll \nmacroscopic \n(measurable) \nproperties\nremain constant at equilibrium\nEven \nthough \nthe \nforward \nand \nreverse\nreactions continue at the molecular level, their\nrates are equal, so pressure, concentration,\ntemperature, etc., no longer change.\nThe equilibrium constant for the reverse\nreaction is the reciprocal of that for the\nforward reaction",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q042-sol0.png",
+    "w": 591,
+    "h": 728
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 15,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "According to Le Chatelier's principle, in the\nreaction\n,\nthe formation of methane is favoured by\n(a) Increasing the concentration of CO\n(b) Increasing the concentration of H2O\n(c) Decreasing the concentration of CH4\n(d) Decreasing the concentration of H2",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q043-stem0.png",
+    "w": 509,
+    "h": 342
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a and c",
+    "img": {
+     "src": "chemistry-2025/q043-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "b and d",
+    "img": {
+     "src": "chemistry-2025/q043-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a and d",
+    "img": {
+     "src": "chemistry-2025/q043-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a and b",
+    "img": {
+     "src": "chemistry-2025/q043-optD.png",
+     "w": 239,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Here’s how Le Chatelier’s principle applies to \nAdding a reactant shifts equilibrium toward\nproducts.\n• Increasing [CO] (option a) drives the forward\nreaction.\nRemoving a product also shifts equilibrium\ntoward products.\n• Decreasing [CH4] (option c) removes a\nproduct and pulls the reaction to the right.\nOptions b (adding H2O) and d (removing H2)\nwork against methane formation.\nAnswer: Option A (a and c).",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q043-sol0.png",
+    "w": 606,
+    "h": 499
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 10,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "le chatelier",
+   "equilibrium"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The equilibrium constant at 298 K for the\nreaction A + B\nC + D is 100 . If the initial\nconcentrations of all the four species were 1 M\neach, then equilibrium concentration of D (in\nmol L–1) will be",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q044-stem0.png",
+    "w": 509,
+    "h": 191
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.182",
+    "img": {
+     "src": "chemistry-2025/q044-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.818",
+    "img": {
+     "src": "chemistry-2025/q044-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.182",
+    "img": {
+     "src": "chemistry-2025/q044-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.818",
+    "img": {
+     "src": "chemistry-2025/q044-optD.png",
+     "w": 239,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q044-sol0.png",
+    "w": 606,
+    "h": 389
+   }
+  ],
+  "chapter": "Equilibrium",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Among the following 0.1 m aqueous solutions,\nwhich one will exhibit the lowest boiling point\nelevation, assuming complete ionization of the\ncompound in solution?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q045-stem0.png",
+    "w": 509,
+    "h": 149
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Aluminium chloride",
+    "img": {
+     "src": "chemistry-2025/q045-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Aluminmium sulphate",
+    "img": {
+     "src": "chemistry-2025/q045-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Potassium sulphate",
+    "img": {
+     "src": "chemistry-2025/q045-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Sodium chloride",
+    "img": {
+     "src": "chemistry-2025/q045-optD.png",
+     "w": 478,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine which 0.1 m aqueous solution\nwill have the lowest boiling point elevation, we\nneed to consider the Van't Hoff factor ( ). This\nfactor represents the number of particles the\ncompound dissociates into in solution. The\nformula for boiling point elevation, \n,\nindicates that a higher \n value leads to a\ngreater elevation in boiling point.\nHere are the values of for each compound,\nassuming complete ionization:\nThe solution with the lowest value will exhibit\nthe \nsmallest \nincrease \nin \nboiling \npoint.\nTherefore, sodium chloride, which has \n,\nwill show the lowest boiling point elevation\namong the options.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q045-sol0.png",
+    "w": 606,
+    "h": 730
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 11,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "elevation in boiling point",
+   "van't hoff factor",
+   "solution"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Variation of solubility with temperature t for a\ngas in liquid is shown by the following graphs.\nThe correct representation is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q046-stem0.png",
+    "w": 503,
+    "h": 276
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q046-optA.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q046-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q046-optC.png",
+     "w": 729,
+     "h": 196
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q046-optD.png",
+     "w": 726,
+     "h": 61
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Henry law solubility",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q046-sol0.png",
+    "w": 591,
+    "h": 289
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "180 g of glucose, C6H12O6, is dissolved in 1 kg\nof water in a vessel. The temperature at which\nwater boils at 1.013 bar is _________ (given, Kb\nfor water is 052 K kg mol–1. Boiling point for\npure water is 373.15 K )",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q047-stem0.png",
+    "w": 503,
+    "h": 206
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "373.67 K",
+    "img": {
+     "src": "chemistry-2025/q047-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "373015 K",
+    "img": {
+     "src": "chemistry-2025/q047-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "373.0 K",
+    "img": {
+     "src": "chemistry-2025/q047-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "373.202 K",
+    "img": {
+     "src": "chemistry-2025/q047-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "To find the boiling point of the water solution,\nwe need to calculate the boiling point\nelevation \nusing \nthe \nformula: \nwhere: \n is the boiling point elevation, i is\nthe van 't Hoff factor, which is 1 for glucose as\nit does not dissociate in solution, \n is the\nebullioscopic constant for water, given as 0.52\nK kg mol–1, m is the molality of the solution.\nTo \ncalculate \nthe \nmolality \nm, \nuse: \nFor glucose (C6H12O6), with a mass of 180 g: \nThe \nsolvent \n(water) \nis \n1 \nkg: \nSubstituting into the formula for \n: \nThe normal boiling point of pure water is\n373.15 K. Therefore, the boiling point of the\nsolution \nis:",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q047-sol0.png",
+    "w": 591,
+    "h": 817
+   }
+  ],
+  "chapter": "Biomolecules",
+  "chapterScore": 12,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "glucose"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "If N2 gas is bubbled through water at 293 K ,\nhow many moles of N2 gas would dissolve in 1\nlitre of water? Assume that N2 exerts a partial\npressure of 0.987 bar.\n[Given KH for N2 at 293 K is 76.48 K bar ]",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q048-stem0.png",
+    "w": 503,
+    "h": 248
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q048-optA.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q048-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q048-optC.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q048-optD.png",
+     "w": 472,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To determine the number of moles of N2 gas\nthat would dissolve in 1 liter of water at 293 K,\nwhen N2 exerts a partial pressure of 0.987 bar,\nwe can use Henry's Law. Given that the\nHenry's Law constant (KH) for N2 at 293 K is\n76.48 K bar, we apply the following:\nHenry's Law P = KH . X\nWhere:\nP is the partial pressure of the gas (0.987 bar),\nKH is Henry’s Law constant (76.48 bar)\nX is the mole fraction of the gas in the solvent.\nCalculating Mole Fraction of N2\nThe \nmole \nfraction \nX \nN2 \nis \ngiven \nby: \nDetermining Moles of Water\nThe number of moles of water \n in 1\nliter (1000 grams) is: \nRelating Mole Fraction and Moles of N2\nThe mole fraction can also be expressed as: \nSetting this equal to the previously calculated\nmole fraction: \nSolving\nfor\n(the\nmoles\nof\nN ):\nThis \nfurther \nsimplifies \nto: \nFrom this equation, it's clear that ERed is\ndirectly proportional to \n Thus, as the\nconcentration of \n increases, the electrode\npotential increases.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q048-sol0.png",
+    "w": 591,
+    "h": 621
+   },
+   {
+    "src": "chemistry-2025/q048-sol1.png",
+    "w": 1213,
+    "h": 290
+   }
+  ],
+  "chapter": "Solutions",
+  "chapterScore": 25,
+  "chapterMargin": 21,
+  "chapterHits": [
+   "henry's law",
+   "mole fraction",
+   "solvent"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The correct statement/s about Galvanic cell\nis/are\n(a) Current flows from cathode to anode\n(b) Anode is positive terminal\n(c) If Ecell < 0, then it is spontaneous reaction\n(d) Cathode is positive terminal",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q049-stem0.png",
+    "w": 509,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a and b only",
+    "img": {
+     "src": "chemistry-2025/q049-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a, b and c",
+    "img": {
+     "src": "chemistry-2025/q049-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a and d only",
+    "img": {
+     "src": "chemistry-2025/q049-optC.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "bonly",
+    "img": {
+     "src": "chemistry-2025/q049-optD.png",
+     "w": 239,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The correct choice is C: (a) and (d) only. Here’s\nwhy:\nIn a galvanic (voltaic) cell\nThe anode is where oxidation occurs and is\nthe negative terminal.\nThe cathode is where reduction occurs and is\nthe positive terminal.\n⇒ (b) “Anode is positive” is false, (d) “Cathode is\npositive” is true.\nConventional current (flow of positive charge)\ngoes from cathode to anode through the\nexternal circuit.\n⇒ (a) is true.\nA negative cell potential means the reaction is\nnon-spontaneous:\nEcell < 0 \nnon-spontaneous\n⇒ (c) is false. [KCET 2025]\nwhere 1 Faraday (F) is equivalent to 96500\ncoulombs (C) per mole of electrons. Let's\nanalyze each metal ion:",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q049-sol0.png",
+    "w": 1213,
+    "h": 643
+   }
+  ],
+  "chapter": "Electrochemistry",
+  "chapterScore": 14,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "galvanic cell",
+   "cell potential",
+   "anode",
+   "cathode"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The electronic conductance depends on",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q050-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Nature of electrolyte added",
+    "img": {
+     "src": "chemistry-2025/q050-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "The number of valence electrons per atom",
+    "img": {
+     "src": "chemistry-2025/q050-optB.png",
+     "w": 479,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Concentration of the electrolyte",
+    "img": {
+     "src": "chemistry-2025/q050-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Size of the ions",
+    "img": {
+     "src": "chemistry-2025/q050-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The electronic conductance is influenced by\nthe number of valence electrons per atom,\nand this relationship is inversely proportional\nto temperature. The formula representing this\nrelationship is:\nThis indicates that as the number of valence\nelectrons increases, electronic conductance\nincreases, \nbut \nit \ndecreases \nwith \nrising\ntemperature.\nRequires 4 Faradays per mole.\nThe correct matches for the amounts of\nelectricity required to deposit each metal are\nas follows:",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q050-sol0.png",
+    "w": 1213,
+    "h": 444
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "mole",
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "For a given half cell, Al3+ + 3e–\nAl on\nincreasing of aluminium ion, the electrode\npotential will",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q051-stem0.png",
+    "w": 509,
+    "h": 123
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Decrease",
+    "img": {
+     "src": "chemistry-2025/q051-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "No change",
+    "img": {
+     "src": "chemistry-2025/q051-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "First increase then decrease",
+    "img": {
+     "src": "chemistry-2025/q051-optC.png",
+     "w": 480,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Increase",
+    "img": {
+     "src": "chemistry-2025/q051-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "For the half-cell reaction Al3+ + 3e–\nAl,\nconsider \nthe \nNernst \nequation: \nSince the active mass of a solid is constant and\nequal to 1, the equation simplifies to:",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q051-sol0.png",
+    "w": 1213,
+    "h": 241
+   }
+  ],
+  "chapter": "Electrochemistry",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "nernst",
+   "electrode",
+   "half cell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Match the following select the correct option\nfor the quantity of electricity, in C mol–\n1 required to deposit various metals at\ncathode\n \nList-I\n \nList-II\n(a)\nAg+\n(i)\n386000 C mol–1\n(b)\nMg2+\n(ii)\n289500 C mol–1\n(c)\nAl3+\n(iii)\n96500 C mol–1\n(d)\nTi4+\n(iv)\n193000 C mol–1",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q052-stem0.png",
+    "w": 509,
+    "h": 515
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a-ii, b-i, c-iv, d-iii",
+    "img": {
+     "src": "chemistry-2025/q052-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a-iii, b-iv, c-ii, d-i",
+    "img": {
+     "src": "chemistry-2025/q052-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a-iv, b-iii, c-i, d-ii",
+    "img": {
+     "src": "chemistry-2025/q052-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a-i, b-ii, c-iii, d-iv",
+    "img": {
+     "src": "chemistry-2025/q052-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Solving \nfor \n \n(the \nmoles \nof \nN2): \nThus, the number of moles of N2 gas dissolved\nin 1 liter of water is \nQ52\nTo determine the quantity of electricity\nrequired to deposit various metals at the\ncathode, we use Faraday's laws of electrolysis,\nh\nd\ni\ni\nl\n96 00",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q052-sol0.png",
+    "w": 1213,
+    "h": 159
+   }
+  ],
+  "chapter": "Electrochemistry",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "cathode",
+   "electrolysis"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Catalysts are used to increase the rate of a\nchemical reaction. Because it",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q053-stem0.png",
+    "w": 503,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Increases the activation energy of the\nreaction",
+    "img": {
+     "src": "chemistry-2025/q053-optA.png",
+     "w": 474,
+     "h": 74
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Decreases the activation energy of the\nreaction",
+    "img": {
+     "src": "chemistry-2025/q053-optB.png",
+     "w": 474,
+     "h": 74
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Brings about improper orientation of\nreactant molecules",
+    "img": {
+     "src": "chemistry-2025/q053-optC.png",
+     "w": 474,
+     "h": 75
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Increases the potential energy barrier",
+    "img": {
+     "src": "chemistry-2025/q053-optD.png",
+     "w": 472,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Positive catalyst decreases the activation\nenergy to increase rate of reaction.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q053-sol0.png",
+    "w": 611,
+    "h": 123
+   }
+  ],
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 14,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "activation energy",
+   "rate of reaction",
+   "catalyst"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Half-life of a first order reaction is 20 seconds\nand initial concentration of reactant is 0.2 M .\nThe concentration of reactant left after 80\nseconds is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q054-stem0.png",
+    "w": 503,
+    "h": 150
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.1 M",
+    "img": {
+     "src": "chemistry-2025/q054-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.05 M",
+    "img": {
+     "src": "chemistry-2025/q054-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.0125 M",
+    "img": {
+     "src": "chemistry-2025/q054-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.2 M",
+    "img": {
+     "src": "chemistry-2025/q054-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To find the concentration of a reactant after a\ncertain time in a first-order reaction, we use\nthe concept of half-life.\nGiven:\nThe half-life (t1/2) of the reaction is 20 seconds.\nInitial concentration ([A0]) is 0.2 M.\nWe want to find the concentration after 80\nseconds.\nCalculation:\nDetermine the number of half-lives:\nCalculate the concentration after 4 half-\nlives:\nFor a first-order reaction, the concentration\nafter n half-lives is given by: \nSubstituting \nthe \nvalues: \nThus, the concentration of the reactant after\n80 seconds is 0.0125 M.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q054-sol0.png",
+    "w": 611,
+    "h": 741
+   }
+  ],
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 6,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "first order reaction",
+   "concentration of reactant"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "In the given graph, Ea for the reverse reaction\nwill be",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q055-stem0.png",
+    "w": 503,
+    "h": 423
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "125 KJ",
+    "img": {
+     "src": "chemistry-2025/q055-optA.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "215 KJ",
+    "img": {
+     "src": "chemistry-2025/q055-optB.png",
+     "w": 235,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "90 KJ",
+    "img": {
+     "src": "chemistry-2025/q055-optC.png",
+     "w": 174,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "305 KJ",
+    "img": {
+     "src": "chemistry-2025/q055-optD.png",
+     "w": 233,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "To determine the activation energy (Ea) for the\nreverse reaction from the given graph, we can\nuse the following energy relationship:\nTherefore, the activation energy for the\nreverse reaction is 125 KJ.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q055-sol0.png",
+    "w": 611,
+    "h": 512
+   }
+  ],
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "activation energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "For the reaction 2N2O5(g)\n4NO2(g) + O2(g)\ninitial concentration of N2O5 is 2.0 mol L–1 and\nafter 300 min , it is reduced to 1.4 mol L–1. The\nrate of production of NO2 (in mol L–1 min–1) is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q056-stem0.png",
+    "w": 503,
+    "h": 228
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q056-optA.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q056-optB.png",
+     "w": 474,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q056-optC.png",
+     "w": 474,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "chemistry-2025/q056-optD.png",
+     "w": 472,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine the rate of production of \n we use\nthe fact that the rate of production of a\nproduct is related to the rate of disappearance\nof a reactant.\nGiven:\nInitial concentration of \nAfter 300 minutes, the concentration is\nreduced to 1.4 mol/L\nCalculate the rate of disappearance of \n:\nRate \nof \ndisappearance \nof\nAs per the stoichiometry of the reaction, the\nrate of formation of NO2 is twice the rate of\ndisappearance of \n:\nTherefore, \nthe \nrate \nof \nproduction \nof",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q056-sol0.png",
+    "w": 611,
+    "h": 392
+   },
+   {
+    "src": "chemistry-2025/q056-sol1.png",
+    "w": 591,
+    "h": 391
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 7,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "stoichiometry",
+   "concentration"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Which of the following methods of expressing\nconcentration are unitless?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q057-stem0.png",
+    "w": 509,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Mole fraction and Mass percent (W/W)",
+    "img": {
+     "src": "chemistry-2025/q057-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Molality and Mole fraction",
+    "img": {
+     "src": "chemistry-2025/q057-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Mass percent (W/W) and Molality",
+    "img": {
+     "src": "chemistry-2025/q057-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Molality and Molarity",
+    "img": {
+     "src": "chemistry-2025/q057-optD.png",
+     "w": 478,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Option A is correct: mole fraction and mass\npercent (w/w) are both unitless.\nMole fraction \nIt’s simply a ratio of moles, so no units.\nMass \npercent \n(w/w) \nAgain, a ratio of masses, giving a percentage\nwithout units.\nBy contrast, molality has units of mol/kg and\nmolarity has mol/L, so neither is unitless.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q057-sol0.png",
+    "w": 591,
+    "h": 437
+   }
+  ],
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 36,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "molarity",
+   "molality",
+   "mass percent",
+   "mole",
+   "concentration"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Select the INCORRECT statement/s from the\nfollowing:\n(a) 22 books have infinite significant figures\n(b) In the answer of calculation 2.5 × 1.25 has\nfour significant figures,.\n(c) Zero's preceding to first non-zero digit are\nsignificant\n(d) In the answer of calculation 12.11 + 18.0 +\n1.012 has three significant figures",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q058-stem0.png",
+    "w": 509,
+    "h": 320
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "b, c and d",
+    "img": {
+     "src": "chemistry-2025/q058-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "b and c only",
+    "img": {
+     "src": "chemistry-2025/q058-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "b and d only",
+    "img": {
+     "src": "chemistry-2025/q058-optC.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a and b only",
+    "img": {
+     "src": "chemistry-2025/q058-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Let’s check each statement:\n(a) “22 books have infinite significant figures.”\n• A counted quantity is exact ⇒ effectively\ninfinite sig figs. ⇒ Correct\n(b) “In the answer of 2.5 × 1.25 there are four\nsignificant figures.”\n•2.5 has 2 sig figs, 1.25 has 3 ⇒ product limited\nto 2 sig figs ⇒ Incorrect\n(c) “Zeros preceding the first non-zero digit are\nsignificant.”\n• Leading zeros are not significant ⇒ Incorrect\n(d) “In 12.11 + 18.0 + 1.012 the result has three\nsignificant figures.”\n• Add → match decimal places (fewest is 1\nplace) ⇒ result ≈31.1 ⇒ 3 sig figs ⇒ Correct\nIncorrect statements are (b) and (c) only\n⇒ Option B.",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q058-sol0.png",
+    "w": 591,
+    "h": 637
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "Given below and the atomic masses of the\nelements: \nWhich of the following doesn't form triad?",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q059-stem0.png",
+    "w": 509,
+    "h": 241
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Ba, Sr, Ca",
+    "img": {
+     "src": "chemistry-2025/q059-optA.png",
+     "w": 190,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Cl, Br, I",
+    "img": {
+     "src": "chemistry-2025/q059-optB.png",
+     "w": 240,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Cl, K, Ca",
+    "img": {
+     "src": "chemistry-2025/q059-optC.png",
+     "w": 190,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Li, Na, K",
+    "img": {
+     "src": "chemistry-2025/q059-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Elements \nin \ntriad \nshould \nhave \nsimilar\nproperties K, Ca are metals Cl is non metals",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q059-sol0.png",
+    "w": 591,
+    "h": 124
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Chemistry",
+  "year": 2025,
+  "source": "Chemistry-2025.pdf",
+  "stemText": "The change in hybridization (if any) of the 'Al'\natom in the following reaction is",
+  "stemImages": [
+   {
+    "src": "chemistry-2025/q060-stem0.png",
+    "w": 509,
+    "h": 184
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "No change in the hybridization state",
+    "img": {
+     "src": "chemistry-2025/q060-optA.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "sp2 to sp3",
+    "img": {
+     "src": "chemistry-2025/q060-optB.png",
+     "w": 479,
+     "h": 40
+    }
+   },
+   {
+    "letter": "C",
+    "text": "sp3 to sp3d",
+    "img": {
+     "src": "chemistry-2025/q060-optC.png",
+     "w": 480,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "sp3 to sp2",
+    "img": {
+     "src": "chemistry-2025/q060-optD.png",
+     "w": 478,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "chemistry-2025/q060-sol0.png",
+    "w": 591,
+    "h": 44
+   }
+  ],
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 28,
+  "chapterMargin": 28,
+  "chapterHits": [
+   "hybridization",
+   "sp3",
+   "sp2"
+  ],
+  "chapterConfidence": "high"
+ }
+]

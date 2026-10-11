@@ -1,0 +1,2635 @@
+[
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "5. A body of mass 50 kg. is suspended using a spring balance inside a lift at rest. If the lift starts falling freely, the reading of the spring balance is (A) = 50 kg (B) > 50 kg (C) < 50 kg (D) = 0",
+  "stemImages": [
+   {
+    "src": "physics-2017/q005-stem0.png",
+    "w": 638,
+    "h": 252
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "6. A motor pump lifts 6 tonnes of water from a well of depth 25 m to the first floor of height 35 m from the ground floor in 20 minutes. The power of the pump (in kW) is [g = 10 ] (A) 3 (B) 6 (C) 1.5 (D) 12",
+  "stemImages": [
+   {
+    "src": "physics-2017/q006-stem0.png",
+    "w": 637,
+    "h": 266
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "7. Two balls are thrown simultaneously in air. The acceleration of the centre of mass of the two balls when in air, (A) depends on the masses of the two balls (B) depends on the speeds of the two balls (C) is equal to g (Acceleration due to gravity) (D) depends on the direction of motion of the two balls.",
+  "stemImages": [
+   {
+    "src": "physics-2017/q007-stem0.png",
+    "w": 637,
+    "h": 350
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "centre of mass"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "8. The value of acceleration due to gravity at a depth of 1600 km is equal to [Radius of earth = 6400 km] (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q008-stem0.png",
+    "w": 637,
+    "h": 238
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Gravitation",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "acceleration due to gravity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "9. ‘Young’s modulus’ is defined as the ratio of (A) tensile stress and longitudinal strain (B) hydraulic stress and hydraulic strain (C) shearing stress and shearing strain (D) bulk stress and longitudinal strain",
+  "stemImages": [
+   {
+    "src": "physics-2017/q009-stem0.png",
+    "w": 637,
+    "h": 245
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 14,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "longitudinal strain",
+   "stress",
+   "strain"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "10. ‘Hydraulic lift’ works on the basis of (A) Stoke’s law (B) Toricelli’s law (C) Pascal’s Law (D) Bernoulli’s Law",
+  "stemImages": [
+   {
+    "src": "physics-2017/q010-stem0.png",
+    "w": 637,
+    "h": 148
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "bernoulli"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "11. The S.I. unit of specific heat capacity is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q011-stem0.png",
+    "w": 638,
+    "h": 174
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "specific heat capacity",
+   "heat"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "12. For which combination of working temperatures, the efficiency of ‘Carnot’s engine’ is the least ? (A) 60 K, 40 K (B) 40 K, 20 K (C) 80 K, 60 K (D) 100 K, 80 K",
+  "stemImages": [
+   {
+    "src": "physics-2017/q012-stem0.png",
+    "w": 638,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "carnot"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "13. The mean energy of a molecule of an ideal gas is (A) 2 KT (B) (C) KT (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q013-stem0.png",
+    "w": 638,
+    "h": 288
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "14. Two simple pendulums A and B are made to oscillate simultaneously and it is found that A completes 10 oscillations in 20 sec and B completes 8 oscillations in 10 sec. The ratio of the lengths of A and B is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q014-stem0.png",
+    "w": 638,
+    "h": 394
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "15. The waves set up in a closed pipe are (A) Transverse and Progressive (B) Longitudinal and Stationary (C) Transverse and Stationary (D) Longitudinal and Progressive",
+  "stemImages": [
+   {
+    "src": "physics-2017/q015-stem0.png",
+    "w": 638,
+    "h": 244
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "16. Two spheres of electric charges +2 nC and −8 nC are placed at a distance ‘d’ apart. If they are allowed to touch each other, what is the new distance between them to get a repulsive force of same magnitude as before? (A) (B) (C) d (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q016-stem0.png",
+    "w": 638,
+    "h": 397
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "17. Three point charges of + 2q, + 2q and − 4q are placed at the corners A, B and C of an equilateral triangle ABC of side . The magnitude of the electric dipole moment of this system is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q017-stem0.png",
+    "w": 638,
+    "h": 343
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "electric dipole",
+   "dipole moment"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "18. electrons are removed from a neutral metal sphere of diameter 20 cm placed in air. The magnitude of the electric field (in ) at a distance of 20 cm from its center is (A) 5760 (B) 1440 (C) 640 (D) Zero",
+  "stemImages": [
+   {
+    "src": "physics-2017/q018-stem0.png",
+    "w": 638,
+    "h": 277
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "19. Two point charges A = +3 nC and B = +1 nC are placed 5 cm apart in air. The work done to move charge B towards A by 1 cm is (A) 1.35 × J (B) 2.7 × J (C) 2.0 × J (D) 12.1 × J",
+  "stemImages": [
+   {
+    "src": "physics-2017/q019-stem0.png",
+    "w": 638,
+    "h": 245
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "work done"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "20. A system of 2 capacitors of capacitance 2 μ F and 4 μ F is connected in series across a potential difference of 6V. The electric charge and energy stored in the system are (A) 10 μ C and 30 μ J (B) 36 μ C and 108 μ J (C) 8 μ C and 24 μ J (D) 1 μ C and 3 μ J",
+  "stemImages": [
+   {
+    "src": "physics-2017/q020-stem0.png",
+    "w": 638,
+    "h": 257
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "capacitance",
+   "potential difference"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "21. The minimum value of effective capacitance that can be obtained by combining 3 capacitors of capacitances 1 pF, 2 pF and 4 pF is (A) (B) 1 pF (C) (D) 2 pF",
+  "stemImages": [
+   {
+    "src": "physics-2017/q021-stem0.png",
+    "w": 639,
+    "h": 324
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "capacitance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "22. A cylindrical conductor of diameter 0.1 mm carries a current of 90 mA. The current density (in is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q022-stem0.png",
+    "w": 639,
+    "h": 252
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "23. A piece of copper is to be shaped into a conducting wire of maximum resistance. The suitable length and diameter are _______ and _______ respectively. (A) L and d (B) 2 L and d (C) L/2 and 2 d (D) 2 L and d/2",
+  "stemImages": [
+   {
+    "src": "physics-2017/q023-stem0.png",
+    "w": 639,
+    "h": 258
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "24. Of the following graphs, the one that correctly represents the I-V. characteristics of a ‘Ohmic device’ is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q024-stem0.png",
+    "w": 639,
+    "h": 333
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "25. The value of I in the figure shown below is (A) 8A (B) 21A (C) 19A (D) 4A",
+  "stemImages": [
+   {
+    "src": "physics-2017/q025-stem0.png",
+    "w": 637,
+    "h": 416
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "26. The power dissipated in resistance in the following circuit is (A) 0.75 W (B) 0.25 W (C) 1 W (D) 0.5 W",
+  "stemImages": [
+   {
+    "src": "physics-2017/q026-stem0.png",
+    "w": 637,
+    "h": 445
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "27. In metre bridge experiment, with a standard resistance in the right gap and a resistance coil dipped in water (in a beaker) in the left gap, the balancing length obtained is ‘l’. If the temperature of water is increased, the new balancing length is (A) > l (B) < l (C) = l (D) = 0",
+  "stemImages": [
+   {
+    "src": "physics-2017/q027-stem0.png",
+    "w": 637,
+    "h": 330
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "28. A proton, a deuteron and an α - particle are projected perpendicular to the direction of a uniform magnetic field with same kinetic energy. The ratio of the radii of the circular paths described by them is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q028-stem0.png",
+    "w": 637,
+    "h": 305
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "29. A galvanometer of resistance 50 Ω is connected to a battery of 3V along with a resistance of 2950 Ω in series shows full-scale deflection of 30 divisions. The additional series resistance required to reduce the deflection to 20 divisions is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q029-stem0.png",
+    "w": 638,
+    "h": 349
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "resistance",
+   "galvanometer",
+   "battery"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "30. The magnetic field at the center of a current carrying loop of radius 0.1 m is times that at a point along its axis. The distance of this point from the centre of the loop is (A) 0.2 m (B) 0.1 m (C) 0.05 m (D) 0.25 m",
+  "stemImages": [
+   {
+    "src": "physics-2017/q030-stem0.png",
+    "w": 638,
+    "h": 271
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "31. A straight wire of length 50 cm carrying a current of 2.5 A is suspended in mid-air by a uniform magnetic field of 0.5 T (as shown in figure). The mass of the wire is (g = ) (A) 62.5 gm (B) 250 gm (C) 125 gm (D) 100 gm",
+  "stemImages": [
+   {
+    "src": "physics-2017/q031-stem0.png",
+    "w": 638,
+    "h": 359
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "32. Which of the following properties is ‘False’ for a bar magnet ? (A) Its poles cannot be separated. (B) It points in North-South direction when suspended. (C) Its like poles repel and unlike poles attract. (D) It doesn’t produce magnetic field.",
+  "stemImages": [
+   {
+    "src": "physics-2017/q032-stem0.png",
+    "w": 638,
+    "h": 317
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "bar magnet",
+   "magnet"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "33. A magnetic dipole of magnetic moment and moment of inertia performs oscillations in a magnetic field of T. The time taken by the dipole to complete 20 oscillations is (A) 36 s (B) 6 s (C) 12 s (D) 18 s",
+  "stemImages": [
+   {
+    "src": "physics-2017/q033-stem0.png",
+    "w": 638,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "moment of inertia"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "34. The susceptibility of a ferromagnetic substance is (A) >> 1 (B) > 1 (C) < 1 (D) Zero",
+  "stemImages": [
+   {
+    "src": "physics-2017/q034-stem0.png",
+    "w": 638,
+    "h": 187
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ferromagnetic"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "35. A bar magnet is allowed to fall vertically through a copper coil placed in a horizontal plane. The magnet falls with a net acceleration (A) = g (B) > g (C) < g (D) Zero",
+  "stemImages": [
+   {
+    "src": "physics-2017/q035-stem0.png",
+    "w": 638,
+    "h": 443
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "bar magnet",
+   "magnet"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "36. The working of magnetic braking of trains is based on (A) Alternating current (B) Eddy current (C) Steady current (D) Pulsating current",
+  "stemImages": [
+   {
+    "src": "physics-2017/q036-stem0.png",
+    "w": 638,
+    "h": 185
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "eddy current"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "37. A jet plane of wing span 20 m is travelling towards west at a speed of 400 . If the earth’s total magnetic field is T and the dip angle is , at that place, the voltage difference developed across the ends of the wing is (A) 1.6 V (B) 3.2 V (C) 0.8 V (D) 6.4 V",
+  "stemImages": [
+   {
+    "src": "physics-2017/q037-stem0.png",
+    "w": 638,
+    "h": 362
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "38. In the A.C. circuit shown, keeping ‘K’ pressed, if an iron rod is inserted into the coil, the bulb in the circuit, (A) glows more brightly (B) glows less brightly (C) glows with same brightness (as before the rod is inserted) (D) gets damaged",
+  "stemImages": [
+   {
+    "src": "physics-2017/q038-stem0.png",
+    "w": 638,
+    "h": 638
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "coil"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "39. The output of a step down transformer is measured to be 48 V when connected to a bulb. The value of peak current is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q039-stem0.png",
+    "w": 638,
+    "h": 281
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "transformer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "40. A coil of inductive reactance and resistance 1 Ω is connected to a 200 V, 50 Hz A.C. supply. The time lag between maximum voltage and current is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q040-stem0.png",
+    "w": 639,
+    "h": 372
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "reactance",
+   "inductive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "41. If and represent electric and magnetic field vectors of an electromagnetic wave, the direction of propagation of the wave is along (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q041-stem0.png",
+    "w": 639,
+    "h": 289
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "magnetic field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "42. According to Cartesian sign convention, in ray optics (A) all distances are taken positive (B) all distances are taken negative (C) all distances in the direction of incident ray are taken positive (D) all distances in the direction of incident ray are taken negative",
+  "stemImages": [
+   {
+    "src": "physics-2017/q042-stem0.png",
+    "w": 639,
+    "h": 353
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "43. A linear object of height 10 cm is kept in front of a concave mirror of radius of curvature 15 cm, at a distance of 10 cm. The image formed is (A) magnified and erect (B) magnified and inverted (C) diminished and erect (D) diminished and inverted",
+  "stemImages": [
+   {
+    "src": "physics-2017/q043-stem0.png",
+    "w": 639,
+    "h": 350
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "mirror",
+   "image formed",
+   "concave"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "44. During scattering of light, the amount of scattering is inversely proportional to _______ of wavelength of light. (A) cube (B) square (C) fourth power (D) half",
+  "stemImages": [
+   {
+    "src": "physics-2017/q044-stem0.png",
+    "w": 638,
+    "h": 223
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "45. In Young’s double-slit experiment if yellow light is replaced by blue light, the interference fringes become (A) wider (B) narrower (C) brighter (D) darker",
+  "stemImages": [
+   {
+    "src": "physics-2017/q045-stem0.png",
+    "w": 638,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "interference",
+   "slit"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "46. According to Huygens’ principle, during refraction of light from air to a denser medium (A) Wavelength and speed decrease (B) Wavelength and speed increase (C) Wavelength increases but speed decreases (D) Wavelength decreases but speed increases",
+  "stemImages": [
+   {
+    "src": "physics-2017/q046-stem0.png",
+    "w": 638,
+    "h": 283
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "huygens"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "47. In a system of two crossed polarisers, it is found that the intensity of light from the second polariser is half from that of first polariser. The angle between their pass axes is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q047-stem0.png",
+    "w": 638,
+    "h": 264
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "48. From the following graph of photo current against collector plate potential, for two different intensities of light and , one can conclude (A) = (B) > (C) < (D) Comparison is not possible.",
+  "stemImages": [
+   {
+    "src": "physics-2017/q048-stem0.png",
+    "w": 638,
+    "h": 678
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "49. A particle is dropped from a height ‘H’. The de’Broglie wavelength of the particle depends on height as (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q049-stem0.png",
+    "w": 638,
+    "h": 249
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "wavelength"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "50. The scientist who is credited with the discovery of ‘nucleus’ in an atom is (A) J.J. Thomson (B) Rutherford (C) Niels Bohr (D) Balmer",
+  "stemImages": [
+   {
+    "src": "physics-2017/q050-stem0.png",
+    "w": 638,
+    "h": 188
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "bohr",
+   "rutherford",
+   "balmer"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "51. The energy (in eV) required to excite an electron from n = 2 to n = 4 state in hydrogen atom is (A) + 2.55 (B) (C) (D) + 4.25",
+  "stemImages": [
+   {
+    "src": "physics-2017/q051-stem0.png",
+    "w": 638,
+    "h": 229
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "52. In a nuclear reactor the function of the Moderator is to decrease (A) number of neutrons (B) speed of neutrons (C) escape of neutrons (D) temperature of the reactor",
+  "stemImages": [
+   {
+    "src": "physics-2017/q052-stem0.png",
+    "w": 638,
+    "h": 235
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "53. The particles emitted in the decay of to (A) 1 α and 2 β (B) 1 α only (C) 1 α and 1 β (D) 2 α and 2 β",
+  "stemImages": [
+   {
+    "src": "physics-2017/q053-stem0.png",
+    "w": 638,
+    "h": 267
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "54. The mass defect of is 0.03 u. The binding energy per nucleon of helium (in MeV) is (A) 27.93 (B) 6.9825 (C) 2.793 (D) 69.825",
+  "stemImages": [
+   {
+    "src": "physics-2017/q054-stem0.png",
+    "w": 638,
+    "h": 230
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "binding energy",
+   "mass defect",
+   "nucleon"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "55. The energy gap in case of which of the following is less than 3 eV ? (A) Copper (B) Iron (C) Aluminium (D) Germanium",
+  "stemImages": [
+   {
+    "src": "physics-2017/q055-stem0.png",
+    "w": 638,
+    "h": 187
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "56. Which of the following semi-conducting devices is used as voltage regulator ? (A) Photo diode (B) LASER diode (C) Zener diode (D) Solar cell",
+  "stemImages": [
+   {
+    "src": "physics-2017/q056-stem0.png",
+    "w": 638,
+    "h": 187
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "zener",
+   "diode"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "57. In the three parts of a transistor, ‘Emitter’ is of (A) moderate size and heavily doped (B) large size and lightly doped (C) thin size and heavily doped (D) large size and moderately doped",
+  "stemImages": [
+   {
+    "src": "physics-2017/q057-stem0.png",
+    "w": 638,
+    "h": 245
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "transistor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "58. In the figure shown, if the diode forward voltage drop is 0.2 V, the voltage difference between A and B is (A) 1.3 V (B) 2.2 V (C) 0 (D) 0.5 V",
+  "stemImages": [
+   {
+    "src": "physics-2017/q058-stem0.png",
+    "w": 638,
+    "h": 634
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "drop"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "59. Which of the following logic gates is considered as ‘universal’ ? (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "physics-2017/q059-stem0.png",
+    "w": 638,
+    "h": 229
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Physics",
+  "year": 2017,
+  "source": "kcet-2017-physics-question-paper.pdf",
+  "stemText": "60. A basic communication system consists of (a) Transmitter (b) Information source (c) User of information (d) Channel (e) Receiver The correct sequence of the arrangement is (A) a, b, c, d and e (B) b, a, d, e and c (C) b, d, a, c and e (D) b, e, a, d and c",
+  "stemImages": [
+   {
+    "src": "physics-2017/q060-stem0.png",
+    "w": 638,
+    "h": 362
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

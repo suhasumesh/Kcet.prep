@@ -1,0 +1,512 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "1 Thedimensionsof'resistance'aresameasthoseof. wherehisthePlanck's constant,e is the charge. h h h² h2 1) 2) 3) 4) e e",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q001-stem0.png",
+    "w": 1924,
+    "h": 272
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "2. in that train startswalking ata steady speedof 2ms-to thebackof the train in the oppositedirectionof themotion of the train.So toanobserver standingon theplatform directlyin front of thatpassenger,the velocity of the passenger appears to be 1)2ms-1in theopposite direction of the train 2) zero 3) 4ms-1 4)2ms-1",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q002-stem0.png",
+    "w": 1929,
+    "h": 573
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "3. Aball rests upon aflatpiece ofpaper ona table top.Thepaper ispulledhorizontallybut quickly towardsrightas shown.Relative toitsinitialposition with respect to the table, theball. a) remainsstationary ifthere isno frictionbetween the paper and the ball. b) moves to theleft and startsrollingbackwards,ie.to theleft if there is a friction between the paper and the ball. moves forward,ie.in the direction in which the paper is pulled. c) Here,thecorrectstatement/sis/are 1)onlya) 2) only b) 3) both a)and b) 4) onlyc)",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q003-stem0.png",
+    "w": 1934,
+    "h": 691
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "friction"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "Aboythrowsacricketballfrom theboundary to thewicket-keeper.If thefrictional force due to air cannotbe ignored,the forces actingon the ball at thepositionXare representedby Boyx 2) 3)",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q004-stem0.png",
+    "w": 1933,
+    "h": 633
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "5. If thelinear momentumof a bodyis increased by 50%,then thekineticenergy of that body increases by 1)225% 2） 25% 3)100% 4) 125% (SpaceforRoughWork) SR-33 Turn Over",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q005-stem0.png",
+    "w": 1934,
+    "h": 578
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "6. through thecentre ofmassbutperpendicular to theplaneof the disc is2kgm².Its momentofinertia about an axisparallel to this axisbutpassingthrough theedgeofthe disc is.... (See the given figure). 1) 10kgm² x X 6kgm² 2) 3) 8kgm² 4kgm² 4)",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q006-stem0.png",
+    "w": 1922,
+    "h": 709
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "disc"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "An astronauton a strangeplanetfinds thataccelerationdue togravity is twiceas that 7. on thesurface ofEarth.Which ofthe followingcouldexplain this? 1)Both themassandradiusof theplanetare twiceas thatofEarth. 2) Massoftheplanetishalf asthat ofEarth,butradiusis same asthat ofEarth. 3) BoththemassandradiusoftheplanetarehalfasthatofEarth. 4) Radius of theplanet is half as that of Earth,but the mass is the same as that ofEarth.",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q007-stem0.png",
+    "w": 1922,
+    "h": 512
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "8. Which ofthefollowingsubstanceshas thehighestelasticity? 2)Copper 1） Rubber Sponge Steel 3) 4) Three liquidsof equal masses are taken in three identical cubicalvessels A,B and C.",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q008-stem0.png",
+    "w": 1924,
+    "h": 258
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "9. theliquidonthebaseofthecubicalvesselis.. 1) the same in all the vessels maximum invessel A 2) 3) maximum in vessel C 4) minimum in vessel C",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q009-stem0.png",
+    "w": 1922,
+    "h": 376
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "10. Water is in streamlineflow alongahorizontalpipe with nonuniform cross-section.Ata point in the pipe where the area of cross-section is 10 cm²,the velocity of water is 1ms-and the pressure is 20o0 Pa.Thepressure at another point where the cross- sectionalarea is5cm²is 1） 1000Pa 2) 500Pa 3) 4000Pa 4) 2000Pa (Space for Rough Work) SR-33",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q010-stem0.png",
+    "w": 1929,
+    "h": 952
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2010,
+  "source": "kcet-2010-physics-question-paper.pdf",
+  "stemText": "n, n3 23.A boat hasgreen lightofwavelength=500nm on themast.Whatwavelength would be T. the measured andwhatcolourwould be observed for thislight as seen by a diver submerged inwaterby the sideof theboat?Givenn=4/3. Greenofwavelength500nm 2)Blueofwavelength376nm 1) 3) Greenofwavelength376nm 4)Redofwavelength665nm 24.Two beams ofred and violet colours are made to pass separately through aprism of A= 6o°.In the minimum deviation position,the angle of refraction inside the prism will be 1） greater for violetcolour 2)30°forboth thecolours reads 3) greater for redcolour 4) equalbutnot30°forboth thecolours neres lined The focal lengthof aplanoconvexlens is and itsrefractive indexis1.5.It iskeptover 25. onsis a planeglass plate with its curved surface touching the glass plate.The gapbetween the lens and the glass plate is filled by a liquid.As a result,the effective focal length of the combinationbecomes2f.Then the refractive indexoftheliquid is 1)1.25 2)1.33 3) 1.5 4)2 (Space for Rough Work) +Q2 SR-33 Turn Over",
+  "stemImages": [
+   {
+    "src": "physics-2010-kea/q014-stem0.png",
+    "w": 2055,
+    "h": 1496
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 10,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "prism",
+   "focal length",
+   "lens",
+   "refraction"
+  ],
+  "chapterConfidence": "high"
+ }
+]

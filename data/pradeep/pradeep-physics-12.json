@@ -1,0 +1,407 @@
+[
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Chapter 1",
+  "number": 102,
+  "page": 346,
+  "seq": 25,
+  "answer": "B",
+  "stemText": "102. Two white dots are 1 mm apart on a black paper. They are viewed by eye of pupil diameter 3 mm. What is the maximum distance at which these dots can be resolved by the eye ? A, = 500 nm. (a) 1 m (c) 3 m 103 A beam of unpolarised light of intensity /0 is passed through a polaroid A and then through another polaroid B which is oriented so that its principal plane makes an angle of 45° relative to that of A. The intensity of emergent light is {b) 5 m (t/) 6 m (b) V2 id) /q/B (JEE 2013) (a) 'o (c) /q/4 104. a beam of light of A = 600 nm from a distant source falls on a single slit 1 mm wide an",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00025-p0346-q102.png",
+   "w": 651,
+   "h": 653
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 24,
+  "page": 338,
+  "seq": 20,
+  "answer": "D",
+  "stemText": "24. The effective focal length of the lens combination shown in Fig. 6(CF).7 is - 60 cm. The radii of curvature of the curved surfaces of the plano­ convex lenses are 12 cm each and refractive index of the material of the lens is 1.5. The refractive index of the liquid is : 6(CF).7 (<0 4/ (c) 2/ 29. A glass prism of refractive index 1-5 is immersed in water (refractive index 4/3). A light beam incident normally on the face AB is totally reflected to reach the face BC, Fig. 6(CF).10 if: (b) 1.42 (d) 1.60 25. A ray of light falls on the surface of a spherical glass paper weight making an angle a",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00020-p0338-q024.png",
+   "w": 634,
+   "h": 628
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 26,
+  "page": 338,
+  "seq": 21,
+  "answer": "A",
+  "stemText": "26. Light incident on a surface separating two media is partly reflected and partly refracted as shown in Fig. 6(CF).8. Then : 6(CF).8 ^2 ^1 (a) sin i = (b) tan / = —*- (p12+^2)l/2 [l2 ^2 (d) sin i = -A (c) sin / = \\iy\\i2 (b) 3 m (d) 4 m 27. A slab of transparent material is made as shown in Fig. 6(CF).9. Monochromatic parallel beams of light are normally incident on the slab. The thickness of C is twice the thickness of B. If the number of waves in A = number of waves in combination of B and C, then the refractive index of B is : 6(CF).9 A|-------------- p0 = 1.4 (b) 5 cm (d) 25 cm H2 = 1-2 M",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00021-p0338-q026.png",
+   "w": 634,
+   "h": 939
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 31,
+  "page": 338,
+  "seq": 22,
+  "answer": "B",
+  "stemText": "31. A disc is placed on a surface of pond which has refractive index 5/3. A source of light is placed 4 m below the surface of the liquid. The minimum radius of disc needed so that light is not coming out is (a) °° (c) 6 m 32 Refractive index of diamond is 2-41. What is the minimum angle of incidence of a ray to get totally internally reflected in diamond ? (b) 35° (d) 484° 33. A piano convex lens has focal length/= 20 cm. If its plane surface is silvered, then new focal length will be (a) 20 cm (c) 10 cm (a) 42° (c) 24-5°",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00022-p0338-q031.png",
+   "w": 693,
+   "h": 644
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Dual Nature of Radiation and Matter",
+  "number": 10,
+  "page": 336,
+  "seq": 18,
+  "answer": "C",
+  "stemText": "10. Consider a concave mirror and a convex lens (refractive index 1-5) of focal length 10 cm each separated by a distance of 50 cm in air (refractive index = 1) as shown in the Fig. 6(CF).2. An object is placed at a distance of 15 cm from the mirror. Its erect image formed by this combination has magnification Mj. When this set up is kept in a medium of refractive index 7/6, the magnification m2 index of the glass ? («) 1-3 (c) 1-5 becomes M2. The magnitude is : M (b) 1-4 m i*6 1 / > 6(CF).2 * ^5 cm \\/ H---------50 cm---------- H (a) 5 ib)6 (b) 8 cm (d) 16 cm (c)7 (d)S (JEE Advanced 2015)",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00018-p0336-q010.png",
+   "w": 594,
+   "h": 694
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 4,
+  "page": 30,
+  "seq": 1,
+  "answer": "A",
+  "stemText": "4. The four Maxwell’s equations and the Lorentz force law (which together constitute the foundations of all the classical electromagnetism) are listed below : (i) £ E.ds=q!sQ (ii) (j) B.ds= 0 (iii) (j> E.dl = ’“I B.ds (iv) (£ = n0 / + p0 J B .ds —» Lorentz force law : F = q(E + v xB) Answer the following questions regarding these equations : (a) Give the name (s) associated with some of the four equations above. (b) Which equations above contain source of —> —> E and B and which do not ? What do the equations reduce to in a source-free region ? (c) Write down Maxwell’s equations for steady (i.",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00001-p0030-q004.png",
+   "w": 624,
+   "h": 1618
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 1,
+  "page": 50,
+  "seq": 3,
+  "answer": "C",
+  "stemText": "1. One requires lleV of energy to dissociate a carbon monoxide molecule into carbon and oxygen atoms. The minimum frequency of the appropriate electromagnetic radiation to achieve the dissociation lies in (a) visible region (b) infrared region (c) ultraviolet region (d) microwave region 2. A linearly polarized electromagnetic wave Read Your Flow Find Your for Free eBooks “* A given as E = E0 i cos (kz - ccrf) is incident normally on a perfectly reflecting infinite wall at z = a. Assuming that the material of the wall is optically inactive, the reflected wave will be given as",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00003-p0050-q001.png",
+   "w": 606,
+   "h": 279
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 2,
+  "page": 50,
+  "seq": 4,
+  "answer": "B",
+  "stemText": "A (a) Er =- Eq 1 cos (kz - cor) —> A (b) Er = E0 i cos (kz + cor) -* A (c) Er -- E0 i cos (kz + cor) —> A (d) Er = E0 i sin (kz - cor)",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00004-p0050-q002.png",
+   "w": 606,
+   "h": 374
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 1,
+  "page": 66,
+  "seq": 5,
+  "answer": "D",
+  "stemText": "1. The electric field of an electromagnetic wave in free space is given by £ = 10 cos (107 t + kx) j V/m, where t and x are in seconds and metres respectively. It can be inferred that (1) the wavelength A, is 188.4 m. (2) the wave number k is 0.33 rad/m. (3) the wave amplitude is 10 V/m. (4) the wave is propagating along + x direction. Which one of the following pairs of statements is correct ? (6) (1) and (2) (d) (1) and (3) (a) (3) and (4) (c) (2) and (3) (AIPMT Main 2010) 2. If Pq be the permeability and k0, the dielectric cons­ tant of a medium, its refractive index is given by",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00005-p0066-q001.png",
+   "w": 636,
+   "h": 467
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 2,
+  "page": 66,
+  "seq": 6,
+  "answer": "C",
+  "stemText": "1 1 (a) (b) (b) L2 T2 (d) LTl (A1EEE 2003) #0*0 ^0*0 (c) 7^o*o (d) Po^o-",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00006-p0066-q002.png",
+   "w": 636,
+   "h": 220
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 3,
+  "page": 66,
+  "seq": 7,
+  "answer": "C",
+  "stemText": "3. An electromagnetic wave going through vacuum is described by E = Eq sin (kx - cor) B = Bq sin (kx - cor) (a) EqB0 = k (c) E0 k = 5()co (b) E0(a=B0k (d) None of these.",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00007-p0066-q003.png",
+   "w": 611,
+   "h": 223
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 51,
+  "page": 71,
+  "seq": 8,
+  "answer": "C",
+  "stemText": "51. In electromagnetic wave, the average energy density due to magnetic field is (a) 8-85 x 10-10 Inr3 (b) 442 x 10\"10 Jm\"3 (c) 2-21 x 10\"10 Jm-3 {d) 6-63 x lO\"10 Jm\"3 (b) 5-34 x 10-4 N (d) 1-33 x 10^ N m Matching Type Questions DIRECTIONS. In each of the following questions, match column I and column II and select the correct match out of the four given choices.",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00008-p0071-q051.png",
+   "w": 660,
+   "h": 301
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 56,
+  "page": 71,
+  "seq": 9,
+  "answer": "C",
+  "stemText": "56. Column I (A) <f> B.dT=[iQI Gauss’s law in electrostatics (P) d$E) j> B.d7’=n()[/+e0 ^ Faraday’s laws of electromagnetic induction (<?) (B) $ E.d? =-— i B.d7 * dt* Ampere Maxwell’s law (r) (C) j> E.d7=-^j> pds Ampere’s circuital law (s) (D) €0 5 (c) As, B-r, C-q, D-p (d) As, B-r, C-p, D-q (a) As, B-p, C-q, D-r (b) As, B-q, C-r, D-p",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00009-p0071-q056.png",
+   "w": 643,
+   "h": 384
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 57,
+  "page": 71,
+  "seq": 10,
+  "answer": "D",
+  "stemText": "Various electromagnetic waves are given in column I and various frequency ranges in column II 57. Column II Column I Radiowaves (/>) (A) (^) (B) y-rays (C) Microwaves (D) X-rays (r) (s) (c) A-r, B-5, C-p, D-q (d) As, B-r, C-q, D-p (a) A-p, B-q, C-r, D-s (b) A-q, B-r, C-s, D-p",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00010-p0071-q057.png",
+   "w": 642,
+   "h": 273
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Electromagnetic Waves",
+  "number": 70,
+  "page": 73,
+  "seq": 11,
+  "answer": "B",
+  "stemText": "70. Assertion. Like light radiation, thermal radiations are also electromagnetic radiation. Reason. The thermal radiations require no medium for propagation. (AIIMS 2010) (a) A (b)B (c)C (d)D",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00011-p0073-q070.png",
+   "w": 590,
+   "h": 230
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 3,
+  "page": 105,
+  "seq": 12,
+  "answer": "A",
+  "stemText": "3. The product of refractive index and sine of angle of incidence/refraction at a point in a medium is fij sin /'j = ji2 sin i2 constant, i.e., jx x sin i = constant If i] = / and i2 = r, then (J.J sin i = |a.2 sin r V2 _ sin/ 1 where represents refractive index of medium 2 w.r.t. medium 1. -----=1*2 sin r z or This law is called Snell’s Law. More about Refractive Index Refractive index is a characteristic property of the medium, whose value depends only on nature of material of the medium and the colour or wavelength of light. We define (absolute) refractive index (\\i) of a medium as the rati",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00012-p0105-q003.png",
+   "w": 1254,
+   "h": 739
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 1,
+  "page": 176,
+  "seq": 13,
+  "answer": "B",
+  "stemText": "1. Which of the following colours has maximum wavelength (b) violet (a) red (c) yellow (d) green",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00013-p0176-q001.png",
+   "w": 545,
+   "h": 80
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 2,
+  "page": 176,
+  "seq": 14,
+  "answer": "D",
+  "stemText": "2. In vacuum, which colour travels fastest ? (a) red (c) yellow (b) violet (d) all colours have the same velocity",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00014-p0176-q002.png",
+   "w": 545,
+   "h": 128
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 3,
+  "page": 176,
+  "seq": 15,
+  "answer": "C",
+  "stemText": "3. In glass, the velocity of light is minimum for (a) red (c) yellow (d) green (b) violet",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00015-p0176-q003.png",
+   "w": 546,
+   "h": 82
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 5,
+  "page": 204,
+  "seq": 16,
+  "answer": "A",
+  "stemText": "5. In a compound microscope, the distance between objective lens and eye lens is (c) infinite 6. For a total magnification of 175 from a compound microscope, the magnification produced by objective is 7. What should be the magnification produced by eye piece ? (a) fixed {b) variable (d) 1 metre (a) 7 (c) 175 x 7 {d) none of these (b) 25 7. The final image in an astronomical telescope (w.r.t. object) is (a) virtual and erect {b) real and erect 8. A telescope uses an objective lens of focal length /0 and an eye lens of focal length fe In normal adjustment, distance between the two lenses is (c) ",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00016-p0204-q005.png",
+   "w": 1188,
+   "h": 335
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 12,
+  "page": 308,
+  "seq": 17,
+  "answer": "B",
+  "stemText": "12. Consider an extended object immersed in water contained in a plane through. When seen from close to the edge of the trough, the object looks distorted because (a) the apparent depth of the points close to the edge are nearer the surface of the water compared to the points away from the edge. (b) the angle subtended by the image of the object at the eye is smaller than the actual angle subtended by the object in air. (c) some of the points of the object far away from the edge may not be visible because of total internal reflection. (d) water in a trough acts as a lens and magnifies the obje",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00017-p0308-q012.png",
+   "w": 580,
+   "h": 769
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 19,
+  "page": 337,
+  "seq": 19,
+  "answer": "C",
+  "stemText": "19. If light travels a distance x in r, second in air and 10 x distance in t2 second in a medium, the critical angle of the medium will be : 1 h \\ ^ j 20. The graph in Fig. 6(CF).6 shows how the inverse of magnification Um produced by a convex thin lens varies with object distance u. What was the focal length of the lens used ? K-T-*- -H {a) °o (b) 6 m (c) 4 m 22. A luminous object is placed at a distance of 30 cm from the convex lens of focal length 20 cm. On the other side of the lens, at what distance from the lens a convex mirror of radius of curvature 10 cm be placed in order to have an u",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00019-p0337-q019.png",
+   "w": 645,
+   "h": 1611
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 34,
+  "page": 339,
+  "seq": 23,
+  "answer": "D",
+  "stemText": "34. In an optics experiment, with the position of the object fixed, a student varies the position of a convex lens and for each position, the screen is adjusted to get a clear image of the object. A graph between the object distance u and image distance v from the lens, is plotted using the same scale for the two axes. A straight line passing through origin and making an angle of 45° with the x-axis meets the experimental curve at P. The coordinate of P will be Block / / ib) (f,f) (a) s 2’ 2 (b) 1-30 (d) 1-42 Read Your Flow Find Your for Free eBooks (a) 1-21 (c) 1-36 (c) (4/, 4./) {d) (- 2 /, ",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00023-p0339-q034.png",
+   "w": 635,
+   "h": 679
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Ray Optics and Optical Instruments",
+  "number": 69,
+  "page": 343,
+  "seq": 24,
+  "answer": "D",
+  "stemText": "69. For a normal eye, the cornea of eye provides a converging power of 40 D and the least converging power of the eye lens behind the cornea is 20 D. Using this infonnation, the distance between the retina and the cornea-eye lens can be estimated to be : {b) 5 cm (d) 1-67 cm (a) 1-5 cm (c) 2-5 cm (A1PMT 2013) 70. In an astronomical telescope in normal adjustment, a straight black line of length L is drawn on inside part of objective lens. The eye piece forms a real image of this line. The length of this image is /. The magnification of telescope 6(CF).20 si=t d P Air d i- Water-1 Read Your Flo",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00024-p0343-q069.png",
+   "w": 1234,
+   "h": 702
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Unclassified",
+  "number": 2,
+  "page": 38,
+  "seq": 2,
+  "answer": "B",
+  "stemText": "2. 3. (CBSE Sample Paper 2011) Ans. (a) For water purification, ultraviolet rays are used. (b) For remote sensing, microwaves are used (c) For treatment of cancer, y-rays are used. Order of penetrating power of these raditions microwaves < ultraviolet rays < y-rays. 22. Name the parts of the electromagnetic spectrum which is (a) suitable for radar system used in aircraft navigation (b) used to treat muscular strain. (c) Use as a diagnostic tool in medicine. Ans. ReadYourFlow.COM",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00002-p0038-q002.png",
+   "w": 684,
+   "h": 613
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Unclassified",
+  "number": 141,
+  "page": 350,
+  "seq": 26,
+  "answer": "C",
+  "stemText": "141. The initial shape of the wavefront of the beam is (a) concave (b) convex near the axis and concave near the periphery (c) planar (d) convex (Xm) is given by Xm = ^ I n I, where is the wavelength of the light in air (AIEEE 2010)",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00026-p0350-q141.png",
+   "w": 592,
+   "h": 286
+  }
+ },
+ {
+  "subject": "Physics",
+  "source": "pradeep-physics-12",
+  "chapter": "Unclassified",
+  "number": 143,
+  "page": 350,
+  "seq": 27,
+  "answer": "B",
+  "stemText": "143. Choose the correct statement. (a) The speed of light in the meta-material is v = c\\n\\ (b) The speed of light in the meta-material is v - C I n I (c) The speed of light in the meta-material is u = c (d) The wavelength of the light in the meta-material",
+  "image": {
+   "src": "pradeep-physics-12/pradeep-physics-12-00027-p0350-q143.png",
+   "w": 624,
+   "h": 340
+  }
+ }
+]

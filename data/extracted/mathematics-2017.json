@@ -1,0 +1,2469 @@
+[
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "5. If ≤ 1, then (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q005-stem0.png",
+    "w": 637,
+    "h": 180
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "6. If = then n is equal to (A) 26 (B) 12 (C) 6 (D) 20",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q006-stem0.png",
+    "w": 637,
+    "h": 166
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "7. The total number of terms in the expansion of after simplification is (A) 24 (B) 47 (C) 48 (D) 96",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q007-stem0.png",
+    "w": 637,
+    "h": 204
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Binomial Theorem",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "expansion of"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "8. Equation of line passing through the point and perpendicular to the line is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q008-stem0.png",
+    "w": 637,
+    "h": 251
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "perpendicular to the line"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "9. The eccentricity of the ellipse + is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q009-stem0.png",
+    "w": 637,
+    "h": 384
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "eccentricity",
+   "ellipse"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "10. The perpendicular distance of the point from XY-plane is (A) 8 (B) 7 (C) 6 (D) 5",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q010-stem0.png",
+    "w": 637,
+    "h": 200
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "xy-plane"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "11. The value of is (A) 4/9 (B) 9/4 (C) 9/3 (D) 3/4",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q011-stem0.png",
+    "w": 637,
+    "h": 210
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "12. The contrapositive statement of the statement “If is prime number, then is odd” is (A) If is not a prime number, then is not odd (B) If is a prime number, then is not odd. (C) If is not a prime number, then is odd. (D) I f is not odd, then is not a prime number.",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q012-stem0.png",
+    "w": 637,
+    "h": 381
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "contrapositive",
+   "statement"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "13. If coefficient of variation is 60 and standard deviation is 24, then Arithmetic mean is (A) 40 (B) 7/20 (C) 20/7 (D) 1/40",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q013-stem0.png",
+    "w": 637,
+    "h": 187
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Statistics",
+  "chapterScore": 9,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "standard deviation",
+   "coefficient of variation",
+   "mean"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "14. The range of the function ) = is (A) (0, 3) (B) [0, 3] (C) (0, 3] (D) [0, 3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q014-stem0.png",
+    "w": 637,
+    "h": 175
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "range of the function",
+   "function",
+   "range"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "15. Let be defined by = , then (A) f is one-one and onto (B) f may be one-one and onto (C) f is one-one but not onto (D) f is neither one-one nor onto",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q015-stem0.png",
+    "w": 637,
+    "h": 260
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "onto"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "16. The range of is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q016-stem0.png",
+    "w": 637,
+    "h": 291
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "range"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "17. If , then is equal to (A) π (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q017-stem0.png",
+    "w": 637,
+    "h": 312
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "18. If , , then is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q018-stem0.png",
+    "w": 637,
+    "h": 181
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "20. If a matrix A is both symmetric and skew symmetric, then (A) A is diagonal matrix (B) A is a zero matrix (C) A is scalar matrix (D) A is square matrix",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q020-stem0.png",
+    "w": 638,
+    "h": 234
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Matrices",
+  "chapterScore": 15,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "skew symmetric",
+   "scalar matrix",
+   "diagonal matrix",
+   "matrix"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "21. If , then the value of and y are (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q021-stem0.png",
+    "w": 638,
+    "h": 423
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "22. Binary operation * on R − {−1} defined by = is (A) * is associative and commutative (B) * is associative but not commutative (C) * is neither associative nor commutative (D) * is commutative but not associative",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q022-stem0.png",
+    "w": 638,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "binary operation",
+   "binary operation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "23. If then is equal to (A) 2 (B) 4 (C) 8 (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q023-stem0.png",
+    "w": 641,
+    "h": 218
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "24. If A is a square matrix of order 3 × 3, then |KA| is equal to (A) K|A| (B) (C) (D) 3K|A|",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q024-stem0.png",
+    "w": 641,
+    "h": 220
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Determinants",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "|a|"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "25. The area of triangle with vertices (K, 0), , (0, 2) is 4 square units, then value of K is (A) 0 or 8 (B) 0 or − 8 (C) 0 (D) 8 26. then (A) = − Δ (B) = Δ (C) (D) = 2 Δ",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q025-stem0.png",
+    "w": 682,
+    "h": 239
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "27. If = is continuous at , then the value of K is (A) 3 (B) 4 (C) 3/4 (D) 4/3",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q027-stem0.png",
+    "w": 641,
+    "h": 264
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "28. The value of C in Mean value theorem for the function in [2, 4] is (A) 3 (B) 2 (C) 4 (D) 7/2",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q028-stem0.png",
+    "w": 638,
+    "h": 198
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "mean value theorem"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "29. The point on the curve where the tangent makes an angle of π /4 with X-axis is (A) (B) (C) (4, 2) (D) (1, 1)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q029-stem0.png",
+    "w": 638,
+    "h": 272
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "30. The function is strictly increasing in the interval (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q030-stem0.png",
+    "w": 638,
+    "h": 244
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "strictly increasing"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "31. The rate of change of volume of a sphere with respect to its surface area when the radius is is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q031-stem0.png",
+    "w": 638,
+    "h": 271
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "rate of change"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "32. , then is equal to (A) 1/2 (B) π /4 (C) 0 (D) 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q032-stem0.png",
+    "w": 638,
+    "h": 239
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "34. then is equal to (A) 1 (B) 0 (C) − 1 (D) 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q034-stem0.png",
+    "w": 638,
+    "h": 208
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "35. The derivative of w.r.t is (A) 2 (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q035-stem0.png",
+    "w": 638,
+    "h": 298
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "derivative"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "36. If ) then is equal to (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q036-stem0.png",
+    "w": 578,
+    "h": 353
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "37. is equal to (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q037-stem0.png",
+    "w": 578,
+    "h": 315
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "38. is equal to (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q038-stem0.png",
+    "w": 578,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "39. is equal to (A) + C (B) + C (C) + C (D) + C",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q039-stem0.png",
+    "w": 606,
+    "h": 677
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "40. is equal to (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q040-stem0.png",
+    "w": 606,
+    "h": 312
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "41. is equal to (A) 29 (B) 28 (C) 27 (D) 30",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q041-stem0.png",
+    "w": 606,
+    "h": 242
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "42. is equal to (A) 0 (B) 1 (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q042-stem0.png",
+    "w": 606,
+    "h": 218
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "43. is equal to (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q043-stem0.png",
+    "w": 635,
+    "h": 304
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "44. The area of the region bounded by the curve and the line y = 16 is (A) sq. units (B) sq. units (C) sq. units (D) sq. units",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q044-stem0.png",
+    "w": 635,
+    "h": 316
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "45. Area of the region bounded by the curve and is (A) 2 sq. units (B) 4 sq. units (C) 3 sq. units (D) 1 sq. unit",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q045-stem0.png",
+    "w": 635,
+    "h": 199
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "46. The degree of the differential equation = is (A) 1 (B) 2 (C) 3 (D) 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q046-stem0.png",
+    "w": 635,
+    "h": 262
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Differential Equations",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "differential equation",
+   "degree of the differential"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "47. General solution of differential equation is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q047-stem0.png",
+    "w": 635,
+    "h": 353
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "general solution"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "48. The integrating factor of the differential equation is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q048-stem0.png",
+    "w": 638,
+    "h": 267
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Differential Equations",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "integrating factor",
+   "differential equation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "49. and are orthogonal, then value of λ is (A) 0 (B) 1 (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q049-stem0.png",
+    "w": 638,
+    "h": 253
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "50. , , are unit vectors such that , then the value of is equal to (A) 1 (B) 3 (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q050-stem0.png",
+    "w": 638,
+    "h": 305
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Vector Algebra",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "unit vectors"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "51. If & are unit vectors, then angle between for to be unit vector is (A) 30 ° (B) 45 ° (C) 60 ° (D) 90 °",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q051-stem0.png",
+    "w": 638,
+    "h": 219
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Vector Algebra",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "unit vector",
+   "vector",
+   "unit vectors"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "52. Reflexion of the point ( α , β , γ ) in XY plane is (A) ( α , β , 0) (B) (0, 0, γ ) (C) (− α , − β , γ ) (D) ( α , β , − γ )",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q052-stem0.png",
+    "w": 638,
+    "h": 151
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "plane"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "53. The plane − 3y + 6z − 11 = 0 makes an angle ( α ) with X-axis. The value of α is equal to (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q053-stem0.png",
+    "w": 638,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "54. The distance of the point (−2, 4, −5) from the line = = is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q054-stem0.png",
+    "w": 638,
+    "h": 372
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "55. A box has 100 pens of which 10 are defective. The probability that out of a sample of 5 pens drawn one by one with replacement and atmost one is defective is (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q055-stem0.png",
+    "w": 638,
+    "h": 521
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Probability",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "probability"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "56. Two events A and B will be independent if (A) A and B are mutually exclusive (B) P(A' B') = (1 − P(A)) (1 − P(B)) (C) P(A) = P(B) (D) P(A) + P(B) = 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q056-stem0.png",
+    "w": 638,
+    "h": 208
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Probability",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "mutually exclusive",
+   "p(a)",
+   "p(b)"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "57. The probability distribution of X is The value of k is (A) 0.14 (B) 0.3 (C) 0.7 (D) 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q057-stem0.png",
+    "w": 638,
+    "h": 295
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Probability",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "probability distribution",
+   "probability"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "58. The shaded region in the figure is the solution set of the inequations (A) (B) (C) (D)",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q058-stem0.png",
+    "w": 638,
+    "h": 614
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "59. If an LPP admits optimal solution at two consecutive vertices of a feasible region, then (A) the required optimal solution is at the midpoint of the line joining two points. (B) the optimal solution occurs at every point on the line joining these two points (C) the LPP under consideration is not solvable (D) the LPP under consideration must be reconstructed",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q059-stem0.png",
+    "w": 638,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Linear Programming",
+  "chapterScore": 29,
+  "chapterMargin": 29,
+  "chapterHits": [
+   "feasible region",
+   "optimal solution",
+   "lpp",
+   "feasible"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2017,
+  "source": "kcet-2017-mathematics-question-paper.pdf",
+  "stemText": "60. is equal to (A) 4 (B) 4.5 (C) 3.5 (D) 3",
+  "stemImages": [
+   {
+    "src": "mathematics-2017/q060-stem0.png",
+    "w": 638,
+    "h": 202
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

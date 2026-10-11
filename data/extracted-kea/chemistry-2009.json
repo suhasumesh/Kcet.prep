@@ -1,0 +1,2284 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "1.The ore that is concentrated byFrothFloatationprocessis (1)- Bauxite (2) Malachite (3) Zincite Cinnabar (4) The correct set of four Quantum numbers for outermost electron of Potassium(Z=19) is",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q001-stem0.png",
+    "w": 1897,
+    "h": 372
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ore",
+   "bauxite"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "2. (1) 4,0,0,2 (2)3,0,0,2 1 (3) 4,1,0,2 (4)3,1,0,2 1 3.A body of mass x kg is moving with a velocity of 100 ms-1. Its de Broglie wavelength is",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q002-stem0.png",
+    "w": 1778,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "de broglie"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "(1) 0.15kg (2) 0.2 kg (3) 0.1 kg (4) 0.25 kg 4.The correct order of ionisation energy of C,N,O,F is (1)C<N<O<F (2) C<0<N<F (3)F<O<N<C (4)F<N<C<O 5.The oxide of an element whose electronic configuration is 1s²2s²2p63s is (1) Basic Acidic (2) (3) Neutral (4) Amphoteric",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q006-stem0.png",
+    "w": 1773,
+    "h": 1010
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "electronic configuration"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "(1)NaCl (2) CaO NH, (4) NH4CI (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q007-stem0.png",
+    "w": 1769,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "8.A covalent molecule ABhas pyramidal structure.The number of lonepair and bond pair electronsinthemoleculearerespectively 3and1 1and3 (1) (2) (3)2and 2 (4) 0 and 4",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q008-stem0.png",
+    "w": 1865,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "covalent"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "Excessof carbondioxide ispassed through50 mlof0.5Mcalciumhydroxide solution. 9. After the completion of the reaction,the solution was evaporated to dryness.The solid calciumcarbonatewas completelyneutralisedwith O.1 NHydrochloric acid.Thevolume of Hydrochloric acid required is (At.mass of calcium =40) (1) 500cm3 (2) 400cm3 (3)300 cm3 200 cm3 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q009-stem0.png",
+    "w": 1769,
+    "h": 461
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "10.A bivalent metal has an equivalent mass of 32.Themolecular mass of the metal nitrate is (1)192 (2) 188 (3) 182 (4) 168",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q010-stem0.png",
+    "w": 1770,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "11.The 1.m.s.velocity ofmolecules of a gas of density 4kgm-andpressure 1.2x10Nm-²is 120 ms-1 (1) (2) 600ms-1 300ms-1 1-s 006 (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q011-stem0.png",
+    "w": 1765,
+    "h": 328
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "12.0.5 mole of each of H, SO,and CH4 are kept in a container.A hole was made in the container.After3hours,theorderofpartialpressuresinthecontainerwill be (1)pH2>pSO2>pCH4 (2) pH>pCH4>pSO2 pSO2>pCH>pH2 (3)pSO2>pH>pCH4 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q012-stem0.png",
+    "w": 1866,
+    "h": 427
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ph"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "13.The enthalpy of formation of NHis -46kJ mol-l.The enthalpy change for thereaction: 2NH(g) →N(g)+3H(g)is (1) +92kJ (2) +46kJ (3) +184kJ (4) +23kJ",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q013-stem0.png",
+    "w": 1871,
+    "h": 436
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "enthalpy of formation",
+   "enthalpy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "14.5 moles of SO, and 5 moles of O, are allowed to react.At equilibrium,it was found that 60%of SO,is usedup.If thepartial pressure of the equilibrium mixture is one atmosphere, the partial pressure of O is (1) 0.21atm (2) 0.41atm (3) 0.82 atm (4) 0.52 atm",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q014-stem0.png",
+    "w": 1875,
+    "h": 412
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "equilibrium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "15.2HI(g）H(g)+L（g) The equilibrium constant of the above reaction is 6.4 at 300K. If 0.25mole each of H, and Lare added to the system,the equilibrium constantwill be (1) (2) 1.6 3.2 (4) 0.8 (3) 6.4 16.Rate ofphysicaladsorptionincreaseswith",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q015-stem0.png",
+    "w": 1887,
+    "h": 530
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "increase in temperature (1)decrease inpressure (2) (3)decrease in surface area (4) decrease intemperature 17.IUPACnameof(CH)CCI",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q016-stem0.png",
+    "w": 1786,
+    "h": 345
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "surface"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "t-butyl chloride (1) 2chloro2methylpropane (2) n-butyl chloride (4) 3-chloro butane (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q017-stem0.png",
+    "w": 1774,
+    "h": 370
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "chloride"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "18.Lucastest isassociatedwith Carboxylic acid (2) Alcohols (1) Phenols (3) Aldehydes (4) 19.An organic compound on heating with CuO produces CO, but no water. The organic",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q018-stem0.png",
+    "w": 1772,
+    "h": 346
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "carboxylic acid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "compound may be (1)Methane (2) Ethyl iodide (4)Chloroform (3) Carbon tetrachloride",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q019-stem0.png",
+    "w": 1876,
+    "h": 330
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "chloroform",
+   "iodide"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "20.Thecondensationpolymer among thefollowingis PVC (1) (2) Polyethene (3) Rubber (4) Protein",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q020-stem0.png",
+    "w": 1514,
+    "h": 359
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "pvc",
+   "rubber"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "21.The order of stability of metal oxides is (1) Fe2O3<CrO<AlO<MgO (2) Fe2O3<AlO<Cr2O3<MgO (3) AlO3<MgO<Fe2O3<Cr03 (4) Cr2O3<MgO<AlO3<Fe2O3",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q021-stem0.png",
+    "w": 1513,
+    "h": 569
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "stability of"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "22.The temperature of the slagzonein themetallurgy ofIron usingblastfurnace is 400-700°℃ (1) (2) 800-1000°C 1200-1500°C (3) (4) 1500-1600°C",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q022-stem0.png",
+    "w": 1519,
+    "h": 555
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "23.Thefunction ofFe(OH),in the contact processis (1) toremovemoisture (2) toremovedustparticles toremove arsenicimpurity (③) to detect colloidal impurity 4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q023-stem0.png",
+    "w": 1519,
+    "h": 453
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "24.In which of the following,NH,is not used? (1) Groupreagent for the analysisof IVgroupbasicradical. (2) Groupreagentforthe analysisofIllgroupbasicradical. Tollen's reagent (3) (4) Nessler's reagent",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q024-stem0.png",
+    "w": 1758,
+    "h": 536
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "25. Argon is used (1)in high temperaturewelding (2) inradiotherapyfortreatmentofcancer (3) in filling airships （4） toobtainlowtemperature",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q025-stem0.png",
+    "w": 1765,
+    "h": 520
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "argon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "26.TheincorrectstatementinrespectofChromyl chloridetest is (1) formationof Chromyl chloride (2) liberation of Chlorine formation ofredvapours (3) （4) formationofleadchromate",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q026-stem0.png",
+    "w": 1765,
+    "h": 528
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "chlorine"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "28.The IUPAC name of [Co(NH) ONOj2+ ion is (1) Penta amminenitro cobalt(IIl) ion (2) Penta ammine nitro cobalt(IV)ion (3) Penta amminenitritocobalt(IV)ion (4) Penta ammine nitrito cobalt(III)ion 29.The oxidation state of Fe in the brown ring complex :[Fe(HO) NO]SO is",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q028-stem0.png",
+    "w": 1457,
+    "h": 511
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidation state",
+   "oxidation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "32.2gm of a radioactive samplehavinghalf lifeof 15 dayswassynthesised on 1Jan2009. The amount of the sample left behind on 1March,2009 (including both the days) (1) 1gm (2) 0.5 gm (3) 0 gm (4) 0.125 gm",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q032-stem0.png",
+    "w": 1868,
+    "h": 463
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "33.For a chemicalreaction A→B,the rate of the reaction is 2×10-3mol dm-s-1,when the initial concentration is 0.05mol dm-3.The rate of the samereaction is 1.6x10-²mol dm3 s-1 when the initial concentration isO.1mol dm-.The orderof thereaction is (1) 3 (2) 1",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q033-stem0.png",
+    "w": 1868,
+    "h": 318
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "35.The rate equation for a reaction:A→B is I=K[A]°.If the initial concentration of the reactant is a mol dm-3,the half life period of the reaction is aK 2a (2) (1) K K a (3) (4) 2K a M M M",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q035-stem0.png",
+    "w": 1905,
+    "h": 525
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "36.30ccof HNO, and 40 cc of HCI, 20 cc of 2 NaOH solutions aremixed and the 3 4 volumewasmadeupto1dm?.ThepHoftheresultingsolutionis (2)3 (1)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q036-stem0.png",
+    "w": 1900,
+    "h": 243
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "39.10-6MNaOHisdiluted 100 times.ThepHofthedilutedbaseis between 10 and 11 (1) between6and7 (2) between 7 and 8 (4) between 5 and 6 (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q039-stem0.png",
+    "w": 1764,
+    "h": 368
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "40.In the electrolysis of acidulated water, it is desired to obtain 1.12 cc of Hydrogen per second underS.T.P.condition.Thecurrenttobepassedis (1) 19.3Amp (2) 0.965 Amp (3) 1.93 Amp (4) 9.65 Amp",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q040-stem0.png",
+    "w": 1862,
+    "h": 429
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrogen",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "hydrogen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "41.Theonewhichdecreaseswithdilutionis (1)Specific conductance (2) Equivalent conductance Molarconductance (4) Conductance (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q041-stem0.png",
+    "w": 1791,
+    "h": 374
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "specific conductance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "42.Vapour pressure of pure ‘A'is 70 mm of Hg at 25 °C. It forms an ideal solution with ‘B′ in which mole fraction of A is 0.8.If the vapour pressure of the solution is 84 mm of Hg at 25°C,thevapour pressure ofpure‘B’at25°C is 70mm (2) 140mm (1) (3) 28mm (4) 56mm",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q042-stem0.png",
+    "w": 1874,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "mole fraction",
+   "solution",
+   "ideal solution",
+   "vapour pressure"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "43.A6%solutionofureais isotonicwith 6%solutionof Glucose (1) (2) 25%solutionofGlucose (4)0.05MsolutionofGlucose (3) 1MsolutionofGlucose",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q043-stem0.png",
+    "w": 1769,
+    "h": 288
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "glucose"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "45.For the reaction HO (l)HO(g) at 373K and one atmospheric pressure (1) △H=T△S (2) △H=△E (3) △H=0 (4) △E=0",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q045-stem0.png",
+    "w": 1765,
+    "h": 386
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "46.A compound of ‘A'and ‘B’ crystallises in a cubic lattice in which the‘A'atoms occupy the latticepoints atthecornersof thecube.The‘B'atomsoccupy thecentreofeachface of the cube.Theprobableempirical formulaofthecompoundis (1)AB (2)AB3 (3)AB2 (4) AB",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q046-stem0.png",
+    "w": 1865,
+    "h": 515
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "lattice"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "47.In electrophillic aromatic substitutionreaction,thenitro group ismeta directingbecauseit (1) increaseselectrondensityatmetaposition (2) increaseselectrondensity atorthoandparapositions decreases electron density at ortho and para positions (3) (4) decreases electron density at meta position",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q047-stem0.png",
+    "w": 1765,
+    "h": 472
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electron"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "300°℃ NaOH In the abovereaction Zis (1)Ketol (2) Acetal (3) Butanol (4) Aldol",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q048-stem0.png",
+    "w": 1866,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "aldol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "49.Thebestmethod for theconversion of an alcohol intoan alkyl chloride isbytreatingthe alcohol with (1)SOCl,in presence of pyridine Dry HCI in the presence of anhydrous ZnCl (2) (3) PCI3 PCIS (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q049-stem0.png",
+    "w": 1864,
+    "h": 551
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "alcohol"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "50.The electrophileinvolved in the sulphonation ofBenzeneis HO (1) (2) SO3 SO3 (3) (4) SO3",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q050-stem0.png",
+    "w": 1765,
+    "h": 354
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "51.The carbon-carbonbondlength inBenzene is (1)in between CH,and CH2 in between CH4 and CH2 (②) (3)in between CHand CH4 (4) same as in CH4",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q051-stem0.png",
+    "w": 1773,
+    "h": 300
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "carbon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "52.Thecompoundwhichisnotformedduringthedrydistillationofamixtureofcalcium formateandcalciumacetateis (1) Propanone (2) Ethanal (3) Methanal (4)Propanal",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q052-stem0.png",
+    "w": 1867,
+    "h": 302
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "53.An organic compound X is oxidised by using acidified KCrO.The productobtained reacts with Phenyl hydrazinebut doesnot answer silvermirror test.The possiblestructure ofXis (CH)CHOH CH,CHO (1) (2) (3) CH,CH,OH （4) CH-C- -CH △",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q053-stem0.png",
+    "w": 1877,
+    "h": 551
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidised"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "54.Thereaction involved in the oil ofWinter Green test is Salicylicacid Conc. H,SO4 product.The product is treated with NaCO, solution.The missing reagent in the above reaction is (1) Ethanol (2) Methanol (3) Phenol (4) NaOH",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q054-stem0.png",
+    "w": 1879,
+    "h": 489
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "phenol",
+   "ethanol",
+   "methanol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "55.ThecompoundwhichformsacetaldehydewhenheatedwithdiluteNaOHis (1)1Chloro ethane (2) 1,2 Dichloro ethane (3) 1,1 Dichloro ethane (4) 1,1,1 Trichloro ethane",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q055-stem0.png",
+    "w": 1777,
+    "h": 321
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "56.Arrange thefollowing in theincreasingorder of theirbasic strengths: CH,NH,(CH)NH,(CH)N,NH (1) (CH)N<NH<CHNH2<(CH)NH (2) CH,NH<(CH)NH<(CH)N<NH3 NH<(CH)N<(CH)NH<CH,NH2 (3) NH<(CH)N<CHNH2<(CH)NH 4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q056-stem0.png",
+    "w": 1875,
+    "h": 578
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "57.The one whichhas least Iodinevalue is (1) Ghee (2) Groundnutoil Ginger oil (3) Sunfloweroil (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q057-stem0.png",
+    "w": 1768,
+    "h": 376
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "58.AdiabeticpersoncarriesapocketofGlucosewithhim always,because (1) Glucose reduces theblood sugar level. (2) Glucose increasestheblood sugar level almost instantaneously. (3) Glucose reduces the blood sugar level slowly. (4) Glucose increases theblood sugar level slowly.",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q058-stem0.png",
+    "w": 1768,
+    "h": 570
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "glucose"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "59.There are 20 naturally occurring amino acids.The maximum number of tripeptides that can beobtainedis (1) 7465 (2) 5360 (3) 8000 (4) 6470",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q059-stem0.png",
+    "w": 1872,
+    "h": 436
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Amines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "amino"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 60,
+  "subject": "Chemistry",
+  "year": 2009,
+  "source": "kcet-2009-chemistry-question-paper.pdf",
+  "stemText": "60.Cookingis fast in a pressure cooker,because food is cooked at constant volume. (1) (2) lossofheatduetoradiationisminimum (3) foodparticlesareeffectivelysmashed. water boilsat higher temperature inside the pressure cooker. (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2009-kea/q060-stem0.png",
+    "w": 1770,
+    "h": 554
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

@@ -1,0 +1,886 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "3 9 1) .9 2) 2 27 15 3) 4) 2 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q001-stem0.png",
+    "w": 1801,
+    "h": 492
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "6. 1) 4 2) 8 3)±2. 4) 6",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q006-stem0.png",
+    "w": 1750,
+    "h": 259
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "The contrapositive of \"If two triangles are identical, then these are similar\" is 7. 1) If'two triangles are not similar then these are not identical. 2) If two triangles are not identical then these are not similar. If two triangles are not identical then these are similar. 3) 4 If two triangles are not similar then these are identical.",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q007-stem0.png",
+    "w": 1868,
+    "h": 398
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "contrapositive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "8. The contrapositive of the inverse of p→> ~ q is 1) ~q→p 2) p-→q 3) . ~q- ~ p 4) ~p→~q",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q008-stem0.png",
+    "w": 1750,
+    "h": 297
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "contrapositive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "9. The converse of the contrapositive of p → q is 1) b←d~ 2) p→~q 3) 4) .~q ~→ p b~←-d ~ @",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q009-stem0.png",
+    "w": 1872,
+    "h": 323
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "contrapositive"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "11.The solutions of.the equation are -1 2 x 3,-1 -3, 1 1) 2) 3) 3,1 4) 3,-1 3 5 17",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q011-stem0.png",
+    "w": 1806,
+    "h": 374
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "16. If a , 6 and c are mutually perpendicular unit vectors, then ↓a + b + is equal to 1）3 2) √3 √a²+ b²+ c² 3) 4) 1 xeR,x≠o!",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q016-stem0.png",
+    "w": 1838,
+    "h": 482
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Vector Algebra",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "unit vectors"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "21. :(0, -1) and (0, 3) are two opposite vertices of:a square. The other two vertices are 1)(0,1), (0,-3) 2) (3, -1), (0,0) 3)(2,1), (-2,1) 4) (2,2), (1,1) The equation to the line bisecting the join of (3, - 4) and (5, 2) and having its intercepts on",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q021-stem0.png",
+    "w": 1894,
+    "h": 343
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "23. The distance between the pair of parallel lines x? + 2xy + y2 - 8ax - 8ay --9a? =.0 is . 2√5α :2） √10α 1) 3) 10α 4) 5√2a",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q023-stem0.png",
+    "w": 1889,
+    "h": 411
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "24. The equation to the circle with centre (2, 1) and touching'the line 3x + 4y = 5 is 1) x² + y² - 4x - 2y + 5 = 0 2) + y² -- 4x - 2y - 5 = 0 x² + y² - 4x - 2y - 4 = 0",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q024-stem0.png",
+    "w": 1766,
+    "h": 220
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "26. orthogonally provided k is equal to ... 1) 47 2) -47. 3) 49 4) -49",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q026-stem0.png",
+    "w": 1658,
+    "h": 326
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "27. The radius of the circle x² + y2 + 4x + 6y + 13 = 0 is 1) √26 2) √13 3) √23 4) 0",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q027-stem0.png",
+    "w": 1655,
+    "h": 329
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "radius of the circle",
+   "circle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "28. The centre ofthe circle x = 2 + 3 Cos 0 , y = 3 Sin 0 - 1 is 1) (3,3) 2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q028-stem0.png",
+    "w": 1660,
+    "h": 107
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "31. The ends of the latus-rectum of the. conic x² + 10x - 16y + 25 = 0 are 1) (3, -4), (13, 4) :2)(-3, -4),(13,-4) 3) (3, 4), (-13, 4) 4)(5, -8),(-5,8)",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q031-stem0.png",
+    "w": 1777,
+    "h": 310
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "conic"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "32. . The equation to the hyperbola having its eccentricity 2 and the distance between its foci 8 is '. 2 1) y x 2) 12 4 4 12 +？",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q032-stem0.png",
+    "w": 1891,
+    "h": 317
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "eccentricity",
+   "hyperbola"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "36. If 12 Cot² 0 - 31 Cosec 0. + 32 = 0 , then the value of Sin 0 is 3 2 -2 or 1 2) 1) -5 3 or 3 4 3 1 土 3) or 5 4 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q036-stem0.png",
+    "w": 1287,
+    "h": 449
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cosec"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "37. The circum-radius of the triangle whose sides are 13, 12 and 5 is 13 1) 15 2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q037-stem0.png",
+    "w": 1285,
+    "h": 163
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "are π 'and 2). 1 and 0 1) 6 π π 3)1 and 4).1and 3 4 1 The real part of 1 + Cos 0 + i Sin 0",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q041-stem0.png",
+    "w": 1904,
+    "h": 503
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2005,
+  "source": "kcet-2005-mathematics-question-paper.pdf",
+  "stemText": "46. If y = Tan-1 1 dy ,then is equal to /1+x² +√1-x2 dx x 2 2) /1 1+x x x 3) 4) /1.+ x4",
+  "stemImages": [
+   {
+    "src": "mathematics-2005-kea/q046-stem0.png",
+    "w": 1766,
+    "h": 605
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ }
+]

@@ -1,0 +1,3729 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The length of the sub-tangent, ordinate and the sub-normal are in",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q001-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Arithmetico geometric progression",
+    "img": {
+     "src": "mathematics-2012/q001-optA.png",
+     "w": 1147,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A.P.",
+    "img": {
+     "src": "mathematics-2012/q001-optB.png",
+     "w": 1147,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "H.P",
+    "img": {
+     "src": "mathematics-2012/q001-optC.png",
+     "w": 1149,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "G.P.",
+    "img": {
+     "src": "mathematics-2012/q001-optD.png",
+     "w": 1147,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Sequences and Series",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "geometric progression",
+   "progression"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The maximum value of xe-x is \n1\n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q002-stem0.png",
+    "w": 1254,
+    "h": 57
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "- e\n1",
+    "img": {
+     "src": "mathematics-2012/q002-optA.png",
+     "w": 234,
+     "h": 63
+    }
+   },
+   {
+    "letter": "B",
+    "text": "e",
+    "img": {
+     "src": "mathematics-2012/q002-optB.png",
+     "w": 258,
+     "h": 63
+    }
+   },
+   {
+    "letter": "C",
+    "text": "e\n1",
+    "img": {
+     "src": "mathematics-2012/q002-optC.png",
+     "w": 260,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "–e",
+    "img": {
+     "src": "mathematics-2012/q002-optD.png",
+     "w": 285,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "maximum value"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If [x] is the greatest integer function not greater than x, then \n \n dx = \n∫\n11\nx\n]\nx\n[",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q003-stem0.png",
+    "w": 1254,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "55",
+    "img": {
+     "src": "mathematics-2012/q003-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "45",
+    "img": {
+     "src": "mathematics-2012/q003-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "66",
+    "img": {
+     "src": "mathematics-2012/q003-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "35",
+    "img": {
+     "src": "mathematics-2012/q003-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Relations and Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function",
+   "greatest integer"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 4,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If n ∈ N and In = \ndx, then I\n∫\nn\n)\nx\n(log\nn + nIn-1\n = \n)\n(l\nn\n)\n(l\n1\nn+",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q004-stem0.png",
+    "w": 1254,
+    "h": 74
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "n\nn\n)\nx\n(log\nn",
+    "img": {
+     "src": "mathematics-2012/q004-optA.png",
+     "w": 234,
+     "h": 61
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1\nn\n)\nx\n(log\n1\nn\n+\n+",
+    "img": {
+     "src": "mathematics-2012/q004-optB.png",
+     "w": 258,
+     "h": 61
+    }
+   },
+   {
+    "letter": "C",
+    "text": "x(log x)n + c",
+    "img": {
+     "src": "mathematics-2012/q004-optC.png",
+     "w": 260,
+     "h": 61
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(log x)n-1",
+    "img": {
+     "src": "mathematics-2012/q004-optD.png",
+     "w": 285,
+     "h": 61
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "Solution of \ndx\ndy\ne\n = x when x = 1 and y = 0 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q005-stem0.png",
+    "w": 1254,
+    "h": 44
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "y = x (log x – 1) + 1",
+    "img": {
+     "src": "mathematics-2012/q005-optA.png",
+     "w": 530,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "y = x (log x – 1) + 4",
+    "img": {
+     "src": "mathematics-2012/q005-optB.png",
+     "w": 580,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "y = x (log x – 1) + 3",
+    "img": {
+     "src": "mathematics-2012/q005-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "y = x (log x + 1) + 1",
+    "img": {
+     "src": "mathematics-2012/q005-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If f(x) = \n⎪⎩\n⎪⎨\n⎧\n=\n≠\n−\n+\n+\n−\n2\nx\n2\n2\nx\n2\nx\na\nx\n)\n2\na\n(\nx\n is continuous at x = 2, then the value of a is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q006-stem0.png",
+    "w": 1254,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "– 1",
+    "img": {
+     "src": "mathematics-2012/q006-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "– 6",
+    "img": {
+     "src": "mathematics-2012/q006-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2012/q006-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q006-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "continuous at x"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If log2 (9x-1 + 7) – log2(3x-1 + 1) = 2, then x values are",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q007-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1, 2",
+    "img": {
+     "src": "mathematics-2012/q007-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0, 2",
+    "img": {
+     "src": "mathematics-2012/q007-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0, 1",
+    "img": {
+     "src": "mathematics-2012/q007-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1, 4",
+    "img": {
+     "src": "mathematics-2012/q007-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If x – 1 is a factor of x5 – 4x3 + 2x2 – 3x + k = 0, then k is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q008-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q008-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2012/q008-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-4",
+    "img": {
+     "src": "mathematics-2012/q008-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q008-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "is a factor of"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If A and B have n elements in common, then the number of elements common to A x B and \nB x A is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q009-stem0.png",
+    "w": 1254,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2012/q009-optA.png",
+     "w": 235,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "n",
+    "img": {
+     "src": "mathematics-2012/q009-optB.png",
+     "w": 258,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2n",
+    "img": {
+     "src": "mathematics-2012/q009-optC.png",
+     "w": 260,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "n2",
+    "img": {
+     "src": "mathematics-2012/q009-optD.png",
+     "w": 285,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Sets",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "elements common",
+   "a x b",
+   "b x a"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The 13th term in the expansion of \nn\n2\nx\n2\nx\n⎟\n⎠\n⎞\n⎜\n⎝\n⎛\n+\nis independent of x then the sum of the divisors \nof n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q010-stem0.png",
+    "w": 1254,
+    "h": 98
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "39",
+    "img": {
+     "src": "mathematics-2012/q010-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "36",
+    "img": {
+     "src": "mathematics-2012/q010-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "37",
+    "img": {
+     "src": "mathematics-2012/q010-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "38",
+    "img": {
+     "src": "mathematics-2012/q010-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Binomial Theorem",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "independent of x",
+   "expansion of"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If one of the slopes of the pair of lines ax2 + 2hxy + by2 = 0 is n times the other thennnn",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q011-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4ab = (n + 1)2 h",
+    "img": {
+     "src": "mathematics-2012/q011-optA.png",
+     "w": 529,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4(n + 1)2 ab = nab",
+    "img": {
+     "src": "mathematics-2012/q011-optB.png",
+     "w": 580,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4h2 = (n + 1)2 ab",
+    "img": {
+     "src": "mathematics-2012/q011-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4nh2 = (n + 1)2 ab",
+    "img": {
+     "src": "mathematics-2012/q011-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "pair of lines"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If f(x) = \nx\n1\nx\n2\nx\nx\nx\n2\n3\n then \n2\n0\nx\nx\n)\nx\n(\nf\nLt\n→\n =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q012-stem0.png",
+    "w": 1254,
+    "h": 87
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q012-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2012/q012-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q012-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q012-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The number of solutions of the equation z2 + z = 0 where x ∈ C are",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q013-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2012/q013-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q013-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2012/q013-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2012/q013-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "z ="
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The least and the greatest distances of the point (10, 7) from the circle \n \nx2 + y2 – 4x – 2y – 20 = 0 are",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q014-stem0.png",
+    "w": 1254,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5, 15",
+    "img": {
+     "src": "mathematics-2012/q014-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "10, 5",
+    "img": {
+     "src": "mathematics-2012/q014-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "15, 20",
+    "img": {
+     "src": "mathematics-2012/q014-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "12, 16",
+    "img": {
+     "src": "mathematics-2012/q014-optD.png",
+     "w": 284,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "Which of the following is incorrect? \n \nIf a ≡ b (mod m) and x is an integer, then",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q015-stem0.png",
+    "w": 1254,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(a ÷ x) ≡ (b ÷ x) (mod m)",
+    "img": {
+     "src": "mathematics-2012/q015-optA.png",
+     "w": 530,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(a + x) ≡ (b + x) (mod m)",
+    "img": {
+     "src": "mathematics-2012/q015-optB.png",
+     "w": 580,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(a - x) ≡ (b - x) (mod m)",
+    "img": {
+     "src": "mathematics-2012/q015-optC.png",
+     "w": 532,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "ax ≡ bx (mod m)",
+    "img": {
+     "src": "mathematics-2012/q015-optD.png",
+     "w": 580,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "Inverse of a diagonal non-singular matrix is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q016-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "diagonal matrix",
+    "img": {
+     "src": "mathematics-2012/q016-optA.png",
+     "w": 530,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "scalar matrix",
+    "img": {
+     "src": "mathematics-2012/q016-optB.png",
+     "w": 580,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "skew symmetric matrix",
+    "img": {
+     "src": "mathematics-2012/q016-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "zero matrix",
+    "img": {
+     "src": "mathematics-2012/q016-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Matrices",
+  "chapterScore": 19,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "symmetric matrix",
+   "skew symmetric",
+   "scalar matrix",
+   "diagonal matrix",
+   "matrix"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If ax4 + bx3 + cx2 + dx + e = \nx\n3\n4\nx\n3\nx\n4\nx\nx\n2\n1\nx\n+\n−\n−\n−\n+\n, then e =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q017-stem0.png",
+    "w": 1254,
+    "h": 93
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2012/q017-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q017-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2012/q017-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q017-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If \n are three non-coplanar vectors and \n, \n and \n are vectors defined by \n→\n→\n→\nc\nand\nb\n,\na\n→\np\n→\nq\n→\nr\n \n = \n→\np\n⎥\n⎦\n⎤\n⎢\n⎣\n⎡\n→\n→\n→\n→\n→\nc\nb\na\nc\nx\nb\n, \n = \n→\nq\n⎥\n⎦\n⎤\n⎢\n⎣\n⎡\n→\n→\n→\n→\n→\nc\nb\na\na\nx\nc\n and \n = \n→\nr\n⎥\n⎦\n⎤\n⎢\n⎣\n⎡\n→\n→\n→\n→\n→\nc\nb\na\nb\nx\na\n, then the value of \n \n(\n+\n).\n + (\n+\n).\n + (\n+\n).\n = \n→\na\n→\nb\n→\np\n→\nb\n→\nc\n→\nq\n→\nc\n→\na\n→\nr",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q018-stem0.png",
+    "w": 1254,
+    "h": 245
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q018-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2012/q018-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q018-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q018-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Vector Algebra",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "coplanar vectors"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If (\nx\n)\n→\na\n→\nb\n2 + (\n.\n)\n→\na\n→\nb\n2 = 144 and |\n| = 4, the |\n| = \n→\na\n→\nb",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q019-stem0.png",
+    "w": 1254,
+    "h": 44
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "12",
+    "img": {
+     "src": "mathematics-2012/q019-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "16",
+    "img": {
+     "src": "mathematics-2012/q019-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2012/q019-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q019-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "Which of the following is false?",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q020-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Set of even integers is a group under usual addition",
+    "img": {
+     "src": "mathematics-2012/q020-optA.png",
+     "w": 1147,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(N, .) is a group",
+    "img": {
+     "src": "mathematics-2012/q020-optB.png",
+     "w": 1147,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(N, +) is a semi-group",
+    "img": {
+     "src": "mathematics-2012/q020-optC.png",
+     "w": 1149,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(Z, +) is a group",
+    "img": {
+     "src": "mathematics-2012/q020-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "2 cos-1 x = sin-1 \n⎟⎠\n⎞\n⎜⎝\n⎛\n−\n2\nx\n1\nx\n2\n is valid for all values of x satisfying \n1\n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q021-stem0.png",
+    "w": 1254,
+    "h": 77
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0 ≤ x ≤ \n2\n1",
+    "img": {
+     "src": "mathematics-2012/q021-optA.png",
+     "w": 234,
+     "h": 72
+    }
+   },
+   {
+    "letter": "B",
+    "text": "-1 ≤x ≤ 1",
+    "img": {
+     "src": "mathematics-2012/q021-optB.png",
+     "w": 258,
+     "h": 72
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0 ≤x ≤ 1",
+    "img": {
+     "src": "mathematics-2012/q021-optC.png",
+     "w": 261,
+     "h": 72
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n1 ≤ x ≤ 1",
+    "img": {
+     "src": "mathematics-2012/q021-optD.png",
+     "w": 285,
+     "h": 72
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If α is a complex number such that α2 - α + 1 = 0, then α2011 =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q022-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q022-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "- α",
+    "img": {
+     "src": "mathematics-2012/q022-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "α2",
+    "img": {
+     "src": "mathematics-2012/q022-optC.png",
+     "w": 261,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "α",
+    "img": {
+     "src": "mathematics-2012/q022-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "complex number"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If cos α + 2 cos β + cos γ = 0, sin α + 2 sin β + 3 sin γ = 0 and α + β + γ = π, then \n \nsin 3α + 8 sin 3β + 27 sin 3γ =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q023-stem0.png",
+    "w": 1254,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2012/q023-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "– 18",
+    "img": {
+     "src": "mathematics-2012/q023-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2012/q023-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q023-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If the conjugate of (x + iy) (1 – 2i) is 1 + i, then \n1\ni\n1\ni\n1\n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q024-stem0.png",
+    "w": 1254,
+    "h": 57
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "x = - 5\n1",
+    "img": {
+     "src": "mathematics-2012/q024-optA.png",
+     "w": 234,
+     "h": 63
+    }
+   },
+   {
+    "letter": "B",
+    "text": "x – iy = \ni\n2\n1\ni\n1\n−\n+",
+    "img": {
+     "src": "mathematics-2012/q024-optB.png",
+     "w": 258,
+     "h": 63
+    }
+   },
+   {
+    "letter": "C",
+    "text": "x + iy = \ni\n2\n1\ni\n1\n−\n−",
+    "img": {
+     "src": "mathematics-2012/q024-optC.png",
+     "w": 260,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "x = 5\n1",
+    "img": {
+     "src": "mathematics-2012/q024-optD.png",
+     "w": 285,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "conjugate"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If the straight line 3x + 4y = k touches the circle x2 + y2 = 16x, then the value of k is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q025-stem0.png",
+    "w": 1254,
+    "h": 43
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "16, - 64",
+    "img": {
+     "src": "mathematics-2012/q025-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "16, 64",
+    "img": {
+     "src": "mathematics-2012/q025-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-16, - 64",
+    "img": {
+     "src": "mathematics-2012/q025-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-16, 64",
+    "img": {
+     "src": "mathematics-2012/q025-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "straight line"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The locus of the point of intersection of perpendicular tangents to the ellipse is called",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q026-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "director circle",
+    "img": {
+     "src": "mathematics-2012/q026-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "hyperbola",
+    "img": {
+     "src": "mathematics-2012/q026-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "ellipse",
+    "img": {
+     "src": "mathematics-2012/q026-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "auxiliary circle",
+    "img": {
+     "src": "mathematics-2012/q026-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Conic Sections",
+  "chapterScore": 14,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "ellipse",
+   "hyperbola",
+   "circle"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If m sin – 1 x = loge y, then (1 – x2) y|| – xy’ =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q027-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "– 2y",
+    "img": {
+     "src": "mathematics-2012/q027-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "m2 y",
+    "img": {
+     "src": "mathematics-2012/q027-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "– m2 y",
+    "img": {
+     "src": "mathematics-2012/q027-optC.png",
+     "w": 261,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2y",
+    "img": {
+     "src": "mathematics-2012/q027-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If y = \n, then \n..]\nx\nx\n1\n[\nlog\n2\ne\ne\n+\n+\n+\ndx\ndy = \n1\n1\n1\n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q028-stem0.png",
+    "w": 1254,
+    "h": 79
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2\n)\nx\n1\n(\n1\n−\n−",
+    "img": {
+     "src": "mathematics-2012/q028-optA.png",
+     "w": 234,
+     "h": 70
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2\n)\nx\n1\n(\n1\n+",
+    "img": {
+     "src": "mathematics-2012/q028-optB.png",
+     "w": 258,
+     "h": 70
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2\n)\nx\n1\n(\n1\n−",
+    "img": {
+     "src": "mathematics-2012/q028-optC.png",
+     "w": 261,
+     "h": 70
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n)\nx\n1\n(\n1\n+\n−",
+    "img": {
+     "src": "mathematics-2012/q028-optD.png",
+     "w": 285,
+     "h": 70
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "Length of the subtangent at (x1, y1) on xn ym = am + n, m, n > 0, is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q029-stem0.png",
+    "w": 1254,
+    "h": 57
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "m\nn |x1|",
+    "img": {
+     "src": "mathematics-2012/q029-optA.png",
+     "w": 234,
+     "h": 61
+    }
+   },
+   {
+    "letter": "B",
+    "text": "m\nn x1",
+    "img": {
+     "src": "mathematics-2012/q029-optB.png",
+     "w": 258,
+     "h": 61
+    }
+   },
+   {
+    "letter": "C",
+    "text": "n\nm |x1|",
+    "img": {
+     "src": "mathematics-2012/q029-optC.png",
+     "w": 261,
+     "h": 61
+    }
+   },
+   {
+    "letter": "D",
+    "text": "m\nn |y1|",
+    "img": {
+     "src": "mathematics-2012/q029-optD.png",
+     "w": 285,
+     "h": 61
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "subtangent"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If a ball is thrown vertically upwards and the height ‘s’ reached in time ‘t’ is given by \n \ns = 22t – 11 t2, then the total distance traveled by the ball is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q030-stem0.png",
+    "w": 1254,
+    "h": 81
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "22 units",
+    "img": {
+     "src": "mathematics-2012/q030-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "44 units",
+    "img": {
+     "src": "mathematics-2012/q030-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "33 units",
+    "img": {
+     "src": "mathematics-2012/q030-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "11 units",
+    "img": {
+     "src": "mathematics-2012/q030-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The sum of two positive numbers is given. If the sum of their cubes is minimum, then",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q031-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "one is thrice the other",
+    "img": {
+     "src": "mathematics-2012/q031-optA.png",
+     "w": 530,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "they are equal",
+    "img": {
+     "src": "mathematics-2012/q031-optB.png",
+     "w": 579,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "one is twice the other",
+    "img": {
+     "src": "mathematics-2012/q031-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "they are unequal",
+    "img": {
+     "src": "mathematics-2012/q031-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "is minimum"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "∫\nπ\nπ\n+\n3\n/\n6\n/\n3\n3\n3\nx\ncos\nx\nsin\nx\nsin\n dx =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q032-stem0.png",
+    "w": 1254,
+    "h": 93
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6\nπ",
+    "img": {
+     "src": "mathematics-2012/q032-optA.png",
+     "w": 234,
+     "h": 63
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2\nπ",
+    "img": {
+     "src": "mathematics-2012/q032-optB.png",
+     "w": 258,
+     "h": 63
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3\nπ",
+    "img": {
+     "src": "mathematics-2012/q032-optC.png",
+     "w": 261,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "12\nπ",
+    "img": {
+     "src": "mathematics-2012/q032-optD.png",
+     "w": 285,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "Lt\n0\nx →\nx\ncos\n1\nx\n2\nx\nx\n−\n−\n = \n1\n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q033-stem0.png",
+    "w": 1254,
+    "h": 80
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2\n1",
+    "img": {
+     "src": "mathematics-2012/q033-optA.png",
+     "w": 234,
+     "h": 61
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2 log 2",
+    "img": {
+     "src": "mathematics-2012/q033-optB.png",
+     "w": 258,
+     "h": 61
+    }
+   },
+   {
+    "letter": "C",
+    "text": "log 2",
+    "img": {
+     "src": "mathematics-2012/q033-optC.png",
+     "w": 260,
+     "h": 61
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n1 log 2",
+    "img": {
+     "src": "mathematics-2012/q033-optD.png",
+     "w": 285,
+     "h": 61
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If \n)\n3\nx\n(\n)\n1\nx\n(\n1\nx\n3\n+\n−\n+\n = \n1\nx\nA\n−\n + \n3\nx\nB\n+\n, then sin-1 B\nA\n =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q034-stem0.png",
+    "w": 1254,
+    "h": 80
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4\nπ",
+    "img": {
+     "src": "mathematics-2012/q034-optA.png",
+     "w": 234,
+     "h": 63
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2\nπ",
+    "img": {
+     "src": "mathematics-2012/q034-optB.png",
+     "w": 258,
+     "h": 63
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3\nπ",
+    "img": {
+     "src": "mathematics-2012/q034-optC.png",
+     "w": 261,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "6\nπ",
+    "img": {
+     "src": "mathematics-2012/q034-optD.png",
+     "w": 285,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If α, β, γ are the roots of the equation x3 + 4x + 2 = 0, then α3 + β3 + γ3 =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q035-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "– 6",
+    "img": {
+     "src": "mathematics-2012/q035-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q035-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2012/q035-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "– 2",
+    "img": {
+     "src": "mathematics-2012/q035-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "roots of the equation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The value of 10C1 + 10C2 + 10C3 + ...... + 10C9 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q036-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "210 – 1",
+    "img": {
+     "src": "mathematics-2012/q036-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "210",
+    "img": {
+     "src": "mathematics-2012/q036-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "211",
+    "img": {
+     "src": "mathematics-2012/q036-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "210 – 2",
+    "img": {
+     "src": "mathematics-2012/q036-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "p → ~ q can also be written as",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q037-stem0.png",
+    "w": 1254,
+    "h": 43
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "~ q → ~ p",
+    "img": {
+     "src": "mathematics-2012/q037-optA.png",
+     "w": 234,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p → q",
+    "img": {
+     "src": "mathematics-2012/q037-optB.png",
+     "w": 257,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "~ p v ~ q",
+    "img": {
+     "src": "mathematics-2012/q037-optC.png",
+     "w": 261,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "q → p",
+    "img": {
+     "src": "mathematics-2012/q037-optD.png",
+     "w": 285,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "can also be written as"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If f: R →R is defined by f (x) = 2x + 3, then f-1 (x)",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q038-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "does not exist because ‘f’ is not surjective \n3",
+    "img": {
+     "src": "mathematics-2012/q038-optA.png",
+     "w": 1147,
+     "h": 57
+    }
+   },
+   {
+    "letter": "B",
+    "text": "is given by \n2\n3\nx −\n \n1",
+    "img": {
+     "src": "mathematics-2012/q038-optB.png",
+     "w": 1147,
+     "h": 75
+    }
+   },
+   {
+    "letter": "C",
+    "text": "is given by \n3\nx\n2\n1\n+",
+    "img": {
+     "src": "mathematics-2012/q038-optC.png",
+     "w": 1149,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "does not exist because ‘f’ is not injective",
+    "img": {
+     "src": "mathematics-2012/q038-optD.png",
+     "w": 1147,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Relations and Functions",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "injective",
+   "surjective",
+   "injective",
+   "surjective"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "0\n0\n0\n0\n40\nsin\n70\ncos\n40\ncos\n70\nsin\n+\n+\n = \n1\n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q039-stem0.png",
+    "w": 1254,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q039-optA.png",
+     "w": 235,
+     "h": 72
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3\n1",
+    "img": {
+     "src": "mathematics-2012/q039-optB.png",
+     "w": 258,
+     "h": 72
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q039-optC.png",
+     "w": 261,
+     "h": 72
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n1",
+    "img": {
+     "src": "mathematics-2012/q039-optD.png",
+     "w": 285,
+     "h": 72
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The points (11, 9), (2, 1) and (2, -1) are the midpoints of the sides of the triangle. Then the \ncentroid is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q040-stem0.png",
+    "w": 1254,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(5, 3)",
+    "img": {
+     "src": "mathematics-2012/q040-optA.png",
+     "w": 234,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(-5, -3)",
+    "img": {
+     "src": "mathematics-2012/q040-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(5, - 3)",
+    "img": {
+     "src": "mathematics-2012/q040-optC.png",
+     "w": 261,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(3, 5)",
+    "img": {
+     "src": "mathematics-2012/q040-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Straight Lines",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "centroid",
+   "midpoints of the sides"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The reflection of the point (1, 1) along the line y = -x is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q041-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(1, -1)",
+    "img": {
+     "src": "mathematics-2012/q041-optA.png",
+     "w": 235,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(0, 0)",
+    "img": {
+     "src": "mathematics-2012/q041-optB.png",
+     "w": 258,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(-1, 1)",
+    "img": {
+     "src": "mathematics-2012/q041-optC.png",
+     "w": 260,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(-1, -1)",
+    "img": {
+     "src": "mathematics-2012/q041-optD.png",
+     "w": 285,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "reflection of the point"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The number of circles that touch the co-ordinate axes and the line whose slope is -1 and y-\nintercept is 1, is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q042-stem0.png",
+    "w": 1254,
+    "h": 73
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q042-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q042-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2012/q042-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q042-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Straight Lines",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "intercept",
+   "slope"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If f (x) is an even function, then f’ (x) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q043-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "nothing can be said",
+    "img": {
+     "src": "mathematics-2012/q043-optA.png",
+     "w": 530,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "an odd function",
+    "img": {
+     "src": "mathematics-2012/q043-optB.png",
+     "w": 580,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "an even function",
+    "img": {
+     "src": "mathematics-2012/q043-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "may be even or may be odd",
+    "img": {
+     "src": "mathematics-2012/q043-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The perimeter of a sector is a constant. If its area is to be maximum, then the sectorial \nangle is \nc\nc",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q044-stem0.png",
+    "w": 1254,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2c",
+    "img": {
+     "src": "mathematics-2012/q044-optA.png",
+     "w": 234,
+     "h": 63
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6\nc\nπ",
+    "img": {
+     "src": "mathematics-2012/q044-optB.png",
+     "w": 258,
+     "h": 63
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4\nc\nπ",
+    "img": {
+     "src": "mathematics-2012/q044-optC.png",
+     "w": 261,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4c",
+    "img": {
+     "src": "mathematics-2012/q044-optD.png",
+     "w": 285,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The last digit of number 7886 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q045-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q045-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2012/q045-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7",
+    "img": {
+     "src": "mathematics-2012/q045-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q045-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If (24, 92) = 24 m + 92 n, then (m, n) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q046-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(-4, 3)",
+    "img": {
+     "src": "mathematics-2012/q046-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(-1, 4)",
+    "img": {
+     "src": "mathematics-2012/q046-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(4, -1)",
+    "img": {
+     "src": "mathematics-2012/q046-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(4, -3)",
+    "img": {
+     "src": "mathematics-2012/q046-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The characteristic equation of a matrix A is λ3 - 5λ2 - 3λ + 2 = 0 then ⏐adj (A)⏐ \n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q047-stem0.png",
+    "w": 1254,
+    "h": 57
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2012/q047-optA.png",
+     "w": 235,
+     "h": 60
+    }
+   },
+   {
+    "letter": "B",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2012/q047-optB.png",
+     "w": 258,
+     "h": 60
+    }
+   },
+   {
+    "letter": "C",
+    "text": "25",
+    "img": {
+     "src": "mathematics-2012/q047-optC.png",
+     "w": 260,
+     "h": 60
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n1",
+    "img": {
+     "src": "mathematics-2012/q047-optD.png",
+     "w": 285,
+     "h": 60
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "matrix"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If \n and \nare adjacent sides of a parallelogram, then the lengths of its \ndiagonals are \n^\n^\n^\nk\nj\ni\n−\n+\n^\n^\n^\nk\nj\n3\ni\n2\n+\n−",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q048-stem0.png",
+    "w": 1254,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "13\n,\n21",
+    "img": {
+     "src": "mathematics-2012/q048-optA.png",
+     "w": 234,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "14\n,\n3",
+    "img": {
+     "src": "mathematics-2012/q048-optB.png",
+     "w": 258,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "14\n,\n13",
+    "img": {
+     "src": "mathematics-2012/q048-optC.png",
+     "w": 261,
+     "h": 46
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3\n,\n21",
+    "img": {
+     "src": "mathematics-2012/q048-optD.png",
+     "w": 285,
+     "h": 46
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Vector Algebra",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "parallelogram",
+   "adjacent sides",
+   "diagonals"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If the volume of the parallelepiped formed by three non-coplanar vectors \nand \nis 4 \ncubic units, then \n= \n→\n→\nb\n,\na\n→\nc\n⎥\n⎦\n⎤\n⎢\n⎣\n⎡\n→\n→\n→\n→\n→\n→\na\nx\nc\nc\nx\nb\nb\nx\na",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q049-stem0.png",
+    "w": 1254,
+    "h": 125
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2012/q049-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "64",
+    "img": {
+     "src": "mathematics-2012/q049-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "16",
+    "img": {
+     "src": "mathematics-2012/q049-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2012/q049-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Vector Algebra",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "coplanar vectors"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "Which of the following is a subgroup of the group G = {2n⏐n∈Z} under multiplication?",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q050-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "{4n⏐n∈Z}",
+    "img": {
+     "src": "mathematics-2012/q050-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "{4n⏐n∈N}",
+    "img": {
+     "src": "mathematics-2012/q050-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "{3n⏐n∈Z}",
+    "img": {
+     "src": "mathematics-2012/q050-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "{6n⏐n∈Z}",
+    "img": {
+     "src": "mathematics-2012/q050-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "In the group G = {1, 2, 3, 4, 5, 6} under ⊗7, the solution of 4⊗7x = 5 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q051-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2012/q051-optA.png",
+     "w": 235,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2012/q051-optB.png",
+     "w": 258,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q051-optC.png",
+     "w": 260,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2012/q051-optD.png",
+     "w": 285,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The number of real solutions of the equation \n2\n1\nx\nx\nsin\n)\n1\nx\n(\nx\ntan\n2\n1\n1\nπ\n=\n+\n+\n+\n+\n−\n−\n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q052-stem0.png",
+    "w": 1254,
+    "h": 60
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "infinitely many",
+    "img": {
+     "src": "mathematics-2012/q052-optA.png",
+     "w": 234,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "one",
+    "img": {
+     "src": "mathematics-2012/q052-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "four",
+    "img": {
+     "src": "mathematics-2012/q052-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "two",
+    "img": {
+     "src": "mathematics-2012/q052-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If sin 2x = 4 cos x, then x =",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q053-stem0.png",
+    "w": 1254,
+    "h": 57
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2nπ ± 2\nπ , n ∈Z",
+    "img": {
+     "src": "mathematics-2012/q053-optA.png",
+     "w": 235,
+     "h": 61
+    }
+   },
+   {
+    "letter": "B",
+    "text": "n 2\nπ ± 4\nπ , n ∈ Z",
+    "img": {
+     "src": "mathematics-2012/q053-optB.png",
+     "w": 257,
+     "h": 61
+    }
+   },
+   {
+    "letter": "C",
+    "text": "no value",
+    "img": {
+     "src": "mathematics-2012/q053-optC.png",
+     "w": 261,
+     "h": 61
+    }
+   },
+   {
+    "letter": "D",
+    "text": "nπ + (-1)n 4\nπ n ∈ Z",
+    "img": {
+     "src": "mathematics-2012/q053-optD.png",
+     "w": 285,
+     "h": 61
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If α and β are different complex numbers with ⏐β⏐ = 1, then \nβ\nα\n−\nα\n−\nβ\n1\nis equal to \n1\n1",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q054-stem0.png",
+    "w": 1254,
+    "h": 88
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2012/q054-optA.png",
+     "w": 235,
+     "h": 63
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2\n1",
+    "img": {
+     "src": "mathematics-2012/q054-optB.png",
+     "w": 258,
+     "h": 63
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2012/q054-optC.png",
+     "w": 260,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3\n1",
+    "img": {
+     "src": "mathematics-2012/q054-optD.png",
+     "w": 285,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The equations of the two tangents from (-5, -4) to the circle x2 + y2 + 4x + 6y + 8 = 0 are",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q055-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "x – 7y = 23, 6x + 13y = 4",
+    "img": {
+     "src": "mathematics-2012/q055-optA.png",
+     "w": 1147,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "x + 2y + 13 = 0, 2x – y + 6 = 0",
+    "img": {
+     "src": "mathematics-2012/q055-optB.png",
+     "w": 1147,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2x + y + 13 = 0, x – 2y = 6",
+    "img": {
+     "src": "mathematics-2012/q055-optC.png",
+     "w": 1149,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3x + 2y + 23 = 0, 2x – 3y + 4 = 0",
+    "img": {
+     "src": "mathematics-2012/q055-optD.png",
+     "w": 1147,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If x = t2 + 2 and y = 2t represent the parametric equation of the parabola",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q056-stem0.png",
+    "w": 1254,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(x – 2)2 = 4y",
+    "img": {
+     "src": "mathematics-2012/q056-optA.png",
+     "w": 234,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "x2 = 4 (y – 2)",
+    "img": {
+     "src": "mathematics-2012/q056-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(y – 2)2 = 4x",
+    "img": {
+     "src": "mathematics-2012/q056-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "y2 = 4 (x – 2)",
+    "img": {
+     "src": "mathematics-2012/q056-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "parabola"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If x – y = 1 is a tangent to the hyperbola \n3\ny\n4\nx\n2\n2\n−\n= 1, the point of contact is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q057-stem0.png",
+    "w": 1254,
+    "h": 62
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(5, 4)",
+    "img": {
+     "src": "mathematics-2012/q057-optA.png",
+     "w": 235,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(4, 3)",
+    "img": {
+     "src": "mathematics-2012/q057-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(3, 4)",
+    "img": {
+     "src": "mathematics-2012/q057-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(2, 1)",
+    "img": {
+     "src": "mathematics-2012/q057-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "hyperbola"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If y = \n.....\n7\nx\n5\nx\n1\ntan\n3\nx\n2\nx\n1\ntan\nx\nx\n1\n1\ntan\n2\n1\n2\n1\n2\n1\n+\n⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛\n+\n+\n+\n⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛\n+\n+\n+\n⎟\n⎠\n⎞\n⎜\n⎝\n⎛\n+\n+\n−\n−\n−\n n terms, then y’ (0) is \n2\n2\n2",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q058-stem0.png",
+    "w": 1254,
+    "h": 88
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-\n2\n2\nn\n1\nn\n+",
+    "img": {
+     "src": "mathematics-2012/q058-optA.png",
+     "w": 234,
+     "h": 65
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2\nπ",
+    "img": {
+     "src": "mathematics-2012/q058-optB.png",
+     "w": 258,
+     "h": 65
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2\nn\n1\nn\n2\n+",
+    "img": {
+     "src": "mathematics-2012/q058-optC.png",
+     "w": 261,
+     "h": 65
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2\n2\nn\n1\nn\n+",
+    "img": {
+     "src": "mathematics-2012/q058-optD.png",
+     "w": 285,
+     "h": 65
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "tan x",
+   "tan"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "If f (x) = sin [π2] x + cos [-π2] x then f’ (x) is, here [π2] and [-π2] greatest integer function \nnot greater than its value",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q059-stem0.png",
+    "w": 1254,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2012/q059-optA.png",
+     "w": 530,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "sin 9x + cos 9x",
+    "img": {
+     "src": "mathematics-2012/q059-optB.png",
+     "w": 580,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "9 cos 9x – 10 sin 10 x",
+    "img": {
+     "src": "mathematics-2012/q059-optC.png",
+     "w": 532,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2012/q059-optD.png",
+     "w": 580,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 6,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2012,
+  "source": "Mathematics-2012.pdf",
+  "stemText": "The tangent to the curve xy = 25 at any point on it cuts the coordinate axes at A B, then the \narea of the triangle OAB is",
+  "stemImages": [
+   {
+    "src": "mathematics-2012/q060-stem0.png",
+    "w": 1254,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "100 sq. units",
+    "img": {
+     "src": "mathematics-2012/q060-optA.png",
+     "w": 234,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "50 sq. units",
+    "img": {
+     "src": "mathematics-2012/q060-optB.png",
+     "w": 258,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "25 sq. units",
+    "img": {
+     "src": "mathematics-2012/q060-optC.png",
+     "w": 260,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "75 sq. units",
+    "img": {
+     "src": "mathematics-2012/q060-optD.png",
+     "w": 285,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "tangent to the curve",
+   "cuts the coordinate axes"
+  ],
+  "chapterConfidence": "low"
+ }
+]

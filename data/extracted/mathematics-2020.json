@@ -1,0 +1,4078 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q001-stem0.png",
+    "w": 519,
+    "h": 59
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2y–x",
+    "img": {
+     "src": "mathematics-2020/q001-optA.png",
+     "w": 489,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "–2y-x",
+    "img": {
+     "src": "mathematics-2020/q001-optB.png",
+     "w": 489,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2x-y",
+    "img": {
+     "src": "mathematics-2020/q001-optC.png",
+     "w": 489,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q001-optD.png",
+     "w": 487,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q001-sol0.png",
+    "w": 603,
+    "h": 601
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q002-stem0.png",
+    "w": 519,
+    "h": 106
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q002-optA.png",
+     "w": 186,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q002-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q002-optC.png",
+     "w": 186,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q002-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q002-sol0.png",
+    "w": 603,
+    "h": 614
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The right hand and left hand limit of the\nfunction are respectively.",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q003-stem0.png",
+    "w": 519,
+    "h": 185
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1 and 1",
+    "img": {
+     "src": "mathematics-2020/q003-optA.png",
+     "w": 489,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1 and –1",
+    "img": {
+     "src": "mathematics-2020/q003-optB.png",
+     "w": 489,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "–1 and –1",
+    "img": {
+     "src": "mathematics-2020/q003-optC.png",
+     "w": 489,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "–1 and 1",
+    "img": {
+     "src": "mathematics-2020/q003-optD.png",
+     "w": 487,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q003-sol0.png",
+    "w": 603,
+    "h": 46
+   }
+  ],
+  "chapter": "Limits and Derivatives",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "left hand limit",
+   "limit"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 4,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q004-stem0.png",
+    "w": 799,
+    "h": 96
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q004-optA.png",
+     "w": 186,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q004-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q004-optC.png",
+     "w": 186,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "y",
+    "img": {
+     "src": "mathematics-2020/q004-optD.png",
+     "w": 239,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q004-sol0.png",
+    "w": 609,
+    "h": 688
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If the curves 2x = y2 and 2xy = K intersect\nperpendicularly, then the value of K2 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q005-stem0.png",
+    "w": 519,
+    "h": 134
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q005-optA.png",
+     "w": 186,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q005-optB.png",
+     "w": 241,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q005-optC.png",
+     "w": 186,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "8",
+    "img": {
+     "src": "mathematics-2020/q005-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given curves are\n2x = y2 .....(i)\nand 2xy = K ....(ii)\nOn solving both Eqs. (i) and (ii), we get\nSince, both curves intersect perpendicularly",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q005-sol0.png",
+    "w": 609,
+    "h": 125
+   },
+   {
+    "src": "mathematics-2020/q005-sol1.png",
+    "w": 607,
+    "h": 892
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q006-stem0.png",
+    "w": 519,
+    "h": 58
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q006-optA.png",
+     "w": 186,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q006-optB.png",
+     "w": 241,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q006-optC.png",
+     "w": 186,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q006-optD.png",
+     "w": 239,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q006-sol0.png",
+    "w": 607,
+    "h": 528
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If the side of a cube is increased by 5%, then\nthe surface area of a cube is increased by",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q007-stem0.png",
+    "w": 519,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10%",
+    "img": {
+     "src": "mathematics-2020/q007-optA.png",
+     "w": 186,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "60%",
+    "img": {
+     "src": "mathematics-2020/q007-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6%",
+    "img": {
+     "src": "mathematics-2020/q007-optC.png",
+     "w": 186,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "20%",
+    "img": {
+     "src": "mathematics-2020/q007-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q007-sol0.png",
+    "w": 607,
+    "h": 46
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The value of",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q008-stem0.png",
+    "w": 538,
+    "h": 59
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q008-optA.png",
+     "w": 508,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q008-optB.png",
+     "w": 508,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q008-optC.png",
+     "w": 508,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q008-optD.png",
+     "w": 506,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q008-sol0.png",
+    "w": 764,
+    "h": 688
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The maximum value of",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q009-stem0.png",
+    "w": 538,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "e",
+    "img": {
+     "src": "mathematics-2020/q009-optA.png",
+     "w": 208,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q009-optB.png",
+     "w": 260,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q009-optC.png",
+     "w": 208,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q009-optD.png",
+     "w": 259,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q009-sol0.png",
+    "w": 764,
+    "h": 594
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "maximum value"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q010-stem0.png",
+    "w": 525,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q010-optA.png",
+     "w": 495,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q010-optB.png",
+     "w": 495,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q010-optC.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q010-optD.png",
+     "w": 493,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "We have,",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q010-sol0.png",
+    "w": 764,
+    "h": 46
+   },
+   {
+    "src": "mathematics-2020/q010-sol1.png",
+    "w": 1253,
+    "h": 514
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q011-stem0.png",
+    "w": 525,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q011-optA.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q011-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q011-optC.png",
+     "w": 195,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q011-optD.png",
+     "w": 246,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q011-sol0.png",
+    "w": 1253,
+    "h": 341
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If \nthen the values of A, B and C are respectively",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q012-stem0.png",
+    "w": 525,
+    "h": 186
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q012-optA.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q012-optB.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q012-optC.png",
+     "w": 495,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q012-optD.png",
+     "w": 493,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q012-sol0.png",
+    "w": 1253,
+    "h": 414
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q013-stem0.png",
+    "w": 525,
+    "h": 95
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q013-optA.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q013-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q013-optC.png",
+     "w": 195,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q013-optD.png",
+     "w": 246,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q013-sol0.png",
+    "w": 1253,
+    "h": 46
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The area of the region bounded by the curve\ny2 = 8x and the line y = 2x is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q014-stem0.png",
+    "w": 525,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q014-optA.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q014-optB.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q014-optC.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q014-optD.png",
+     "w": 493,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Gi\nti\nf\n2\n8\nd li\n2",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q014-sol0.png",
+    "w": 1253,
+    "h": 69
+   }
+  ],
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The value of \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q015-stem0.png",
+    "w": 519,
+    "h": 58
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q015-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2020/q015-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q015-optC.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "–2",
+    "img": {
+     "src": "mathematics-2020/q015-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "On adding Eqs. (i) and (ii), we get\nQ15",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q015-sol0.png",
+    "w": 1253,
+    "h": 341
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The order of the differential equation obtained\nby eliminating arbitrary constants in the family\nof curves",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q016-stem0.png",
+    "w": 519,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q016-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q016-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2020/q016-optC.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q016-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given equation of curve, y2 = 8x and line y = 2x\nNow, intersecting points of given curve and\nline. (2x)2 = 8x\n4x2 = 8x\nx = 0, 2 \nPutting values of x in y = 2x then, we get y = 0,\n4\nRequired area of bounded region.\nQ16",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q016-sol0.png",
+    "w": 1253,
+    "h": 498
+   }
+  ],
+  "chapter": "Differential Equations",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "differential equation",
+   "order of the differential"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The \ngeneral \nsolution \nof \nthe \ndifferential\nequation",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q017-stem0.png",
+    "w": 519,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q017-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q017-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q017-optC.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q017-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q017-sol0.png",
+    "w": 1253,
+    "h": 46
+   }
+  ],
+  "chapter": "Differential Equations",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "general solution of the differential",
+   "differential equation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The area of the region bounded by the line y =\n2x + 1, X-axis and the ordinates x = -1 and x = 1\nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q018-stem0.png",
+    "w": 519,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q018-optA.png",
+     "w": 179,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q018-optB.png",
+     "w": 241,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q018-optC.png",
+     "w": 179,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2020/q018-optD.png",
+     "w": 239,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, equation of line \n ....(i)\nEq. \n(i) \npassing \nthrough \nthe \npoints \n Required area of shaded region",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q018-sol0.png",
+    "w": 641,
+    "h": 963
+   }
+  ],
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The two vector \nrepresent \nthe \ntwo \nsides \nrespectively of a △ABC. The length of the\nmedian through A is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q019-stem0.png",
+    "w": 519,
+    "h": 158
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q019-optA.png",
+     "w": 179,
+     "h": 56
+    }
+   },
+   {
+    "letter": "B",
+    "text": "14",
+    "img": {
+     "src": "mathematics-2020/q019-optB.png",
+     "w": 241,
+     "h": 56
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7",
+    "img": {
+     "src": "mathematics-2020/q019-optC.png",
+     "w": 179,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q019-optD.png",
+     "w": 239,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We know that, the sum of three vectors of\ntriangle is zero.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q019-sol0.png",
+    "w": 641,
+    "h": 116
+   }
+  ],
+  "chapter": "Statistics",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "median"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If a and b are unit vectors and is the angle\nbetween a and b, then sin \n is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q020-stem0.png",
+    "w": 519,
+    "h": 125
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "|a + b|",
+    "img": {
+     "src": "mathematics-2020/q020-optA.png",
+     "w": 179,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q020-optB.png",
+     "w": 241,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q020-optC.png",
+     "w": 179,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "|a – b|",
+    "img": {
+     "src": "mathematics-2020/q020-optD.png",
+     "w": 239,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q020-sol0.png",
+    "w": 609,
+    "h": 639
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The curve passing through the point (1, 2)\ngiven that the slope of the tangent at any point\n(x, y) is \n represents",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q021-stem0.png",
+    "w": 519,
+    "h": 126
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Circle",
+    "img": {
+     "src": "mathematics-2020/q021-optA.png",
+     "w": 179,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Parabola",
+    "img": {
+     "src": "mathematics-2020/q021-optB.png",
+     "w": 241,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Ellipse",
+    "img": {
+     "src": "mathematics-2020/q021-optC.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Hyperbola",
+    "img": {
+     "src": "mathematics-2020/q021-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q021-sol0.png",
+    "w": 609,
+    "h": 46
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 13,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "parabola",
+   "ellipse",
+   "hyperbola",
+   "circle"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "2 If |a + b|2 + |a . b|2 = 144|a| = 6, then |b|\nis equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q022-stem0.png",
+    "w": 519,
+    "h": 90
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2020/q022-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2020/q022-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q022-optC.png",
+     "w": 179,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q022-optD.png",
+     "w": 239,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q022-sol0.png",
+    "w": 1365,
+    "h": 381
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "|a|"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The point (1, -3, 4) lies in the octant",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q023-stem0.png",
+    "w": 519,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Second",
+    "img": {
+     "src": "mathematics-2020/q023-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Third",
+    "img": {
+     "src": "mathematics-2020/q023-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Fourth",
+    "img": {
+     "src": "mathematics-2020/q023-optC.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Eighth",
+    "img": {
+     "src": "mathematics-2020/q023-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Clearly, point (1, -3, 4) lies in IV octant.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q023-sol0.png",
+    "w": 1365,
+    "h": 92
+   }
+  ],
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "octant"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If \nthe \nvectors\n are\ncoplanar, then the value of is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q024-stem0.png",
+    "w": 525,
+    "h": 123
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2020/q024-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "–5",
+    "img": {
+     "src": "mathematics-2020/q024-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "–6",
+    "img": {
+     "src": "mathematics-2020/q024-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2020/q024-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q024-sol0.png",
+    "w": 1365,
+    "h": 259
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The distance of the point (1, 2, –4) from the\nline",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q025-stem0.png",
+    "w": 525,
+    "h": 93
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q025-optA.png",
+     "w": 196,
+     "h": 54
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q025-optB.png",
+     "w": 247,
+     "h": 54
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q025-optC.png",
+     "w": 196,
+     "h": 54
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q025-optD.png",
+     "w": 246,
+     "h": 54
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q025-sol0.png",
+    "w": 1365,
+    "h": 46
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The sine of the angle between the straight line",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q026-stem0.png",
+    "w": 525,
+    "h": 172
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q026-optA.png",
+     "w": 196,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q026-optB.png",
+     "w": 247,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q026-optC.png",
+     "w": 196,
+     "h": 54
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q026-optD.png",
+     "w": 246,
+     "h": 54
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q026-sol0.png",
+    "w": 1365,
+    "h": 173
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If a line makes an angle of with each of X and\nY-axis, then the acute angle made by Z-axis is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q027-stem0.png",
+    "w": 525,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q027-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q027-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q027-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q027-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q027-sol0.png",
+    "w": 625,
+    "h": 422
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "Corner \npoints \nof \nthe \nfeasible \nregion\ndetermined by the system of linear constraints\nare (0, 3), (1, 1) and (3, 0). Let z = px = qy,\nwhere, p, q > 0. Condition on p and q, so that\nthe minimum of z occurs at (3, 0) and (1, 1) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q028-stem0.png",
+    "w": 525,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "p = 2q",
+    "img": {
+     "src": "mathematics-2020/q028-optA.png",
+     "w": 196,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "p =",
+    "img": {
+     "src": "mathematics-2020/q028-optB.png",
+     "w": 247,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "p = 3q",
+    "img": {
+     "src": "mathematics-2020/q028-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "p = q",
+    "img": {
+     "src": "mathematics-2020/q028-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The minimum value of z is unique.\nIt is given that the minimum value of z occurs\nat two points (3, 0) and (1, 1)",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q028-sol0.png",
+    "w": 625,
+    "h": 319
+   }
+  ],
+  "chapter": "Linear Programming",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "feasible region",
+   "constraints",
+   "feasible"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The feasible region of an LPP is shown in the\nfigure. If z = 11x + 7y, then the maximum value\nof Z occurs at",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q029-stem0.png",
+    "w": 519,
+    "h": 500
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(0,5)",
+    "img": {
+     "src": "mathematics-2020/q029-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(3, 3)",
+    "img": {
+     "src": "mathematics-2020/q029-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(5,0)",
+    "img": {
+     "src": "mathematics-2020/q029-optC.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(3, 2)",
+    "img": {
+     "src": "mathematics-2020/q029-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, maximize z = 11x + 7y\nIntersecting point of lines x + y = 5 and x + 3y =\n9 is (3, 2).\n Corner point is B(3, 2)\nFor corner points of the feasible region\nWe put,\nx = 0 in x + 3y = 9\ny = 3 \ncorner point is A(0, 3) and put x = 0 in x + y =\n5 we get y = 5\ncorner point is C(0,5) The values of z at\nthese corner points are as follows\nCorner points\nx = 11x + 7y\nA(0, 3)\n11 × 0 + 7 × 3 = 21\nB(3, 2)\n11 × 3 + 7 × 2 = 47\nC(0,5)\n11 × 0 + 7 × 5 = 35\nTherefore, maximum value of z is 47 at (3, 2).",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q029-sol0.png",
+    "w": 625,
+    "h": 744
+   }
+  ],
+  "chapter": "Linear Programming",
+  "chapterScore": 27,
+  "chapterMargin": 25,
+  "chapterHits": [
+   "feasible region",
+   "corner point",
+   "lpp",
+   "feasible",
+   "maximize"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "A die is thrown 10 times, the probability that\nan odd number will come up at least one time\nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q030-stem0.png",
+    "w": 519,
+    "h": 121
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q030-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q030-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q030-optC.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q030-optD.png",
+     "w": 239,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "A die is thrown 10 times\nProbability of success is an odd number\nNumber of success is atleast one\nRequired \nprobability",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q030-sol0.png",
+    "w": 724,
+    "h": 367
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "at least one",
+   "probability"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If A and A are two events such that",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q031-stem0.png",
+    "w": 519,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q031-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q031-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q031-optC.png",
+     "w": 179,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q031-optD.png",
+     "w": 239,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q031-sol0.png",
+    "w": 724,
+    "h": 268
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "Events E1 and E2 from a partition of the\nsample space S. A is any event such that",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q032-stem0.png",
+    "w": 519,
+    "h": 216
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q032-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q032-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q032-optC.png",
+     "w": 179,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q032-optD.png",
+     "w": 239,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q032-sol0.png",
+    "w": 724,
+    "h": 382
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "sample space",
+   "event"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The probability of solving a problem by three\npersons A, B and C independently is \n and \n respectively. Then the probability of the\nproblem is solved by any two of them is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q033-stem0.png",
+    "w": 519,
+    "h": 200
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q033-optA.png",
+     "w": 179,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q033-optB.png",
+     "w": 241,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q033-optC.png",
+     "w": 179,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q033-optD.png",
+     "w": 239,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q033-sol0.png",
+    "w": 724,
+    "h": 336
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "probability"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If n(A) = 2 and total number of possible\nrelations from Set A to set B is 1024, then n(B)\nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q034-stem0.png",
+    "w": 525,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "512",
+    "img": {
+     "src": "mathematics-2020/q034-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "20",
+    "img": {
+     "src": "mathematics-2020/q034-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2020/q034-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2020/q034-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q034-sol0.png",
+    "w": 724,
+    "h": 224
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The value of sin2 51° + sin2 39° is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q035-stem0.png",
+    "w": 525,
+    "h": 55
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q035-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2020/q035-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "sin 12°",
+    "img": {
+     "src": "mathematics-2020/q035-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "cos 12°",
+    "img": {
+     "src": "mathematics-2020/q035-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q035-sol0.png",
+    "w": 724,
+    "h": 45
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If tan A + cot A = 2, then the value of tan4 A +\ncot4 A",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q036-stem0.png",
+    "w": 525,
+    "h": 99
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q036-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q036-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q036-optC.png",
+     "w": 196,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2020/q036-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q036-sol0.png",
+    "w": 659,
+    "h": 324
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "tan",
+   "cot"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If A = {1, 2, 3, 4, 5, 6}, then the number of\nsubsets of A which contain at least two\nelements is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q037-stem0.png",
+    "w": 525,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "64",
+    "img": {
+     "src": "mathematics-2020/q037-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "63",
+    "img": {
+     "src": "mathematics-2020/q037-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "57",
+    "img": {
+     "src": "mathematics-2020/q037-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "58",
+    "img": {
+     "src": "mathematics-2020/q037-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given set A = {1, 2, 3, 4, 5, 6}\nNumber of subsets of A which contain at least\ntwo \nelements \nis",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q037-sol0.png",
+    "w": 659,
+    "h": 235
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "set",
+   "number of subsets"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If z = x + iy, then the equation z + 1| = |2 - 1|\nrepresents",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q038-stem0.png",
+    "w": 525,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a circle",
+    "img": {
+     "src": "mathematics-2020/q038-optA.png",
+     "w": 196,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a parabola",
+    "img": {
+     "src": "mathematics-2020/q038-optB.png",
+     "w": 247,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "X-axis",
+    "img": {
+     "src": "mathematics-2020/q038-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Y-axis",
+    "img": {
+     "src": "mathematics-2020/q038-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q038-sol0.png",
+    "w": 659,
+    "h": 421
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "parabola",
+   "circle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The value of",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q039-stem0.png",
+    "w": 525,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2020/q039-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q039-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q039-optC.png",
+     "w": 196,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q039-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "We have,",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q039-sol0.png",
+    "w": 659,
+    "h": 209
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The number of terms in the expansion of (x + y\n+ z)10 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q040-stem0.png",
+    "w": 525,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "66",
+    "img": {
+     "src": "mathematics-2020/q040-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "142",
+    "img": {
+     "src": "mathematics-2020/q040-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "11",
+    "img": {
+     "src": "mathematics-2020/q040-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "110",
+    "img": {
+     "src": "mathematics-2020/q040-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q040-sol0.png",
+    "w": 659,
+    "h": 46
+   }
+  ],
+  "chapter": "Binomial Theorem",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "expansion of"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If P(n): 2n < n! Then the smallest positive\ninteger for which P(n) is true if",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q041-stem0.png",
+    "w": 525,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q041-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2020/q041-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q041-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2020/q041-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q041-sol0.png",
+    "w": 652,
+    "h": 402
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The two lines lx + my = n and l' * x + m'y = n'\nare perpendicular if",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q042-stem0.png",
+    "w": 525,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "ll' + mm' = 0",
+    "img": {
+     "src": "mathematics-2020/q042-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "lm' + ml'",
+    "img": {
+     "src": "mathematics-2020/q042-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "lm + l'm' = 0",
+    "img": {
+     "src": "mathematics-2020/q042-optC.png",
+     "w": 196,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "lm' + ml' = 0",
+    "img": {
+     "src": "mathematics-2020/q042-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q042-sol0.png",
+    "w": 652,
+    "h": 360
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If the parabola x2 = 4 ay passes through the\npoint (2, 1), then the length of the latus rectum\nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q043-stem0.png",
+    "w": 525,
+    "h": 126
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q043-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q043-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q043-optC.png",
+     "w": 196,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2020/q043-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "x2 = 4ay\nSo the parameter is a itself.\nSince the parabola passes through the point\n(2, 1), this point must satisfy the equation.\nSubstitute x = 2 and y = 1:\n(2)2 = 4a(1)\n4 = 4a\na = 1\nFor the parabola x2 = 4ay the length of the\nlatus rectum is\n4a\nSo,\n4a = 4(1) = 4\nThe correct option is B, 4.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q043-sol0.png",
+    "w": 652,
+    "h": 609
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 20,
+  "chapterMargin": 20,
+  "chapterHits": [
+   "latus rectum",
+   "parabola"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If the sum of n terms of an AP is given by Sn =\nn2 + n, then the common difference of the AP\nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q044-stem0.png",
+    "w": 550,
+    "h": 134
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q044-optA.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q044-optB.png",
+     "w": 272,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q044-optC.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2020/q044-optD.png",
+     "w": 270,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q044-sol0.png",
+    "w": 652,
+    "h": 46
+   }
+  ],
+  "chapter": "Sequences and Series",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "sum of n terms",
+   "common difference",
+   " ap "
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The negation of the statement \"For all real\nnumbers x and y, x + y = y + x’’ prime is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q045-stem0.png",
+    "w": 550,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "For all real numbers x and y, x + y \ny + x",
+    "img": {
+     "src": "mathematics-2020/q045-optA.png",
+     "w": 520,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q045-optB.png",
+     "w": 520,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q045-optC.png",
+     "w": 520,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q045-optD.png",
+     "w": 518,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The negation of the statement \"For all real x\nand y, x + y = y + x\" is\nFor some real number\nx and y, x + y \n y + x.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q045-sol0.png",
+    "w": 659,
+    "h": 198
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "negation of the statement",
+   "statement",
+   "negation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The standard deviation of the data 6, 7, 8, 9, 10\nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q046-stem0.png",
+    "w": 550,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q046-optA.png",
+     "w": 296,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q046-optB.png",
+     "w": 272,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q046-optC.png",
+     "w": 296,
+     "h": 62
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2020/q046-optD.png",
+     "w": 270,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q046-sol0.png",
+    "w": 659,
+    "h": 402
+   }
+  ],
+  "chapter": "Statistics",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "standard deviation",
+   "data"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q047-stem0.png",
+    "w": 846,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2020/q047-optA.png",
+     "w": 296,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2020/q047-optB.png",
+     "w": 272,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2020/q047-optC.png",
+     "w": 296,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2020/q047-optD.png",
+     "w": 270,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q047-sol0.png",
+    "w": 659,
+    "h": 381
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If a relation R on the set {1, 2, 3} be defined by\nR = {(1, 1)}, then R is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q048-stem0.png",
+    "w": 550,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Reflexive and symmetric",
+    "img": {
+     "src": "mathematics-2020/q048-optA.png",
+     "w": 520,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Reflexive and transitive",
+    "img": {
+     "src": "mathematics-2020/q048-optB.png",
+     "w": 520,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Symmetric and transitive",
+    "img": {
+     "src": "mathematics-2020/q048-optC.png",
+     "w": 520,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Only symmetric",
+    "img": {
+     "src": "mathematics-2020/q048-optD.png",
+     "w": 518,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q048-sol0.png",
+    "w": 659,
+    "h": 284
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 29,
+  "chapterMargin": 28,
+  "chapterHits": [
+   "reflexive",
+   "symmetric",
+   "transitive",
+   "relation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "Let f: [2,00) → R be the function defined f(x) = x2\n– 4x + 5, then the ranges of f is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q049-stem0.png",
+    "w": 550,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q049-optA.png",
+     "w": 801,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q049-optB.png",
+     "w": 801,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q049-optC.png",
+     "w": 520,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q049-optD.png",
+     "w": 518,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q049-sol0.png",
+    "w": 659,
+    "h": 266
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "function",
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If A, B, C are three mutually exclusive and\nexhaustive events of an experiment such that\nP(A) = 2P(B) = 3P(C) then P(B) is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q050-stem0.png",
+    "w": 550,
+    "h": 155
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q050-optA.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q050-optB.png",
+     "w": 272,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q050-optC.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q050-optD.png",
+     "w": 270,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q050-sol0.png",
+    "w": 659,
+    "h": 46
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "mutually exclusive",
+   "p(a)",
+   "p(b)"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The domain of the function defined by",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q051-stem0.png",
+    "w": 550,
+    "h": 105
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "[1, 2]",
+    "img": {
+     "src": "mathematics-2020/q051-optA.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "[0, 2]",
+    "img": {
+     "src": "mathematics-2020/q051-optB.png",
+     "w": 272,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "[–1,1]",
+    "img": {
+     "src": "mathematics-2020/q051-optC.png",
+     "w": 195,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "[0, 1]",
+    "img": {
+     "src": "mathematics-2020/q051-optD.png",
+     "w": 270,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q051-sol0.png",
+    "w": 702,
+    "h": 354
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "domain of the function",
+   "function",
+   "domain"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "The value of \n is Does\nnot exist",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q052-stem0.png",
+    "w": 525,
+    "h": 88
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2020/q052-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q052-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "–0",
+    "img": {
+     "src": "mathematics-2020/q052-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Does not exist",
+    "img": {
+     "src": "mathematics-2020/q052-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q052-sol0.png",
+    "w": 702,
+    "h": 289
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q053-stem0.png",
+    "w": 525,
+    "h": 161
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A",
+    "img": {
+     "src": "mathematics-2020/q053-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2A",
+    "img": {
+     "src": "mathematics-2020/q053-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "l",
+    "img": {
+     "src": "mathematics-2020/q053-optC.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4A",
+    "img": {
+     "src": "mathematics-2020/q053-optD.png",
+     "w": 246,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q053-sol0.png",
+    "w": 702,
+    "h": 46
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If A = {a, b, c} then the number of binary\noperations on A is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q054-stem0.png",
+    "w": 525,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2020/q054-optA.png",
+     "w": 196,
+     "h": 49
+    }
+   },
+   {
+    "letter": "B",
+    "text": "36",
+    "img": {
+     "src": "mathematics-2020/q054-optB.png",
+     "w": 247,
+     "h": 49
+    }
+   },
+   {
+    "letter": "C",
+    "text": "33",
+    "img": {
+     "src": "mathematics-2020/q054-optC.png",
+     "w": 196,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "39",
+    "img": {
+     "src": "mathematics-2020/q054-optD.png",
+     "w": 246,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We have,\nA = {a, b, c}\nThe number of binary operations on A is",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q054-sol0.png",
+    "w": 658,
+    "h": 204
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q055-stem0.png",
+    "w": 525,
+    "h": 222
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q055-optA.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q055-optB.png",
+     "w": 495,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q055-optC.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q055-optD.png",
+     "w": 493,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q055-sol0.png",
+    "w": 658,
+    "h": 498
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q056-stem0.png",
+    "w": 525,
+    "h": 164
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q056-optA.png",
+     "w": 196,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q056-optB.png",
+     "w": 247,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q056-optC.png",
+     "w": 196,
+     "h": 42
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q056-optD.png",
+     "w": 246,
+     "h": 42
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q056-sol0.png",
+    "w": 658,
+    "h": 447
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If A and B are square matrices of same order\nand B is a skew symmetric matrix, then A'BA is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q057-stem0.png",
+    "w": 525,
+    "h": 119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Symmetric matrix",
+    "img": {
+     "src": "mathematics-2020/q057-optA.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Null matrix",
+    "img": {
+     "src": "mathematics-2020/q057-optB.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Diagonal matrix",
+    "img": {
+     "src": "mathematics-2020/q057-optC.png",
+     "w": 495,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Skew symmetric matrix",
+    "img": {
+     "src": "mathematics-2020/q057-optD.png",
+     "w": 493,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Since B is skew-symmetric, we have\nB' = –B\nNow consider the matrix A'BA\nTo find its nature, take its transpose: (A'BA)' =\nΑ'Β' Α\nbecause transpose of a product is taken in\nreverse order: (XYZ)' = Z'Y'X'\nSo, (A'BA)' = A'(-B)A (A'BA)' = -A'BA\nThis shows that the transpose of A'BA is the\nnegative of the matrix itself.\nSo A'BA is a skew-symmetric matrix.\nHence, the correct option is\nOption D: Skew symmetric matrix",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q057-sol0.png",
+    "w": 658,
+    "h": 505
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 32,
+  "chapterMargin": 20,
+  "chapterHits": [
+   "symmetric matrix",
+   "skew symmetric",
+   "diagonal matrix",
+   "matrix",
+   "matrices"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "If A is a square matrix of order 3 and |A| = 5,\nthen | A adj. A | is",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q058-stem0.png",
+    "w": 547,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2020/q058-optA.png",
+     "w": 193,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "125",
+    "img": {
+     "src": "mathematics-2020/q058-optB.png",
+     "w": 269,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "25",
+    "img": {
+     "src": "mathematics-2020/q058-optC.png",
+     "w": 193,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "625",
+    "img": {
+     "src": "mathematics-2020/q058-optD.png",
+     "w": 267,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q058-sol0.png",
+    "w": 657,
+    "h": 187
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "|a|",
+   "adj"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q059-stem0.png",
+    "w": 547,
+    "h": 280
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q059-optA.png",
+     "w": 193,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q059-optB.png",
+     "w": 269,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q059-optC.png",
+     "w": 193,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q059-optD.png",
+     "w": 267,
+     "h": 41
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q059-sol0.png",
+    "w": 657,
+    "h": 588
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2020,
+  "source": "Mathematics-2020.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2020/q060-stem0.png",
+    "w": 525,
+    "h": 204
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q060-optA.png",
+     "w": 196,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q060-optB.png",
+     "w": 247,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2020/q060-optC.png",
+     "w": 196,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2020/q060-optD.png",
+     "w": 246,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2020/q060-sol0.png",
+    "w": 657,
+    "h": 46
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

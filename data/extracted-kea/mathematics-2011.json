@@ -1,0 +1,871 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "If b-c c-a 1) 2) 1 2 3) 4) 0 -1 1²+22 1²+2²+3²",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q001-stem0.png",
+    "w": 1920,
+    "h": 358
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "2. Thesumofthefirstntermsof 1+2 1+2+3 1 n²-2n 2n²+n 1) 2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q002-stem0.png",
+    "w": 1923,
+    "h": 192
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "6. 1） reflexive and transitive 2)reflexive and symmetric 3) symmetric and transitive 4)equivalence Thenegationofp→(~pvq)is",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q006-stem0.png",
+    "w": 1924,
+    "h": 306
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 24,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "reflexive",
+   "symmetric",
+   "transitive"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "7 2)p→~(pvq) 1) pv(pv~q) 3) b←d 4) b~vd Cos2A Cos2B InanytriangleABC,thesimplifiedformof",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q007-stem0.png",
+    "w": 1926,
+    "h": 352
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "11.Locus ofapointwhich moves such thatits distance from the X-axis is twice its distance fromthelinex-y=Ois. 1)x²+4xy-y²=0 2) 2x²-4xy+y²=0 3)x²-4xy+y²=0 4) x²-4xy-y²=0",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q011-stem0.png",
+    "w": 1926,
+    "h": 382
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "x-axis",
+   "locus"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "12.The points A(1, 2), B(2,4) and C(4, 8) form a/an isosceles triangle 1) 2) equilateral triangle 3)straight line 4) rightangledtriangle",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q012-stem0.png",
+    "w": 1816,
+    "h": 290
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "straight line"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "thenA·A'is -Sino Cos0 1) I 2)A 3) -A 4)A2 1 2 -1 17.If",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q016-stem0.png",
+    "w": 1847,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "21. If a, b and are noncoplanar, then the value of a 36(xa)) [2(ax) 1S -1 -1 1) 2) 2 3 -1 1 3) 4) 6 6",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q021-stem0.png",
+    "w": 1919,
+    "h": 595
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "22.If 2i+3j,i+j+kand i+4j+2k takenin an order arecoterminous edgesofa parallelopiped ofvolume 2 Cu units,then value of is .. 1)-4 2)2",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q022-stem0.png",
+    "w": 1934,
+    "h": 259
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "26..On the setof all nonzero reals,an operation *is defined asa*b 2 asolutionof(2*x)*3-1=4-1is .1） 2) 1 1 3-2 3) 4) 6 x x isanonzerorealnumberis agroupwithrespecttomatrix",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q026-stem0.png",
+    "w": 1927,
+    "h": 483
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "31.Thelengthofthelatusrectumof3x²-4y+6x-3=0 is 3 4 2) 1) 4 3 3) 2 4) 3",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q031-stem0.png",
+    "w": 1802,
+    "h": 363
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "32. Thesum of thereciprocalsof focal distancesof a focal chordPQofy²=4axis 1 1) 2) a a",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q032-stem0.png",
+    "w": 1798,
+    "h": 263
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "focal"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "thenxis 4 1 1 1) 2) 13 2 1 1 3) 4) 16 4 π",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q036-stem0.png",
+    "w": 1821,
+    "h": 462
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "37.Avalueof0satisfyingSin50-Sin30+Sin0=0such that0<0< 2 π π 1) 2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q037-stem0.png",
+    "w": 1821,
+    "h": 188
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "41.If√r=ae 4rCotais d02 1 2) 1) r 一 r 3) 4) 0 Sinx Cosx",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q041-stem0.png",
+    "w": 1806,
+    "h": 448
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "46.Areaofa triangleformedby.tangentandnormal to thecurve at 62 D with theX-axis is √2 29+2 1） 4ab 2) 4 abva²-b² b（a²+b² 3) 4 4a 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q046-stem0.png",
+    "w": 1814,
+    "h": 682
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "47.The angle between y²=4x and x²+y²=12 ata point of their intersection is 1)Tan-1√2 2)Tan-12 Tan 3)Tan-12√2 4) 48.A sphere increases itsvolume at the rate of πcc/s.The rate atwhich its surface area",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q047-stem0.png",
+    "w": 1820,
+    "h": 397
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "tan",
+   "angle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "increaseswhen theradiusis1cmis... 1) 2πsq.cm/s 2) πsq.cm/s 3π sq.cm/s π sq.cm/s 3) 4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q048-stem0.png",
+    "w": 1936,
+    "h": 300
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2011,
+  "source": "kcet-2011-mathematics-question-paper.pdf",
+  "stemText": "51. dxis 1-Sin²x ex.Cosecx 2)eCotx+c 1) 3) ex.Secx)+ erTanx+c 4) 一x",
+  "stemImages": [
+   {
+    "src": "mathematics-2011-kea/q051-stem0.png",
+    "w": 1813,
+    "h": 449
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

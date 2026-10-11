@@ -1,0 +1,4076 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The equation of the line joining the points (–3,\n4, 11) and (1, –2, 7) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q001-stem0.png",
+    "w": 438,
+    "h": 77
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q001-optA.png",
+     "w": 413,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q001-optB.png",
+     "w": 413,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q001-optC.png",
+     "w": 413,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q001-optD.png",
+     "w": 411,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, points are (–3, 4, 11) and (1, –2, 7).\nLet A(–3, 4, 11) and B(1, –2, 7)\nDirection ratios of AB = 1 - (–3), –2 – 4, 7 – 11\n= 4 , –6, –4 = –23, 2\nNow, we have one point (–3, 4, 11) = (x1, y1, z1)\nand direction ratios (a, b, c) = –2, 3, 2\n Equation of line :",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q001-sol0.png",
+    "w": 552,
+    "h": 342
+   }
+  ],
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "direction ratios"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The angle between the lines whose direction\ncosines \nare",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q002-stem0.png",
+    "w": 438,
+    "h": 133
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q002-optA.png",
+     "w": 156,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q002-optB.png",
+     "w": 206,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q002-optC.png",
+     "w": 156,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q002-optD.png",
+     "w": 205,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q002-sol0.png",
+    "w": 552,
+    "h": 571
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle between the lines"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If a plane meets the coordinate axes at A, B\nand C in such a way that the centroid of △ABC\nis at the point (1, 2, 3), then the equation of the\nplane is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q003-stem0.png",
+    "w": 438,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q003-optA.png",
+     "w": 634,
+     "h": 41
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q003-optB.png",
+     "w": 634,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q003-optC.png",
+     "w": 634,
+     "h": 41
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q003-optD.png",
+     "w": 631,
+     "h": 55
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, plane meets the coordinate axes at A, B\nand C.\nLet the plane meets the coordinate axes at the\npoints A(a, 0, 0), B(0, 0, 0), C(0, 0, c)\nThe equation of plane is\nTherefore, a = 3 b = 6 and c = 9\nPut the value of a, b and c in equation of plane\n(i), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q003-sol0.png",
+    "w": 552,
+    "h": 590
+   }
+  ],
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "equation of the plane",
+   "plane"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 4,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The area of the quadrilateral ABCD when A(0,\n4, 1), B(2, 3, -1), C(4, 5, 0) and D(2, 6, 2) is equal\nto",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q004-stem0.png",
+    "w": 438,
+    "h": 101
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "9 sq units",
+    "img": {
+     "src": "mathematics-2021/q004-optA.png",
+     "w": 156,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "18 sq units",
+    "img": {
+     "src": "mathematics-2021/q004-optB.png",
+     "w": 206,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "27 sq units",
+    "img": {
+     "src": "mathematics-2021/q004-optC.png",
+     "w": 156,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "81 sq units",
+    "img": {
+     "src": "mathematics-2021/q004-optD.png",
+     "w": 205,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "In quadrilateral ABCD, given that A(0, 4, 1), B(2,\n3, -1), C(4, 5, 0) and D(2, 6, 2).\nRequired area of quadrilateral",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q004-sol0.png",
+    "w": 552,
+    "h": 100
+   },
+   {
+    "src": "mathematics-2021/q004-sol1.png",
+    "w": 515,
+    "h": 478
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The shaded region is the solution set of the\ninequalities",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q005-stem0.png",
+    "w": 438,
+    "h": 418
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q005-optA.png",
+     "w": 413,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q005-optB.png",
+     "w": 413,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q005-optC.png",
+     "w": 413,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q005-optD.png",
+     "w": 411,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Lets draw the given shaded region,",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q005-sol0.png",
+    "w": 515,
+    "h": 841
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "Given that, A and B are two events such that \nthen P(A) is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q006-stem0.png",
+    "w": 438,
+    "h": 106
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q006-optA.png",
+     "w": 156,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q006-optB.png",
+     "w": 206,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q006-optC.png",
+     "w": 156,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q006-optD.png",
+     "w": 205,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q006-sol0.png",
+    "w": 515,
+    "h": 41
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "p(a)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If A, B and C are three independent events\nsuch that P(A) = P(B) = P(C) = P, then P (at least\ntwo of A, B and C occur) is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q007-stem0.png",
+    "w": 453,
+    "h": 104
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "P3 – 3P",
+    "img": {
+     "src": "mathematics-2021/q007-optA.png",
+     "w": 427,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3P - 2P2",
+    "img": {
+     "src": "mathematics-2021/q007-optB.png",
+     "w": 427,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3P2 – 2P3",
+    "img": {
+     "src": "mathematics-2021/q007-optC.png",
+     "w": 428,
+     "h": 40
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3P2",
+    "img": {
+     "src": "mathematics-2021/q007-optD.png",
+     "w": 426,
+     "h": 40
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q007-sol0.png",
+    "w": 552,
+    "h": 623
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "independent events",
+   "p(a)",
+   "p(b)"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "Two dice are thrown. If it is known that the\nsum of numbers on the dice was less than 6\nthe probability of getting a sum as 3 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q008-stem0.png",
+    "w": 453,
+    "h": 103
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q008-optA.png",
+     "w": 169,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q008-optB.png",
+     "w": 221,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q008-optC.png",
+     "w": 170,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q008-optD.png",
+     "w": 219,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q008-sol0.png",
+    "w": 552,
+    "h": 393
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "probability",
+   "dice"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "A car manufacturing factory has two plants X\nand Y. Plant X manufactures 70% of cars and\nplant Y manufactures 30% of cars. 80% of cars\nat plant X and 90 of cars at plant Y are rated as\nstandard quality. A car is chosen at random\nand is found to be standard quality. The\nprobability that it has come from plant X is:",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q009-stem0.png",
+    "w": 453,
+    "h": 220
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q009-optA.png",
+     "w": 169,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q009-optB.png",
+     "w": 221,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q009-optC.png",
+     "w": 170,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q009-optD.png",
+     "w": 219,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q009-sol0.png",
+    "w": 552,
+    "h": 41
+   }
+  ],
+  "chapter": "Permutations and Combinations",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "chosen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "In a certain two 65% families own cell phones,\n15000 families own scooter and 15% families\nown both. Taking into consideration that the\nfamilies own at least one of the two, the total\nnumber of families in the town is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q010-stem0.png",
+    "w": 442,
+    "h": 161
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "20000",
+    "img": {
+     "src": "mathematics-2021/q010-optA.png",
+     "w": 159,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "30000",
+    "img": {
+     "src": "mathematics-2021/q010-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "40000",
+    "img": {
+     "src": "mathematics-2021/q010-optC.png",
+     "w": 159,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "50000",
+    "img": {
+     "src": "mathematics-2021/q010-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Let the total number of families be x.\nLet A = number of families that own cell\nphones\nn(A) = \n × x\nLet B = number of families that own scooter\nn(B) = 15000\nand (A ∩ B) = number of families that own cell\nphones and scooter both\nTotal number of families in the town is 30000.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q010-sol0.png",
+    "w": 789,
+    "h": 595
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "at least one"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "A and B are non-singleton sets and n(A × B) =\n35 If B\nA, then n(A)Cn(B) is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q011-stem0.png",
+    "w": 442,
+    "h": 83
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "28",
+    "img": {
+     "src": "mathematics-2021/q011-optA.png",
+     "w": 159,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "35",
+    "img": {
+     "src": "mathematics-2021/q011-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "42",
+    "img": {
+     "src": "mathematics-2021/q011-optC.png",
+     "w": 159,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "21",
+    "img": {
+     "src": "mathematics-2021/q011-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q011-sol0.png",
+    "w": 789,
+    "h": 41
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q012-stem0.png",
+    "w": 442,
+    "h": 60
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q012-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q012-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q012-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q012-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given function,",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q012-sol0.png",
+    "w": 505,
+    "h": 301
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The value of cos 1200° + tan 1485° is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q013-stem0.png",
+    "w": 442,
+    "h": 44
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q013-optA.png",
+     "w": 159,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q013-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q013-optC.png",
+     "w": 159,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q013-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q013-sol0.png",
+    "w": 505,
+    "h": 314
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "cos",
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The value of tan 1° tan 2 tan 3°...tan 89° is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q014-stem0.png",
+    "w": 442,
+    "h": 42
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2021/q014-optA.png",
+     "w": 159,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2021/q014-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q014-optC.png",
+     "w": 159,
+     "h": 38
+    }
+   },
+   {
+    "letter": "D",
+    "text": "–1",
+    "img": {
+     "src": "mathematics-2021/q014-optD.png",
+     "w": 208,
+     "h": 38
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q014-sol0.png",
+    "w": 505,
+    "h": 348
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q015-stem0.png",
+    "w": 442,
+    "h": 50
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q015-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q015-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q015-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q015-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q015-sol0.png",
+    "w": 505,
+    "h": 342
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The cost and revenue functions of a product\nare given by c(x) = 20x + 4000 and R(x) = 60x +\n2000 respectively, where x is the number of\nitems produced and sold. The value of x to\nearn profit is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q016-stem0.png",
+    "w": 438,
+    "h": 160
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "> 50",
+    "img": {
+     "src": "mathematics-2021/q016-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "> 60",
+    "img": {
+     "src": "mathematics-2021/q016-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "> 80",
+    "img": {
+     "src": "mathematics-2021/q016-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "> 40",
+    "img": {
+     "src": "mathematics-2021/q016-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, C(x) = 20x + 4000\nR(x) = 60x + 2000\nx = number of items produced and sold\nTo earn profit, R(x) - C(x) > 0\n⇒ 60x + 2000 - 20x - 4000 > 0\n⇒ 40x - 2000 > 0\n⇒ 40x > 2000\n⇒ x > 50",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q016-sol0.png",
+    "w": 505,
+    "h": 277
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "A student has to answer 10 questions,\nchoosing at least 4 from each of the parts A\nand B. If there are 6 questions in part A and 7\nin part B, then the number of ways can the\nstudent choose 10 questions is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q017-stem0.png",
+    "w": 438,
+    "h": 161
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "256",
+    "img": {
+     "src": "mathematics-2021/q017-optA.png",
+     "w": 151,
+     "h": 37
+    }
+   },
+   {
+    "letter": "B",
+    "text": "352",
+    "img": {
+     "src": "mathematics-2021/q017-optB.png",
+     "w": 205,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "266",
+    "img": {
+     "src": "mathematics-2021/q017-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "426",
+    "img": {
+     "src": "mathematics-2021/q017-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given,\nTotal number of questions in part A = 6\nTotal number of questions in part B = 7\nPattern to choose 10 questions from 13\nquestions is\n4 from part A and 6 from part B or\n5 from part A and 5 from part B or\n6 from part A and 4 from part B.\n Total required number of ways",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q017-sol0.png",
+    "w": 596,
+    "h": 454
+   }
+  ],
+  "chapter": "Permutations and Combinations",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "number of ways",
+   "ways"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If the middle term of the AP is 300, then the\nsum of its first 51 terms is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q018-stem0.png",
+    "w": 438,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "15300",
+    "img": {
+     "src": "mathematics-2021/q018-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "14800",
+    "img": {
+     "src": "mathematics-2021/q018-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "16500",
+    "img": {
+     "src": "mathematics-2021/q018-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "14300",
+    "img": {
+     "src": "mathematics-2021/q018-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q018-sol0.png",
+    "w": 596,
+    "h": 514
+   }
+  ],
+  "chapter": "Sequences and Series",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "middle term of the ap",
+   " ap "
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The equation of straight line which passes\nthrough the point \n and\nperpendicular to \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q019-stem0.png",
+    "w": 438,
+    "h": 106
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q019-optA.png",
+     "w": 633,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q019-optB.png",
+     "w": 633,
+     "h": 38
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q019-optC.png",
+     "w": 633,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q019-optD.png",
+     "w": 630,
+     "h": 53
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q019-sol0.png",
+    "w": 596,
+    "h": 708
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "straight line"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The mid points of the sides of triangle are (1, 5,\n- 1)(0, 4, - 2) and (2, 3, 4) then centroid of the\ntriangle",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q020-stem0.png",
+    "w": 438,
+    "h": 101
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(1, 4, 3)",
+    "img": {
+     "src": "mathematics-2021/q020-optA.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(1, 4, \n)",
+    "img": {
+     "src": "mathematics-2021/q020-optB.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(–1, 4, 3)",
+    "img": {
+     "src": "mathematics-2021/q020-optC.png",
+     "w": 412,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(\n, 2, 4)",
+    "img": {
+     "src": "mathematics-2021/q020-optD.png",
+     "w": 410,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q020-sol0.png",
+    "w": 596,
+    "h": 40
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "centroid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q021-stem0.png",
+    "w": 673,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Only statement 2 is true.",
+    "img": {
+     "src": "mathematics-2021/q021-optA.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Only statement 1 is true.",
+    "img": {
+     "src": "mathematics-2021/q021-optB.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both statements 1 and 2 are true.",
+    "img": {
+     "src": "mathematics-2021/q021-optC.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both statements 1 and 2 are false.",
+    "img": {
+     "src": "mathematics-2021/q021-optD.png",
+     "w": 410,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given the limit: \nEvaluating \nthis \nlimit \nat \nx \n= \n1 \ngives: \nAs long as a + b +c\n0, dividing the numerator\nand the denominator by the same non-zero\nquantity results in 1. Therefore, Statement 1 is\ntrue.\nExplanation for Statement 2:\nConsider the limit: \nThis can be rewritten as: \nSimplifying further, we have: \nSubstituting x = –2, we find:",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q021-sol0.png",
+    "w": 552,
+    "h": 691
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 19,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "statement 1",
+   "statement 2",
+   "statement"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q022-stem0.png",
+    "w": 438,
+    "h": 158
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q022-optA.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q022-optB.png",
+     "w": 412,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q022-optC.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q022-optD.png",
+     "w": 410,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q022-sol0.png",
+    "w": 552,
+    "h": 328
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The standard deviation of the numbers 31, 32,\n33... 46, 47 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q023-stem0.png",
+    "w": 795,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(B)",
+    "img": {
+     "src": "mathematics-2021/q023-optA.png",
+     "w": 341,
+     "h": 38
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q023-optB.png",
+     "w": 439,
+     "h": 38
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(D)",
+    "img": {
+     "src": "mathematics-2021/q023-optC.png",
+     "w": 341,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q023-optD.png",
+     "w": 439,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, numbers: 31, 32, 33, 46, 47.\nThe standard deviation of 31, 32, 33, ..., 47 will\nbe the same as those of 1, 2, 3, ..., 17.\n(decreasing each item by 30)",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q023-sol0.png",
+    "w": 552,
+    "h": 159
+   }
+  ],
+  "chapter": "Statistics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "standard deviation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If P(A) = 0.59, P(B) = 0.30 and P(A ∩ B) = 0.21\nthen P (A' ∩ B') is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q024-stem0.png",
+    "w": 795,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.11\n(B) 0.38",
+    "img": {
+     "src": "mathematics-2021/q024-optA.png",
+     "w": 341,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q024-optB.png",
+     "w": 439,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.32\n(D) 0.35",
+    "img": {
+     "src": "mathematics-2021/q024-optC.png",
+     "w": 341,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q024-optD.png",
+     "w": 439,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q024-sol0.png",
+    "w": 515,
+    "h": 333
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "p(a)",
+   "p(b)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q025-stem0.png",
+    "w": 795,
+    "h": 239
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "14\n(B) 9",
+    "img": {
+     "src": "mathematics-2021/q025-optA.png",
+     "w": 341,
+     "h": 37
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q025-optB.png",
+     "w": 439,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5\n(D) 11",
+    "img": {
+     "src": "mathematics-2021/q025-optC.png",
+     "w": 341,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q025-optD.png",
+     "w": 439,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q025-sol0.png",
+    "w": 515,
+    "h": 212
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q026-stem0.png",
+    "w": 795,
+    "h": 77
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "injective but not surjective.",
+    "img": {
+     "src": "mathematics-2021/q026-optA.png",
+     "w": 770,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "surjective but not injective.",
+    "img": {
+     "src": "mathematics-2021/q026-optB.png",
+     "w": 769,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "bijective.",
+    "img": {
+     "src": "mathematics-2021/q026-optC.png",
+     "w": 770,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "neither injective nor surjective.",
+    "img": {
+     "src": "mathematics-2021/q026-optD.png",
+     "w": 768,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q026-sol0.png",
+    "w": 515,
+    "h": 446
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 35,
+  "chapterMargin": 35,
+  "chapterHits": [
+   "bijective",
+   "injective",
+   "surjective",
+   "injective",
+   "surjective",
+   "bijective"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q027-stem0.png",
+    "w": 795,
+    "h": 97
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q027-optA.png",
+     "w": 770,
+     "h": 37
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q027-optB.png",
+     "w": 769,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q027-optC.png",
+     "w": 770,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q027-optD.png",
+     "w": 768,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given function,",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q027-sol0.png",
+    "w": 515,
+    "h": 461
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "Domain \nof \nthe \nfunction",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q028-stem0.png",
+    "w": 795,
+    "h": 201
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q028-optA.png",
+     "w": 770,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q028-optB.png",
+     "w": 769,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q028-optC.png",
+     "w": 770,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q028-optD.png",
+     "w": 768,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q028-sol0.png",
+    "w": 515,
+    "h": 41
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "domain of the function",
+   "function",
+   "domain"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q029-stem0.png",
+    "w": 795,
+    "h": 60
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0\n(B) 1",
+    "img": {
+     "src": "mathematics-2021/q029-optA.png",
+     "w": 341,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q029-optB.png",
+     "w": 439,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(D) –1",
+    "img": {
+     "src": "mathematics-2021/q029-optC.png",
+     "w": 341,
+     "h": 38
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q029-optD.png",
+     "w": 439,
+     "h": 38
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q029-sol0.png",
+    "w": 545,
+    "h": 295
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q030-stem0.png",
+    "w": 795,
+    "h": 143
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(B)",
+    "img": {
+     "src": "mathematics-2021/q030-optA.png",
+     "w": 341,
+     "h": 42
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q030-optB.png",
+     "w": 439,
+     "h": 42
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(D)",
+    "img": {
+     "src": "mathematics-2021/q030-optC.png",
+     "w": 341,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q030-optD.png",
+     "w": 439,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q030-sol0.png",
+    "w": 545,
+    "h": 390
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "(AB)’ is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q031-stem0.png",
+    "w": 438,
+    "h": 152
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q031-optA.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q031-optB.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q031-optC.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q031-optD.png",
+     "w": 410,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q031-sol0.png",
+    "w": 545,
+    "h": 448
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "Let M be 2 x 2 symmetric matrix with integer\nentries, then M is invertible if",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q032-stem0.png",
+    "w": 438,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "the first column of M is the transpose of\nsecond row of M.",
+    "img": {
+     "src": "mathematics-2021/q032-optA.png",
+     "w": 412,
+     "h": 66
+    }
+   },
+   {
+    "letter": "B",
+    "text": "the second row of M is the transpose of\nfirst column of M.",
+    "img": {
+     "src": "mathematics-2021/q032-optB.png",
+     "w": 412,
+     "h": 66
+    }
+   },
+   {
+    "letter": "C",
+    "text": "M is diagonal matrix with non-zero entries\nin the principal diagonal.",
+    "img": {
+     "src": "mathematics-2021/q032-optC.png",
+     "w": 412,
+     "h": 66
+    }
+   },
+   {
+    "letter": "D",
+    "text": "The product of entries in the principal\ndiagonal of M is the product of entries in\nthe other diagonal.",
+    "img": {
+     "src": "mathematics-2021/q032-optD.png",
+     "w": 410,
+     "h": 95
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Let a symmetric matrix \nFor matrix to be invertible, determinant must\nnot be equal to zero.\nTherefore, M is a diagonal matrix with non-\nzero entries in the main diagonal and the\nproduct of entries in the main diagonal of M is\nnot the square of an integer.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q032-sol0.png",
+    "w": 545,
+    "h": 345
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 23,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "symmetric matrix",
+   "diagonal matrix",
+   "matrix",
+   "invertible",
+   "main diagonal"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If A and B are matrices of order 3 and |A| = 5,\n|B| = 3, then |3AB| is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q033-stem0.png",
+    "w": 438,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "425",
+    "img": {
+     "src": "mathematics-2021/q033-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "405",
+    "img": {
+     "src": "mathematics-2021/q033-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "565",
+    "img": {
+     "src": "mathematics-2021/q033-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "585",
+    "img": {
+     "src": "mathematics-2021/q033-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q033-sol0.png",
+    "w": 515,
+    "h": 330
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "matrices"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If A and B are invertible matrices then which of\nthe following is not correct?",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q034-stem0.png",
+    "w": 438,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q034-optA.png",
+     "w": 633,
+     "h": 40
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q034-optB.png",
+     "w": 633,
+     "h": 41
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q034-optC.png",
+     "w": 633,
+     "h": 39
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q034-optD.png",
+     "w": 630,
+     "h": 47
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q034-sol0.png",
+    "w": 515,
+    "h": 279
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "matrices",
+   "invertible"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q035-stem0.png",
+    "w": 438,
+    "h": 208
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "–1",
+    "img": {
+     "src": "mathematics-2021/q035-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2021/q035-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2021/q035-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2021/q035-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q035-sol0.png",
+    "w": 515,
+    "h": 330
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "then the\nmaximum value of A is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q036-stem0.png",
+    "w": 438,
+    "h": 167
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "96",
+    "img": {
+     "src": "mathematics-2021/q036-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "36",
+    "img": {
+     "src": "mathematics-2021/q036-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "24",
+    "img": {
+     "src": "mathematics-2021/q036-optC.png",
+     "w": 151,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "120",
+    "img": {
+     "src": "mathematics-2021/q036-optD.png",
+     "w": 204,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q036-sol0.png",
+    "w": 515,
+    "h": 699
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "maximum value"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q037-stem0.png",
+    "w": 442,
+    "h": 146
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "continuous and differentiable.",
+    "img": {
+     "src": "mathematics-2021/q037-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "continuous and non-differentiable.",
+    "img": {
+     "src": "mathematics-2021/q037-optB.png",
+     "w": 416,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "discontinuous and differentiable.",
+    "img": {
+     "src": "mathematics-2021/q037-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "discontinuous and non-differentiable.",
+    "img": {
+     "src": "mathematics-2021/q037-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q037-sol0.png",
+    "w": 515,
+    "h": 41
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q038-stem0.png",
+    "w": 442,
+    "h": 51
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q038-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q038-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q038-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q038-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q038-sol0.png",
+    "w": 525,
+    "h": 276
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q039-stem0.png",
+    "w": 442,
+    "h": 47
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q039-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q039-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q039-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q039-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q039-sol0.png",
+    "w": 525,
+    "h": 574
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "Consider the following statements",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q040-stem0.png",
+    "w": 442,
+    "h": 205
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Statement 1 is true, Statement 2 is false.",
+    "img": {
+     "src": "mathematics-2021/q040-optA.png",
+     "w": 417,
+     "h": 37
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Statement 1 is false, statement 2 is true.",
+    "img": {
+     "src": "mathematics-2021/q040-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Both statements 1 and 2 are true.",
+    "img": {
+     "src": "mathematics-2021/q040-optC.png",
+     "w": 417,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Both statements 1 and 2 are false.",
+    "img": {
+     "src": "mathematics-2021/q040-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q040-sol0.png",
+    "w": 525,
+    "h": 41
+   }
+  ],
+  "chapter": "Mathematical Reasoning",
+  "chapterScore": 19,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "statement 1",
+   "statement 2",
+   "statement"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If the parametric equation of curve is given by \n \nthen\nthe points for which \n are given by",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q041-stem0.png",
+    "w": 442,
+    "h": 114
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q041-optA.png",
+     "w": 417,
+     "h": 37
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q041-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q041-optC.png",
+     "w": 417,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q041-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q041-sol0.png",
+    "w": 558,
+    "h": 596
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q042-stem0.png",
+    "w": 442,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "108",
+    "img": {
+     "src": "mathematics-2021/q042-optA.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "54",
+    "img": {
+     "src": "mathematics-2021/q042-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "36",
+    "img": {
+     "src": "mathematics-2021/q042-optC.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "516",
+    "img": {
+     "src": "mathematics-2021/q042-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q042-sol0.png",
+    "w": 558,
+    "h": 41
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "A particle starts form rest and its angular\ndisplacement \n(in \nradians) \nis \ngiven \nby\n the angular velocity at the end of\nt = 4 is k, then the value of 5k is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q043-stem0.png",
+    "w": 442,
+    "h": 138
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.6",
+    "img": {
+     "src": "mathematics-2021/q043-optA.png",
+     "w": 165,
+     "h": 37
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2021/q043-optB.png",
+     "w": 210,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5k",
+    "img": {
+     "src": "mathematics-2021/q043-optC.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2021/q043-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q043-sol0.png",
+    "w": 552,
+    "h": 276
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angular displacement"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If the parabola \n passes\nthrough the point (0, 2) and has its tangent at \n parallel to X-axis, then",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q044-stem0.png",
+    "w": 442,
+    "h": 105
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q044-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q044-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q044-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q044-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q044-sol0.png",
+    "w": 552,
+    "h": 756
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "parabola"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The \nfunction \n \nis \nstrictly\ndecreasing in the interval",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q045-stem0.png",
+    "w": 438,
+    "h": 76
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q045-optA.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q045-optB.png",
+     "w": 412,
+     "h": 37
+    }
+   },
+   {
+    "letter": "C",
+    "text": "R",
+    "img": {
+     "src": "mathematics-2021/q045-optC.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q045-optD.png",
+     "w": 410,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q045-sol0.png",
+    "w": 552,
+    "h": 404
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "strictly decreasing"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The \nmaximum \nslope \nof \nthe \ncurve",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q046-stem0.png",
+    "w": 438,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2021/q046-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "23",
+    "img": {
+     "src": "mathematics-2021/q046-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2021/q046-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "–23",
+    "img": {
+     "src": "mathematics-2021/q046-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q046-sol0.png",
+    "w": 552,
+    "h": 40
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "slope"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q047-stem0.png",
+    "w": 438,
+    "h": 68
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q047-optA.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q047-optB.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q047-optC.png",
+     "w": 412,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q047-optD.png",
+     "w": 630,
+     "h": 56
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q047-sol0.png",
+    "w": 515,
+    "h": 375
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q048-stem0.png",
+    "w": 673,
+    "h": 66
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q048-optA.png",
+     "w": 633,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q048-optB.png",
+     "w": 633,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q048-optC.png",
+     "w": 633,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q048-optD.png",
+     "w": 630,
+     "h": 60
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q048-sol0.png",
+    "w": 515,
+    "h": 324
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q049-stem0.png",
+    "w": 673,
+    "h": 51
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q049-optA.png",
+     "w": 151,
+     "h": 38
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q049-optB.png",
+     "w": 205,
+     "h": 38
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q049-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q049-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q049-sol0.png",
+    "w": 515,
+    "h": 399
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q050-stem0.png",
+    "w": 673,
+    "h": 82
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q050-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q050-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q050-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q050-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q050-sol0.png",
+    "w": 515,
+    "h": 40
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q051-stem0.png",
+    "w": 438,
+    "h": 125
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2021/q051-optA.png",
+     "w": 151,
+     "h": 38
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q051-optB.png",
+     "w": 205,
+     "h": 38
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q051-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q051-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q051-sol0.png",
+    "w": 528,
+    "h": 465
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The value of \n is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q052-stem0.png",
+    "w": 438,
+    "h": 69
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4042",
+    "img": {
+     "src": "mathematics-2021/q052-optA.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2021",
+    "img": {
+     "src": "mathematics-2021/q052-optB.png",
+     "w": 205,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8084",
+    "img": {
+     "src": "mathematics-2021/q052-optC.png",
+     "w": 151,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1010",
+    "img": {
+     "src": "mathematics-2021/q052-optD.png",
+     "w": 204,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q052-sol0.png",
+    "w": 528,
+    "h": 470
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The \narea \nof \nthe \nregion \nbounded \nby\n and X-axis is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q053-stem0.png",
+    "w": 442,
+    "h": 78
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8 sq units",
+    "img": {
+     "src": "mathematics-2021/q053-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "20 sq units",
+    "img": {
+     "src": "mathematics-2021/q053-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "16 sq units",
+    "img": {
+     "src": "mathematics-2021/q053-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "256 sq units",
+    "img": {
+     "src": "mathematics-2021/q053-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The area bounded by \n and X-\naxis is shown in the figure.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q053-sol0.png",
+    "w": 528,
+    "h": 105
+   }
+  ],
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If \nthe \narea \nof \nthe \nellipse \nis",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q054-stem0.png",
+    "w": 442,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q054-optA.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q054-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q054-optC.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q054-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q054-sol0.png",
+    "w": 709,
+    "h": 325
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ellipse"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "Solution of differential equating xdy – ydx = 0\nrepresents",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q055-stem0.png",
+    "w": 442,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A rectangular hyperbola.",
+    "img": {
+     "src": "mathematics-2021/q055-optA.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Parabola whose vertex is at origin.",
+    "img": {
+     "src": "mathematics-2021/q055-optB.png",
+     "w": 416,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Straight line passing through origin.",
+    "img": {
+     "src": "mathematics-2021/q055-optC.png",
+     "w": 417,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "A circle whose centre is origin.",
+    "img": {
+     "src": "mathematics-2021/q055-optD.png",
+     "w": 415,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q055-sol0.png",
+    "w": 709,
+    "h": 289
+   }
+  ],
+  "chapter": "Conic Sections",
+  "chapterScore": 10,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "parabola",
+   "hyperbola",
+   "circle",
+   "vertex"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The \nnumber \nof \nsolutions \nof",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q056-stem0.png",
+    "w": 442,
+    "h": 90
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "three",
+    "img": {
+     "src": "mathematics-2021/q056-optA.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "one",
+    "img": {
+     "src": "mathematics-2021/q056-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "infinite",
+    "img": {
+     "src": "mathematics-2021/q056-optC.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "two",
+    "img": {
+     "src": "mathematics-2021/q056-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The given differential equation has only one\nsolution.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q056-sol0.png",
+    "w": 709,
+    "h": 476
+   }
+  ],
+  "chapter": "Differential Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "differential equation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "A vector a makes equal acute angles on the\ncoordinate axis. Then the projection of vector",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q057-stem0.png",
+    "w": 442,
+    "h": 106
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q057-optA.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q057-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q057-optC.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q057-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Let the equal angles of a with the coordinate\naxis be .",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q057-sol0.png",
+    "w": 709,
+    "h": 100
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "vector"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "The diagonals of a parallelogram are the\nvectors \nThen the length of the shorter side of\nparallelogram is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q058-stem0.png",
+    "w": 442,
+    "h": 139
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q058-optA.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q058-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q058-optC.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2021/q058-optD.png",
+     "w": 208,
+     "h": 36
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Let a and b be the length of the sides of the\nparallelogram and d1, d2 be the length of\ndiagonals.\nQ60\nArea of parallelogram having a and b as its\nadjacent sides is 15 sq units.\n|a × b| = 15\nArea of parallelogram having (3a + 2b) and a +\n3b ) as two adjacent side",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q058-sol0.png",
+    "w": 1052,
+    "h": 178
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "parallelogram",
+   "adjacent sides",
+   "diagonals"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If a.b = 0 and a + b makes an angle 60° with a,\nthen",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q059-stem0.png",
+    "w": 442,
+    "h": 72
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "|a| = 2|b|",
+    "img": {
+     "src": "mathematics-2021/q059-optA.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2|a| = |b|",
+    "img": {
+     "src": "mathematics-2021/q059-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "|a| = \n|b|",
+    "img": {
+     "src": "mathematics-2021/q059-optC.png",
+     "w": 165,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "|a| = |b|",
+    "img": {
+     "src": "mathematics-2021/q059-optD.png",
+     "w": 208,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q059-sol0.png",
+    "w": 1052,
+    "h": 439
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "|a|"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2021,
+  "source": "Mathematics-2021.pdf",
+  "stemText": "If the area of the parallelogram with a and b as\ntwo adjacent sides is 15 sq units, then the area\nof the parallelogram having 3a + 2b and a + 3b\nas two adjacent sides in sq units is",
+  "stemImages": [
+   {
+    "src": "mathematics-2021/q060-stem0.png",
+    "w": 442,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "45",
+    "img": {
+     "src": "mathematics-2021/q060-optA.png",
+     "w": 165,
+     "h": 36
+    }
+   },
+   {
+    "letter": "B",
+    "text": "75",
+    "img": {
+     "src": "mathematics-2021/q060-optB.png",
+     "w": 210,
+     "h": 36
+    }
+   },
+   {
+    "letter": "C",
+    "text": "105",
+    "img": {
+     "src": "mathematics-2021/q060-optC.png",
+     "w": 165,
+     "h": 37
+    }
+   },
+   {
+    "letter": "D",
+    "text": "120",
+    "img": {
+     "src": "mathematics-2021/q060-optD.png",
+     "w": 208,
+     "h": 37
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "l\ni",
+  "solutionImages": [
+   {
+    "src": "mathematics-2021/q060-sol0.png",
+    "w": 1052,
+    "h": 21
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "parallelogram",
+   "adjacent sides",
+   "area of the parallelogram"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

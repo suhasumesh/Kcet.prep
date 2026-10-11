@@ -1,0 +1,468 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "1. 1)theimpuremetalisatthe cathode 2) graphite is at the anode. 3) acidifiedzincsulphate.istheelectrolyte 4) themetal ion getsreducedat the anode.",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q001-stem0.png",
+    "w": 1818,
+    "h": 369
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "anode",
+   "cathode"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "For thereversiblereaction 7. A()+B()= =C()+D():△G=-350kJ. Which one of the following statements is true? 1)Equilibrium constant is greater than one. 2) The entropy change is negative. 3 Thereactionisthermodynamicallynotfeasible 4) The reaction should be instantaneous.",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q007-stem0.png",
+    "w": 1936,
+    "h": 537
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 5,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "entropy change",
+   "entropy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "8. Outofthebelow two compounds,thevapourpressure of(B)ataparticulartemperature is. OH OH NO, (A) (B) 1)lowerthanthatof(A) 2)higher than that of (A) 3) same as that of(A) higher or lower than (A),depending on the sizeof the vessel. 4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q008-stem0.png",
+    "w": 1937,
+    "h": 857
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "9. Theamountofheatevolvedwhen500cm²of0.1MHClismixedwith200cm²of 0.2MNaOHis. 1)1.292kJ 2) 2.292 kJ 3) 3.392kJ 4) 0.292k.J",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q009-stem0.png",
+    "w": 1941,
+    "h": 347
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "10.During the adsorption of krypton on activated charcoal at low temperature, 1) H<Oand△S<0 2) △H>Oand△S<0 3) △H<Oand△S>0 4) △H>Oand△S>0 (Space for Rough Work) SR-49",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q010-stem0.png",
+    "w": 1821,
+    "h": 828
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "adsorption"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "is.. 2) 1）3,2,2,+2 4,1,1,+12 4,2,2,+y2 4) 4,0,0,+12 3) 12.Peroxide ion",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q011-stem0.png",
+    "w": 1935,
+    "h": 338
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "a) is diamagnetic. b) hasfivecompletelyfilled antibondingmolecularorbitals. c) is isoelectronicwith neon. (P hasbond order one. Whichoneofthese iscorrect? 1)a),b) and d) 2)d)and c) 4)a), b) and c) 3)a) and d) 13.Which one of these is NOT true forbenzene?",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q012-stem0.png",
+    "w": 1939,
+    "h": 576
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "neon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "1） Thereare three carbon-carbon singlebondsand three carbon-carbondouble bonds. It forms only one type of monosubstituted product. 2) 3) The bond angle between the carbon-carbon bonds is 120°. The heatofhydrogenationofbenzene islessthan the theoretical value.",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q013-stem0.png",
+    "w": 1817,
+    "h": 336
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "bond angle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "16.Generally,the first ionization energy increases along a period.But there are some exceptions.OnewhichisNOTanexceptionis.. 1)NaandMg 2)NandO BeandB Mg.and Al 3) 4) 17.50 cmof 0.2NHClis titrated against 0.1 NNaOHsolution.The titration is discontinued",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q016-stem0.png",
+    "w": 1937,
+    "h": 352
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "period"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2010,
+  "source": "kcet-2010-chemistry-question-paper.pdf",
+  "stemText": "after adding 50 cmof NaOH.The remaining titration iscompleted by adding 0.5 N KOH.ThevolumeofKOHrequired for completing the titration is 10 cm² 2)12cm² 1） 10.5 cm² 25cm3 3) 4) 18.Inwhich one of the following,does the given amount of chlorine exert theleast pressure",
+  "stemImages": [
+   {
+    "src": "chemistry-2010-kea/q017-stem0.png",
+    "w": 1939,
+    "h": 414
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "chlorine"
+  ],
+  "chapterConfidence": "low"
+ }
+]

@@ -1,0 +1,1923 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "(1)5and7 (2)2and7 (3) 2and6 (4) 5and6 201829 MA080",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q001-stem0.png",
+    "w": 1746,
+    "h": 241
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "2.β-decaymeans emission ofelectron from (1) a stablenucleusx MEBIC (2) outermostelectron orbit (3) radioactive nucleus (4) innermostelectronorbit",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q002-stem0.png",
+    "w": 1751,
+    "h": 235
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "nucleus",
+   "radioactive"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "An electricheaterrated220Vand550Wisconnected to A.C.mains.Thecurrent drawn by 3. itis (D) 2.5A (2) 0.4A (3) 1.25A (4) 0.8A",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q003-stem0.png",
+    "w": 1886,
+    "h": 295
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "12.G.P.Thomson experimentally confirmed the existence of matter waves by the phenomena (1) refraction (2) polarisation (3) scattering (4) diffraction",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q012-stem0.png",
+    "w": 1752,
+    "h": 274
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "diffraction",
+   "polarisation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "13.The resistance of a wire at 300 K is found tobe 0.3 Q.If the temperature co-efficient of resistance of wire is 1.5x10-3K-, the temperature at which theresistance becomes 0.6Q is 345K (1) (2) 993K (3) 690K (4) 720K",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q013-stem0.png",
+    "w": 1888,
+    "h": 419
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "The force that isrequired at a point O.4m distant from the hingesfor opening or closing the dooris (2) 2.4N (1) 3.6N 1.2N 4N (4) (3) 17.0.1 m²ofwater at 80°C is mixedwith 0.3 m²ofwater at 60C.The final temperature of",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q016-stem0.png",
+    "w": 1929,
+    "h": 385
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "the mixtureis 70°℃ (2) 60℃ (1) 65℃ (3) 75°℃ (4) 18.The spectral seriesof thehydrogen atom that lies in thevisibleregionof the electromagnetic",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q017-stem0.png",
+    "w": 1917,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "spectrum (2) Lyman (1) Balmer Paschen (3) Brackett (4)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q018-stem0.png",
+    "w": 1912,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "balmer",
+   "lyman",
+   "paschen"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "20.Which of thefollowing statement doesnot hold good for thermal radiation? Thefrequencychangeswhen it travelsfromonemediumtoanother. (2) Thespeedchangeswhenit travelsfrom onemedium toanother. (3) They travel in straight line in a givenmedium. (4) Thewavelengthchangeswhenit travels from onemedium to another. D",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q020-stem0.png",
+    "w": 1751,
+    "h": 509
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "radiation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "21. Sun B Aplanet revolvesround theSun in anelliptical orbit.The linearspeed of the planetwill be maximumat (1) B (2) A (3) C (4) D",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q021-stem0.png",
+    "w": 1878,
+    "h": 788
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "22. N M Horizontal tube ofnon-uniform cross-section has radii of 0.1 m and 0.05mrespectively at M and N.Forastreamline flowof liquid therateofliquidflowis greateratMthanatN (2) greater at N than at M (1) (3) (4) continuouslychangeswith time same at Mand N",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q022-stem0.png",
+    "w": 1889,
+    "h": 672
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "horizontal"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "across the capacitor is 5V and that acrossresistor is 12V,the appliedvoltage is 17V (2)5V (1) 12V (4) 13V (3) 24.The amount of heat energy radiated by ametal at temperatureT'is‘E'.When the",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q023-stem0.png",
+    "w": 1899,
+    "h": 370
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "temperature is increased to3T,energyradiatedis (1) 9E (2) 3E (3) 27E (4) 81E 25.The angle ofminimum deviation for an incident lightray on an equilateral prismis equal to",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q024-stem0.png",
+    "w": 1892,
+    "h": 369
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "itsrefracting angle.Therefractiveindex ofitsmaterialis V3 (2) (1)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q025-stem0.png",
+    "w": 1890,
+    "h": 192
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "27.A stationary point source of sound emitssound uniformly in all directions in a non-absorbing medium.Two pointsP and Q are at a distance of 4 m and 9 m respectively from the source.Theratioofamplitudes of thewaves at P&Qis 4 2 (1) (2) 13 9 914 3 (3) （4） 2",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q027-stem0.png",
+    "w": 1887,
+    "h": 566
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sound"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "28.Agalvanometer of resistance 240Q allows only 4%of the main current after connecting a shuntresistance.The value of the shunt resistance is (1) 20Ω (2) 8Ω",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q028-stem0.png",
+    "w": 1887,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "current",
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "electricfield of 1.6x105Vm-1.Thevelocity of the particle at the endof 2×10-2mpath when itstartsfromrestis 8×105ms-1 (2) 16×10ms-1 (1) 4√2×10²ms-1 2√3×10²ms-1 (4) (3) 33.Acylindrical tube open at both the ends has a fundamental frequency of390 Hzin air.If",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q032-stem0.png",
+    "w": 1903,
+    "h": 454
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "fundamental frequency",
+   "frequency"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "1/4\"of the tube is immersedverticallyinwater thefundamental frequency of air column is (1) 130Hz (2) 390Hz 260Hz (3) 520Hz (4) 34.The surface temperature of the stars is determined using",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q033-stem0.png",
+    "w": 1898,
+    "h": 381
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "Wein'sdisplacementlaw (2) Rayleigh-Jeans law (1) Kirchoff's law (4) Planck'slaw (3)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q034-stem0.png",
+    "w": 1765,
+    "h": 327
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "35. 12V 4uF 2uF 6uF The charge deposited on 4 μFcapacitor in the circuit is 12×10-6C 24×10-6C (1) (2) 6x10-6C (3) 36×10-6C (4)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q035-stem0.png",
+    "w": 1890,
+    "h": 787
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "36.Aparallel beam of light is incident on a converging lens parallel toitsprincipal axis.As one moves away from the lens on the other side of theprincipal axis,theintensity of light (1) continuouslyincreases (2) continuously decreases (3) firstincreases andthendecreases (4) firstdecreasesandthen increases",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q036-stem0.png",
+    "w": 1883,
+    "h": 588
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "lens"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "37.Continuous emission spectrum isproducedby (1) Mercury vapour lamp (2) Sodium vapour lamp Incandescent electric lamp (3) The Sun (4)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q037-stem0.png",
+    "w": 1759,
+    "h": 375
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "38.Acoil of‘n’number of turns iswound tightly in the formof a spiral withinner and outer radii ‘a’and‘b'respectively.When a current of strength I is passed through the coil,the magneticfield atits centre is uonl 2uonl (1) (2) 2(b-a) b μonI uonI b logea (b-a)logcb a (3) (4) 2(b-a)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q038-stem0.png",
+    "w": 1890,
+    "h": 659
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "39.Aray of light is incident on a.planemirror at an angleof 60°.The angleof deviation produced by themirroris 30° (1) (2) 60° (3) 90° (4) 120°",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q039-stem0.png",
+    "w": 1891,
+    "h": 352
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "40.The electric potential at any point x,y,z in metres is givenby V=3x².The electric field ata point(2m,0,1m） is (1) -6Vm-1 6Vm-1 (2) =12Vm-1 (3) (4) 12Vm-1",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q040-stem0.png",
+    "w": 1885,
+    "h": 496
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "41.Young's double slit experiment gives interference fringesofwidth O.3 mm.A thin glass platemadeofmaterialofrefractiveindex1.5iskeptin thepath oflight fromoneof the slits,then thefringe widthbecomes 0.3mm (1) (2) 0.45mm (3) 0.15mm (4) zero",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q041-stem0.png",
+    "w": 1889,
+    "h": 580
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "young's double slit",
+   "interference",
+   "slit"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "42. Near a circular loop of conducting wire as shown in the figure an electron movesalong a straightline.The direction of theinduced current if any in the loop is (1) clockwise (2) anticlockwise (3) zero (4) variable",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q042-stem0.png",
+    "w": 1897,
+    "h": 895
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "43.Hydrogen atom from excited state comes to the ground state by emitting a photon of wavelength入.If R is theRydbergconstant,the principal quantumnumbern’of the excited state is 入 入R2 (1) AR-1 (2) 入R-1 入R 入R (3) (4) AR-1",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q043-stem0.png",
+    "w": 1886,
+    "h": 587
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "excited state",
+   "ground state",
+   "hydrogen atom"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "44.The magneticdipolemoment of a current loop is independent of (1) number of turns (2) area of theloop (3) current in theloop magneticfieldinwhich it is lying (4)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q044-stem0.png",
+    "w": 1774,
+    "h": 459
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "45.In ruby laser,the stimulated emission is due to transitionfrom (1) anyhigher state to lower state (2) metastablestate toground state (3) anyhigherstate toground state (4) metastablestateto anylower state",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q045-stem0.png",
+    "w": 1782,
+    "h": 470
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "47.A convex lensmade of glass has focal length 0.15 m in air.If therefractive index of glass is 3/,and that ofwater is 4/,the focal length of lenswhen immersed in water is 0.30m (1) 0.15m (2) 0.6m (4) 0.45m (3)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q047-stem0.png",
+    "w": 1888,
+    "h": 390
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "focal length",
+   "convex"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "48.Two sourcesaresaid tobecoherentif theyproducewaves (1) ofequal wavelength (2) ofequalspeed (3) havingsameshapeofwavefront (4) having a constant phasedifference 49.Threeresistors1Q,2Q,and3Qareconnected toform a triangle.Across3Qresistor a3V",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q048-stem0.png",
+    "w": 1755,
+    "h": 471
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "wavelength"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "battery isconnected.Thecurrent through3Qresistor is (1) 1A (2）2A (3) 1.5A (4) 0.75A",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q049-stem0.png",
+    "w": 1885,
+    "h": 378
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "battery"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "50.Inacommon emitter amplifier theinputsignalis applied across (1) emitter-collector (2) collector-base base-emitter (4) anywhere (3)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q050-stem0.png",
+    "w": 1759,
+    "h": 311
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "produced perunit thicknessis m,the angle of refraction produced is √3 sin-11- (1) (2) tan' B 2 (3) tan\" (4) tan- √3-1 53.Ferromagneticmaterials used ina transformermust have",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q052-stem0.png",
+    "w": 1888,
+    "h": 630
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "(1) highpermeability and lowhysterisis loss highpermeability and highhysterisis loss (2) (3) lowpermeability andlowhysterisisloss lowperineabilityandhighhysterisisloss (4) 54.According toNewtonsCorpuscularTheory,the speed of lightis",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q053-stem0.png",
+    "w": 1754,
+    "h": 528
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "(2) lesser in densermedium (1) lesser inrarermedium same in all the media (3) independent of themedium (4) 55.For the constructive interference the path difference between the twointerferingwavesmust",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q054-stem0.png",
+    "w": 1753,
+    "h": 354
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "interference",
+   "path difference"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "be equal to (1) 2nT (2) n入 入 (2n+1）2 (4) (2n+1）x (3)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q055-stem0.png",
+    "w": 1883,
+    "h": 446
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "(1) Voltmeter (2) Voltameter (3) Potentiometer (4) Multimeter",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q056-stem0.png",
+    "w": 1749,
+    "h": 313
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "potentiometer",
+   "voltmeter"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "57.The kinetic energy of an electron gets tripled,then the de-Broglie wavelength associated withitchangesbyafactor (1)√3 (2) 1 (3) (4) 3 3",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q057-stem0.png",
+    "w": 1872,
+    "h": 503
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2009,
+  "source": "kcet-2009-physics-question-paper.pdf",
+  "stemText": "58.Whichof the following isnota thermodynamicco-ordinate? (1) Pressure (P) Volume(V) (2) (3) Temperature (T) (4) Gas constant (R)",
+  "stemImages": [
+   {
+    "src": "physics-2009-kea/q058-stem0.png",
+    "w": 1753,
+    "h": 316
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "pressure"
+  ],
+  "chapterConfidence": "low"
+ }
+]

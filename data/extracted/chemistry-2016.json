@@ -1,0 +1,2445 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "after 240 minutes ? (1) 6.25% (2) 4.25% (3) 5% (4) 6%",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q001-stem0.png",
+    "w": 1885,
+    "h": 403
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "Which of the following is not a colligative property ? 2. (1) Osmotic pressure (2) Optical activity (3) Depression in Freezing point (4) Elevation in Boiling point",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q002-stem0.png",
+    "w": 1886,
+    "h": 343
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 16,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "colligative",
+   "osmotic pressure",
+   "elevation in boiling point",
+   "depression in freezing point"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "6. (1) can be recharged. can be recharged by passing current through it in the same direction. (2) can be recharged by passing current through it in the opposite direction. (3) can not recharged. (4) Osmotic pressure of the solution can be increased by,",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q006-stem0.png",
+    "w": 1901,
+    "h": 549
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "osmotic pressure",
+   "solution"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "increasing the temperature of the solution. (1) decreasing the temperature of the solution. (2) increasing the volume of the vessel. (3) diluting the solution. （4) The amount of current in Faraday is required for the reduction of 1 mol of Cr2O7- - ions to",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q007-stem0.png",
+    "w": 1896,
+    "h": 564
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "8. Cr+ is, (2) 2F (1) 1F (4) 4F (3) 6F For a chemical reaction,",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q008-stem0.png",
+    "w": 1893,
+    "h": 451
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "9. mA -> xB, the rate law is r = k[A]. If the concentration of A is doubled, the reaction rate will be, Quadrupled Doubled (2) (1) Unchanged (3) Increases by 8 times (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q009-stem0.png",
+    "w": 1885,
+    "h": 457
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "rate law"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "10. Schottky defect in a crystal is observed when, (1) Unequal number of cations and anions are missing from the lattice. (2) Equal number of cations and anions are missing from the lattice. (3) An ion leaves its normal site and occupies an interstitial site. No ion is missing from its lattice site (4) d[B]",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q010-stem0.png",
+    "w": 1684,
+    "h": 540
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "schottky",
+   "crystal",
+   "lattice",
+   "defect"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "11. 3A —→ 2B, rate of reaction + is equal to 1P 3 d[A] 2 d[A] (1) (2) 2dt 3dt d[A] 1 d[A] (3) +2 (4) dt 3dt",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q011-stem0.png",
+    "w": 1690,
+    "h": 516
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "rate of reaction"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "12. The activation energy of a chemical reaction can be determined by, (1) evaluating rate constants at two different temperatures. (2) changing the concentration of reactants. (3) evaluating the concentration of reactants at two different temperatures. (4) evaluating rate constant at standard temperature.",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q012-stem0.png",
+    "w": 1697,
+    "h": 509
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "rate constant",
+   "activation energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "13. Which of the following statements is incorrect w.r.t. Physisorption ? (1) The forces involved are van der Waal's forces. (2) More easily liquifiable gases are adsorbed easily. (3) Under high pressure it results into Multi-molecular layer on adsorbent surface. ^Hadsorptio is low and +Ve. (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q013-stem0.png",
+    "w": 1704,
+    "h": 499
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "physisorption",
+   "adsorbent",
+   "surface"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "14. Sulphur sol contains (1) Discrete S-atoms Discrete S-molecules (2) Large aggregates of S-molecules (3) Water dispersed in Solid Sulphur (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q014-stem0.png",
+    "w": 1792,
+    "h": 502
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sulphur"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "15. Reactions in Zeolite catalyst depend on, (2) Apertures (1) Pores (4) All of these (3) Size of cavity",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q015-stem0.png",
+    "w": 1785,
+    "h": 339
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "zeolite"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "16. IUPAC name of the compound H,C H H .is, H Br 2-Bromo-2-butene 1-Bromo but-2-ene (2) (1) Bromo butene (4) 1-Bromo but-3-ene (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q016-stem0.png",
+    "w": 1773,
+    "h": 649
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "iupac name"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "17. Replacement of Cl of Chlorobenzene to give phenol requires drastic conditions, but Cl of 2, 4 - dinitro chlorobenzene is readily replaced. This is because, --NO2 group makes the ring electron rich at ortho and para positions. (1) -NO2 group withdraws electrons from meta position. (2) -NO, donate electrons at meta position. (3) -NO2 withdraws electrons from ortho and para positions. (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q017-stem0.png",
+    "w": 1888,
+    "h": 554
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "chlorobenzene"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "18. In the reaction : PCl5 →X- H,SO4, Room temp. Ethanol —— alc KOH > Z, the product Z is, →Y H,0,△ (1) CH,CH,OCH,CH3 (2) CH,CH,OSO,H (4) (3) HO",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q018-stem0.png",
+    "w": 1880,
+    "h": 590
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "19.Which of the following compound is most acidic ? HO Cl - CH2 - CH2 - OH (2). (1) HO HO (3) (4) NO2 CH",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q019-stem0.png",
+    "w": 1767,
+    "h": 496
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "20. Benzene carbaldehyde is reacted with concentrated NaOH solution to give the products A and B. The product A can be used food preservative and the product B is an aromatic hydroxy compound where OH gorup is linked to sp3 hybridised carbon atom next to Benzene ring. The products A and B are respectively, (1) Sodium benzoate and phenol Sodium benzoate and phenyl methanol (2) (3) Sodium benzoate and cresol Sodium benzoate and picric acid (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q020-stem0.png",
+    "w": 1767,
+    "h": 679
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 8,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "benzene"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "21. The reaction which involves dichlorocarbene as an electrophile is, (1) Reimer-Tiemann reaction (2) Kolbe's reaction (3) Friedel-Craft's acylation (4) Fittig's reaction.",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q021-stem0.png",
+    "w": 1772,
+    "h": 299
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "electrophile"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "22. Ethanol is converted into ethoxy ethane, by heating excess of ethanol with conc. H,SO4 at 140 °C. (1) by heating Ethanol with excess of conc. H2SO4 at 443 K. (2) by treating with conc.H,SOat room temperature. (3) by treating with conc. H2SO4 at 273 K. (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q022-stem0.png",
+    "w": 1779,
+    "h": 594
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "23. An organic compound X is oxidised by using acidified K2Cr2O7, solution. The product obtained reacts with phenyl hydrazine but does not answer silver mirror test. The compound Xis, Ethanal (1) 2-propanol (2) CH,CH,CH, (3) Ethanol (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q023-stem0.png",
+    "w": 1895,
+    "h": 516
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "24. Predict the product 'C' in the following series of reactions : C6H6 CH,MgBr CH, - COOH >B >C Anhyd AlCl3 CH,CH(OH)CH5 (2) (CH),C(OH)C6H5 (3) CH,CH(OH)C,H5 （4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q024-stem0.png",
+    "w": 1886,
+    "h": 620
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "25. The number of oxygen atoms in 4.4 gm of CO2 is, 1.2 x 1023 6 x 1022 (1) (2) 6 × 1023 12 × 1023 (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q025-stem0.png",
+    "w": 1762,
+    "h": 318
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxygen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "26. If the bond energies of H-H, Br-Br and H-Br are 433, 192 and 364 kJ mol-l respectively, then AH? for the reaction : (1) -261 kJ (2) +103 kJ (3) (4) -103 kJ +261 kJ \"_HOE + (be)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q026-stem0.png",
+    "w": 1875,
+    "h": 450
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "decreased by times, then the equilibrium concentration of Fe3+ will increase by, 4 8 times 16 times (1) (2) (3) 64 times (4) 4 times",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q027-stem0.png",
+    "w": 1881,
+    "h": 415
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "28. The correct statement regarding entropy is, (1) At absolute zero temperature, entropy of a perfectly crystalline solid is zero. (2) At absolute zero temperature, the entropy of a perfectly crystalline substance is +Ve. (3) At absolute zero temperature, the entropy of all crystalline substances is zero. At O °C, the entropy of a perfect crystalline solid is zero. (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q028-stem0.png",
+    "w": 1765,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "entropy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "31. The composition of *copper matte' is, Cu,S + FeS CuS + Cu (1) 2) (3) Cu,S + FeO (4) Cu2O + FeS The complex formed when A/,Ois leached from Bauxite using concentrated NaOH",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q031-stem0.png",
+    "w": 1886,
+    "h": 441
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "bauxite"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "32. solution is, Na[AI(OH)4] (2) NaAl,04 (1) (3) *Na,[A(OH);] (4) Na,AlO2 33.The property which is not true about Fluorine is,",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q032-stem0.png",
+    "w": 1883,
+    "h": 499
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "(1) Most of its reactions are exothermic. It forms. only one oxo acid. (2) Highest electronegativity. High F-F bond dissociation enthalpy. （4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q033-stem0.png",
+    "w": 1760,
+    "h": 500
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "electronegativity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "34.Which is true regardingnitrogen? Has low ionisation enthalpy (1) Less electronegative (2) (3) d-orbitals are available (4) Ability to form pr - pπ bonds with itself",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q034-stem0.png",
+    "w": 1765,
+    "h": 409
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "ionisation enthalpy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "35. The shape of XeF, is, Square planar Distorted octahedral (1) 2） Square pyrimidal (4) Pyramidal 3）",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q035-stem0.png",
+    "w": 1763,
+    "h": 431
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "square planar"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "36. The number of isomers possible for the octahedral complex [CoCl,(en)(NH3)2] is, (1) Two (2) Three (3) No isomer (4) Four isomers",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q036-stem0.png",
+    "w": 1767,
+    "h": 431
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "complex",
+   "octahedral complex"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "37. CO is a stronger ligand than Cl, because (1) CO is a neutral molecule. (2) CO has r-bonds. (3) CO is poisonous. (4) CO is more reactive. 38.The bivalent metal ion having maximum paramagnetic behaviour among the first transition",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q037-stem0.png",
+    "w": 1763,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ligand"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 38,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "series elements is, Mn2+ Cu2+ (1) (2) Sc2+ (3) (4) Cu+",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q038-stem0.png",
+    "w": 1876,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "39. When a brown compound of Mn (A) is treated with HCl, it gives a gas (B). The gas (B) taken in excess reacts with NH, to give an explosive compound (C). The compounds A, B and C are; (1) A = MnO2, B= Cl2, C = NCl, A = MnO, B = Cl2; C=NH4Cl (2) (3) A = MnO4, B =Cl2, C =NCl3 （4） A= MnO, B=Cl2, C=NCl2",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q039-stem0.png",
+    "w": 1881,
+    "h": 678
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "40. Mn2+ compounds are more stable than Fe2+ compounds towards oxidation to their +3 state, because Mn2+ is more stable with high 3rd Ionisation energy. (1) Mn?+ is bigger in size. (2) Mn2+ has completely filled d-orbitals. (3) (4) Mn?+ does not exist.",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q040-stem0.png",
+    "w": 1880,
+    "h": 549
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "41. Which of the following sequence is correct regarding field strength of ligands as per spectrochemical series ? (1) SCN <F<CN <CO (2) F<SCN <CN <CO (3) CN < F < CO < sCN (4) ) SCn <CO<F<CN",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q041-stem0.png",
+    "w": 1873,
+    "h": 401
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "spectrochemical series"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "42. As per IUPAC norms, the name of the complex [Co(en)2(ONO)C/]Cl is Chlorido bis(ethane-1, 2 -- diamine) nitro-0-cobalt (Ill) chloride. (1) (2) Chloro bis(ethylene diamine) nitro-o-cobalt (Ill) chloride. (3) Chlorido di(ethylene diamine) nitro cobalt (Il) chloride. (4) Chloro ethylene diamine nitro-o-cobalt (IHl) chloride.",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q042-stem0.png",
+    "w": 1762,
+    "h": 428
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "chloride"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "43. In the following sequence of reactions ; HNO2 > CH;CH,OH Reduction B A The compound A is Propane nitrile (2) Ethane nitrile (1) CH,NO2 (4) CH,NC (3) An organic compound A on reduction gives compound B, which on reaction with trichloro",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q043-stem0.png",
+    "w": 1896,
+    "h": 657
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "reduction"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "44. methane and caustic potash forms C. The compound 'C' on catalytic reduction gives N-methyl benzenamine, the compound ‘A' is, Nitromethane (1) Nitrobenzene (2) Methanamine Benzenamine (3) (4) Which of the following gives positive Fehling's solution test ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q044-stem0.png",
+    "w": 1760,
+    "h": 507
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "fehling"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "45. (1) Sucrose (2) Glucose (3) Fats (4) Protein",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q045-stem0.png",
+    "w": 1762,
+    "h": 393
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "glucose",
+   "sucrose",
+   "protein"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "46. A liquid can exist only, (1) Between triple point and critical point. (2) At any temperature above melting point. (3) Between melting point and critical point. (4) Between boiling and melting points.",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q046-stem0.png",
+    "w": 1755,
+    "h": 492
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "47. The energy of electron in the nth Bohr orbit of H-atom is -13.6 -13.6 (2) eV (1) eV n² n -13.6 -13.6 (3) eV (4) -eV 4 n n",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q047-stem0.png",
+    "w": 1752,
+    "h": 433
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "bohr",
+   "electron"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "51. Which of the following is not true ? (1) In vulcanisation therubber becomes harder and stronger. Natural rubber has 'trans? configuration at every double bond. (2) Buna-S is a co-polymer of Butene and styrene. 3) Natural rubber is 1, 4-polymer of isoprene. 4）",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q051-stem0.png",
+    "w": 1378,
+    "h": 533
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "buna",
+   "vulcanisation",
+   "polymer",
+   "rubber"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "52. Which of the following is a polyamide ? (1) Nylon-6, 6 Terylene (2) (3) Polythene (4) Buna-S",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q052-stem0.png",
+    "w": 1375,
+    "h": 341
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "nylon",
+   "buna",
+   "terylene"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "53. Which of the following is correct about H-bonding in DNA ? (2) A-G, T-C (1) A-T,G-C (3) : G-T,A -C (4) A-A,T -T",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q053-stem0.png",
+    "w": 1376,
+    "h": 347
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "dna"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "54. Which of the following is employed as Tranquilizer ? Equanil (2) Naproxen (1) Tetracyclin (4) Dettol (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q054-stem0.png",
+    "w": 1366,
+    "h": 348
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemistry in Everyday Life",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "tranquilizer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "55. Reactivity of order of halides for dehydrohalogenation is R-F>R-Cl>R-Br>R-I (1) (2) R -I>R-Br>R-CI>R-F (3) R-I>R-CI>R-Br>R-F R-F>R-I>R-Br>R-Cl (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q055-stem0.png",
+    "w": 1358,
+    "h": 484
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "56.Main axis of diatomic molecule is Z.The orbitals Pand Poverlap to form (1) π - molecular orbital (2) 0 - molecular orbital (3) 8 - molecular orbital (4) No bond is formed.",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q056-stem0.png",
+    "w": 1757,
+    "h": 410
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "molecular orbital"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "57. The hybridisation of C in diamond, graphite and ethyne is in the order sp’, sp, sp2 (1) (2) sp”, sp², sp (3) sp, sp2, sp3 (4) sp2, sp3, sp",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q057-stem0.png",
+    "w": 1772,
+    "h": 401
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 24,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "hybridisation",
+   "sp3",
+   "sp2"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "58. A miscible mixture of CH6 + CHCl, can be separated by (1) Sublimation (2) Distillation -Filtration (3) (4) Crystallisation",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q058-stem0.png",
+    "w": 1765,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "59. An organic compound contains C = 40%, H = 13.33% and' N = 46.67%. Its emperical formula is (1) C,H,N (2) N'H CHN (3) (4) CHN",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q059-stem0.png",
+    "w": 1880,
+    "h": 451
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Chemistry",
+  "year": 2016,
+  "source": "Chemistry-2016.pdf",
+  "stemText": "60. Electrophile that participates in nitration of benzene is (1) NO+ NO2 (2) (3) NO (4) NO3",
+  "stemImages": [
+   {
+    "src": "chemistry-2016/q060-stem0.png",
+    "w": 1770,
+    "h": 388
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "electrophile"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

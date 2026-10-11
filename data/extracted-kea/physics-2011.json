@@ -1,0 +1,1149 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "1. CV2is... MLT-A-1 1) ML²T-A° 2） ML-3TA1 3) M°LT-A° 4) Thedisplacement-timegraphsoftwomovingparticlesmakeanglesof30°and45°with",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q001-stem0.png",
+    "w": 1929,
+    "h": 368
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "2. theX-axis.Theratiooftheirvelocities is displacement 1) √3:2 2) 1:1 3) 1:2",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q002-stem0.png",
+    "w": 1922,
+    "h": 359
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "displacement"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "6.A solid sphereofmassmrollsdownan inclinedplanewithoutslipping,startingfrom restatthetopofaninclinedplane.Thelinearspeedofthesphereatthebottomofthe inclinedplaneisu.Thekineticenergy'ofthesphereatthebottomis 1 5 mu2 mu2 1) 12 2) 3 2 7 3) 5 mu 4) mu 10",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q006-stem0.png",
+    "w": 1925,
+    "h": 535
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "7. Twosatellitesofmassmand9mareorbitingaplanetinorbitsofradiusR.Theirperiods ofrevolutionwillbeintheratioof. 1)9:1 2)3:1 3) 1:1 4)1:3",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q007-stem0.png",
+    "w": 1925,
+    "h": 317
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "8. ThefollowingfourwiresoflengthLandradiusraremadeofthesamematerial.Which of these will have the largest extension,when the same tension is applied? 1）L=100cm,r=0.2mm 2)L=200cm,r=0.4mm L=300cm,r=0.6mm 3) 4) L=400cm,r=0.8mm",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q008-stem0.png",
+    "w": 1925,
+    "h": 336
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "tension"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "Theresultantoftwoforcesactingatanangleof120°is10kgwtand isperpendicular to 9. oneoftheforces.Thatforceis 1)10√3kgwt 2)20√3kgwt",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q009-stem0.png",
+    "w": 1925,
+    "h": 248
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "1)thesameinbothtubes greaterinthetubeoflargerdiameter 2) greaterinthetubeofsmallerdiameter 3) independentofthediameterofthetube 4 12.Aperfectgas at27°Cisheated atconstantpressure soas todoubleitsvolume.The",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q011-stem0.png",
+    "w": 1807,
+    "h": 423
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "increaseintemperatureofthegaswillbe 1)600℃ 327℃ 2) 3) 54℃ 4) 300°℃",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q012-stem0.png",
+    "w": 1926,
+    "h": 327
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "16.Aparticleexecutinga simpleharmonicmotionhas aperiodof 6sec.The time takenby theparticletomovefrom themeanposition tohalftheamplitude,startingfrom the meanposition is 3 1 1) 12 sec 2) sec 2 31 1 3) sec 4) sec 4 4 2π x+1",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q016-stem0.png",
+    "w": 1919,
+    "h": 591
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "17.Theequationofawave isgivenbyy=10 Sin .Ifthedisplacementis5cmat 45 t=0,then the totalphase at t=7.5 sec.is π π 1) 2)",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q017-stem0.png",
+    "w": 1924,
+    "h": 250
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "respectively.Thecritical angleis 3 1)Tan 2)Tan 3 2 Sin 3) 4) Sin",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q021-stem0.png",
+    "w": 1921,
+    "h": 512
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "thickness4mmis (c=3x10ms-,speedoflightinfreespace). 1)10-11 sec 2)2×10-11sec 3)2×10+11 sec 2×10-5sec",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q022-stem0.png",
+    "w": 1924,
+    "h": 228
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "26.Wavefrontis thelocus of all points,where the particlesofthemediumvibratewith the same... 1）phase 2)amplitude 3)frequency period 4) 27.Twomonochromaticlightwaves of amplitudes3A and 2A interfering at apoint have a",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q026-stem0.png",
+    "w": 1926,
+    "h": 317
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "amplitude"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "phasedifferenceof60°.Theintensityatthatpointwill beproportional to.. 1)5A² 2) 13A² 3)7A2 4) 19 A2",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q027-stem0.png",
+    "w": 1923,
+    "h": 333
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "28.Consider thefollowingstatementsincaseofYoung'sdoubleslitexperiment. a) A slitSis necessary ifwe use an ordinary extended source of light. b) A slitSisnotneeded ifweuse anordinarybutwell collimatedbeam of light. A slitS isnotneeded ifwe use a spatially coherent source of light. c) Whichofthe abovestatementsarecorrect? 1）a),b)andc) 2)a)and b) 3)b)and c) 4) a)andc)",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q028-stem0.png",
+    "w": 1933,
+    "h": 550
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "coherent source"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "inextensible stringsofequal lengthmake anangleobetween the strings.When suspendedinaliquidofdensityotheangle0remainsthesame.Thedielectricconstant Koftheliquidis.. p p-o p p+o 1) 2) 3) 4) p-o p p+o p",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q031-stem0.png",
+    "w": 1928,
+    "h": 456
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "32.Theelectricfield ata point due to an electricdipole,onanaxis inclined at an angle 0（<90°)to the dipole axis, isperpendicular to the dipole axis,if the angle θis 3)Tan-(√2) 4)Tan 1) Tan-(2) 2) Tan",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q032-stem0.png",
+    "w": 1919,
+    "h": 377
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "36.A resistorhas a colour code of green,blue,brown and silver.Whatis its resistance？ 56Ω±5% 1) 2) 560Ω±10% 3) 560Ω±5% 4) 5600Ω±10%",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q036-stem0.png",
+    "w": 1807,
+    "h": 284
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "ThevoltageVand currentIgraphsfora conductor at twodifferent temperatures T,and 37. T,are shown in the figure. The relation between T, and T, is .... A 1)T>T2 T<T2 2) 3) T=T2",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q037-stem0.png",
+    "w": 1816,
+    "h": 436
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "magnetic field with the same velocities.The magneticfield is perpendicular and directed intotheplaneof thepaper.The tracksoftheparticlesarelabelledinthefigure. Theelectronfollowsthetrack C 1)A B 2) B 3) C 4) D 42.The deflection in a movingcoil galvanometeris reduced tohalfwhen it is shuntedwith",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q041-stem0.png",
+    "w": 1929,
+    "h": 583
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "magnetic field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "Iampereis 1 1一 L12 1) L²1 2) 2 2 3) LI2 4) L²1",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q046-stem0.png",
+    "w": 1932,
+    "h": 404
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "47.Atransformerworkson theprincipleof self induction 1) 2) electrical inertia 3) mutual induction 4) magneticeffectofthe electrical current",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q047-stem0.png",
+    "w": 1808,
+    "h": 421
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "inertia"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "48.Flash spectrum confirmsa/an 1） totalsolareclipse 2) lunar eclipse 3) earthquake 4) magnetic storm",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q048-stem0.png",
+    "w": 1808,
+    "h": 263
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "49.Thephotoelectric threshold wavelengthfor silveris.The energy of the electronejected from the surfaceof silverby anincidentwavelength(<。)will be.. hc 1)hc(o-a) 2) h 3)",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q049-stem0.png",
+    "w": 1932,
+    "h": 540
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2011,
+  "source": "kcet-2011-physics-question-paper.pdf",
+  "stemText": "50.Rutherford'satomicmodelcouldaccountfor 1) stabilityofatoms 2) origin of spectra thepositivelychargedcentralcoreofanatom 3) conceptof stationaryorbits 4) (Space for RoughWork) SR-33",
+  "stemImages": [
+   {
+    "src": "physics-2011-kea/q050-stem0.png",
+    "w": 1810,
+    "h": 1188
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "rutherford"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

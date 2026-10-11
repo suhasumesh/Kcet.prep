@@ -1,0 +1,4217 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A wooden block of mass M lies on a rough\nfloor. Another wooden block of the same mass\nis hanging from the point O through strings as\nshown in the figure. To achieve equilibrium,\nthe co-efficient of static friction between the\nblock on the floor with the floor itself is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q001-stem0.png",
+    "w": 578,
+    "h": 555
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q001-optA.png",
+     "w": 839,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q001-optB.png",
+     "w": 839,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q001-optC.png",
+     "w": 839,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q001-optD.png",
+     "w": 835,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "A wooden block of mass \n rests on a rough\nfloor, while another block of the same mass is\nsuspended from a point \n by strings. To\nmaintain equilibrium, we need to determine\nthe coefficient of static friction between the\nblock on the floor and the floor itself.\nFrom the figure and given conditions, we can\nuse the following equations for equilibrium:\nThe vertical component of tension:\nThis equation accounts for the vertical force\nbalance, where \n is the tension in the string,\nand is the angle made by the string with the\nvertical.\nThe horizontal component of tension:\nHere, \n represents the coefficient of static\nfriction.\nTo find , divide equation (ii) by equation (i):\nwhere F = 20 N is the applied force and \n is\nthe force due to kinetic friction.\nKinetic Friction Force:\ncoefficient of kinetic friction\nnormal force\nUsing the Net Force Equation:\nSubstitute the values into the equation:\nSolving for \n:\nRearranging the terms gives:\nCombine the terms:\nSimplifying the equation:\nTherefore,\nkg\nThus, the mass of the block is approximately\n2.2 kg.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q001-sol0.png",
+    "w": 1397,
+    "h": 875
+   }
+  ],
+  "chapter": "Laws of Motion",
+  "chapterScore": 33,
+  "chapterMargin": 29,
+  "chapterHits": [
+   "static friction",
+   "kinetic friction",
+   "friction",
+   "tension",
+   "block"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A block of certain mass is placed on a rough\nfloor. The coefficients of static and kinetic\nfriction between the block and the floor are 0.4\nand 0.25 respectively. A constant horizontal\nforce F=20 N acts on it so that the velocity of\nthe block varies with time according to the\nfollowing graph. The mass of the block is\nnearly (Take \n)",
+  "stemImages": [
+   {
+    "src": "physics-2025/q002-stem0.png",
+    "w": 578,
+    "h": 688
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4.4 kg",
+    "img": {
+     "src": "physics-2025/q002-optA.png",
+     "w": 207,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.2 kg",
+    "img": {
+     "src": "physics-2025/q002-optB.png",
+     "w": 268,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.0 kg",
+    "img": {
+     "src": "physics-2025/q002-optC.png",
+     "w": 207,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2.2 kg",
+    "img": {
+     "src": "physics-2025/q002-optD.png",
+     "w": 266,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine the mass of the block, consider\nthe following analysis using the given data:\nFriction: Since the block is moving, we deal\nwith kinetic friction in this scenario.\nAcceleration Calculation:\nm/s\nHere, \n is the final velocity, \n is the initial\nvelocity, and is the time.\nNet Force Calculation:\nThe net force acting on the block can be\nexpressed as:\nas the object moves from to x = 2 m.\nThe initial velocity u when x = 0 is zero\nbecause \n and substituting x = 0 gives\nv = 0.\nThe final kinetic energy at x = 2m can be found\nby calculating the velocity at this point:\nGiven k = 2 SI units, the velocity at x = 2 is:\nThe change in kinetic energy is:\nKE\nSubstituting m = 0.25 kgand u = 0:\nKE\nCalculate \n:\nSo the change in kinetic energy is:\nKE\nFinally, solving gives:\n J\nHence, the work done by the net force during\nthe displacement is 4 Joules.\nThe angular acceleration ratio between the\ntwo wheels is given by:\nwhere \n is the angular acceleration of the\nlarger wheel, \nGiven that a torque of 10 Nm is applied to the\nsmaller wheel:\nSolving for \n:",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q002-sol0.png",
+    "w": 1397,
+    "h": 531
+   },
+   {
+    "src": "physics-2025/q002-sol1.png",
+    "w": 1397,
+    "h": 363
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 16,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "kinetic energy",
+   "work done",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A body of mass 0.25 kg travels along a straight\nline from x = 0 to x = 2m with a speed\n where k = 2SI units. The work done\nby the net during this displacement is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q003-stem0.png",
+    "w": 598,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8 J",
+    "img": {
+     "src": "physics-2025/q003-optA.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "16 J",
+    "img": {
+     "src": "physics-2025/q003-optB.png",
+     "w": 288,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "32 J",
+    "img": {
+     "src": "physics-2025/q003-optC.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4 J",
+    "img": {
+     "src": "physics-2025/q003-optD.png",
+     "w": 286,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Therefore, the coefficient of static friction is:\n \nQ3\nTo determine the work done by the net force\nduring the displacement of the body, we need\nto evaluate the change in kinetic energy (ΔKE)\nth\nbj\nt\nf\nt\n2",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q003-sol0.png",
+    "w": 1397,
+    "h": 185
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 7,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "kinetic energy",
+   "work done",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "During an elastic collision between two bodies,\nwhich of the following statements are correct?\nI. The initial kinetic energy is equal to the final\nkinetic energy of the system.\nII. The linear momentum is conserved.\nIII. The kinetic energy during \n (the collision\ntime) is not conserved.",
+  "stemImages": [
+   {
+    "src": "physics-2025/q004-stem0.png",
+    "w": 598,
+    "h": 289
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "II and III only",
+    "img": {
+     "src": "physics-2025/q004-optA.png",
+     "w": 565,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "I and III only",
+    "img": {
+     "src": "physics-2025/q004-optB.png",
+     "w": 565,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "I, II and III",
+    "img": {
+     "src": "physics-2025/q004-optC.png",
+     "w": 565,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "I and II only",
+    "img": {
+     "src": "physics-2025/q004-optD.png",
+     "w": 563,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "I. Final total kinetic energy equals initial\nII. Linear momentum is always conserved\nIII. During collision kinetic energy gets parthy\nconverted to potential energy\nAll statements are correct\ng\nrad/s\nUsing \nthe \nrelation \nfor \nthe \nangular\naccelerations:\nrad/s\nFi\nll\nf\nth\nl\nh\nl th\nt\nT\ni",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q004-sol0.png",
+    "w": 1397,
+    "h": 262
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 26,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "kinetic energy",
+   "potential energy",
+   "elastic collision",
+   "energy",
+   "collision"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Three particles of mass 1 kg, 2 kg and 3 kg are\nplaced at the vertices A, B and C respectively of\nan equilateral triangle ABC of side 1 m . The\ncentre of mass of the system from vertex A\n(located at origin) is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q005-stem0.png",
+    "w": 598,
+    "h": 231
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q005-optA.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q005-optB.png",
+     "w": 288,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(D) (0,0)",
+    "img": {
+     "src": "physics-2025/q005-optC.png",
+     "w": 565,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(0 0)",
+    "img": {
+     "src": "physics-2025/q005-optD.png",
+     "w": 286,
+     "h": 29
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Finally, for the larger wheel, the torque T2 is\ngiven by:\nwhere \n. Plugging in the values:\nNm\nThus, the angular accelerations and the torque\ncan be summarized as follows:\nAngular acceleration of the smaller wheel \nAngular acceleration of the larger wheel \nTorque on the larger wheel",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q005-sol0.png",
+    "w": 1397,
+    "h": 514
+   }
+  ],
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 24,
+  "chapterMargin": 22,
+  "chapterHits": [
+   "centre of mass",
+   "torque",
+   "angular acceleration"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Two fly wheels are connected by a non-\nslipping \nbelt \nas \nshown \nin \nthe \nfigure.\n. \nA\ntorque of 10 Nm is applied on the smaller\nwheel. Then match the entries of column I with\nappropriate entries of column II.\nI\nQuantities\nII\nTheir numerical\nValues (in SI\nunits)\n(a)\nAngular\nacceleration of\nsmaller wheel\n(i)\n5/3\n(b)\nTorque on the\nlarger wheel\n(ii)\n100/3\n(c)\nAngular\nacceleration of\nlarger wheel\n(iii\n)\n5/2",
+  "stemImages": [
+   {
+    "src": "physics-2025/q006-stem0.png",
+    "w": 578,
+    "h": 1119
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "a – ii, b – iii, c – i",
+    "img": {
+     "src": "physics-2025/q006-optA.png",
+     "w": 545,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "a – iii, b – i, c – ii",
+    "img": {
+     "src": "physics-2025/q006-optB.png",
+     "w": 545,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "a – ii, b – i, c – iii",
+    "img": {
+     "src": "physics-2025/q006-optC.png",
+     "w": 545,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "a – iii, b – ii, c – i",
+    "img": {
+     "src": "physics-2025/q006-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The relationship between the torque, moment\nof inertia, and angular acceleration for each\nwheel can be established with the following\nequations:\nFor the smaller wheel:\nwhere \n is the torque applied to the smaller\nwheel, \n is its moment of inertia,\nand \n is the angular acceleration.\nwhere \n is the angular momentum at\nperihelion and \n is the angular momentum\nat aphelion.\nThe perihelion is the point in the orbit where\nthe planet is closest to the Sun. Therefore, the\nradius at perihelion \n is less than the\nradius at aphelion \n:\nBecause angular momentum is conserved, we\nhave:\nFrom this, it follows that the velocity at\nperihelion \n is greater than the velocity at\naphelion \n:",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q006-sol0.png",
+    "w": 1397,
+    "h": 407
+   },
+   {
+    "src": "physics-2025/q006-sol1.png",
+    "w": 681,
+    "h": 224
+   }
+  ],
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 44,
+  "chapterMargin": 39,
+  "chapterHits": [
+   "moment of inertia",
+   "angular momentum",
+   "torque",
+   "angular acceleration"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "If \n and \n are radii, velocities\nand angular momenta of a planet at perihelion\nand aphelion of its elliptical orbit around the\nSun respectively, then",
+  "stemImages": [
+   {
+    "src": "physics-2025/q007-stem0.png",
+    "w": 578,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q007-optA.png",
+     "w": 545,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q007-optB.png",
+     "w": 545,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q007-optC.png",
+     "w": 545,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q007-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Angular momentum is conserved in an\nelliptical orbit, meaning:\nwhere\nis\nthe\nangular\nmomentum\nat",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q007-sol0.png",
+    "w": 1397,
+    "h": 204
+   }
+  ],
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "angular momentum"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The total energy of a satellite in a circular orbit\nat a distance \n from the centre of the\nEarth varies as [ R is the radius of the Earth\nand h is the height of the oribit from Earth's\nsurface]",
+  "stemImages": [
+   {
+    "src": "physics-2025/q008-stem0.png",
+    "w": 598,
+    "h": 212
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q008-optA.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q008-optB.png",
+     "w": 288,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q008-optC.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q008-optD.png",
+     "w": 286,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The total (mechanical) energy E of a satellite in\na circular orbit of radius \n is the sum\nof its kinetic and potential energies. You can\nshow that\nGravitational potential energy:\nKinetic energy (for a circular orbit):\nTotal energy:\nSince G, M and m are constants, E varies as\nAnswer Option:",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q008-sol0.png",
+    "w": 681,
+    "h": 618
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 11,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "kinetic energy",
+   "potential energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Two wires A and B are made of same material.\nTheir diameters are in the ratio of 1 : 2 and\nlengths are in the ratio of 1 : 3. If they are\nstretched by the same force, then increase in\ntheir lengths will be in the ratio of",
+  "stemImages": [
+   {
+    "src": "physics-2025/q009-stem0.png",
+    "w": 598,
+    "h": 211
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3 : 4",
+    "img": {
+     "src": "physics-2025/q009-optA.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2 : 3",
+    "img": {
+     "src": "physics-2025/q009-optB.png",
+     "w": 288,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3 : 2",
+    "img": {
+     "src": "physics-2025/q009-optC.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4 : 3",
+    "img": {
+     "src": "physics-2025/q009-optD.png",
+     "w": 286,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The problem involves two wires, A and B,\nmade from the same material. The ratio of\ntheir diameters is 1 : 2, and the ratio of their\nlengths is 1 : 3. When the same force is applied\nto both wires, we need to determine the ratio\nof their length increases.\nHere's how we can solve it:\nThe formula for the increase in length \nwhen a wire is stretched by a force F is given\nby:\nWhere:\n is the original length,\nA is the cross-sectional area of the wire,\nY is Young's modulus,\nr is the radius of the wire.\nTo find the ratio of the increase in lengths of\nwires A and B, we calculate:\nFor wires A and B:\nThe length ratio \nThe diameter ratio (\n radius ratio) is \n, so\n.\nSubstitute these values into the equation:\nTherefore, the ratio of the increase in their\nlengths is \n.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q009-sol0.png",
+    "w": 681,
+    "h": 774
+   },
+   {
+    "src": "physics-2025/q009-sol1.png",
+    "w": 676,
+    "h": 363
+   }
+  ],
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "young's modulus"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A \nhorizontal \npipe \ncarries \nwater \nin \na\nstreamlined flow. At a point along the pipe,\nwhere the cross-sectional area is \n, the\nvelocity of water is \n and the pressure is\n2000 Pa . What is the pressure of water at\nanother point where the cross-sectional area\nis \n ?\n[Density of water \n]",
+  "stemImages": [
+   {
+    "src": "physics-2025/q010-stem0.png",
+    "w": 584,
+    "h": 329
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "300 Pa",
+    "img": {
+     "src": "physics-2025/q010-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "400 Pa",
+    "img": {
+     "src": "physics-2025/q010-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "500 Pa",
+    "img": {
+     "src": "physics-2025/q010-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "200 Pa",
+    "img": {
+     "src": "physics-2025/q010-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The continuity equation for fluid flow states\nthat the product of the cross-sectional area of\nthe pipe and the fluid velocity must remain\nconstant:\nGiven:\ncm\nm\nm/s\ncm\nm\nSolving for V2:\nm/s\nApplying Bernoulli's Equation:\nBernoulli's equation for steady, incompressible\nflow along a streamline is:\nWhere:\nPa\n ( density of water)\nRearranging to find P2\nSubstituting the known values:\nPa\nThus, the pressure of the water at the second\npoint in the pipe is 500 Pa",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q010-sol0.png",
+    "w": 676,
+    "h": 1179
+   }
+  ],
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 14,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "bernoulli",
+   "fluid",
+   "streamline",
+   "pressure"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Three metal rods of the same material and\nidentical in all respects are joined as shown in\nthe figure. The temperatures at the ends of\nthese rods are maintained as indicated.\nAssuming no heat energy loss occurs through\nthe \ncurved \nsurfaces \nof \nthe \nrods, \nthe\ntemperature at the junction x is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q011-stem0.png",
+    "w": 578,
+    "h": 705
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "60°C",
+    "img": {
+     "src": "physics-2025/q011-optA.png",
+     "w": 303,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "30°C",
+    "img": {
+     "src": "physics-2025/q011-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "20°C",
+    "img": {
+     "src": "physics-2025/q011-optC.png",
+     "w": 303,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "45°C",
+    "img": {
+     "src": "physics-2025/q011-optD.png",
+     "w": 265,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "To determine the temperature at the junction\nx of three identical metal rods, follow this\nanalysis:\nAssuming No Heat Loss: The rods are made\nof the same material and are identical,\nh\nfl\nh\nh\nequal for both paths due to the same change\nin internal energy from state A to state B.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q011-sol0.png",
+    "w": 676,
+    "h": 168
+   },
+   {
+    "src": "physics-2025/q011-sol1.png",
+    "w": 1397,
+    "h": 98
+   }
+  ],
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "temperature",
+   "heat"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A gas is taken from state A to state B along two\ndifferent paths 1 and 2. The heat absorbed\nand work done by the system along these two\npaths are \n and \n and \n and \nrespectively. Then",
+  "stemImages": [
+   {
+    "src": "physics-2025/q012-stem0.png",
+    "w": 578,
+    "h": 211
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q012-optA.png",
+     "w": 838,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q012-optB.png",
+     "w": 838,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q012-optC.png",
+     "w": 838,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q012-optD.png",
+     "w": 835,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "According to the first law of thermodynamics,\nthe change in internal energy \n of a\nsystem can be expressed as:\nWhere Q is the heat absorbed by the system\nand W is the work done by the system.\nFor paths 1 and 2 from state A to state B, the\nchange in internal energy is the same,\nregardless of the path taken:\nTherefore, the heat absorbed and work done\nalong \nthe \ndifferent \npaths \nfollows \nthe\nrelationship:\nThis equation signifies that the net change in\nenergy (considering both heat and work) is\nQ14\nTo understand the displacement \n where\nkinetic energy (KE) equals potential energy (PE)\nin simple harmonic motion (SHM), consider the\nfollowing explanation:\nAt the position \n, the kinetic energy is equal\nto the potential energy. Mathematically, this is\nrepresented by:\nHere, the left side of the equation represents\nthe \nkinetic \nenergy, \nand \nthe \nright \nside\nrepresents the potential energy. Simplifying\nthe equation:\nRearranging terms, we get:\nSolving for :\nThus, the value of \n is \n.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q012-sol0.png",
+    "w": 1397,
+    "h": 688
+   },
+   {
+    "src": "physics-2025/q012-sol1.png",
+    "w": 695,
+    "h": 75
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 30,
+  "chapterMargin": 22,
+  "chapterHits": [
+   "kinetic energy",
+   "potential energy",
+   "work done",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "At \n temperature, the mean kinetic energy\nof the atoms of an ideal gas is \n. If the\ntemperature is increased to \n, then the\nmean kinetic energy of the atoms will be",
+  "stemImages": [
+   {
+    "src": "physics-2025/q013-stem0.png",
+    "w": 578,
+    "h": 175
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q013-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q013-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q013-optC.png",
+     "w": 199,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q013-optD.png",
+     "w": 265,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "ensuring consistent heat flow throughout.\nThermal \nResistance: \nLet \nthe \nthermal\nresistance of each rod be R. The temperature\nat the junction is \n.\nHeat Flow Equilibrium: Since the system\nreaches a steady state, the heat flowing into\nthe junction from each side should equal the\nheat flowing out:\nWhere:\n is the heat flowing into the junction from\nboth ends.\n and \n are the heat flows from the sides\nof the junction.\nApplication: \nSet \nup \nthe \nheat \nbalance\nequation:\nSimplifying: Substitute and solve:\nC\nTherefore, the temperature at the junction x is\n60°C. This calculation assumes perfect thermal\nconduction and no heat loss outside the\nsystem.\nQ13\nThe mean kinetic energy of the atoms in an\nideal gas is directly proportional to the\ntemperature measured in Kelvin. At an initial\ntemperature of 27°C, the mean kinetic energy\nis \n. When the temperature is increased to\n327°C, we can determine the new mean kinetic\nenergy \n using the relationship:\nTo find \n, we can rearrange this equation:\nConverting the given temperatures from\nCelsius to Kelvin:\nInitial \ntemperature, \nFinal \ntemperature, \nSubstituting these values into the equation:\nTherefore, when the temperature increases to\n327°C, the mean kinetic energy of the atoms\nwill be",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q013-sol0.png",
+    "w": 1397,
+    "h": 930
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 15,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The \nvariations \nof \nkinetic \nenergy \n,\npotential energy \n and total energy as a\nfunction of displacement of a particle in SHM\nis as shown in the figure. The value of \n is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q014-stem0.png",
+    "w": 584,
+    "h": 487
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2 A",
+    "img": {
+     "src": "physics-2025/q014-optA.png",
+     "w": 219,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q014-optB.png",
+     "w": 274,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q014-optC.png",
+     "w": 219,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q014-optD.png",
+     "w": 272,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "l\ni",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q014-sol0.png",
+    "w": 1397,
+    "h": 23
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 11,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "kinetic energy",
+   "potential energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The angle between the particle velocity and\nwave velocity in a transverse wave is [except\nwhen the particle passes through the mean\nposition]",
+  "stemImages": [
+   {
+    "src": "physics-2025/q015-stem0.png",
+    "w": 584,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q015-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q015-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q015-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Zero radian",
+    "img": {
+     "src": "physics-2025/q015-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "In a transverse wave, particles oscillate in a\ndirection perpendicular to the wave's direction\nof propagation. Therefore, the angle between\nthe particle velocity and wave velocity is \n radians, except when the particle crosses the\nmean position.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q015-sol0.png",
+    "w": 695,
+    "h": 303
+   }
+  ],
+  "chapter": "Waves",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "transverse wave"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A metallic sphere of radius R carrying a charge\nq is kept at certain distance from another\nmetallic sphere of radius R/4 carrying a charge\nQ . What is the electric flux at any point inside\nthe metallic sphere of radius R due to the\nsphere of radius R/4 ?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q016-stem0.png",
+    "w": 584,
+    "h": 518
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q016-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2025/q016-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q016-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q016-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Since spheres are electrostatically shielded\nfrom each other, \n.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q016-sol0.png",
+    "w": 695,
+    "h": 142
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 6,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "electric flux",
+   "charge"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "You are given a dipole of charge +q and –\nq separated by a distance 2R. A sphere ' A ' of\nradius ' R ' passes through the centre of the\ndipole as shown below and another sphere ' B\n' of radius ' 2R ' passes through the charge +q .\nThen the electric flux through the sphere A is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q017-stem0.png",
+    "w": 578,
+    "h": 680
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q017-optA.png",
+     "w": 838,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2025/q017-optB.png",
+     "w": 838,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q017-optC.png",
+     "w": 838,
+     "h": 47
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q017-optD.png",
+     "w": 835,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To determine the electric flux through sphere\n'A', we can apply Gauss's Law, which states\nthat the electric flux \n through a closed\nsurface is equal to the charge \n enclosed\nby that surface divided by the permittivity of\nfree space \nFor sphere 'A', which passes through the\ncenter of the dipole, the enclosed charge is\nonly the negative charge -–q, since the positive\ncharge +q lies outside of sphere 'A'.\nThus, the electric flux through sphere 'A' is\ncalculated as:\nsphere \nThis result indicates that sphere 'A' encloses a\nnet negative charge, contributing to a negative\nflux value.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q017-sol0.png",
+    "w": 695,
+    "h": 709
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 20,
+  "chapterMargin": 17,
+  "chapterHits": [
+   "electric flux",
+   "gauss",
+   "charge",
+   "permittivity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A potential at a point A is -3 V and that at\nanother point B is 5 V . What is the work done\nin carrying a charge of 5 m C from B to A ?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q018-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "–0.04 J",
+    "img": {
+     "src": "physics-2025/q018-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "–0.4 J",
+    "img": {
+     "src": "physics-2025/q018-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "–4 J",
+    "img": {
+     "src": "physics-2025/q018-optC.png",
+     "w": 303,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "–40 J",
+    "img": {
+     "src": "physics-2025/q018-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "To determine the work done in moving a\ncharge from point B to point A, we use the\nformula:\nWext\nWhere:\n is the charge being moved, given as 5 mC or \n.\nis the change in electric potential between\nthe two points: \nGiven:\nPotential at point A, \nPotential at point B, \nSubstitute these values into the formula:\nWext\nJ\nJ\nThus, the work done in carrying the charge\nfrom point B to point A is –0.04 J",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q018-sol0.png",
+    "w": 695,
+    "h": 336
+   },
+   {
+    "src": "physics-2025/q018-sol1.png",
+    "w": 676,
+    "h": 560
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "work done"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Charges are uniformly spread on the surface\nof a conducting sphere. The electric field from\nthe centre of sphere to a point outside the\nsphere varies with distance r from the centre\nas",
+  "stemImages": [
+   {
+    "src": "physics-2025/q019-stem0.png",
+    "w": 584,
+    "h": 406
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q019-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q019-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q019-optC.png",
+     "w": 551,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q019-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "For a conducting sphere with uniform surface\ncharge distribution:\nInside the sphere \n: The electric field E=\n0. This is because the electric field within a\nconductor in electrostatic equilibrium is zero.\nOutside the sphere \n: The electric field\nbehaves like that of a point charge. It can be\nrepresented by the equation \n, where k\nis Coulomb's constant, Q is the total charge on\nthe sphere, and r is the distance from the\ncenter of the sphere.\nThus, the graph depicting the electric field as a\nfunction of distance r should show a flat line\nat \n for \n and then a curve following\nthe inverse square law",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q019-sol0.png",
+    "w": 676,
+    "h": 675
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "charge",
+   "electric field",
+   "point charge",
+   "electrostatic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Match Column-I with Column - II related to an\nelectric dipole of dipole moment \n that is\nplaced in a uniform electric field \n.\nColumn - I\nAngle between \nand \nColumn - II\nPotential energy of\nthe dipole\na) 180°\ni) –pE\nb) 120°\nii) pE\nc) 90°\niii) 1/2 pE\n \niV) Zero",
+  "stemImages": [
+   {
+    "src": "physics-2025/q020-stem0.png",
+    "w": 578,
+    "h": 569
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q020-optA.png",
+     "w": 838,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q020-optB.png",
+     "w": 838,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q020-optC.png",
+     "w": 838,
+     "h": 48
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q020-optD.png",
+     "w": 835,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The potential energy (PE) of an electric dipole\nin a uniform electric field is given by the\nformula:\nLet's \nevaluate \nthe \npotential \nenergy \nfor\ndifferent angles:\n(a) \nThis corresponds to option (ii) in Column-II.\n(b)\nThis corresponds to option (iii) in Column-II.\n(c) \nThis corresponds to option (iv) in Column-II.\nThus, the correct matching is:\n (ii)\n (iii)\nSymmetry is not required for the validity of\nGauss’s law—it only makes field calculations\neasier (so Option B is false).\nCharges outside the surface contribute zero\nnet flux, but Gauss’s law itself still applies (so\nOption C is false).\nHence:\nOption D is correct.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q020-sol0.png",
+    "w": 676,
+    "h": 458
+   },
+   {
+    "src": "physics-2025/q020-sol1.png",
+    "w": 1397,
+    "h": 335
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 22,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "electric dipole",
+   "dipole moment",
+   "gauss",
+   "electric field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Which of the following statements is not true?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q021-stem0.png",
+    "w": 578,
+    "h": 52
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Work done to move a charge on an\nequipotential surface is not zero",
+    "img": {
+     "src": "physics-2025/q021-optA.png",
+     "w": 544,
+     "h": 85
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Equipotential surfaces are the surfaces\nwhere the potential is constant",
+    "img": {
+     "src": "physics-2025/q021-optB.png",
+     "w": 544,
+     "h": 85
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Equipotential surfaces for a uniform\nelectric field are parallel and equidistant\nfrom each other",
+    "img": {
+     "src": "physics-2025/q021-optC.png",
+     "w": 544,
+     "h": 123
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Electric field is always perpendicular to an\nequipotential surfaces",
+    "img": {
+     "src": "physics-2025/q021-optD.png",
+     "w": 542,
+     "h": 85
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The false statement is Option A.\nReasoning:\nBy definition, on an equipotential surface the\npotential V is the same everywhere, so any two\npoints have\n.\nThe work done in moving a charge q through a\npotential difference \n is\nHence it’s incorrect to say the work is “not\nzero.”\nThe other options are all true:\nB: Equipotentials are surfaces of constant \n.\nC: In a uniform field, equipotentials are equally\nspaced parallel planes.\nD: E is always perpendicular to equipotential\nsurfaces.\nTo determine the terminal voltage across the\ncell in the given circuit, we start by calculating\nthe current ( ) flowing through the circuit. The\nformula for the current is:\nVoltage\nResistance\n A\nNext, we calculate the terminal voltage using\nthe formula for terminal voltage, which\naccounts for the internal resistance of the cell:\nTerminal voltage\nemf\nwhere:\nemf is the electromotive force of the cell (2 V in\nthis case),\ni is the current calculated above (1/2 A),\nr is the internal resistance of the cell (0.1 Ω).\nSubstituting these values into the formula:\nTerminal voltage\n V\nTherefore, the terminal voltage across the cell\nis 1.95 V.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q021-sol0.png",
+    "w": 1397,
+    "h": 740
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 17,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "internal resistance",
+   "current",
+   "resistance",
+   "cell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Which of the following is a correct statement?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q022-stem0.png",
+    "w": 578,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Gauss's law is true for any open surface",
+    "img": {
+     "src": "physics-2025/q022-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Gauss's law is not applicable when charges\nare not symmetrically distributed over a\nclosed surface.",
+    "img": {
+     "src": "physics-2025/q022-optB.png",
+     "w": 544,
+     "h": 123
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Gauss's law does not hold good for a\ncharge situated outside the Gaussian\nsurface.",
+    "img": {
+     "src": "physics-2025/q022-optC.png",
+     "w": 544,
+     "h": 124
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Gauss's law is true for any closed surface",
+    "img": {
+     "src": "physics-2025/q022-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The only correct statement is Option D.\nReasoning:\nGauss’s law in integral form reads\nwhere the surface integral is taken over\na closed surface S.\nIt holds for any closed surface, regardless of\nits shape or how the enclosed charge is\ndistributed.\nOpen surfaces (Option A) aren’t allowed\nbecause the “enclosed” concept only makes\nsense for closed surfaces.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q022-sol0.png",
+    "w": 1397,
+    "h": 538
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 14,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "gauss",
+   "charge"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "In the following circuit, the terminal voltage\nacross the cell is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q023-stem0.png",
+    "w": 595,
+    "h": 394
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.68 V",
+    "img": {
+     "src": "physics-2025/q023-optA.png",
+     "w": 226,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.95 V",
+    "img": {
+     "src": "physics-2025/q023-optB.png",
+     "w": 285,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2.71 V",
+    "img": {
+     "src": "physics-2025/q023-optC.png",
+     "w": 226,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.52 V",
+    "img": {
+     "src": "physics-2025/q023-optD.png",
+     "w": 283,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "(iv)\nQ23\nTo determine the terminal voltage across the",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q023-sol0.png",
+    "w": 1397,
+    "h": 69
+   }
+  ],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "voltage across"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Two cells of emfs E1 and E2 and internal\nresistances \nr1 \nand \nr2 \nand \n \nrespectively, \nare\nconnected in parallel as shown in figure. The\nequivalent emf of the combination is \n.\nThen",
+  "stemImages": [
+   {
+    "src": "physics-2025/q024-stem0.png",
+    "w": 595,
+    "h": 542
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q024-optA.png",
+     "w": 562,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q024-optB.png",
+     "w": 561,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q024-optC.png",
+     "w": 562,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q024-optD.png",
+     "w": 559,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "To find the equivalent electromotive force\n(emf) of the two cells connected in parallel, we\nuse the formula for the equivalent emf, \n,\nwhich is given by:\nThis result represents the combined effect of\nthe \ntwo \ncells' \nemfs \nand \ntheir \ninternal\nresistances. The equivalent emf \n will lie\nbetween \n \nand \n. \nGiven \nthat\n, the equivalent emf\n will be closer to \n rather than \nbecause the cell with the larger emf and larger\ninternal resistance will have a more significant\ninfluence on the total emf value. Therefore, it\ncan be concluded that \n, and\n is nearer to \n.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q024-sol0.png",
+    "w": 695,
+    "h": 655
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "internal resistance",
+   "resistance",
+   "cell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The variations of resistivity \n with absolute\ntemperature T for three different materials \n and Z are shown in the graph below.\nIdentify the materials X, Y",
+  "stemImages": [
+   {
+    "src": "physics-2025/q025-stem0.png",
+    "w": 578,
+    "h": 572
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "X-copper, Y-semiconductor, Z - nichrome",
+    "img": {
+     "src": "physics-2025/q025-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "X-semiconductor, Y - nichrome, Z - copper",
+    "img": {
+     "src": "physics-2025/q025-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "X-nichrome, Y-copper, Z-semiconductor",
+    "img": {
+     "src": "physics-2025/q025-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "X-copper, Y-nichrome, Z - semiconductor",
+    "img": {
+     "src": "physics-2025/q025-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "X-copper, Y-nichrome, Z - semiconductor",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q025-sol0.png",
+    "w": 695,
+    "h": 491
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistivity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Given, a current carrying wire of non-uniform\ncross-section, \nwhich \nof \nthe \nfollowing \nis\nconstant throughout the length of wire?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q026-stem0.png",
+    "w": 578,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Drift speed",
+    "img": {
+     "src": "physics-2025/q026-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Current and drift speed",
+    "img": {
+     "src": "physics-2025/q026-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Current only",
+    "img": {
+     "src": "physics-2025/q026-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "electric field and drift speed",
+    "img": {
+     "src": "physics-2025/q026-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "In a steady‐state circuit the charge per second\ncrossing any section must be the same, so the\ncurrent I is constant. However, for a non-\nuniform wire:\nDrift speed\ndepends on the local cross-sectional area A, so\n varies.\nElectric field\nalso varies with A.\nTherefore only the current remains the same\nthroughout.\nAnswer: Option C (Current only).",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q026-sol0.png",
+    "w": 695,
+    "h": 585
+   },
+   {
+    "src": "physics-2025/q026-sol1.png",
+    "w": 676,
+    "h": 98
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The graph between variation of resistance of a\nmetal wire as a function of its diameter\nkeeping other parameters like length and\ntemperature constant is [ KCET 2025]",
+  "stemImages": [
+   {
+    "src": "physics-2025/q027-stem0.png",
+    "w": 584,
+    "h": 422
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q027-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q027-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q027-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q027-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To understand how the resistance of a metal\nwire varies with its diameter, while keeping\nother factors like length and temperature\nconstant, we use the formula for resistance:\nWhere:\nR is the resistance.\n is the resistivity of the material.\n is the length of the wire.\nA is the cross-sectional area of the wire.\nr is the radius of the wire.\nSince \n, the resistance R is inversely\nproportional to the square of the radius:\nWhen considering the diameter d of the wire,\nwhich is twice the radius \n, the relation\ncan be rewritten in terms of the diameter:\nThis indicates that as the diameter of the wire\nincreases, \nthe \nresistance \ndecreases\nquadratically. \nThe \nrelationship \nbetween\nresistance R and diameter d is a hyperbolic\nfunction, \nas \nresistance \nis \ninversely\nproportional to the square of the diameter.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q027-sol0.png",
+    "w": 676,
+    "h": 1051
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 7,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "resistivity",
+   "resistance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Two thin long parallel wires separated by a\ndistance 'r' from each other in vacuum carry a\ncurrent of I ampere in opposite directions.\nThen, they will",
+  "stemImages": [
+   {
+    "src": "physics-2025/q028-stem0.png",
+    "w": 578,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Attract each other with a force per unit\nlength of",
+    "img": {
+     "src": "physics-2025/q028-optA.png",
+     "w": 544,
+     "h": 95
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Repel each other with a force per unit\nlength of",
+    "img": {
+     "src": "physics-2025/q028-optB.png",
+     "w": 544,
+     "h": 95
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Repel each other with a force per unit\nlength of",
+    "img": {
+     "src": "physics-2025/q028-optC.png",
+     "w": 544,
+     "h": 96
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Attract each other with a force per unit\nlength of",
+    "img": {
+     "src": "physics-2025/q028-optD.png",
+     "w": 542,
+     "h": 95
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "If they carry opposite currently they repeat\neach other",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q028-sol0.png",
+    "w": 676,
+    "h": 475
+   }
+  ],
+  "chapter": "Units and Measurements",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "unit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A solenoid is 1 m long and 4 cm in diameter. It\nhas five layers of windings of 1000 turns each\nand carries a current of 7A. The magnetic field\nat the centre of the solenoid is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q029-stem0.png",
+    "w": 578,
+    "h": 174
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.4396 × 10–5 T",
+    "img": {
+     "src": "physics-2025/q029-optA.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4.396 × 10–2 T",
+    "img": {
+     "src": "physics-2025/q029-optB.png",
+     "w": 544,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "43.96 × 10–2 T",
+    "img": {
+     "src": "physics-2025/q029-optC.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "439.6 T",
+    "img": {
+     "src": "physics-2025/q029-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q029-sol0.png",
+    "w": 695,
+    "h": 466
+   }
+  ],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 13,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "solenoid",
+   "magnetic field at the centre",
+   "magnetic field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Two similar galvanometers are covered into an\nammeter and a milliammeter. The shunt\nresistance of ammeter as compared to the\nshunt resistance of milliammeter will be [ KCET\n2025]",
+  "stemImages": [
+   {
+    "src": "physics-2025/q030-stem0.png",
+    "w": 578,
+    "h": 211
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Zero",
+    "img": {
+     "src": "physics-2025/q030-optA.png",
+     "w": 303,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "More",
+    "img": {
+     "src": "physics-2025/q030-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Less",
+    "img": {
+     "src": "physics-2025/q030-optC.png",
+     "w": 303,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Equal",
+    "img": {
+     "src": "physics-2025/q030-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "More 'S', less i\nSo \nmilliammeter \nwill \nhave \nmore \nshunt\nresistance.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q030-sol0.png",
+    "w": 695,
+    "h": 442
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "resistance",
+   "ammeter"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Which of the following statements is true in\nrespect of diamagnetic susbtances?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q031-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "They are feebly attracted by magnets",
+    "img": {
+     "src": "physics-2025/q031-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Permeability is greater than 1000",
+    "img": {
+     "src": "physics-2025/q031-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Susceptibility decreases with temperature.",
+    "img": {
+     "src": "physics-2025/q031-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Susceptibility is small and negative",
+    "img": {
+     "src": "physics-2025/q031-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The correct choice is Option D.\nDiamagnetic materials develop an induced\nmagnetic moment opposite to an applied field,\nso their volume susceptibility is small and\nnegative (χ < 0).\nThey’re actually repelled (not attracted) by a\nmagnet.\nTheir permeability μ is just below 1 (not as\nhigh as 1000).\nAnd unlike paramagnets, their susceptibility is\nessentially independent of temperature.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q031-sol0.png",
+    "w": 695,
+    "h": 484
+   }
+  ],
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 18,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "diamagnetic",
+   "permeability",
+   "magnet",
+   "magnetic moment"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Identify the correct statement",
+  "stemImages": [
+   {
+    "src": "physics-2025/q032-stem0.png",
+    "w": 584,
+    "h": 52
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A current carrying conductor produces an\nelectric field around it.",
+    "img": {
+     "src": "physics-2025/q032-optA.png",
+     "w": 551,
+     "h": 84
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A straight current carrying conductor has\ncircular magnetic field lines around it.",
+    "img": {
+     "src": "physics-2025/q032-optB.png",
+     "w": 550,
+     "h": 84
+    }
+   },
+   {
+    "letter": "C",
+    "text": "The direction of magnetic field due to a\ncurrent element is given by Flemings Left\nHand Rule",
+    "img": {
+     "src": "physics-2025/q032-optC.png",
+     "w": 551,
+     "h": 124
+    }
+   },
+   {
+    "letter": "D",
+    "text": "The magnetic field inside a solenoid is non-\nuniform",
+    "img": {
+     "src": "physics-2025/q032-optD.png",
+     "w": 548,
+     "h": 84
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The correct statement is Option B:\nOption B\nA straight current-carrying conductor has\ncircular magnetic field lines around it.\nWhy the others are incorrect:\nOption A\nA neutral, current-carrying wire does not\nproduce an electric field around it (externally it\nremains electrically neutral).\nOption C\nFleming’s Left-Hand Rule gives the direction of\nforce on a current in an external magnetic\nfield, not the field created by the current itself.\nThe field around a straight conductor follows\nthe Right-Hand Thumb Rule.\nOption D\nInside a long, closely wound solenoid the\nmagnetic field is essentially uniform along its\nlength.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q032-sol0.png",
+    "w": 676,
+    "h": 813
+   }
+  ],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 19,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "solenoid",
+   "current carrying conductor",
+   "magnetic field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Which of the following graphs represents the\nvariation \nof \nmagnetic \nfield \nB \nwith\nperpendicular distance ' r ' from an infinitely\nlong, straight conductor carrying current? [KET\n2025]",
+  "stemImages": [
+   {
+    "src": "physics-2025/q033-stem0.png",
+    "w": 578,
+    "h": 441
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q033-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q033-optB.png",
+     "w": 838,
+     "h": 285
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q033-optC.png",
+     "w": 838,
+     "h": 222
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q033-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The magnetic field B around an infinitely long,\nstraight conductor carrying a steady current\ncan be described using the equation:\nwhere:\n is the magnetic field,\n is the permeability of free space,\ni is the current through the conductor, and\nr is the perpendicular distance from the\nconductor.\nFrom this equation, we can see that \n is\ninversely proportional to r, which implies:\nThis \nrelationship \nis \ncharacteristic \nof \na\nrectangular hyperbola, meaning the graph of\nmagnetic field B versus distance r will form a\nhyperbolic shape.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q033-sol0.png",
+    "w": 676,
+    "h": 762
+   }
+  ],
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "permeability"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "If we consider an electron and a photon of\nsame de-Broglie wavelength, then they will\nhave same",
+  "stemImages": [
+   {
+    "src": "physics-2025/q034-stem0.png",
+    "w": 578,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Amgular momentum",
+    "img": {
+     "src": "physics-2025/q034-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Energy",
+    "img": {
+     "src": "physics-2025/q034-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Velocity",
+    "img": {
+     "src": "physics-2025/q034-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Momentum",
+    "img": {
+     "src": "physics-2025/q034-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "They’ll have the same momentum.\nReasoning (from de Broglie’s relation):\nIf an electron and a photon share the same λ,\nthey share the same p.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q034-sol0.png",
+    "w": 676,
+    "h": 129
+   },
+   {
+    "src": "physics-2025/q034-sol1.png",
+    "w": 695,
+    "h": 97
+   }
+  ],
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 6,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "de broglie",
+   "photon"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The anode voltage of a photocell is kept fixed.\nThe frequency of the light falling on the\ncathode is gradually increased. Then the\ncorrect graph which shows the variation of\nphoto current I with the frequency v of\nincident light is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q035-stem0.png",
+    "w": 584,
+    "h": 533
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q035-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q035-optB.png",
+     "w": 550,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q035-optC.png",
+     "w": 551,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q035-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q035-sol0.png",
+    "w": 695,
+    "h": 386
+   }
+  ],
+  "chapter": "Waves",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "frequency"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "When a bar magnet is pushed towards the coil,\nalong its axis, as shown in the figure, the\ngalvanometer pointer deflects towards X .\nWhen this magnet is pulled away from the coil,\nthe galvanometer pointer",
+  "stemImages": [
+   {
+    "src": "physics-2025/q036-stem0.png",
+    "w": 578,
+    "h": 605
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Deflects towards X1",
+    "img": {
+     "src": "physics-2025/q036-optA.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Does not deflect",
+    "img": {
+     "src": "physics-2025/q036-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Osillates",
+    "img": {
+     "src": "physics-2025/q036-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Deflects towards X",
+    "img": {
+     "src": "physics-2025/q036-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "According to Lenz's Law, a changing magnetic\nflux through a coil induces an electromotive\nforce (EMF) that opposes the change in flux.\nWhen a bar magnet is pushed towards the coil,\nthe change in magnetic flux through the coil\ncauses the galvanometer pointer to deflect in\none direction (towards X, in this case).\nConversely, when the bar magnet is pulled\naway from the coil, the change in magnetic\nflux is in the opposite direction. Thus, the\ngalvanometer pointer will deflect in the\nopposite direction, which is towards X1 This\noccurs as the system attempts to oppose the\nchange in magnetic flux by inducing a current\nthat produces a magnetic field opposing the\noriginal direction.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q036-sol0.png",
+    "w": 695,
+    "h": 705
+   }
+  ],
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 15,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "bar magnet",
+   "magnet"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A square loop of side 2 m lies in the Y-Z plane\nin \na \nregion \nhaving \na \nmagnetic \nfield\n. The magnitude of\nmagnetic flux through the square loop is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q037-stem0.png",
+    "w": 578,
+    "h": 225
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "20 Wb",
+    "img": {
+     "src": "physics-2025/q037-optA.png",
+     "w": 303,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "12 Wb",
+    "img": {
+     "src": "physics-2025/q037-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "16 Wb",
+    "img": {
+     "src": "physics-2025/q037-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10 Wb",
+    "img": {
+     "src": "physics-2025/q037-optD.png",
+     "w": 265,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "To find the magnetic flux through a square\nloop of side 2 meters that lies in the Y-Z plane,\ngiven \nthe \nmagnetic \nfield\n, \nwe \nproceed \nas\nfollows:\nDetermine the area vector:\nSince the loop is in the Y-Z plane, its area\nvector \n is perpendicular to this plane and\npoints along the X-axis. The magnitude of the\narea vector is given by the area of the square,\nwhich is \n square meters. The area\nvector is thus \nCalculate the magnetic flux:\nThe magnetic flux \n through the loop is given\nby the dot product of the magnetic field \n and\nthe area vector \n:\nPerforming the dot product, we have:\nThus, the magnitude of the magnetic flux\nthrough the square loop is \n.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q037-sol0.png",
+    "w": 695,
+    "h": 459
+   },
+   {
+    "src": "physics-2025/q037-sol1.png",
+    "w": 676,
+    "h": 480
+   }
+  ],
+  "chapter": "Motion in a Plane",
+  "chapterScore": 11,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "dot product",
+   "vector"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "In domestic electric mains supply, the voltage\nand the current are",
+  "stemImages": [
+   {
+    "src": "physics-2025/q038-stem0.png",
+    "w": 578,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "AC voltage and DC current",
+    "img": {
+     "src": "physics-2025/q038-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "DC Voltage and DC Current",
+    "img": {
+     "src": "physics-2025/q038-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "DC voltage and AC Current",
+    "img": {
+     "src": "physics-2025/q038-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "AC voltage and AC current",
+    "img": {
+     "src": "physics-2025/q038-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Domestic mains use alternating voltage and\nthus also alternating current. That matches:\nOption D: AC voltage and AC current.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q038-sol0.png",
+    "w": 676,
+    "h": 181
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A sinusoidal voltage produced by an AC\ngenerator at any instant t is given by an\nequation \n. The rms value of\nvoltage and frequency are respectively",
+  "stemImages": [
+   {
+    "src": "physics-2025/q039-stem0.png",
+    "w": 578,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "200V, 50 Hz",
+    "img": {
+     "src": "physics-2025/q039-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "200V, 100 Hz",
+    "img": {
+     "src": "physics-2025/q039-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "220V, 50 Hz",
+    "img": {
+     "src": "physics-2025/q039-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "200V, 100 Hz",
+    "img": {
+     "src": "physics-2025/q039-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The sinusoidal voltage from an AC generator at\nany instant is represented by the equation \nTo determine the root mean square (rms)\nvalue of the voltage, we use the formula for\nthe rms value of a sinusoidal voltage:\nrms\nV\nHere, \n is the peak voltage.\nTo find the frequency, we use the relationship\nbetween angular frequency ( ) and frequency\n(f):\nGiven \n, we set:\nSolving for f, we find:\nHz\nThus, the rms value of the voltage is 220 V, and\nthe frequency is 50 Hz.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q039-sol0.png",
+    "w": 676,
+    "h": 809
+   }
+  ],
+  "chapter": "Alternating Current",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "rms value"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A series LCR circuit containing an AC source of\n100 V has an inductor and a capacitor of\nreactances \n and \n respectively. If a\nresistance of \n is connected in series, then\nthe potential difference across the series\ncombination of inductor and capacitor only is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q040-stem0.png",
+    "w": 584,
+    "h": 250
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "80 V",
+    "img": {
+     "src": "physics-2025/q040-optA.png",
+     "w": 219,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "400 V",
+    "img": {
+     "src": "physics-2025/q040-optB.png",
+     "w": 274,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8 V",
+    "img": {
+     "src": "physics-2025/q040-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "40 V",
+    "img": {
+     "src": "physics-2025/q040-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q040-sol0.png",
+    "w": 676,
+    "h": 50
+   }
+  ],
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "lcr circuit"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Match the following types of waves with their\nwavelength ranges \nWaves\nWavelenght ranges \ni. Microwave \na. 700 nm to 400 nm\nii. visiable light\nb. 1 nm to 10–3 nm\niii. Ultraviolet\nc. 0.1 m to 1 mm\niv. X-rays \nd. 400 nm to 1 nm",
+  "stemImages": [
+   {
+    "src": "physics-2025/q041-stem0.png",
+    "w": 584,
+    "h": 433
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "i-c, ii-a,iii-d, iv-b",
+    "img": {
+     "src": "physics-2025/q041-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "i-d, ii-b, iii-c, iv-a",
+    "img": {
+     "src": "physics-2025/q041-optB.png",
+     "w": 550,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "i-b, ii-c, iii-a, iv-d",
+    "img": {
+     "src": "physics-2025/q041-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "i-a, ii-d, iii-b, iv-c",
+    "img": {
+     "src": "physics-2025/q041-optD.png",
+     "w": 548,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The correct matching is\ni. Microwave → c. 0.1 m to 1 mm",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q041-sol0.png",
+    "w": 1397,
+    "h": 135
+   }
+  ],
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 16,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "microwave",
+   "ultraviolet",
+   "x-rays"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A ray of light passes from vaccum into a\nmedium of refractive index n. If the angle of\nincidence is twice the angle of refraction, then\nthe angle of incidence in terms of refractive\nindex is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q042-stem0.png",
+    "w": 584,
+    "h": 212
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q042-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q042-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q042-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q042-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q042-sol0.png",
+    "w": 1397,
+    "h": 668
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 9,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "refractive index",
+   "refraction"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A convex lens has power P. It is cut into two\nhalves along its principal axis. Further one\npiece (out of two halves) is cut into two halves\nperpendicular to the principal axis as shown in\nfigure. Choose the incorrect option for the\nreported lens pieces",
+  "stemImages": [
+   {
+    "src": "physics-2025/q043-stem0.png",
+    "w": 578,
+    "h": 474
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Power of",
+    "img": {
+     "src": "physics-2025/q043-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Power of",
+    "img": {
+     "src": "physics-2025/q043-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Power of L1 is P",
+    "img": {
+     "src": "physics-2025/q043-optC.png",
+     "w": 544,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Power of",
+    "img": {
+     "src": "physics-2025/q043-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q043-sol0.png",
+    "w": 1397,
+    "h": 224
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The image formed by an objective lens of a\ncompound microscope is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q044-stem0.png",
+    "w": 578,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Real and diminished",
+    "img": {
+     "src": "physics-2025/q044-optA.png",
+     "w": 544,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Real and enalrged",
+    "img": {
+     "src": "physics-2025/q044-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Cirtual and enlarged",
+    "img": {
+     "src": "physics-2025/q044-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Vitrual and diminished",
+    "img": {
+     "src": "physics-2025/q044-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "ii. Visible light → a. 700 nm to 400 nm\niii. Ultraviolet → d. 400 nm to 1 nm\niv. X‐rays → b. 1 nm to 10−3 nm\nThat corresponds to Option A.\nQ44\nThe objective lens of a compound microscope\nproduces a real, inverted and magnified image\nof the object.\nSo the correct choice is:\nOption B: Real and enlarged",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q044-sol0.png",
+    "w": 1397,
+    "h": 247
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 13,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "compound microscope",
+   "lens",
+   "image formed",
+   "objective"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "If r and r1 denotes the angles inside the prism\nhaving angle of prism 50° considering that\nduring interval of time from t = 0 to t = t, r\nvaries with time as r = 10° + t2 During the time\nr1 will vary with time as",
+  "stemImages": [
+   {
+    "src": "physics-2025/q045-stem0.png",
+    "w": 578,
+    "h": 518
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "40° + t2",
+    "img": {
+     "src": "physics-2025/q045-optA.png",
+     "w": 544,
+     "h": 52
+    }
+   },
+   {
+    "letter": "B",
+    "text": "50° – t2",
+    "img": {
+     "src": "physics-2025/q045-optB.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "50° + t2",
+    "img": {
+     "src": "physics-2025/q045-optC.png",
+     "w": 544,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "40° – t2",
+    "img": {
+     "src": "physics-2025/q045-optD.png",
+     "w": 542,
+     "h": 52
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "In this problem, we are given two angles, r and\nr1, inside a prism with an angle of 50°. The\nangle changes with time according to the\nequation r = 10° + t2\nTo find out how r1 changes with time, we\nfollow these steps:\nSince the sum of angles r and r1 inside the\nprism must equal the prism's angle, we write:\nr + r1 = 50°\nSubstitute the expression for r into the\nequation:\n(10° + t2) + r1 = 50° Solve for r1: r1 = 50° – 10° –\nt2 = 40° – t2\nTherefore, during the time interval considered,\nthe angle r1 varies with time as 40° – t2.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q045-sol0.png",
+    "w": 695,
+    "h": 723
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "prism"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "If AB is incident plane wave front then\nrefracted wave front in",
+  "stemImages": [
+   {
+    "src": "physics-2025/q046-stem0.png",
+    "w": 584,
+    "h": 547
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q046-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q046-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q046-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q046-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Refracted wave front",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q046-sol0.png",
+    "w": 695,
+    "h": 295
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The total energy carried by the light wave\nwhen it travels from a rarer to a non-reflecting\nand nonabsorbing medium",
+  "stemImages": [
+   {
+    "src": "physics-2025/q047-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Remains same",
+    "img": {
+     "src": "physics-2025/q047-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Increases",
+    "img": {
+     "src": "physics-2025/q047-optB.png",
+     "w": 544,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Either increases or decreases depending\nupon angle of incidence",
+    "img": {
+     "src": "physics-2025/q047-optC.png",
+     "w": 544,
+     "h": 84
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Decreases",
+    "img": {
+     "src": "physics-2025/q047-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "When light passes into a non-reflecting, non-\nabsorbing medium, no energy is lost at the\nboundary. In particular:\nEnergy flux is given by the (time-averaged)\nPoynting vector\nFor no reflection and no absorption, the\ntangential components of both fields are\ncontinuous across the interface:\nHence the incident and transmitted fluxes are\nequal:\nSince all the energy that arrives is carried\nforward, the total energy carried by the wave\nremains the same.\nAnswer: Option A (remains same).",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q047-sol0.png",
+    "w": 695,
+    "h": 694
+   },
+   {
+    "src": "physics-2025/q047-sol1.png",
+    "w": 676,
+    "h": 58
+   }
+  ],
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "poynting"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "If the radius of first Bohr orbit is r, then the\nradius of the second Bohr orbit will be",
+  "stemImages": [
+   {
+    "src": "physics-2025/q048-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8 r",
+    "img": {
+     "src": "physics-2025/q048-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4 r",
+    "img": {
+     "src": "physics-2025/q048-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q048-optC.png",
+     "w": 303,
+     "h": 76
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2 r",
+    "img": {
+     "src": "physics-2025/q048-optD.png",
+     "w": 265,
+     "h": 52
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "In the Bohr model the radius of the nth orbit is\ngiven by\nwhere \n is the radius of the first orbit.\nFor \nAnswer: 4 r (Option B)",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q048-sol0.png",
+    "w": 676,
+    "h": 353
+   }
+  ],
+  "chapter": "Atoms",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "bohr"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Match the following types of nuclei with\nexamples shown \nColumn-I\nColumn-II\nA. Isotopes\ni. \nB. Isobars\nii. \nC. Isotones\niii.",
+  "stemImages": [
+   {
+    "src": "physics-2025/q049-stem0.png",
+    "w": 578,
+    "h": 442
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A-ii, B-iii, C-i",
+    "img": {
+     "src": "physics-2025/q049-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "A-i, B-iii, C-ii",
+    "img": {
+     "src": "physics-2025/q049-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A-iii, B-ii, C-i",
+    "img": {
+     "src": "physics-2025/q049-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "A-iii, B-i, C-ii",
+    "img": {
+     "src": "physics-2025/q049-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Here’s how the examples match up:\nIsotopes (same Z, different A)\n– H\nH\n→ group iii\nIsobars (same A, different Z)\n– L\nB\n→ group i\nIsotones (same N, different Z)\n– O\nF\n→ group ii\nSo the correct matching is\nA–iii, B–i, C–ii → Option D.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q049-sol0.png",
+    "w": 676,
+    "h": 554
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Which of the following statements is incorrect\nwith reference of 'Nuclear force'?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q050-stem0.png",
+    "w": 578,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Nuclear force becomes attractive for\nnucleon distances larger than 0.8 fm",
+    "img": {
+     "src": "physics-2025/q050-optA.png",
+     "w": 544,
+     "h": 84
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Nuclear force becomes repulsive for\nnucleon distances less then 0.8 fm",
+    "img": {
+     "src": "physics-2025/q050-optB.png",
+     "w": 544,
+     "h": 84
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Nuclear force is always attractive",
+    "img": {
+     "src": "physics-2025/q050-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Potential energy is minimum, if the\nseparation between the nucleons is 0.8 fm",
+    "img": {
+     "src": "physics-2025/q050-optD.png",
+     "w": 542,
+     "h": 85
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "The incorrect statement is Option C.\n• At very short separations (r < 0.8 fm) the\nnuclear force is strongly repulsive (a “hard\ncore”).\n• For distances r ≃ 0.8–3 fm it becomes\nattractive.\n• The potential energy reaches its minimum\n(stable equilibrium) at roughly r = 0.8 fm.\nSince the force is not always attractive (it’s\nrepulsive at r < 0.8 fm), saying “nuclear force is\nalways attractive” is wrong.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q050-sol0.png",
+    "w": 676,
+    "h": 497
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 10,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "potential energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The range of electrical conductivity (σ) and\nresistivity (p) for metals, among the following,\nis",
+  "stemImages": [
+   {
+    "src": "physics-2025/q051-stem0.png",
+    "w": 584,
+    "h": 153
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q051-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q051-optB.png",
+     "w": 550,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q051-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q051-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Explanation:\nMetals have very low resistivity, on the order\nof\n–\n(for \nexample, \ncopper \nis \nabout \n).",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q051-sol0.png",
+    "w": 676,
+    "h": 292
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "resistivity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Which of the following statements is correct\nfor an n-type semiconductor?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q052-stem0.png",
+    "w": 584,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "The donor energy level lies closely above\nthe top of the valance band",
+    "img": {
+     "src": "physics-2025/q052-optA.png",
+     "w": 551,
+     "h": 85
+    }
+   },
+   {
+    "letter": "B",
+    "text": "The donor energy level lies at the half way\nmark of forbidden energy gap",
+    "img": {
+     "src": "physics-2025/q052-optB.png",
+     "w": 550,
+     "h": 85
+    }
+   },
+   {
+    "letter": "C",
+    "text": "The donor energy level does not exist",
+    "img": {
+     "src": "physics-2025/q052-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "The donor energy level lies just the bottom\nof the conduction band",
+    "img": {
+     "src": "physics-2025/q052-optD.png",
+     "w": 548,
+     "h": 84
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "In an n-type semiconductor, donor impurities\ncontribute electron energy levels high in the\nsemiconductor band gap, allowing electrons to\nbe easily excited into the conduction b and.\nThis donar level is located closed to, and just\nbelow, the bottom of the conduction band.\nReading for the ink mark viewed through the\nglass slab: 6.123 cm\nReading for chalk dust on top of the glass slab:\n8.123 cm\nUsing \nthese \nreadings, \nwe \ncalculate \nthe\nrefractive index (n) of the glass slab as follows:\nThe real depth of the glass slab is the\ndifference between the reading for chalk dust",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q052-sol0.png",
+    "w": 1397,
+    "h": 300
+   }
+  ],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 18,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "conduction band",
+   "forbidden energy gap",
+   "semiconductor",
+   "n-type",
+   "band gap"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "The circuit shown in figure contains two ideal\ndiodes D1 and D2. If a cell of emf 3V and\nnegligible internal resistance is connected as\nshown, \nthen \nthe \ncurrent \nthrough \n70\nresistance, (in ampere) is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q053-stem0.png",
+    "w": 584,
+    "h": 554
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.01",
+    "img": {
+     "src": "physics-2025/q053-optA.png",
+     "w": 219,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.02",
+    "img": {
+     "src": "physics-2025/q053-optB.png",
+     "w": 274,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.03",
+    "img": {
+     "src": "physics-2025/q053-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0",
+    "img": {
+     "src": "physics-2025/q053-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "on the slab and the reading for the ink mark\non the table:\nReal depth 8.123 cm 5.123 cm 3 cm The\napparent depth is the difference between the\nreading for chalk dust on the slab and the\nreading for the ink mark viewed through the\nglass slab:\nApparent depth = 8.123 cm 6.123 cm 2 cm\nThe refractive index (n) is calculated by\ndividing the real depth by the apparent depth:\nTherefore, the refractive index of the glass slab\nis 1.5.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q053-sol0.png",
+    "w": 1397,
+    "h": 533
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 8,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "internal resistance",
+   "current",
+   "resistance",
+   "cell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "In determining the refractive index of a glass\nslab \nusing \na \ntravelling \nmicroscope, \nthe\nfollowing readings are tabulated\n(a) Reading of travelling microscope for ink\nmark = 5.123 cm\n(b) Reading of travelling microscope for ink\nmark through glass slab = 6.123 cm\n(c) Reading of travelling microscope for chalk\ndust on glass slab = 8.123 cm\nFrom the data, the refractive index of a glass\nslab is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q054-stem0.png",
+    "w": 578,
+    "h": 447
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.500",
+    "img": {
+     "src": "physics-2025/q054-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.601",
+    "img": {
+     "src": "physics-2025/q054-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.399",
+    "img": {
+     "src": "physics-2025/q054-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.390",
+    "img": {
+     "src": "physics-2025/q054-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Their conductivity is the reciprocal,\n–\nOption D’s intervals\n–\n–\nclearly include the true metallic range at the\nlow-ρ/high-σ end.\nQ54\nTo determine the refractive index of a glass\nslab using a traveling microscope, we have\nrecorded the following data:\nReading for the ink mark on the table surface:\n5.123 cm\nReading for the ink mark viewed through the",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q054-sol0.png",
+    "w": 1397,
+    "h": 279
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "In an experiment to determine the figure of\nmerit of a galvanometer by half deflection\nmethod, a student constructed the following\ncircuit.\nHe unplugged a resistance of 52000 in R.\nWhen K1 is closed and K2 is open, the\ndeflection observed in the galvanometer is 26\ndiv. When K2 is also closed and a resistance of\n900 is removed in S, the deflection between 13\ndiv. The resistance of galvanometer is nearly",
+  "stemImages": [
+   {
+    "src": "physics-2025/q055-stem0.png",
+    "w": 578,
+    "h": 747
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "45.0",
+    "img": {
+     "src": "physics-2025/q055-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q055-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q055-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q055-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "In an experiment to determine the figure of\nmerit of a galvanometer using the half\ndeflection method, a student set up a specific\ncircuit. Here's a representation of that setup:\n \nDuring the experiment, the student initially\nremoved a resistance of 5200\n at point R.\nWhen switch K1 was closed and K2 remained\nopen, the galvanometer showed a deflection\nof 26 divisions. With both K1 and K2 closed and\na resistance of 900 removed at S, the\ngalvanometer's deflection adjusted to 13\ndivisions.\nTo find the resistance of the galvanometer (G),\nwe use the formula:\nSubstituting the values into the formula:\nThis simplifies to:\nThus, the approximate resistance of the\ngalvanometer is 91.6 Ω.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q055-sol0.png",
+    "w": 695,
+    "h": 940
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "resistance",
+   "galvanometer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "While determining the coefficient of viscosity\nof the given liquid, a spherical steel ball sinks\nby a distance h = 0.9 m. The radius of the ball\n.\nTrail\nNo\nTime Taken by the ball to fall by h\n(in second)\n1.\n2.75\n2.\n2.65\n3.\n2.70\nThe difference between the densities of the\nsteel ball and the liquid is 7000 kg m–3. If g =\n10 ms–2, then the coefficient of viscosity of the\ngiven liquid at room temperature is",
+  "stemImages": [
+   {
+    "src": "physics-2025/q056-stem0.png",
+    "w": 584,
+    "h": 659
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.14 Pa.s",
+    "img": {
+     "src": "physics-2025/q056-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.14 × 10–3 Pa.s",
+    "img": {
+     "src": "physics-2025/q056-optB.png",
+     "w": 550,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "14 Pa.s",
+    "img": {
+     "src": "physics-2025/q056-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.28 Pa.s",
+    "img": {
+     "src": "physics-2025/q056-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "To determine the coefficient of viscosity of a\nliquid, a spherical steel bal\nl sinks a\ndistance of h = 0.9 m. The ball's radius is \n. The time taken by the ball\nto sink as measured in three trials is shown in\nthe table below:\nTrail\nNo\nTime Taken by the ball to fall by h\n(in second)\n1.\n2.75\n2.\n2.65\n3.\n2.70\nThe density difference between the steel ball\nand the liquid is 7000 kg/m3, and the\ngravitational acceleration 9 = 10 m/s2. We aim\nto calculate the coefficient of viscosity of the\nliquid at room temperature.\nAverage Time:\nCoefficient of Viscosity:\nSubstituting the values,\nSimplifying these terms, we find:\nThe coefficient of viscosity of the liquid is 0.14\nPa.s\n.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q056-sol0.png",
+    "w": 695,
+    "h": 737
+   },
+   {
+    "src": "physics-2025/q056-sol1.png",
+    "w": 676,
+    "h": 612
+   }
+  ],
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 15,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "viscosity",
+   "liquid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Which of the following expression can be\ndeduced on the basis of dimensional analysis?\n(All symbols have their usual meanings)",
+  "stemImages": [
+   {
+    "src": "physics-2025/q057-stem0.png",
+    "w": 584,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q057-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q057-optB.png",
+     "w": 550,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q057-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q057-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Only the drag law (Option C) follows purely\nfrom matching dimensions. In fact, if you\nassume\nF depends on the viscosity n, radius r and\nspeed v as\nthen dimensional balance\ngives\nSo\nWhere K is a dimensionless constant (in\nStokes' solution Κ = 6π).\nThe other formulas (A, B, D) involve specific\nfunctional forms or numerical factors that\ndimensional analysis alone cannot fix.",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q057-sol0.png",
+    "w": 676,
+    "h": 700
+   }
+  ],
+  "chapter": "Units and Measurements",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "dimensional analysis"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "Two stones begin to fall from rest from the\nsame height, with the second stone starting to\nfall' \nt' seconds after the first falls from rest.\nThe distance of separation between the two\nstones becomes 'H',' to ' seconds after the first\nstone starts its motion. Then to is equal to",
+  "stemImages": [
+   {
+    "src": "physics-2025/q058-stem0.png",
+    "w": 584,
+    "h": 299
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q058-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q058-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q058-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q058-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To solve this problem, we need to determine\nthe time, denoted as t0 at which the\nseparation \nbetween \ntwo \nfalling \nstones\nbecomes H. The second stone starts falling \nt\nseconds after the first stone.\nDistance Fallen by the First Stone (S1) :\nThe first stone falls for t0 seconds, so the\ndistance it covers is given by:",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q058-sol0.png",
+    "w": 676,
+    "h": 389
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "In the projectile motion of a particle on a level\nground, which of the following remains\nconstant with reference to time and position?",
+  "stemImages": [
+   {
+    "src": "physics-2025/q059-stem0.png",
+    "w": 578,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Average velocity between any two points\non the path",
+    "img": {
+     "src": "physics-2025/q059-optA.png",
+     "w": 544,
+     "h": 84
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Horizontal component of velocity",
+    "img": {
+     "src": "physics-2025/q059-optB.png",
+     "w": 544,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Angle between the instantaneous velocity\nwith the horizontal",
+    "img": {
+     "src": "physics-2025/q059-optC.png",
+     "w": 544,
+     "h": 85
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Vertical component of the velocity of the\nprojectile",
+    "img": {
+     "src": "physics-2025/q059-optD.png",
+     "w": 542,
+     "h": 85
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Distance Fallen by the Second Stone (S2) :\nThe second stone starts falling \nt seconds\nafter the first, so it falls for (t0 – \nt) seconds.\nThus, the distance it covers is:\nDistance of Separation (H):\nThe separation distance between the two\nstones is:\nSimplifying the equation:\nQ59\nThe only quantity that stays unchanged (no\nacceleration in that direction) is the horizontal\ncomponent of the velocity. In symbols:\nIf the launch speed is u at an angle above\nhorizontal,\nand since there's no horizontal acceleration, vx\nremains the same at all times and positions.\nSo the correct choice is:\nOption B: Horizontal component of velocity",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q059-sol0.png",
+    "w": 1397,
+    "h": 466
+   }
+  ],
+  "chapter": "Motion in a Plane",
+  "chapterScore": 16,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "projectile",
+   "horizontal",
+   "angle",
+   "component"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 60,
+  "subject": "Physics",
+  "year": 2025,
+  "source": "Physics-2025.pdf",
+  "stemText": "A particle is in uniform circular motion. The\nequation \nof \nits \ntrajectory \nis \ngiven \nby\n, where x and y are in\nmeter. The speed of the particle is 2 ms–1,\nwhen the particle attains the lowest' y' co-\nordinate, the acceleration of the particle is (in\nms–2)",
+  "stemImages": [
+   {
+    "src": "physics-2025/q060-stem0.png",
+    "w": 584,
+    "h": 310
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q060-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q060-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q060-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2025/q060-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Simplifying the equation:\nExpression for t0:\nSolving the above equation for t0, we have:\nTherefore, the time \n at which the separation\nbetween the two stones becomes H is given\nby:\nQ60\nTo determine the acceleration of a particle in\nuniform circular motion, we start with the\nequation of the circle: \nThis equation represents a circle with its\ncenter at (2, 0) and a radius r of 5 meters,\nderived from:\nIn uniform circular motion, the centripetal\nacceleration ac is given by the formula:\nSubstituting the given speed v = 2m / s and the\nradius r = 5 :\nWhen the particle is at the lowest y-coordinate,\nit is at the point (2, -5), assuming downward is\nalong the negative y-axis. At this point, the\nacceleration vector, which is directed towards\nthe center of the circle, points horizontally to\nthe right towards the center (2, 0). Therefore,\nthe acceleration is entirely in the i direction:",
+  "solutionImages": [
+   {
+    "src": "physics-2025/q060-sol0.png",
+    "w": 1397,
+    "h": 908
+   }
+  ],
+  "chapter": "Motion in a Plane",
+  "chapterScore": 18,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "circular motion",
+   "centripetal acceleration",
+   "vector",
+   "trajectory"
+  ],
+  "chapterConfidence": "high"
+ }
+]

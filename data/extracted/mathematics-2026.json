@@ -1,0 +1,1853 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "1. (2) 65 (1) 64 (3) 57 (4) 59 A=1,2,3,4,.:；10,o,aoA ae",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q001-stem0.png",
+    "w": 1968,
+    "h": 274
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "2. 302 3 (1) 31 (2) 32 (3) 30 (4) 29 x-7 saaamäαagagnaaa.",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q002-stem0.png",
+    "w": 1974,
+    "h": 358
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "3. √9-x (1) (7,9) (2) [7, 9) (3) [7, 9] (4) (7,9] n(A)=2 AB1024 ,n(B) =",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q003-stem0.png",
+    "w": 1966,
+    "h": 313
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 4,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "4. (1) 2 (2) 5 (3) 25 (4) 52 AaoaBaedaoagagaasoau8oagooa2o0.6ca",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q004-stem0.png",
+    "w": 1965,
+    "h": 270
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "5. A B0.2P(A+PB (1) 1 (2) 0.8 (3) 0.6 (4).1.2 xsn（x+π/+cos（x+π/0？",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q005-stem0.png",
+    "w": 1960,
+    "h": 339
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "6. ex (2) πT/4 (1) π/2 (4)π/12 (3) π/6 （A.P），8aao孔So2，So2",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q006-stem0.png",
+    "w": 1957,
+    "h": 283
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "8. Themeanand standard deviation of100 items are50and4,respectively then the sum of all squaresoftheitemsis (1) 250000 (2) 251600 (3) 256100 (4) 265100",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q008-stem0.png",
+    "w": 1978,
+    "h": 446
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Statistics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "standard deviation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "13. tan- +....+tan-1 +tan 1+1×2 1+2×3 1+n(n+1) n+1 (1) tan\" n (2) tan-1 n+2 n (4) tan-1 n+2 (3) tan n+1 n",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q013-stem0.png",
+    "w": 1972,
+    "h": 498
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "14. The corner points of the feasible region determined by the system oflinear constraints are so that themaximum z occursatbothpoints(15,15)and(0,20)is (1) p=q (2) p = 2q (3) q = 2p (4) q = 3p",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q014-stem0.png",
+    "w": 1971,
+    "h": 489
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Linear Programming",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "feasible region",
+   "constraints",
+   "feasible"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "15. In Linear Programming Problem (LPP),the objective function Z=ax + by has the same maximum value at two cornerpoints.Thenumber ofpoints atwhich Z occurs is max (1) 1 (2) 2 (3) 0 (4) Infinity",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q015-stem0.png",
+    "w": 1969,
+    "h": 403
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Linear Programming",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "linear programming",
+   "objective function",
+   "lpp"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "dx log|1-x²| (1) 1 - x² (2) 2 X (4)1-x² (3) 1+x²",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q018-stem0.png",
+    "w": 1964,
+    "h": 542
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "19. Recent studies suggest that12%of the world population is lefthanded.Depending onparents' hand usage,the chances of having left handed children are as follows: A:Both parents are left handed,chances of having left handed children=24% B:Both parents are right handed,chances of having left handed children =9% C:Fatherlefthanded andmotherrighthanded,chancesofhavinglefthanded children=17% D:Father right handed and mother left handed,chances of having left handed children =22% GivenP(A)=P(B)=P（C)=P(D)=1/4and Ldenoteschild islefthanded.What is the probability that P(A|L)?",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q019-stem0.png",
+    "w": 1968,
+    "h": 930
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Probability",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "probability",
+   "p(b)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "21. (1) 2 (2) - i (3) 0 (4) i",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q021-stem0.png",
+    "w": 1973,
+    "h": 339
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "Thesolutionof3（x-1)≤2（x-3)is 22. (1)x≤-3 (2)x≥-3 (3) x ≤3 (4)x≥3",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q022-stem0.png",
+    "w": 1971,
+    "h": 313
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "23. 10 distinct points are taken on a circle.Then using these points StatementI:Thenumberoftriangles thatcanbeformed is100 StatementII:Thenumberofchordsthatcanbeformedis45 Which of the following is correct? (1)BothStatementIandStatementIIaretrue (2)BothStatement IandStatementIIarefalse (3)StatementIistrueandStatementIIisfalse (4)StatementIisfalseandStatementIIistrue",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q023-stem0.png",
+    "w": 1971,
+    "h": 789
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "24. Kand end with 5? (1) 720 (2) 360 (3) 120 (4) 180 x²+3x²+3x+1",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q024-stem0.png",
+    "w": 1970,
+    "h": 393
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "26. 4αa ao,o α@ (G.p) cbBmn?rKmonpp3poem`mpon 3 (1) 8, √2 (2) 2, √8 (3) √8, 2 (4) √2, 8 -1-o.",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q026-stem0.png",
+    "w": 995,
+    "h": 413
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "27. ew w-1 -1 e ew a) annagamooeaagam i) mm5Bro5Bn 3 b) A.=A i) c) BcbinornoLpBommsn brn? ii) cocggaaaga d) agonaoaoCuagonagamteaaso iv) cauaga cnaaagdd Hoaneo: (1)a - ii, b-i, c -ii, d-iv (2)a -ii,b-i,c-iv, d-i (3) a-ili,b -i, c-iv,d -ii (4) a-ii,b-iv,c-i,d-ii e",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q027-stem0.png",
+    "w": 1961,
+    "h": 818
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "28. ael: oaagaA caeagaoqAceaaaaa. l＆3 :ABAB-BA) cuagonagamognaoaa. oagαcouoacoecaoco. (1) e1 Ⅱ a 2) e1 a eⅡ a",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q028-stem0.png",
+    "w": 1959,
+    "h": 511
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "30. 8x-α（） (1)2 × n (2)p×2 (3) n × 3 (4) p × n",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q030-stem0.png",
+    "w": 1961,
+    "h": 408
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "moBBn<rbBrm5nBesnmno（blB?）Lmppo3pKBB4‘m Hoogne? (1) A.(adj A) =(adj A).A =AI (2) A(adj A) = (adj A) .A = |A|I (3) (AB)-1 = B-1 A-1 (4) [A| ≠ 0, (B| ≠ 0",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q032-stem0.png",
+    "w": 1962,
+    "h": 410
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Determinants",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "|a|",
+   "adj"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "33. (1)det(AB)=det(A).det(B) (2) det (kA) =k\" det (A) (3) det (A + B) = det (A) + det (B)",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q033-stem0.png",
+    "w": 1961,
+    "h": 355
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Determinants",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "det"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "36. (1) 2 (2) - 1 (3) 0 (4) 1 a=++k，b=-ax=b,a.=3ea",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q036-stem0.png",
+    "w": 1962,
+    "h": 295
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "37. (1)+- (2)-2+2",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q037-stem0.png",
+    "w": 1956,
+    "h": 145
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "41. The line L, joining the two points (-1, 2) and (3, 6) divides the line L, which passes through (3, -1) in the ratio 1 : 3 internally, then the equation of L, is (1) 4x-3y-9 =0 (2)4x-3y+9=0 (3)4x+3y-9=0 （4)4x+3y+9=0",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q041-stem0.png",
+    "w": 1965,
+    "h": 470
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "42. In the figure StatementI:Whena>β≥O,thesectionishyperbola StatementII:Whenβ>90°,thesectionisellipse Plane Cone Whichofthefollowingis correct? (1)StatementIistrue,StatementIIisfalse (2)StatementIisfalse,StatementIIistrue (3)BoththeStatementsaretrue (4)BoththeStatementsarefalse",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q042-stem0.png",
+    "w": 1973,
+    "h": 1858
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "plane"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "2o A (2, 4, 3), B (4, a, 9) C (10, -1, 7) B = 90°o w 43. @a8am@oa.caeona. (1)1q 4 +1- () (3) 1 - 4 (4)-1- 4 x²-ax-3b",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q043-stem0.png",
+    "w": 1962,
+    "h": 473
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "44. lim =5，a+b= x→3 x-3 (1) 1 (2) 2 (3) 3 (4) 4 [x²-1x≥2",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q044-stem0.png",
+    "w": 1968,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Limits and Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "lim"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "45. f(x)= e, lim f(x) + lim f(x) = x+1x<2 x→1 x→2 (1) 3 (2) 5 (3) 7 (4) 9",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q045-stem0.png",
+    "w": 1966,
+    "h": 344
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "46. y = /tan x +y e, dy dx tan x sec² x (1) (2) 3y² -1 3y -1 tanx sec²x (3) (4) 3y-1 3y²-1 ax+7x<1",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q046-stem0.png",
+    "w": 1960,
+    "h": 612
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 10,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "tan x",
+   "tan"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "<x<1is 2 -1 (1) 0 (2) √1-x² (④)心 3 (3) 2 2 2x",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q048-stem0.png",
+    "w": 1973,
+    "h": 470
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "49. If f(x)= sin 1+x² 8 5 (1) (2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q049-stem0.png",
+    "w": 1967,
+    "h": 177
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "53 2 (1) e-2x (2) e2x (3) e-x2 (4) ex2 54.One of the possible functions f(x) which satisfies",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q053-stem0.png",
+    "w": 1973,
+    "h": 463
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "f(x) dx = 0 is (2+x (1) log 2-x (2) sin (2 + x) (3) 2x² + 2x + 1 (4)2x tanx",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q054-stem0.png",
+    "w": 1968,
+    "h": 756
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "55. f(x + 6) dx is equal to b (1) f(x - 6) dx (2) xp (9 + x)J a b b (3) f(x) dx (4) f(-x) dx sin\"x",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q055-stem0.png",
+    "w": 1962,
+    "h": 587
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "56.If‘n' is a natural number, then dx= cosn+2x tann-1 tan\" x + C -+C (1) (2) n-1 n tann+2 tann+1 X -+C -+C (3) (4 n+2 n+1",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q056-stem0.png",
+    "w": 1963,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "57 (2) x + C (1) log x + C x² 1 (3) # +C (4) +C 2 X The area of the region bounded by the curve y²=x’,the y-axis and the lines y = 1 and",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q057-stem0.png",
+    "w": 1973,
+    "h": 359
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "58. y =8is 155 (2) 93 (1) sq.units sq.units 3 5 (3) 93 sq. units (4)155 sq.units The area enclosed by the curve x =√3 cos0,y =√3 sinθ is",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q058-stem0.png",
+    "w": 1970,
+    "h": 440
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area enclosed"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "59. (1) √3 π sq. units (2) 9π sq. units (3) 6π sq. units (4) 3π sq.units",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q059-stem0.png",
+    "w": 1965,
+    "h": 319
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2026,
+  "source": "Mathematics-2026.pdf",
+  "stemText": "60. Sum ofthesquaresoftheorderanddegree(if defined)of a differential equation 2y +(y)2=y-3 is (1) 3 (2) 20 (3) 8 (4) 16",
+  "stemImages": [
+   {
+    "src": "mathematics-2026/q060-stem0.png",
+    "w": 1968,
+    "h": 1179
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Differential Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "differential equation"
+  ],
+  "chapterConfidence": "low"
+ }
+]

@@ -1,0 +1,2321 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "its plane surface. The refractive index of the material of the lens is 1.5. The radius of curvature of the convex surface of the lens will be .. 1) 0.4 m 2) 0.2 m 4) 0.75 m 3) 0.1 m The physical quantity having the same dimensions as Planck's constant h is",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q001-stem0.png",
+    "w": 1949,
+    "h": 369
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "refractive index",
+   "lens",
+   "convex"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "2. 1)· Boltzmann'constant 2) force angular momentum 3) linear momentum 4) A balloon is rising vertically up with a velocity of 29ms-1. A stone is dropped from it and it",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q002-stem0.png",
+    "w": 1946,
+    "h": 244
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "angular momentum"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "3. reaches the ground in 10 seconds. The height of the balloon when the stone was dropped from it is (g = 9.8 ms-2) 1)·100 m 2） 200 m 4)150 m 3) 400 m A thread is tied slightly loose to a wire frame as in figure and the",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q003-stem0.png",
+    "w": 1942,
+    "h": 359
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "frame frame is dipped into a soap solution and taken out. The frame is completely covered with the film. When the portion A is punctured with a pin, the thread . -thread 1)becomes concave towards A 2) becomes convex towards A remains in the initial position . 3) 4) either (1) or (2) depending on the size ofA w.r.t. B Oxygen is 16 times heavier than hydrogen: Equal volumes of hydrogen and oxygen are",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q004-stem0.png",
+    "w": 1934,
+    "h": 564
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "convex",
+   "concave"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "When light is incident on a diffraction grating the zero order principal maximum will be ... 6. 1)one of the component colours 2) absent 3) spectrum of the colours 4) white",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q006-stem0.png",
+    "w": 1920,
+    "h": 225
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "diffraction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "7. H - polaroid is prepared by 1) stretching polyvinyl alcohol and then heated with dehydrating agent stretching polyvinyl alcohol and then impregnating with iodine. 2) 3) orienting herapathite crystal in the same direction in nitrocellulose. 4 by using thin tourmaline crystals.",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q007-stem0.png",
+    "w": 1928,
+    "h": 394
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "polaroid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "8. SI unit of permittivity is . 1) C2 m2 N-1 2) C-1 m2 N-2 ： 3) C2 m2 N2 4) C2 m-2 N-1",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q008-stem0.png",
+    "w": 1933,
+    "h": 233
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Units and Measurements",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "unit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "11. If two waves of the same frequency and amplitude respectively on superposition produce a resultant disturbance of the same amplitude the waves differ in phase by . 2π 1) 2) 73 3) π. 4) zero",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q011-stem0.png",
+    "w": 1957,
+    "h": 373
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "amplitude"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "12. A man, standing between two cliffs, claps his hands and starts hearing a series of echoes at intervals of one second. If the speed of sound in air is 340 ms-1, the distance between the cliffs is .... 1) 340 m 2) 1620 m 680 m 4) 1700 m 3) '13. A beam of light of wavelength 600 nm from a distant source falls on a single slit 1mm wide",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q012-stem0.png",
+    "w": 1951,
+    "h": 402
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 6,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "speed of sound",
+   "wavelength",
+   "sound"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "and the resulting diffraction pattern is observed on a screen 2m away. The distance between the first dark fringes on either side of the central bright fringe is .... 2)1.2 cm 1) 1.2 mm 2.4 mm 3) 2.4 cm Specific rotation of sugar solution is 0.01 SI units. 200 kgm-3 . of impure sugar solution is",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q013-stem0.png",
+    "w": 1944,
+    "h": 370
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "diffraction",
+   "fringe"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "14. taken in a polarimeter tube of length 0.25 m and an optical rotation of 0.4 rad is observed. The percentage of purity of sugar in the sample is .... 1) 80% 2) 89% 20% 3) 11% 4) An electron is accelerated through a pd of 45.5 volt. The velocity acquired by it is",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q014-stem0.png",
+    "w": 1954,
+    "h": 374
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "15. (in ms-I)..... 2) 4 × 104 1)4 x106",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q015-stem0.png",
+    "w": 1825,
+    "h": 198
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "16. When a body is earth connected, electron's from the earth flow into the body. This means the body is .... 1) uncharged 2) charged positively 3) chargednegatively 4 an insulator",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q016-stem0.png",
+    "w": 1922,
+    "h": 325
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "17. Effective capacitance between A and B in the figure shown is (all capacitances are in μuF ) 1) 21μF 2) 23.uF 3 14 3) 14 MF 4) 3",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q017-stem0.png",
+    "w": 1814,
+    "h": 394
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "capacitance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "18. Which state of triply ionised Baryllium (Bet+t) has the same orbital radius as that of the ground state of hydrogen ? 1）n=1 2) n=2 3) n =3 4) n.= 4",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q018-stem0.png",
+    "w": 1937,
+    "h": 317
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ground state"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "19. If M is the atomic mass and A is the mass number, packing fraction is given by .. A A~M 1) 2) M-A A M M -A 3) M -A 4) A",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q019-stem0.png",
+    "w": 1949,
+    "h": 476
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "mass number"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "20. A count rate meter shows a count of 240 per minute from a given radioactive source. One hour later the meter shows a count rate of 30 per minute. The half-life of the sourcc is .. 1）20 min 2） 30 min 3) 80 min 4) 120 min (Space for Rough Work) RL - 33",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q020-stem0.png",
+    "w": 1954,
+    "h": 1361
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "radioactive"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "21. The refractive index of a particular material is 1.67 for blue light, 1.65 for yellow light and 1.63 for red light. The dispersive power of the material is .... 2) 0.024 1).0.0615 4) 1.60 3) 0.031",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q021-stem0.png",
+    "w": 1972,
+    "h": 305
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "22. An ideal gas heat engine operates in a Carnot's cycle between 227°C and 127\"C. It absorbs 6 x 104 J at high temperature. The amount of heat converted into work is . 2)3.5 x 10 J 1）4.8x 104 J 4)1.2 x 10* J 3) 1.6 x 104 J",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q022-stem0.png",
+    "w": 1969,
+    "h": 334
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "carnot",
+   "heat engine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "23. . Which one of the following graphs represents the behaviour of an ideal gas ? 2) 1) PV↑ PV ↑ 3)",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q023-stem0.png",
+    "w": 1957,
+    "h": 807
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Kinetic Theory",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ideal gas"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "24. Rainbow is formed due to dispersion and total internal reflection 1) refraction 2) total internal reflection 4) scattering 3)",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q024-stem0.png",
+    "w": 1827,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 11,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "total internal reflection",
+   "refraction",
+   "reflection"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "25. A beam of parallel rays is brorght to a focus by a plano-convex lens. A thin concave lens of the same focal length is joined to the first lens. The effect of this is ... the focal point shifts away from the lens by a small distance. 1) the focus remains undisturbed. 2) the focus shifts to infinity. 3) the focal point shifts towards the lens by a small distance.",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q025-stem0.png",
+    "w": 1947,
+    "h": 381
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "focal length",
+   "lens",
+   "convex",
+   "concave"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "26. Two conductors ofthe same material have their diameters in the ratio 1 : 2 and their lengths in the ratio 2 : 1. If the temperature difference between their ends is the same, then the ratio of amounts of heat conducted per second through them will be - 1) 8:1 2) 1:8 3) 4:1 4) 1:4",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q026-stem0.png",
+    "w": 1928,
+    "h": 412
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "temperature",
+   "heat"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "Blowing air with open mouth is an example of . 27. 1) isothermal process adiabatic process 3) isobaric process 4) isochoric process",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q027-stem0.png",
+    "w": 1823,
+    "h": 230
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 16,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "isothermal",
+   "adiabatic",
+   "isobaric",
+   "isochoric"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "28. Sound waves in air are always longitudinal because, 1) air is a mixture of several gases 2) density of air is very small 3) of the inherent characteristics of sound waves in air. 4) air does not have a modulus of rigidity.",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q028-stem0.png",
+    "w": 1825,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "modulus of rigidity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "29. In Young's double slit experiment if monochromatic light used is replaced by white light, then .... 1) all bright fringes become white. 2) all bright fringes have colours between violet and red:",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q029-stem0.png",
+    "w": 1956,
+    "h": 316
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "young's double slit",
+   "slit",
+   "monochromatic"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "An uncharged sphere of metal is placed inside a charged parallel plate capacitor. The lines 31. of force will look like .... +++++++ +++++++ 2) +++++++ 3） +++++++",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q031-stem0.png",
+    "w": 1805,
+    "h": 933
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "parallel plate capacitor",
+   "capacitor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "32. A wire has a resistance of 6 Q . It. is cut into two parts and both half values are connected in parallel. The new resistance is .. 12 Ω 2)1.5 Ω 1) 3) 3Ω 4)6 Ω",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q032-stem0.png",
+    "w": 1933,
+    "h": 335
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "33. A current flows in a conductor from east to west. The direction of the magnetic field at a point above the conductor is 1) towards north 2)towards south 3) towards east 4) towards west",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q033-stem0.png",
+    "w": 1936,
+    "h": 294
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "34.A bar magnet is equivalent to 1) solenoid carrying current 2)circular coil carrying current 3) torroid carrying current 4) straight conductor carrying current",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q034-stem0.png",
+    "w": 1821,
+    "h": 238
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 5,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solenoid",
+   "circular coil"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "Excitation energy of a hydrogen like ion in its first excitation state is 40.8 eV. Energy needed 35. to remove the electron from the ion in ground state is ... 1) 54.4 eV 2) 13.6 eV 3) 40.8 eV : 4) 27.2 eV (Space for Rough Work) RL - 33 Turn Over",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q035-stem0.png",
+    "w": 1941,
+    "h": 1082
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "36. : Threshold wavelength for photoelectric emission from a metal surface is 5200 A. Photoelectrons will be emitted when this surface is illuminated with monochromatic radiation from .... 1) 50 W IR lamp 2) 10 W IR lamp 1 W IR lamp 3) 4) 50 W UV lamp",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q036-stem0.png",
+    "w": 1926,
+    "h": 366
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "radiation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "37. The emitter-base junction of a transistor is biased while the collector-base junction is .... biased. 1) reverse, forward 2) reverse, reverse 3） forward, forward 4) forward, reverse",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q037-stem0.png",
+    "w": 1928,
+    "h": 304
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "transistor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "38. In a forward biased p-n junction diode, the potential barrier in the depletion region is of the form .... 1) 2) n",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q038-stem0.png",
+    "w": 1929,
+    "h": 828
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "p-n junction",
+   "depletion region",
+   "diode"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "41. Three long straight wires A, B and C are carrying currents as shown in figure. Then the resuiltant force on B is directed . A1 B C 1) towards A. 2) towards C. 3) perpendicular to the plane of paper and outward. 1A 2A 4 perpendicular to the plane of paper and inward.",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q041-stem0.png",
+    "w": 1930,
+    "h": 461
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "42. Curie-Weiss law is obeyed by iron at a temperature 1)below Curie temperature : 2) above Curie temperature 3) at Curie temperature only 4) at all temperatures",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q042-stem0.png",
+    "w": 1817,
+    "h": 256
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 12,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "curie"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "44. A magnet NS is suspended from a spring and while it oscillates, the magnet moves in and out of the coil C. The coil is connected to a galvanometer G. Then, as the magnet oscillates, 1)G shows deflection to the left and right with constant amplitude. G shows deflection on one side. 2) 3) G shows no deflection. 4) G shows deflection to the left and right but the amplitude steadily decreases.",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q044-stem0.png",
+    "w": 1933,
+    "h": 576
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "magnet"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "46. An unknown resistance R, is connected in series with a resistance of 10 Q . This combination is connected to one gap of a metre bridge while a resistance R, is connected in the other gap. The balance point is at 50 cm. Now, when the 10 Ω resistance is removed the balance point shifts to 40 cm. The value of R, is (in ohm) 1) 60 2) 40 3) 20 4) 10",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q046-stem0.png",
+    "w": 1925,
+    "h": 473
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "In the circuit shown, the internal resistance of the cell is negligible. 47.J The steady state current in the 2Q resistor is ... 3. WWV C=0.2从F 1) 0.9 A 2) 1.5 A 4 3). 0.6 A 4) 1.2 A 2.8n E=6V",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q047-stem0.png",
+    "w": 1933,
+    "h": 332
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "internal resistance",
+   "current",
+   "resistance",
+   "resistor",
+   "cell"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "48. A rectanguilar coil of 300 turns has an average area of 25 cm x 10 cm. The coil rotates with a speed of 50 cps in a uniform magnetic field of strength 4 x 10-2 Tabout an axis perpendicular to the field. The peak value of the induced emf is (in volt) 1)3π 2)30π 3) 300 π 3000 π 4)",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q048-stem0.png",
+    "w": 1930,
+    "h": 394
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "induced emf",
+   "induced",
+   "coil"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "49. In a LCR circuit the pd between the terminals of the inductance is 60 V, between the terminals of the capacitor is 30 V and that between the terminals of resistance is 40 V. The supply voltage will be equal to ... 1)50 V 2)70 V 3) 130 V 4)10 V",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q049-stem0.png",
+    "w": 1930,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "lcr circuit"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "50. A vertical circular coil of radius 0.1 m and having 10 turns carries a steady current. When the plane' of the coil is normal to the magnetic meridian, a neutral point is observed at the centre of the coil. If B, = 0.314 x 10-4 T, the current in the coil is .... 1)2A 2) 1A 3) 0.5 A 0.25 A (Space for Rough Work) RL - 33",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q050-stem0.png",
+    "w": 1935,
+    "h": 1268
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "coil"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "51. The spectrum obtained from the chromosphere of the sun at the time of total solar eclipse is .... 1) continuous emission spectrum. 2） line absorption spectrum. 3) line emission spectrum. 4) band absorption spectrum",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q051-stem0.png",
+    "w": 1934,
+    "h": 306
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "52. Heavy water is 1) water, in which soap does not lather 2) compound of heavy oxygen and heavy hydrogen 3) compound of deuterium and oxygen water at 4'℃ · 4)",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q052-stem0.png",
+    "w": 1815,
+    "h": 411
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "53.The nuclear reactor at Kaiga is a 1) breeder reactor 2) power reactor research reactor 4） fusion reactor",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q053-stem0.png",
+    "w": 1818,
+    "h": 253
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "54. When a body moves in a circular path, no work is done by.the force since, there is no displacement 1） 2) there is no net force 3) force and displacement are perpendicular to each other 4） the force is always away.from the centre",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q054-stem0.png",
+    "w": 1818,
+    "h": 409
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "displacement"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "56. Two bodies of masses 1 kg and 2 kg have equal momentum. Then, the ratio of their kinetic energies is 1) 1:3 2) 1:1 3) 2:1 4) 3:1",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q056-stem0.png",
+    "w": 1931,
+    "h": 348
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "momentum"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "57. The loudness and pitch of a sound note depends on . 1) intensity and frequency 2)frequency and number of harmonics Intensity and velocity 3) 4） frequency and velocity",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q057-stem0.png",
+    "w": 1838,
+    "h": 282
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "harmonics",
+   "frequency",
+   "sound"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2004,
+  "source": "kcet-2004-physics-question-paper.pdf",
+  "stemText": "58. Absorption co-efficient of an open window is 1) 2)0.5 zero",
+  "stemImages": [
+   {
+    "src": "physics-2004-kea/q058-stem0.png",
+    "w": 1811,
+    "h": 175
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

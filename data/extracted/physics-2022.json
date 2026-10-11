@@ -1,0 +1,4178 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "In \na \nseries \nLCR \ncircuit,\n \nand\n, then impedance of the circuit\nis",
+  "stemImages": [
+   {
+    "src": "physics-2022/q001-stem0.png",
+    "w": 578,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q001-optA.png",
+     "w": 207,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q001-optB.png",
+     "w": 268,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q001-optC.png",
+     "w": 207,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q001-optD.png",
+     "w": 266,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q001-sol0.png",
+    "w": 681,
+    "h": 608
+   }
+  ],
+  "chapter": "Alternating Current",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "lcr circuit",
+   "impedance"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Which \nof \nthe \nfollowing \nradiations \nof\nelectromagnetic \nwaves \nhas \nthe \nhighest\nwavelength?",
+  "stemImages": [
+   {
+    "src": "physics-2022/q002-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "UV-rays",
+    "img": {
+     "src": "physics-2022/q002-optA.png",
+     "w": 207,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "IR-rays",
+    "img": {
+     "src": "physics-2022/q002-optB.png",
+     "w": 268,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Microwaves",
+    "img": {
+     "src": "physics-2022/q002-optC.png",
+     "w": 207,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "X-rays",
+    "img": {
+     "src": "physics-2022/q002-optD.png",
+     "w": 266,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Increasing order of wavelength of given\nelectromagnetic wave is given as\nHence, microwaves has highest wavelengths.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q002-sol0.png",
+    "w": 681,
+    "h": 223
+   }
+  ],
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "x-rays",
+   "electromagnetic wave"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The power of a equi-concave lens is -4.5 D and\nis made of a material of refractive index 1.6,\nthe radii of curvature of the lens is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q003-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "36.6 cm",
+    "img": {
+     "src": "physics-2022/q003-optA.png",
+     "w": 207,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "-266 cm",
+    "img": {
+     "src": "physics-2022/q003-optB.png",
+     "w": 268,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "115.44 cm",
+    "img": {
+     "src": "physics-2022/q003-optC.png",
+     "w": 207,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-26.6 cm",
+    "img": {
+     "src": "physics-2022/q003-optD.png",
+     "w": 266,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The problem involves finding the radii of\ncurvature of an equi-concave lens with a given\npower and refractive index.\nGiven:\nPower of the lens, \nRefractive index, \nStep-by-step Solution:\nCalculate the focal length:\nThe power of a lens is related to its focal\nlength by the equation:\nSubstituting the given power:\nUse the Lens Maker's Formula:\nThe lens maker's formula is:\nApply conditions for an equi-concave lens:\nFor an equi-concave lens, R1 = –R and R2 = –R.\nSubstituting these into the formula:\nSubstitute and solve:\nLet's substitute the given values into the\nequation:\nSimplifying gives:\nSolving for :\nThe radii of curvature for this equi-concave\nlens is -26.6 cm.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q003-sol0.png",
+    "w": 681,
+    "h": 746
+   },
+   {
+    "src": "physics-2022/q003-sol1.png",
+    "w": 676,
+    "h": 569
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 38,
+  "chapterMargin": 35,
+  "chapterHits": [
+   "refractive index",
+   "lens maker",
+   "focal length",
+   "power of the lens",
+   "lens",
+   "concave"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A ray of light passes through an equilateral\nglass prism in such a manner that the angle of\nincidence is equal to the angle of emergence\nand each of these angles is equal to \n of the\nangle of the prism. The angle of deviation is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q004-stem0.png",
+    "w": 578,
+    "h": 216
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "39°",
+    "img": {
+     "src": "physics-2022/q004-optA.png",
+     "w": 315,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "20°",
+    "img": {
+     "src": "physics-2022/q004-optB.png",
+     "w": 268,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "30°",
+    "img": {
+     "src": "physics-2022/q004-optC.png",
+     "w": 315,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "45°",
+    "img": {
+     "src": "physics-2022/q004-optD.png",
+     "w": 266,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "In an equilateral glass prism, where the angle\nof the prism A is 60°, a ray of light passes\nthrough such that the angle of incidence (i) is\nequal to the angle of emergence (e), and both\nare \n of the angle of the prism.\nThis can be calculated as:\nThus, \nFor a prism, the relationship between the\nangle of the prism A, the angle of deviation ,\nthe angle of incidence i, and the angle of\nemergence e is given by:\nSubstituting the known values:\nTherefore, the angle of deviation is 30°.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q004-sol0.png",
+    "w": 676,
+    "h": 737
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "prism"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A convex lens of focal length f is placed\nsomewhere in between an object and a\nscreen. The distance between the object and\nthe screen is x. If the numerical value of the\nmagnification produced by the lens is m, then\nthe focal length of the lens is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q005-stem0.png",
+    "w": 578,
+    "h": 250
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q005-optA.png",
+     "w": 207,
+     "h": 54
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q005-optB.png",
+     "w": 268,
+     "h": 54
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q005-optC.png",
+     "w": 207,
+     "h": 55
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q005-optD.png",
+     "w": 266,
+     "h": 55
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given a convex lens with a focal length f\npositioned between an object and a screen,\nthe total distance between the object and\nscreen is x. The lens produces a magnification\nm.\nTo find the lens' focal length, consider:",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q005-sol0.png",
+    "w": 676,
+    "h": 287
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 19,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "focal length",
+   "lens",
+   "convex",
+   "magnification"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A series resonant AC circuit contains a\ncapacitance 10–6F and an inductor of 10–4H.\nThe frequency of electrical oscillations will be",
+  "stemImages": [
+   {
+    "src": "physics-2022/q006-stem0.png",
+    "w": 598,
+    "h": 139
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10 Hz",
+    "img": {
+     "src": "physics-2022/q006-optA.png",
+     "w": 233,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q006-optB.png",
+     "w": 288,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q006-optC.png",
+     "w": 233,
+     "h": 52
+    }
+   },
+   {
+    "letter": "D",
+    "text": "105 Hz",
+    "img": {
+     "src": "physics-2022/q006-optD.png",
+     "w": 286,
+     "h": 52
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, capacitancè, \nInductance, \nFrequency of oscillation of L-C series resonant\ncircuit,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q006-sol0.png",
+    "w": 1397,
+    "h": 211
+   }
+  ],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "capacitance"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Focal length of a convex lens will be maximum\nfor",
+  "stemImages": [
+   {
+    "src": "physics-2022/q007-stem0.png",
+    "w": 598,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "yellow light",
+    "img": {
+     "src": "physics-2022/q007-optA.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "green light",
+    "img": {
+     "src": "physics-2022/q007-optB.png",
+     "w": 288,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "red light",
+    "img": {
+     "src": "physics-2022/q007-optC.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "blue light",
+    "img": {
+     "src": "physics-2022/q007-optD.png",
+     "w": 286,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Distance Relations:\nThe equation for distances is \n,\nwhere u is the object distance and v is the\nimage distance.\nMagnification Equation:\nMagnification \n.\nExpressing Distances Using Magnification:\nUsing the magnification equation, express the\ndistances:\nFor object distance, we solve \n giving u(m + 1) = x. Hence,\nFor image distance, we solve \n,\nleading to\nLens Formula Application:\nThe lens formula is given by\nSubstituting the values of and from above:\nSimplify:\nQ7\nThe focal length of a convex lens depends on\nthe refractive index of the material from which\nthe lens is made. The relationship given by the\nlens maker's formula is:\nwhere f is the focal length, \n is the refractive\nindex, and R1 and R2 are the radii of curvature\nof the lens surfaces.\nThe focal length f is inversely related to the\nfactor \n:\nThe refractive index itself is inversely related\nto the wavelength of the light:\nCombining these relationships from equations\n(i) and (ii), we find:\nThis tells us that the focal length is directly\nproportional to the wavelength of the light.\nSince red light has the longest wavelength\namong the visible spectrum components, the\nfocal length of a convex lens will be maximum\nfor red light.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q007-sol0.png",
+    "w": 1397,
+    "h": 1003
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 37,
+  "chapterMargin": 34,
+  "chapterHits": [
+   "refractive index",
+   "lens maker",
+   "focal length",
+   "lens",
+   "convex",
+   "magnification"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 8,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "For light diverging from a finite point source,",
+  "stemImages": [
+   {
+    "src": "physics-2022/q008-stem0.png",
+    "w": 598,
+    "h": 52
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "the intensity decreases in proportion to the\ndistance squared",
+    "img": {
+     "src": "physics-2022/q008-optA.png",
+     "w": 565,
+     "h": 85
+    }
+   },
+   {
+    "letter": "B",
+    "text": "the wavefront is parabolic",
+    "img": {
+     "src": "physics-2022/q008-optB.png",
+     "w": 565,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "the intensity at the wave front does not\ndepend on the distance",
+    "img": {
+     "src": "physics-2022/q008-optC.png",
+     "w": 565,
+     "h": 84
+    }
+   },
+   {
+    "letter": "D",
+    "text": "the wave front is cylindrical",
+    "img": {
+     "src": "physics-2022/q008-optD.png",
+     "w": 563,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Resulting in:\nTherefore, the focal length f is:\nThis formula provides the focal length of the\nlens based on the given distances and\nmagnification.\nQ8\nA light diverging from a finite point source\nproduces spherical wavefront that moves in all\ndirections from the point. The intensity of light\ndependent on the distance and it follows the\ninverse square law. Hence, the intensity\ndecreases with an increase in the distance\nfrom the source.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q008-sol0.png",
+    "w": 1397,
+    "h": 360
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 10,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "focal length",
+   "lens",
+   "magnification"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 9,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The fringe width for red colour as compared to\nthat for violet colour is approximately",
+  "stemImages": [
+   {
+    "src": "physics-2022/q009-stem0.png",
+    "w": 598,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2 times",
+    "img": {
+     "src": "physics-2022/q009-optA.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4 times",
+    "img": {
+     "src": "physics-2022/q009-optB.png",
+     "w": 288,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "8 times",
+    "img": {
+     "src": "physics-2022/q009-optC.png",
+     "w": 233,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3 times",
+    "img": {
+     "src": "physics-2022/q009-optD.png",
+     "w": 286,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "We know that, fringe width,\nwhere, D = distance between the screen and\nsource,\nd = distance between the slits\nand = wavelength of light used.\n (i)\nAs we know that,\nWe know that, kinetic energy of emitted\nphotoelectron (using Einstein's equation)\n∴ At wavelength \n,\n∴ At wavelength \n,\nFrom Eqs. (i) and (ii), we have",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q009-sol0.png",
+    "w": 1397,
+    "h": 529
+   }
+  ],
+  "chapter": "Wave Optics",
+  "chapterScore": 10,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "fringe width",
+   "fringe"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "In case of Fraunhoffer diffraction at a single\nslit, the diffraction pattern on the screen is\ncorrect for which of the following statements?",
+  "stemImages": [
+   {
+    "src": "physics-2022/q010-stem0.png",
+    "w": 584,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Central bright band having alternate dark\nand bright bands of decreasing intensity on\neither side.",
+    "img": {
+     "src": "physics-2022/q010-optA.png",
+     "w": 551,
+     "h": 123
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Central dark band having uniform\nbrightness on either side",
+    "img": {
+     "src": "physics-2022/q010-optB.png",
+     "w": 550,
+     "h": 85
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Central bright band having dark bands on\neither side.",
+    "img": {
+     "src": "physics-2022/q010-optC.png",
+     "w": 551,
+     "h": 85
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Central dark band having alternate dark\nand bright bands of decreasing intensity on\neither side.",
+    "img": {
+     "src": "physics-2022/q010-optD.png",
+     "w": 548,
+     "h": 124
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "In case of Fraunhoffer diffraction at a single\nslit, the diffraction pattern on the screen,\ncentral bright band having alternate dark, and\nbright bands of decreasing intensity on either\nside.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q010-sol0.png",
+    "w": 1397,
+    "h": 254
+   }
+  ],
+  "chapter": "Wave Optics",
+  "chapterScore": 27,
+  "chapterMargin": 27,
+  "chapterHits": [
+   "diffraction",
+   "single slit",
+   "slit",
+   "bright band",
+   "dark band"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "When a compact disc (CD) is illuminated by\nsmall source of white light coloured bands are\nobserved. This is due to",
+  "stemImages": [
+   {
+    "src": "physics-2022/q011-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "diffraction",
+    "img": {
+     "src": "physics-2022/q011-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "interference",
+    "img": {
+     "src": "physics-2022/q011-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "reflection",
+    "img": {
+     "src": "physics-2022/q011-optC.png",
+     "w": 199,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "scattering",
+    "img": {
+     "src": "physics-2022/q011-optD.png",
+     "w": 265,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "When a compact disc (CD) is illuminated by\nsmall source of white light, coloured bands are\nobserved. \nThis \nhappens \ndue \nto \nthe\nphenomenon of diffraction, in which small\nripples on the surface of it, break up white\nlight into the colour of rainbow.\nQ14\nde-Broglie wavelength \n of the particle in\nterms of kinetic energy K is given as\n (i)\nwhere, m is the mass of the particle and h is\nPlanck's constant.\nLet at wavelength \n, kinetic energy of particle",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q011-sol0.png",
+    "w": 1397,
+    "h": 300
+   }
+  ],
+  "chapter": "Wave Optics",
+  "chapterScore": 12,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "interference",
+   "diffraction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Consider a glass slab which is silvered at one\nside and the other side is transparent, Given\nthe refractive index of the glass slab to be 1.5\nif a ray of light is incident at an angle of 45\" on\nthe transparent side, then the deviation of the\nray of light from its intial path, when it comes\nout of the slab is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q012-stem0.png",
+    "w": 578,
+    "h": 290
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "180°",
+    "img": {
+     "src": "physics-2022/q012-optA.png",
+     "w": 303,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "120°",
+    "img": {
+     "src": "physics-2022/q012-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "45°",
+    "img": {
+     "src": "physics-2022/q012-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "90°",
+    "img": {
+     "src": "physics-2022/q012-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The ray diagram for the given situation is\nshown below\nHence, emergent rays comes out at angle of\n90° from inmcident ray.\n \nbecomes \ni.e. \n [from Eq. (i)]",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q012-sol0.png",
+    "w": 1397,
+    "h": 478
+   }
+  ],
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The kinetic energy of the photoelectrons\nincreases by 0.52 eV when the wavelength of\nincident light is changed from 500 nm to\nanother wavelength which is approximately",
+  "stemImages": [
+   {
+    "src": "physics-2022/q013-stem0.png",
+    "w": 578,
+    "h": 170
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "400 nm",
+    "img": {
+     "src": "physics-2022/q013-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1250 nm",
+    "img": {
+     "src": "physics-2022/q013-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1000 nm",
+    "img": {
+     "src": "physics-2022/q013-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "700 nm",
+    "img": {
+     "src": "physics-2022/q013-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, \nchange \nin \nkinetic \nenergy \nof\nphotoelectrons,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q013-sol0.png",
+    "w": 1397,
+    "h": 128
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 10,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The de-Broglie wavelength of a particle of\nkinetic energy K is \n, the wavelength of the\nparticle, if its kinetic energy \n is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q014-stem0.png",
+    "w": 578,
+    "h": 137
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "physics-2022/q014-optA.png",
+     "w": 303,
+     "h": 52
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q014-optB.png",
+     "w": 267,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "physics-2022/q014-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q014-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q014-sol0.png",
+    "w": 1397,
+    "h": 17
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 10,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The radius of hydrogen atom in the ground\nstate is 0.53 A. After collision with an electron,\nit is found to have a radius of 2.12 A, the\nprincipal quantum number n of the final state\nof the atom is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q015-stem0.png",
+    "w": 578,
+    "h": 211
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "n = 2",
+    "img": {
+     "src": "physics-2022/q015-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "n = 3",
+    "img": {
+     "src": "physics-2022/q015-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "n = 4",
+    "img": {
+     "src": "physics-2022/q015-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "n = 1",
+    "img": {
+     "src": "physics-2022/q015-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, radius of H -atom in the ground state (n,\n= 1)\nr1 = 0.53 A\nRadius of excited state (n2)\nr1 = 2.12 A\nWe know that, \ni.e., n = n = 2",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q015-sol0.png",
+    "w": 695,
+    "h": 543
+   }
+  ],
+  "chapter": "Atoms",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "excited state",
+   "ground state",
+   "hydrogen atom"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "In accordance with the Bohr's model, the\nquantum \nnumber \nthat \ncharacterises \nthe\nEarth's revolution around the Sun in an orbit\nof radius 1.5 × 1011 m with orbital speed 3 ×\n104 ms–1 is [given, mass of Earth = 6 × 1024 kg]",
+  "stemImages": [
+   {
+    "src": "physics-2022/q016-stem0.png",
+    "w": 584,
+    "h": 230
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2.57 × 1038",
+    "img": {
+     "src": "physics-2022/q016-optA.png",
+     "w": 551,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8.57 × 1064",
+    "img": {
+     "src": "physics-2022/q016-optB.png",
+     "w": 550,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2.57 × 1074",
+    "img": {
+     "src": "physics-2022/q016-optC.png",
+     "w": 551,
+     "h": 52
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5.98 × 1086",
+    "img": {
+     "src": "physics-2022/q016-optD.png",
+     "w": 548,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, \nAccording Bohr's atomic model,\nAngular momentum \nwhere, \nh \n= \nPlanck's \nconstant \nand. n = quantum number\nHence, \nthe \nquantam \nnumber \nthat\ncharacterises the Earth's revolution is 2.57 ×\n1074.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q016-sol0.png",
+    "w": 695,
+    "h": 679
+   }
+  ],
+  "chapter": "Atoms",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "bohr"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "If an electron is revolving in its Bohr orbit\nhaving Bohr radius of 0.529 \n, then the radius\nof third orbit is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q017-stem0.png",
+    "w": 584,
+    "h": 153
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4496",
+    "img": {
+     "src": "physics-2022/q017-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4.761",
+    "img": {
+     "src": "physics-2022/q017-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5125 nm",
+    "img": {
+     "src": "physics-2022/q017-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4234 nm",
+    "img": {
+     "src": "physics-2022/q017-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, Bohr radius, \nWe know that, radius of revolving electron in\nnth orbit is given as",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q017-sol0.png",
+    "w": 695,
+    "h": 180
+   }
+  ],
+  "chapter": "Atoms",
+  "chapterScore": 20,
+  "chapterMargin": 20,
+  "chapterHits": [
+   "bohr",
+   "bohr radius"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Binding energy of a nitrogen nucleus \n,\ngiven",
+  "stemImages": [
+   {
+    "src": "physics-2022/q018-stem0.png",
+    "w": 584,
+    "h": 102
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "85 MeV",
+    "img": {
+     "src": "physics-2022/q018-optA.png",
+     "w": 219,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "206.5 MeV",
+    "img": {
+     "src": "physics-2022/q018-optB.png",
+     "w": 274,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "78 MeV",
+    "img": {
+     "src": "physics-2022/q018-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "104.7 MeV",
+    "img": {
+     "src": "physics-2022/q018-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, mass of nucleus of nitrogen,\nMass of proton, mp = 1.00783 amu\nMass of neutron, mn = 1.0087 amu \nMass defect, \n= 0.11243 amu\n- Binding energy of nitrogen nucleus",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q018-sol0.png",
+    "w": 676,
+    "h": 488
+   }
+  ],
+  "chapter": "Nuclei",
+  "chapterScore": 15,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "binding energy",
+   "mass defect",
+   "nucleus"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "In a photo electric experiment, if both the\nintensity and frequency of the incident light\nare doubled, then the saturation photoelectric\ncurrent",
+  "stemImages": [
+   {
+    "src": "physics-2022/q019-stem0.png",
+    "w": 584,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "is halved",
+    "img": {
+     "src": "physics-2022/q019-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "is doubled",
+    "img": {
+     "src": "physics-2022/q019-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "becomes four times",
+    "img": {
+     "src": "physics-2022/q019-optC.png",
+     "w": 551,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "remains constant",
+    "img": {
+     "src": "physics-2022/q019-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "In \nphotoelectric \neffect, \nsaturation\nphotocurrent is directly proportional to the\nintensity of incident radiation but independent\nof frequency of incident radiation. Hence,\nsaturation current in photoelectric effect\nbecomes double when both intensity and\nfrequency of the incident light are doubled.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q019-sol0.png",
+    "w": 676,
+    "h": 340
+   }
+  ],
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 10,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "photoelectric effect",
+   "incident light"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Which of the following radiations is deflected\nby electric field?",
+  "stemImages": [
+   {
+    "src": "physics-2022/q020-stem0.png",
+    "w": 584,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Neutrons",
+    "img": {
+     "src": "physics-2022/q020-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "-rays",
+    "img": {
+     "src": "physics-2022/q020-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-particles",
+    "img": {
+     "src": "physics-2022/q020-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "X-rays",
+    "img": {
+     "src": "physics-2022/q020-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "-particles are deflected in electric and\nmagnetic field both because it has a charge of\n+2e. \n-rays and X-rays are electromagnetic\nwaves which do not deflected in electric and\nmagnetic \nfield. \nNeutrons \nare \nneutral\n(chargeless) particles, hence it cannot deflect\nin electric and magnetic field.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q020-sol0.png",
+    "w": 676,
+    "h": 326
+   }
+  ],
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "x-rays"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 21,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The resistivity of a semiconductor at room\ntemperature is in between",
+  "stemImages": [
+   {
+    "src": "physics-2022/q021-stem0.png",
+    "w": 578,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10–3 to 106\n –cm",
+    "img": {
+     "src": "physics-2022/q021-optA.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "106 to 108 \n–cm",
+    "img": {
+     "src": "physics-2022/q021-optB.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1010 to 1012 \n–cm",
+    "img": {
+     "src": "physics-2022/q021-optC.png",
+     "w": 544,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10–2 to 10–5 \n–cm",
+    "img": {
+     "src": "physics-2022/q021-optD.png",
+     "w": 542,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The resistivity of a material is a measure of\nhow strongly the material resists the flow of\nelectric \ncurrent. \nSemiconductors \nhave\nresistivity values that are between those of\ngood conductors (like metals) and good\ninsulators (like ceramics).\nOption A states that the resistivity range is\nfrom to 10–3 to 106 \n-cm.\nOption B suggests a range from 106 to 108 \n-\ncm.\nOption C offers a range from 1010 to 1012 \n-\ncm.\nOption D proposes a range from 10–2 to 10–5\n-cm.\nThe \ncorrect \nresistivity \nrange \nfor\nsemiconductors \nat \nroom \ntemperature \nis\ntypically closer to Option A: 10–3 to 106\n-cm.\nThis range is wide because it can be affected\nby several factors, including the type of\nsemiconductor material, the presence of\nimpurities (doping), and the temperature of\nthe material.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q021-sol0.png",
+    "w": 728,
+    "h": 975
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 13,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "resistivity",
+   "current"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The forbidden energy gap for Ge crystal at 0 K\nis",
+  "stemImages": [
+   {
+    "src": "physics-2022/q022-stem0.png",
+    "w": 578,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.71 eV",
+    "img": {
+     "src": "physics-2022/q022-optA.png",
+     "w": 199,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2.57 eV",
+    "img": {
+     "src": "physics-2022/q022-optB.png",
+     "w": 267,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "6.57 eV",
+    "img": {
+     "src": "physics-2022/q022-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.071 eV",
+    "img": {
+     "src": "physics-2022/q022-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Ge is a semiconductor material which behaves\nas an insulator at 0 K. We know that, forbidden\nenergy gap of an insulator is arond 0.78 ev\nHence, among the given options, option (A) is\ncorrect.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q022-sol0.png",
+    "w": 728,
+    "h": 261
+   }
+  ],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "forbidden energy gap",
+   "semiconductor"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Which logic gate is represented by the\nfollowing combination of logic gates?",
+  "stemImages": [
+   {
+    "src": "physics-2022/q023-stem0.png",
+    "w": 578,
+    "h": 302
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "NAND",
+    "img": {
+     "src": "physics-2022/q023-optA.png",
+     "w": 303,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "AND",
+    "img": {
+     "src": "physics-2022/q023-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "NOR",
+    "img": {
+     "src": "physics-2022/q023-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "OR",
+    "img": {
+     "src": "physics-2022/q023-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The given logic gate is represented as\nOutput of logic gate is written as\n= A.B = Output of AND gate",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q023-sol0.png",
+    "w": 728,
+    "h": 428
+   }
+  ],
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 20,
+  "chapterMargin": 20,
+  "chapterHits": [
+   "logic gate",
+   "nand",
+   "nor"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 24,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A metallic rod of mass per unit length 0.5 kg\nm–1 is lying horizontally on a smooth inclined\nplane which makes an angle of 30° with the\nhorizontal. A magnetic field of strength 0.25 T\nis acting on it in the vertical direction. When a\ncurrent I is flowing through it, the rod is not\nallowed to slide down. The quantity of current\nrequired to keep the rod stationary is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q024-stem0.png",
+    "w": 578,
+    "h": 337
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5.98 A",
+    "img": {
+     "src": "physics-2022/q024-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "14.76 A",
+    "img": {
+     "src": "physics-2022/q024-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "11.32 A",
+    "img": {
+     "src": "physics-2022/q024-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7.14 A",
+    "img": {
+     "src": "physics-2022/q024-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, magnetic field, B=0.25T\nMass per unit length, \nThe given situation is shown alongside.\nAt balance condition,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q024-sol0.png",
+    "w": 676,
+    "h": 972
+   }
+  ],
+  "chapter": "Units and Measurements",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "unit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A nuclear reactor delivers a power of 109 W,\nthe amount of fuel consumed by the reactor in\none hour is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q025-stem0.png",
+    "w": 578,
+    "h": 139
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.08 g",
+    "img": {
+     "src": "physics-2022/q025-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.72 g",
+    "img": {
+     "src": "physics-2022/q025-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.96 g",
+    "img": {
+     "src": "physics-2022/q025-optC.png",
+     "w": 199,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.04 g",
+    "img": {
+     "src": "physics-2022/q025-optD.png",
+     "w": 265,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, power delivered by nuclear reactor,\nP = 109 W\nc = 3 × 108 m/s\nt = 1 h = 60 × 60 s",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q025-sol0.png",
+    "w": 676,
+    "h": 224
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 6,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "power delivered",
+   "power"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The displacement x (in m ) of a particle of mass\nm (in kg ) moving in one dimension under the\naction of a force, is related to time t (in sec) by\nt = \n. The displacement of the particle\nwhen its velocity is zero, will be",
+  "stemImages": [
+   {
+    "src": "physics-2022/q026-stem0.png",
+    "w": 584,
+    "h": 216
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "zero",
+    "img": {
+     "src": "physics-2022/q026-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6 m",
+    "img": {
+     "src": "physics-2022/q026-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2 m",
+    "img": {
+     "src": "physics-2022/q026-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4 m",
+    "img": {
+     "src": "physics-2022/q026-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Displacement of the particle related with time\nis given as\nSquaring on both sides, we get\nVelocity of the particle,\nwhen v = 0\ni.e. 2t – 6 = 0 \nt = 36\ni.e velocity of particle is zero at t = 36.\n∴ Displacement of particle at t = 3 s,\nx = 32 - 6 × 3 + 9 [from Eq. (i)]\n= 0",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q026-sol0.png",
+    "w": 695,
+    "h": 641
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "velocity",
+   "displacement"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Two objects are projected at an angle \n and\n(90-\n), to the horizontal with the same speed.\nThe ratio of their maximum vertical heights is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q027-stem0.png",
+    "w": 584,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "tan",
+    "img": {
+     "src": "physics-2022/q027-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1:tan",
+    "img": {
+     "src": "physics-2022/q027-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "tan2",
+    "img": {
+     "src": "physics-2022/q027-optC.png",
+     "w": 551,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1:1",
+    "img": {
+     "src": "physics-2022/q027-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know that, maximum vertical height in\nprojectile motion,\n [where, is angle of projection.]\n[Given, \n and \n]",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q027-sol0.png",
+    "w": 695,
+    "h": 435
+   }
+  ],
+  "chapter": "Motion in a Plane",
+  "chapterScore": 11,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "projectile",
+   "angle of projection",
+   "horizontal",
+   "angle"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A car is moving in a circular horizontal track of\nradius 10 m with a constant speed of 10 ms–1.\nA bob is suspended from the roof of the car by\na light wire of length 1.0 m. The angle made by\nthe wire with the vertical is (in rad)",
+  "stemImages": [
+   {
+    "src": "physics-2022/q028-stem0.png",
+    "w": 584,
+    "h": 220
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q028-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "zero",
+    "img": {
+     "src": "physics-2022/q028-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q028-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q028-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Radius of circular track, r = 10m\nspeed of car, v = 10m/s\nThe given situation is shown below\nDividing Eq. (i) by Eq. (ii), we get",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q028-sol0.png",
+    "w": 695,
+    "h": 168
+   },
+   {
+    "src": "physics-2022/q028-sol1.png",
+    "w": 676,
+    "h": 153
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Two masses of 5 kg and 3 kg are suspended\nwith the help of massless inextensible strings\nas shown in figure below.\nWhen whole system is going upwards with\nacceleration 2m/s2, the value of T1 is (use, g =\n9.8 m/s2)",
+  "stemImages": [
+   {
+    "src": "physics-2022/q029-stem0.png",
+    "w": 578,
+    "h": 797
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "35.4 N",
+    "img": {
+     "src": "physics-2022/q029-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "23.6 N",
+    "img": {
+     "src": "physics-2022/q029-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "59 N",
+    "img": {
+     "src": "physics-2022/q029-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "94.4 N",
+    "img": {
+     "src": "physics-2022/q029-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The given situation is shown below\nEquation of motion for body m2,\nEquation of motion of mass of 5 kg,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q029-sol0.png",
+    "w": 676,
+    "h": 1187
+   }
+  ],
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acceleration"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The Vernier scale of a travelling microscope\nhas 50 divisions which coincides with 49 main\nscale divisions. If each main scale division is\n0.5 mm , then the least count of the\nmicroscope is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q030-stem0.png",
+    "w": 578,
+    "h": 210
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.5 mm",
+    "img": {
+     "src": "physics-2022/q030-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.01 mm",
+    "img": {
+     "src": "physics-2022/q030-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0.5 cm",
+    "img": {
+     "src": "physics-2022/q030-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.01 cm",
+    "img": {
+     "src": "physics-2022/q030-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "The least count of a measuring instrument is\nthe smallest value that can be measured with\nthe instrument and is calculated by the\nformula:",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q030-sol0.png",
+    "w": 676,
+    "h": 207
+   }
+  ],
+  "chapter": "Units and Measurements",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "least count",
+   "vernier"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The angular speed of a motor wheel is\nincreased from 1200 rpm to 3120 rpm in 16 s.\nThe angular acceleration of the motor wheel is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q031-stem0.png",
+    "w": 578,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q031-optA.png",
+     "w": 199,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q031-optB.png",
+     "w": 267,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q031-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q031-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "In the given travelling microscope, there are 50\ndivisions on the Vernier scale which coincides\nwith 49 main scale divisions. Each main scale\ndivision is of 0.5 mm.\nFirst, we need to find out the value of one\nmain scale division:\nGiven that one main scale division is 0.5 mm ,\nwe keep this value for the calculation.\nNext, to calculate the least count, we divide\nthis value by the number of divisions on the\nVernier scale.\nLeast Count \nQ31\nGiven, initial angular frequency of wheel,\n∴ Initial angular velocity,\nSimilarly, final angular speed,\nTime, t = 16s\nIf be the angular acceleration of the wheel,\nthen",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q031-sol0.png",
+    "w": 1397,
+    "h": 573
+   }
+  ],
+  "chapter": "Units and Measurements",
+  "chapterScore": 16,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "least count",
+   "vernier"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The centre of mass of an extended body on\nthe surface of the earth and its centre of\ngravity",
+  "stemImages": [
+   {
+    "src": "physics-2022/q032-stem0.png",
+    "w": 584,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "are always at the same point only for\nspherical bodies",
+    "img": {
+     "src": "physics-2022/q032-optA.png",
+     "w": 551,
+     "h": 84
+    }
+   },
+   {
+    "letter": "B",
+    "text": "can never be at the same point",
+    "img": {
+     "src": "physics-2022/q032-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "centre of mass coincides with the centre of\ngravity of a body if the size of the body is\nnegligible as compared to the size (or\nradius) of the earth",
+    "img": {
+     "src": "physics-2022/q032-optC.png",
+     "w": 551,
+     "h": 163
+    }
+   },
+   {
+    "letter": "D",
+    "text": "are always at the same point for any size of\nthe body",
+    "img": {
+     "src": "physics-2022/q032-optD.png",
+     "w": 548,
+     "h": 84
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "To calculate the value that the Vernier scale\ncan measure beyond the main scale, we\nconsider the discrepancy between the 49 main\nscale divisions and the 50 Vernier divisions.\nSince 49 main scale divisions coincide with 50\nVernier divisions, the length covered by 50\nVernier divisions is equal to the length covered\nby 49 main scale divisions.\nTherefore, one Vernier division is equivalent to\n of a main scale division. The difference\nbetween the value of one main scale division\nand one Vernier division gives us the least\ncount:\nMain scale division value - Vernier scale\ndivision value = Least Count\nLeast Count \nSince there is a difference of 1 Vernier division\nin 50 divisions, the Vernier scale is more\nprecise by:\nLeast Count \nSimplifying the fraction:\nLeast Count \nLeast Count = 0.01 mm\nSo the correct answer is:\nOption B\n0.01 mm\nQ32\nThe correct option is C : Centre of mass\ncoincides with the centre of gravity of a body if\nthe size of the body is negligible as compared\nto the size (or radius) of the earth.\nThe center of mass of an object is the point\nwhere the distribution of mass is balanced in\nall directions, and it is calculated using the\npositions \nand \nmasses \nof \nthe \nobject's\ncomponents. The center of mass is purely a\nfunction of the distribution of mass within the\nobject and does not depend on external\ngravitational fields.\nThe center of gravity, on the other hand, is the\npoint within an object from which the force of\ngravity appears to act. When the gravitational\nfield is uniform, as it is often approximated to\nbe close to the Earth's surface, the center of\ngravity falls directly on the center of mass.\nFor very large bodies or for those where the\ngravitational field is not uniform across the\nobject, such as a large mountain near the\nEarth's pole, the center of gravity and center of\nmass may not coincide. This is because the\ncenter \nof \ngravity \nis \ninfluenced \nby \nthe\ndistribution of mass and the gradient of the\ngravitational field it is in.\nOptions A and D are incorrect because they\nmake general assertions that do not take into\naccount the uniformity of the gravitational\nfield or the relative size of the body to the\nEarth.\nOption B is also incorrect because the center\nof mass and center of gravity do coincide in\ncommon situations where bodies are small\ncompared to the size of the Earth or when the\ngravitational field can be considered uniform.\nAlthough there may be specific cases where\nthey do not coincide, this option states they\n\"can never be at the same point\" which is false\nas in many practical situations they are at the\nsame point.\nIn summary, if the body is small relative to the\nEarth and the gravitational field can be\napproximated as uniform, the center of mass\nand center of gravity are effectively in the\nsame location, which is the essence of option\nC.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q032-sol0.png",
+    "w": 1397,
+    "h": 1156
+   },
+   {
+    "src": "physics-2022/q032-sol1.png",
+    "w": 695,
+    "h": 770
+   }
+  ],
+  "chapter": "Units and Measurements",
+  "chapterScore": 24,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "least count",
+   "vernier"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A metallic rod breaks when strain produced is\n0.2%. The Young's modulus of the material of\nthe rod 7 × 109 N/m2. The area of crosssection\nto support a load of 104 N is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q033-stem0.png",
+    "w": 584,
+    "h": 191
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "7.1 × 10–5 m2",
+    "img": {
+     "src": "physics-2022/q033-optA.png",
+     "w": 551,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "7.1 × 10–4 m2",
+    "img": {
+     "src": "physics-2022/q033-optB.png",
+     "w": 550,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7.1 × 10–2 m2",
+    "img": {
+     "src": "physics-2022/q033-optC.png",
+     "w": 551,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7.1 × 10–8 m2",
+    "img": {
+     "src": "physics-2022/q033-optD.png",
+     "w": 548,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, Youngs' modulus, \nLoad, F=104N\nWe know that,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q033-sol0.png",
+    "w": 695,
+    "h": 368
+   }
+  ],
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "young's modulus",
+   "strain"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A tiny spherical oil drop carrying a net charge\nis balanced in still air, with a vertical uniform\nelectric field of strength \nWhen the field is switched OFF, the drop is\nobserved to fall with terminal velocity 2×10–3.\nHere g = 9.8 m/s2, viscosity of air is 1.8×10–5\nNs/m2 and density of oil is 900 kg m–3. The\nmagnitude of q is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q034-stem0.png",
+    "w": 584,
+    "h": 362
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8 × 10–19 C",
+    "img": {
+     "src": "physics-2022/q034-optA.png",
+     "w": 551,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.6 × 10–19 C",
+    "img": {
+     "src": "physics-2022/q034-optB.png",
+     "w": 550,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "3.2 × 10–19 C",
+    "img": {
+     "src": "physics-2022/q034-optC.png",
+     "w": 551,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.8 × 10–19 C",
+    "img": {
+     "src": "physics-2022/q034-optD.png",
+     "w": 548,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, \nTerminal velocity, \nViscosity, \nDensity, \nSince, qE = mg .....(i)\nIn the absence of electric field,\n [from Eq. (i)]\nFrom Eq. (i), we get",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q034-sol0.png",
+    "w": 695,
+    "h": 508
+   }
+  ],
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 18,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "viscosity",
+   "terminal velocity",
+   "drop"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "\"Heat cannot be flow itself from a body at\nlower temperature to a body at higher\ntemperature\". This statement corresponds to",
+  "stemImages": [
+   {
+    "src": "physics-2022/q035-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "conservation of momentum",
+    "img": {
+     "src": "physics-2022/q035-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "conservation of mass",
+    "img": {
+     "src": "physics-2022/q035-optB.png",
+     "w": 544,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "first law of thermodynamics",
+    "img": {
+     "src": "physics-2022/q035-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "second law of thermodynamics",
+    "img": {
+     "src": "physics-2022/q035-optD.png",
+     "w": 542,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "According to second law of thermodynamics,\nheat cannot be itself flow from a body at lower\ntemperature to a body at higher temperature\nwithout doing external work.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q035-sol0.png",
+    "w": 676,
+    "h": 221
+   }
+  ],
+  "chapter": "Thermodynamics",
+  "chapterScore": 12,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "first law of thermodynamics",
+   "second law of thermodynamics"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A smooth chain of length 2 m is kept on a table\nsuch that its length of 60 cm hangs freely from\nthe edge of the table. The total mass of the\nchain is 4 kg . The work done in pulling the\nentire chain on the table is (Take, g = 10 m/s2)",
+  "stemImages": [
+   {
+    "src": "physics-2022/q036-stem0.png",
+    "w": 578,
+    "h": 218
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "6.3 J",
+    "img": {
+     "src": "physics-2022/q036-optA.png",
+     "w": 303,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3.6 J",
+    "img": {
+     "src": "physics-2022/q036-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2.0 J",
+    "img": {
+     "src": "physics-2022/q036-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "12.9 J",
+    "img": {
+     "src": "physics-2022/q036-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Mass per unit length of chain,\nWork done in pulling the chain of small length\ndx,\ndW = mass of length dx × g × x\nWork done,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q036-sol0.png",
+    "w": 676,
+    "h": 499
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "work done"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Electrical as well as gravitational affects can be\nthought to be caused by fields. Which of the\nfollowing \nis \ntrue \nfor \nan \nelectrical \nor\ngravitational field?",
+  "stemImages": [
+   {
+    "src": "physics-2022/q037-stem0.png",
+    "w": 578,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Gravitational or electric field does not exist\nin the space around an object.",
+    "img": {
+     "src": "physics-2022/q037-optA.png",
+     "w": 544,
+     "h": 85
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Fields are useful for understanding forces\nactin through a distance.",
+    "img": {
+     "src": "physics-2022/q037-optB.png",
+     "w": 544,
+     "h": 85
+    }
+   },
+   {
+    "letter": "C",
+    "text": "There is no way to verify the existence of a\nforce field since it is just a concept.",
+    "img": {
+     "src": "physics-2022/q037-optC.png",
+     "w": 544,
+     "h": 85
+    }
+   },
+   {
+    "letter": "D",
+    "text": "The field concept is often used to describe\ncontact forces.",
+    "img": {
+     "src": "physics-2022/q037-optD.png",
+     "w": 542,
+     "h": 84
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Concept of field is a model used to explain the\ninfluence that a massive body or charged\nparticle extends into the space around itself,\nproducing a force on another massive body or\ncharged body placed in space. Therefore, force\nconcept of field is used to explain gravitational\nand electrostatic phenomena.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q037-sol0.png",
+    "w": 676,
+    "h": 327
+   }
+  ],
+  "chapter": "Gravitation",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "gravitational"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Four charges +q1 + 2q1 + q and –2q are placed\nat the corners of a square ABCD respectively.\nThe force on a unit positive charge kept at the\ncentre O is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q038-stem0.png",
+    "w": 578,
+    "h": 180
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "along the diagonal BD",
+    "img": {
+     "src": "physics-2022/q038-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "along the diagonal AC",
+    "img": {
+     "src": "physics-2022/q038-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "perpendicular to AD",
+    "img": {
+     "src": "physics-2022/q038-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "zero",
+    "img": {
+     "src": "physics-2022/q038-optD.png",
+     "w": 542,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The given situation is shown below\nSince, charges kept at point A and C are in\nsame magnitude and same nature (i.e. both\npositive), hence net force due these two\ncharges on unit charge at centre O will be zero.\nForce due to charge (+2q) at unit positive\ncharge at centre will be towards BO and also\nforce due to charge at unit positive charge (–\n2q) at centre will be towards OD.\nTherefore, net force on the unit positive\ncharge kept at centre O will be towards BD.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q038-sol0.png",
+    "w": 695,
+    "h": 769
+   }
+  ],
+  "chapter": "Units and Measurements",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "unit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 39,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "An \nelectric \ndipole \nwith \ndipole \nmoment\n is aligned at 30° with the\ndirection of a uniform electric field of\nmagnitude \n, the magnitude of\nthe torque acting on the dipole is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q039-stem0.png",
+    "w": 584,
+    "h": 220
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q039-optA.png",
+     "w": 551,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q039-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q039-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q039-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, for an electric dipole, dipole moment,\nMagnitude of electric field, \n∴ Torque,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q039-sol0.png",
+    "w": 695,
+    "h": 304
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 18,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "electric dipole",
+   "dipole moment",
+   "electric field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A charged particle of mass m and charge q is\nreleased from rest in an uniform electric field E\n. Neglecting the effect of gravity, the kinetic\nenergy of the charged particle after t seconds\nis",
+  "stemImages": [
+   {
+    "src": "physics-2022/q040-stem0.png",
+    "w": 584,
+    "h": 216
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q040-optA.png",
+     "w": 219,
+     "h": 49
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q040-optB.png",
+     "w": 274,
+     "h": 49
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q040-optC.png",
+     "w": 219,
+     "h": 49
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q040-optD.png",
+     "w": 272,
+     "h": 49
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "According to given situation, force on charge\nparticle in uniform electric field, F = qE\nAcceleration of charge particle,\nVelocity of charge particle after time t is given\nas\n∴ Kinetic energy of the charged particle",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q040-sol0.png",
+    "w": 695,
+    "h": 378
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 10,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The electric field and the potential of an\nelectric dipole vary with distance r as",
+  "stemImages": [
+   {
+    "src": "physics-2022/q041-stem0.png",
+    "w": 584,
+    "h": 94
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q041-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q041-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q041-optC.png",
+     "w": 219,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q041-optD.png",
+     "w": 272,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "We know electric field and potential due to\nelectric dipole on axial position is given as\ni.e.,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q041-sol0.png",
+    "w": 676,
+    "h": 239
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "electric dipole",
+   "electric field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "The displacement of a particle executing SHM\nis given by \n, where is in\nmetre and t is in seconds. The amplitude and\nmaximum speed of the particles is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q042-stem0.png",
+    "w": 584,
+    "h": 177
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q042-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q042-optB.png",
+     "w": 550,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q042-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q042-optD.png",
+     "w": 548,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, displacement equation of particle\nexecuting SHM,\nComparing with displacement equation of\nSHM as \n, we get\nAmplitude, A = 3 m\nAngular velocity, \n = 2 rad/s\n∴ Maximum speed,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q042-sol0.png",
+    "w": 676,
+    "h": 423
+   }
+  ],
+  "chapter": "Oscillations",
+  "chapterScore": 14,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "shm",
+   "amplitude"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A parallel place capacitor is charged by\nconnecting a 2 V battery across it. It is then\ndisconnected from the battery and a glass slab\nis introduced between plates. Which of the\nfollowing pairs of quantities decrease?",
+  "stemImages": [
+   {
+    "src": "physics-2022/q043-stem0.png",
+    "w": 584,
+    "h": 211
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Potential difference and energy stored",
+    "img": {
+     "src": "physics-2022/q043-optA.png",
+     "w": 551,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Energy stored and capacitance",
+    "img": {
+     "src": "physics-2022/q043-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Capacitance and charge",
+    "img": {
+     "src": "physics-2022/q043-optC.png",
+     "w": 551,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Charge and potential difference",
+    "img": {
+     "src": "physics-2022/q043-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "When a charged capacitor is disconnected\nfrom the battery and a glass slab (dielectric\nmaterial) is introduced between the plates,\nthen charge (Q), capacitance (C), electric\npotential (V) and stored energy (U) is given as\nwhere, K = dielectric constant\nV = electric potential\nU = potential energy\nV0 = initial potential of charged capacitor\nU0 = Initial energy of charged capacitor\nFrom above, we see that V and U decreases\nafter introducing glass plate of dielectric\nconstant k whereas capacitance increases and\ncharge remains same because battery is\ndisconnected \nafter \nintroducing \ndielectric\nmaterial.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q043-sol0.png",
+    "w": 676,
+    "h": 760
+   }
+  ],
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 28,
+  "chapterMargin": 21,
+  "chapterHits": [
+   "capacitance",
+   "dielectric constant",
+   "potential difference",
+   "capacitor",
+   "dielectric"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A charged particle is moving in an electric field\nof 3 × 10–10 Vm–1 with mobility 2.5 × 106 m2/V-\ns, its drift velocity is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q044-stem0.png",
+    "w": 578,
+    "h": 142
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8.33 × 10–4 m/s",
+    "img": {
+     "src": "physics-2022/q044-optA.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.2 × 10–4 m/s",
+    "img": {
+     "src": "physics-2022/q044-optB.png",
+     "w": 544,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "25 × 10–4 m/s",
+    "img": {
+     "src": "physics-2022/q044-optC.png",
+     "w": 544,
+     "h": 51
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7.5 × 10–4 m/s",
+    "img": {
+     "src": "physics-2022/q044-optD.png",
+     "w": 542,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The drift velocity (vd) of a charged particle\nmoving in an electric field can be calculated\nusing the relation between drift velocity,\nelectric field (E), and mobility ( ) of the\ncharged particle, which is given by:\nWhere:\n is the mobility of the charged particle, which\nis the velocity per unit electric field strength.\n is the electric field strength.\nGiven:\nThe mobility of the charged particle is\n.\nThe \nelectric \nfield \nstrength \nis\n.\nNow let's calculate the drift velocity:\nTherefore, the drift velocity of the charged\nparticle is \n, which corresponds\nto Option D.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q044-sol0.png",
+    "w": 676,
+    "h": 255
+   },
+   {
+    "src": "physics-2022/q044-sol1.png",
+    "w": 695,
+    "h": 726
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "drift velocity"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Wire bound resistors are made by winding the\nwires of an alloy of",
+  "stemImages": [
+   {
+    "src": "physics-2022/q045-stem0.png",
+    "w": 578,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Si, Tu, Fe",
+    "img": {
+     "src": "physics-2022/q045-optA.png",
+     "w": 544,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Ge, Au, Ga",
+    "img": {
+     "src": "physics-2022/q045-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Manganin, constantan, nichrome",
+    "img": {
+     "src": "physics-2022/q045-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Cu, Al, Ag",
+    "img": {
+     "src": "physics-2022/q045-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Wire bound resistors are made by winding the\nwires of an alloy of manganin, constantan and\nnichrome. The choice of these materials is\ndirected \nmostly \nby \nthe \nfact \nthat \ntheir\nresistivities \nare \nrelatively \nintensive \nto\ntemperature. These resistances are typically in\nrange of a fraction of an ohm to a few hundred\nohms.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q045-sol0.png",
+    "w": 695,
+    "h": 379
+   }
+  ],
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "10 identical cells each potential E and internal\nresistance are connected in series to form a\nclosed circuit.\nDetermine the potential difference across\nthree cells using an ideal voltmeter.",
+  "stemImages": [
+   {
+    "src": "physics-2022/q046-stem0.png",
+    "w": 578,
+    "h": 210
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3E",
+    "img": {
+     "src": "physics-2022/q046-optA.png",
+     "w": 303,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "13 E",
+    "img": {
+     "src": "physics-2022/q046-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7 E",
+    "img": {
+     "src": "physics-2022/q046-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "10 E",
+    "img": {
+     "src": "physics-2022/q046-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "According to given situation, total voltage of 10\ncells = 10E\nTotal resistance of 10 cells = 10r\n∴ Current in the circuit, \nPotential difference across 3 cells,\nHence, ideal voltmeter will read 3E.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q046-sol0.png",
+    "w": 695,
+    "h": 334
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "internal resistance",
+   "current",
+   "resistance",
+   "voltmeter"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "In an atom electrons revolve around the\nnucleus along a path of radius \n making\n \nrevolutions \nper \nsecond. \nThe\nequivalent \ncurrents \nis \n[given,\n]",
+  "stemImages": [
+   {
+    "src": "physics-2022/q047-stem0.png",
+    "w": 578,
+    "h": 228
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.5 A",
+    "img": {
+     "src": "physics-2022/q047-optA.png",
+     "w": 303,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.4 A",
+    "img": {
+     "src": "physics-2022/q047-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.8 A",
+    "img": {
+     "src": "physics-2022/q047-optC.png",
+     "w": 303,
+     "h": 68
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.2 A",
+    "img": {
+     "src": "physics-2022/q047-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, radius of circular path,\n∴ Equivalent current,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q047-sol0.png",
+    "w": 676,
+    "h": 450
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "When a metal conductor connected to left gap\nof a meter bridge is heated, the balancing\npoint",
+  "stemImages": [
+   {
+    "src": "physics-2022/q048-stem0.png",
+    "w": 578,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "shifts towards left",
+    "img": {
+     "src": "physics-2022/q048-optA.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "remains unchanged",
+    "img": {
+     "src": "physics-2022/q048-optB.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "shifts to the centre",
+    "img": {
+     "src": "physics-2022/q048-optC.png",
+     "w": 544,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "shifts towards right",
+    "img": {
+     "src": "physics-2022/q048-optD.png",
+     "w": 542,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We know that, resistance of unknown wire can\nbe determined by using meter bridge as\nwhere R = known resistance, I = balancing\nlength and S = unknown resistance.\nWhen a metal conductor of resistance R\nconnected to left gap is heated, then its\nresistance increases i.e. R increases. Hence,\nfrom Eq. (i), we see that when R will increase,\nthen (100-l) will decrease also, i.e will increase.\nTherefore, balancing point will shift towards\nright.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q048-sol0.png",
+    "w": 676,
+    "h": 548
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 11,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "meter bridge",
+   "resistance"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Two tiny spheres carrying charges 1.8 C and\n2.8 \nC are located at 40 cm apart. The\npotential at the mid - point of the line joining\nthe two charges is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q049-stem0.png",
+    "w": 584,
+    "h": 174
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2.1 × 105 V",
+    "img": {
+     "src": "physics-2022/q049-optA.png",
+     "w": 551,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3.6 × 105 V",
+    "img": {
+     "src": "physics-2022/q049-optB.png",
+     "w": 550,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.3 × 104 V",
+    "img": {
+     "src": "physics-2022/q049-optC.png",
+     "w": 551,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3.8 × 104 V",
+    "img": {
+     "src": "physics-2022/q049-optD.png",
+     "w": 548,
+     "h": 51
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Charge \non \nfirst \nsphere, \nCharge \non \nsecond \nsphere, \nDistance between the two spheres, \nDistance between mid-point and each sphere\n∴ Electric potential at mid-point due to both\ncharged sphere",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q049-sol0.png",
+    "w": 676,
+    "h": 410
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A wire of a certain material is stretched slowly\nby 10%. Its new resistance and specific\nresistance becomes respectively",
+  "stemImages": [
+   {
+    "src": "physics-2022/q050-stem0.png",
+    "w": 584,
+    "h": 131
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.2 times, 1 times",
+    "img": {
+     "src": "physics-2022/q050-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.21 times, 1.21 times",
+    "img": {
+     "src": "physics-2022/q050-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "both remains the same",
+    "img": {
+     "src": "physics-2022/q050-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1.1 times, 1.1 times",
+    "img": {
+     "src": "physics-2022/q050-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Let initial length of the wire be . After\nstretching new length of the wire r' is given as\n of \ni.e. length is increased by 1.1 times\nWe know that, when length of a wire is\nincreased by n times, then its new resistance is\nincreased \nby \ntimes \ni.e.\n Here, n=1.1]\n= 1.21R\nSpecific resistance (resistivity) of a wire does\nnot depends on its dimensions (length, width\netc.) because it is a characteristic property of a\nmaterial and depends only nature of material\nof wire. Hence, specific resistance remains\nsame.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q050-sol0.png",
+    "w": 695,
+    "h": 704
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 19,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "resistivity",
+   "specific resistance",
+   "resistance"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A \nproton \nmoves \nwith \na \nvelocity \nof\n through the uniform electric\nfield, \nand \nthe \nuniform \nmagnetic \nfield\n. The approximate\nnet force acting on the proton is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q051-stem0.png",
+    "w": 584,
+    "h": 290
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "25 × 10–13 N",
+    "img": {
+     "src": "physics-2022/q051-optA.png",
+     "w": 551,
+     "h": 51
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2.2 × 10–13 N",
+    "img": {
+     "src": "physics-2022/q051-optB.png",
+     "w": 550,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "14.4 × 10–13 N",
+    "img": {
+     "src": "physics-2022/q051-optC.png",
+     "w": 551,
+     "h": 50
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5 × 10–13 N",
+    "img": {
+     "src": "physics-2022/q051-optD.png",
+     "w": 548,
+     "h": 52
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, speed of proton, \nElectric \nfield, \nMagnetic field, \nCharge on proton, \nNet force acting on the proton is calculated\naccording to Lorentz's force as",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q051-sol0.png",
+    "w": 695,
+    "h": 352
+   }
+  ],
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge",
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A solenoid of length 50 cm having 100 turns\ncarries a current of 2.5 A . The magnetic field\nat one end of the solenoid is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q052-stem0.png",
+    "w": 584,
+    "h": 132
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q052-optA.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q052-optB.png",
+     "w": 550,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q052-optC.png",
+     "w": 551,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q052-optD.png",
+     "w": 548,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, length of solenoid, \nNumber of turns, N = 100\nCurrent, I = 2.5A\nNumber of turns per unit length in the\nsolenoid\n turns/m\nMagnetic field at the one end of solenoid,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q052-sol0.png",
+    "w": 676,
+    "h": 434
+   }
+  ],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 14,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "solenoid",
+   "magnetic field"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A \ngalvanometer \nof \nresistance \n50\n \nis\nconnected to a battery 3 V along with a\nresistance \n in series. A full scale\ndeflection of 30 divisions is obtained in the\ngalvanometer. \nIn \norder \nto \nreduce \nthis\ndeflection to 20 divisions, the resistance in\nseries should be",
+  "stemImages": [
+   {
+    "src": "physics-2022/q053-stem0.png",
+    "w": 578,
+    "h": 289
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q053-optA.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q053-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q053-optC.png",
+     "w": 199,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q053-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Resistance of galvanometer, \nEmf of battery, \nResistance connected in series, \nTotal \nresistance, \n∴ Current, \nIf the deflection has to be reduced to 20\ndivisions, \nthen \ncurrent, \nLet RE be the effective resistance of the circuit,\nhence\n3 = REI'\n∴ Resistance to be added = RE - Rg",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q053-sol0.png",
+    "w": 676,
+    "h": 751
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 18,
+  "chapterMargin": 18,
+  "chapterHits": [
+   "resistance in series",
+   "current",
+   "resistance",
+   "galvanometer",
+   "battery"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A circular coil of wire of radius r has n turns\nand carries a current I. The magnetic induction\nB at a point on the axis of the coil at a distance\n from its centre is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q054-stem0.png",
+    "w": 578,
+    "h": 223
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q054-optA.png",
+     "w": 303,
+     "h": 57
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q054-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q054-optC.png",
+     "w": 303,
+     "h": 72
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q054-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Magnetic field on the axis current carrying\ncircular coil,\nwhere, I = current in the coil,\nn = number of turns,\nr = radius of coil.\nand x = distance of the point of observation\nfrom centre of coil.\nHere, x =",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q054-sol0.png",
+    "w": 676,
+    "h": 443
+   }
+  ],
+  "chapter": "Current Electricity",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "If voltage across a bulb rated 220V, 100W\ndrops by 2.5% of its rated value, then the\npercentage of the rated value by which the\npower would decrease is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q055-stem0.png",
+    "w": 578,
+    "h": 171
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2.5%",
+    "img": {
+     "src": "physics-2022/q055-optA.png",
+     "w": 303,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5%",
+    "img": {
+     "src": "physics-2022/q055-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "10%",
+    "img": {
+     "src": "physics-2022/q055-optC.png",
+     "w": 303,
+     "h": 69
+    }
+   },
+   {
+    "letter": "D",
+    "text": "20%",
+    "img": {
+     "src": "physics-2022/q055-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given,\nP = 100 W\nV = 220 V\nWe know that, \nwhere, R is resistance of bulb.\nNow, according to question, voltage drops by\n2.5% of its rated value.\nNew voltage, V' = 220 - 2.5% of 220\n∴ \nNew \npower,\n% decrease in power",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q055-sol0.png",
+    "w": 695,
+    "h": 676
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A long solenoid has 500 turns, when a current\nof 2 A is passed through it, the resulting\nmagnetic flux linked with each turn of the\nsolenoid is 4 × 10–3 Wb, then self induction of\nthe solenoid is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q056-stem0.png",
+    "w": 578,
+    "h": 220
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2.5 H",
+    "img": {
+     "src": "physics-2022/q056-optA.png",
+     "w": 303,
+     "h": 47
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2.0 H",
+    "img": {
+     "src": "physics-2022/q056-optB.png",
+     "w": 267,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.0 H",
+    "img": {
+     "src": "physics-2022/q056-optC.png",
+     "w": 303,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4.0 H",
+    "img": {
+     "src": "physics-2022/q056-optD.png",
+     "w": 265,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, number of turns in the solenoid,\nN = 500\nCurrent, I = 2A\nMagnetic flux, \nSelf-inductance of coil,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q056-sol0.png",
+    "w": 695,
+    "h": 312
+   }
+  ],
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 12,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "solenoid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A fully charged capacitor C with initial charge\nq0 is connected to a coil of self inductance L at\nt = 0. The time at which the energy is stored\nequally between the electric and the magnetic\nfield is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q057-stem0.png",
+    "w": 584,
+    "h": 224
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q057-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q057-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q057-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q057-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "In LC-oscillation, maximum stored energy in\ninductor coil L is \n and maximum stored\nenergy in capacitor (C) is \n.\nSince, energy is equally divided in L and C.\nHence, total stored energy \n maximum\nstored energy in either L or C\nWe know that,",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q057-sol0.png",
+    "w": 695,
+    "h": 510
+   }
+  ],
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 7,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "self inductance",
+   "inductance",
+   "coil"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "A magnetic field of flux densiity 1.0 Wb m-2\nacts normal to a 80 turn coil of 0.01 m2 area. If\nthis coil is removed from the field in 0.2 s ,\nthen the emf induced in it is",
+  "stemImages": [
+   {
+    "src": "physics-2022/q058-stem0.png",
+    "w": 584,
+    "h": 188
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "8 V",
+    "img": {
+     "src": "physics-2022/q058-optA.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0.8 V",
+    "img": {
+     "src": "physics-2022/q058-optB.png",
+     "w": 274,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5 V",
+    "img": {
+     "src": "physics-2022/q058-optC.png",
+     "w": 219,
+     "h": 45
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4 V",
+    "img": {
+     "src": "physics-2022/q058-optD.png",
+     "w": 272,
+     "h": 45
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, magnetic flux density,\nNumber of turns, N = 80\nArea of coil, A=0.01m2\nAccording to Faraday's law of electromagnetic\ninduction, induced emf",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q058-sol0.png",
+    "w": 676,
+    "h": 442
+   }
+  ],
+  "chapter": "Electromagnetic Induction",
+  "chapterScore": 15,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "faraday's law",
+   "induced emf",
+   "induced",
+   "flux",
+   "coil"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "An \nalternating \ncurrent \nis \ngiven \nby\n. The rms current is\ngiven by",
+  "stemImages": [
+   {
+    "src": "physics-2022/q059-stem0.png",
+    "w": 584,
+    "h": 135
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q059-optA.png",
+     "w": 219,
+     "h": 60
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q059-optB.png",
+     "w": 274,
+     "h": 60
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q059-optC.png",
+     "w": 219,
+     "h": 63
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "physics-2022/q059-optD.png",
+     "w": 272,
+     "h": 63
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Equation of alternating current,\nLet \nand \n∴ rms value of i1,\nFrom Eqs. (i) and (ii), we get\nFrom Eqs. (iii) and (iv), we get",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q059-sol0.png",
+    "w": 676,
+    "h": 706
+   }
+  ],
+  "chapter": "Alternating Current",
+  "chapterScore": 6,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "rms value",
+   "alternating"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 60,
+  "subject": "Physics",
+  "year": 2022,
+  "source": "Physics-2022.pdf",
+  "stemText": "Which of the following statements proves that\nEarth has a magnetic field?",
+  "stemImages": [
+   {
+    "src": "physics-2022/q060-stem0.png",
+    "w": 584,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Earth is a planet rotating about the\nNorthSouth axis",
+    "img": {
+     "src": "physics-2022/q060-optA.png",
+     "w": 551,
+     "h": 84
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Earth is surrounded by ionosphere",
+    "img": {
+     "src": "physics-2022/q060-optB.png",
+     "w": 550,
+     "h": 45
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A large quantity of iron-ore is found in the\nEarth",
+    "img": {
+     "src": "physics-2022/q060-optC.png",
+     "w": 551,
+     "h": 85
+    }
+   },
+   {
+    "letter": "D",
+    "text": "The intensity of cosmic rays stream of\ncharged particles is more at the poles than\nat the equator",
+    "img": {
+     "src": "physics-2022/q060-optD.png",
+     "w": 548,
+     "h": 124
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "The intensity of cosmic rays stream of charged\nparticles is move at the poles than at the\nequator because the Earth's magnetism is\nstrongest at poles. Therefore, cosmic rays are\ndeflected away from the equator. In order to\nreach at equator, they need to pass greater\nkinetic energy which shows that the Earth has\na magnetic field.",
+  "solutionImages": [
+   {
+    "src": "physics-2022/q060-sol0.png",
+    "w": 676,
+    "h": 366
+   }
+  ],
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  @apply bg-paper text-ink-900 antialiased;
+  font-feature-settings: 'cv05' 1, 'ss01' 1;
+}
+
+/* Thin, unobtrusive scrollbars so dense panels stay calm. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #d3cdc2 transparent;
+}
+*::-webkit-scrollbar { width: 8px; height: 8px; }
+*::-webkit-scrollbar-thumb { background: #d3cdc2; border-radius: 99px; }
+*::-webkit-scrollbar-track { background: transparent; }
+
+::selection { background: #f7c7c2; color: #17171a; }
+
+@layer components {
+  /* --- surfaces ------------------------------------------------------- */
+  .card {
+    @apply rounded-card border border-line bg-white shadow-card;
+  }
+  .card-flat {
+    @apply rounded-card border border-line bg-white;
+  }
+
+  /* --- type ----------------------------------------------------------- */
+  /* Headings use the body face. On a study platform a second typeface reads as
+     decoration; weight, size and tight tracking separate them well enough. */
+  .display {
+    @apply font-semibold tracking-[-0.021em] text-navy-900;
+  }
+  .display-lg {
+    @apply display font-bold tracking-[-0.032em];
+  }
+  .label {
+    @apply font-mono text-[11px] font-medium uppercase tracking-label text-ink-400;
+  }
+  .field-label {
+    @apply mb-1.5 block text-sm font-medium text-ink-700;
+  }
+
+  /* --- controls ------------------------------------------------------- */
+  .btn {
+    @apply inline-flex select-none items-center justify-center gap-2 rounded-full px-5 py-2.5
+           text-sm font-semibold transition-all duration-150
+           disabled:cursor-not-allowed disabled:opacity-45;
+  }
+  .btn-primary {
+    @apply btn bg-coral-500 text-white shadow-lift hover:bg-coral-600 active:translate-y-px
+           focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2
+           focus-visible:outline-coral-500;
+  }
+  .btn-dark {
+    @apply btn bg-navy-900 text-white hover:bg-navy-800 active:translate-y-px;
+  }
+  .btn-secondary {
+    @apply btn border border-line bg-white text-ink-800 hover:border-ink-300 hover:bg-ink-50;
+  }
+  .btn-ghost {
+    @apply btn text-ink-600 hover:bg-ink-100 hover:text-ink-900;
+  }
+  .input {
+    @apply w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-[15px] text-ink-900
+           placeholder:text-ink-400 focus:border-navy-400 focus:outline-none
+           focus:ring-4 focus:ring-navy-900/5;
+  }
+
+  /* --- bits ----------------------------------------------------------- */
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-1
+           text-[11px] font-semibold ring-1 ring-inset;
+  }
+  .pill {
+    @apply inline-flex items-center gap-2 rounded-full border border-line bg-white
+           px-3.5 py-2 text-sm font-medium text-ink-700 transition-colors
+           hover:border-ink-300;
+  }
+  .pill-on {
+    @apply border-navy-900 bg-navy-900 text-white hover:border-navy-900;
+  }
+  /* hairline grid: cards that share edges, as on the reference sites */
+  .rule-grid {
+    @apply grid gap-px overflow-hidden rounded-card border border-line bg-line;
+  }
+  .rule-grid > * {
+    @apply bg-white;
+  }
+}
+
+/* Question crops come from the PDFs; cap them so a wide formula scales down on
+   a phone instead of forcing the page to scroll sideways. */
+.qimg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media print {
+  .no-print { display: none !important; }
+}

@@ -1,0 +1,1176 @@
+[
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "5. The inverse of the proposition (p ^ ~ q) → r is (1) (~r)-→(~p)vq (2) (~p)vq-→(~r) (3) r-→p>(~q) (4) (~p)v(~q)-→r The range of the function f(x) = sin [x], -4",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q005-stem0.png",
+    "w": 1902,
+    "h": 360
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "range of the function",
+   "function",
+   "f(x)",
+   "range"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "6. where [x] denotes the greatest integer 4 ≤x, is {0} (2) {0,-1} (1) (3) {0,± sin 1} (4) {0, - sin 1}",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q006-stem0.png",
+    "w": 1900,
+    "h": 409
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "If the line 6x - 7y + 8 + A(3x - y + 5) = 0 is parallel to y-axis, then 入 = 7. (2) -2 (1) -7 (4) · 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q007-stem0.png",
+    "w": 1900,
+    "h": 158
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "y-axis"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "10. : log (sin 1°) · log(sin 2) . log(sin 3%) ........ . log(sin 179%) (1) is positive is negative 2） (3) lies between 1 and 180 is zero (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q010-stem0.png",
+    "w": 1761,
+    "h": 421
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "11. Ifsin x- sin y = and cos x - cos y = 1, then tan(x + y) = 31 3 (1) (2) 8 8.",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q011-stem0.png",
+    "w": 1766,
+    "h": 291
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "sin",
+   "cos",
+   "tan"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "14. Let f(x) = 0 if x is rational then f is (1) continuous everywhere (2) discontinuous everywhere (3) continuous only at x = 0 continuous at all rational numbers （4）",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q014-stem0.png",
+    "w": 1899,
+    "h": 433
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "15. In a regular graph of 15 vertices the sum of the degree of the vertices is 60. Then the degree of each vertex is (1) 5 (2) 3",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q015-stem0.png",
+    "w": 1891,
+    "h": 229
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "degree"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "19. If A and B are square matrices of order *n' such that A2 - B2 = (A - B) (A + B), then which of the following will be true ? (1) Either of A or B is zero matrix. A=B (2) (3) AB =BA (4) Either of A or B is an identity matrix. α 2 and |A3| = 125, then α =",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q019-stem0.png",
+    "w": 1911,
+    "h": 617
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Matrices",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "identity matrix",
+   "matrix",
+   "matrices"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "20. IfA = 2 α (1) ±1 (2)±2 (3) ： ±3 (4) ±5",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q020-stem0.png",
+    "w": 1796,
+    "h": 390
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "23. If the matrix : A + B, where A is symmetric and B is skew symmetric, then S B= 2 4 0 -2 (1) (2) 4 -1 2 0 0 0 -1 3",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q023-stem0.png",
+    "w": 1908,
+    "h": 494
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 8,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "symmetric"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "24. In a group (G, *), for some element a' of G, if a2 = e, where e is the identity element, then a=al (1) (2) a=√e 1 (3) a= (4) a=e a2",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q024-stem0.png",
+    "w": 1783,
+    "h": 340
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "25. In the group (Z, *), if a * b' = a + b - n V a, b e Z, where n is a fixed integer, then the inverse of (-n) is (1) n (2) u (3) -3n (4) 3n",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q025-stem0.png",
+    "w": 1788,
+    "h": 329
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "27. If a ± b and (a + b) ⊥(a + mb), then m = (1) -1 (2) 可-",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q027-stem0.png",
+    "w": 1788,
+    "h": 217
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "28. If,b, are unit vectors such that + b + = , then a . b + . + . = 3-2 _3 (2) . -2 (1) 2-3 1-2 (4) (3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q028-stem0.png",
+    "w": 1805,
+    "h": 452
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Vector Algebra",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "unit vectors"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "29. If a is vector perpendicular to both b and 7, then .(b×)=0 x(bx)= (1) (2) x(b+)= =++ (3) (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q029-stem0.png",
+    "w": 1795,
+    "h": 362
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Vector Algebra",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "vector"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "33. The length of the chord of the circle x2 + y2 + 3x + 2y - 8 = 0 intercepted by the y-axis is (1)3 (2) 8 (3) 9 (4) 6",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q033-stem0.png",
+    "w": 1823,
+    "h": 286
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "y-axis"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "34. A = (cos 0, sin 0), B = (sin 0, - cos 0) are two points. The locus of the centroid of △OAB, where ‘O' is the origin is (1) x2 + y2= 3 9x2 + 9y2 = 2 (2) 2x2 + 2y2 = 9 (3) (4)3x2 + 3y2 = 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q034-stem0.png",
+    "w": 1948,
+    "h": 388
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "38. If the area of the auxillary circle of the ellipse ellipse, then the eccentricity of the ellipse is. 1 (2) (1) 2 V3 (4) 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q038-stem0.png",
+    "w": 1984,
+    "h": 599
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 17,
+  "chapterMargin": 17,
+  "chapterHits": [
+   "eccentricity",
+   "ellipse",
+   "circle"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "are (1) √2 and (2) 1 and 4 (3) 1 and 0 匹 (4) 1 and",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q042-stem0.png",
+    "w": 1750,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "43. If 2x = -1 + √3i, then the value of (1 - x² + x)6 -(1 - x + x²)6 = (1)32 (2) 64 (3) -64",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q043-stem0.png",
+    "w": 1763,
+    "h": 210
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "46. Let f(x) = cos (2) (1) 0.5 (4) -1 (3) 0 uy “8 = (e)8 pue z[(x),J] + z[(x)1] = (x)8 pue 0 = (x) + (x)uJ ey yons uonouny e s! (x) J1",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q046-stem0.png",
+    "w": 2014,
+    "h": 492
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "f(x)"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "50. If sin-1 a is the acute angle between the curves x2 + y2 = 4x and x2 + y2 = 8 at (2, 2), then a = (1) 1 2 0 3） (4) 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q050-stem0.png",
+    "w": 1960,
+    "h": 500
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "51. The maximum area of a rectangle that can be inscribed in a circle of radius 2 units is (1) 8π sq. units 4 sq. units (2) (3) 5 sq. units (4) . 8 sq. units",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q051-stem0.png",
+    "w": 1855,
+    "h": 467
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "54. (x + 1)3 dx er (x + 1) (1) x+1 x·er (4) (x + 1) x · sin x dx and",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q054-stem0.png",
+    "w": 1987,
+    "h": 621
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2013,
+  "source": "kcet-2013-mathematics-question-paper.pdf",
+  "stemText": "57 cosx + sinx dx= π-4 (1) -2 (2) π8 (3) 4） π",
+  "stemImages": [
+   {
+    "src": "mathematics-2013-kea/q057-stem0.png",
+    "w": 1823,
+    "h": 573
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ }
+]

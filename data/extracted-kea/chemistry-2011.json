@@ -1,0 +1,414 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "1. 1） Duringroasting,moisture is removed from the ore. 2) The ore is freed from almost all nonmetallicimpurities. 3) Calcination ofore.is carried outin the absence of anyblast of air. The concentratedzincblendeis subjected to calcinationduring its extraction 4 by pyrometallurgy.",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q001-stem0.png",
+    "w": 1813,
+    "h": 543
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "calcination",
+   "ore"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "Whichoneofthefollowingsetsofquantumnumbersrepresentsthehighestenergylevel 2. in an atom? 2)n=3,l=1,m=1,s=+12 1) n=4,l=0,m=0,s=+y 4)n=3,1=0,m=0,s=+12 3) n=3,l=2,m=-2,s=+12",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q002-stem0.png",
+    "w": 1938,
+    "h": 426
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "3. When O,is converted into O; 1)both paramagnetic characterand bond order increase 2) bondorderdecreases 3) paramagnetic character increases 4) paramagnetic character decreases and the bond order increases",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q003-stem0.png",
+    "w": 1933,
+    "h": 480
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "bond order"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "4. Inchromiteore,theoxidationnumberofironandchromium arerespectively 1）+3,+2 2)+3,+6 3) +2,+6 4) +2,+3 The number of naturally occurring p-block elements that are diamagnetic is",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q004-stem0.png",
+    "w": 1944,
+    "h": 278
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "6. theratio of 1)9:4 2) 2:3 3) 1:2 4) 3:2",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q006-stem0.png",
+    "w": 1926,
+    "h": 346
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "7. WhichoneoftheseisNOTTRUEforbenzene? 1)There are three carbon-carbon single bonds and three carbon-carbon double bonds. 2) Itformsonlyonetypeofmonosubstitutedproduct. Thebond anglebetween carbon-carbonbondsis 120o. 3) 4) Heatofhydrogenation ofbenzene isless than the theoreticalvalue.",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q007-stem0.png",
+    "w": 1926,
+    "h": 478
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "carbon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "8. Generally,the first ionization energy increases alongaperiod.But there are some exceptions.The one which isNOTan exception is 1)Na and Mg 2)Beand B 3)NandO 4)Mgand Al Outof the given twocompounds,the vapour",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q008-stem0.png",
+    "w": 1935,
+    "h": 377
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "9. pressureof B ataparticular temperature OH OH IS NO 1)lowerthan thatofA 2) higher than that ofA NO2 3) same asthatofA (A) (B) 4) higher orlower than Adepending on thesizeofthevessel",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q009-stem0.png",
+    "w": 1936,
+    "h": 587
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2011,
+  "source": "kcet-2011-chemistry-question-paper.pdf",
+  "stemText": "10.Increasingorderofcarbon-carbonbondlengthfor the followingis CH6 CH4 C,H2 CH6 (A) (B) (C) (D) 1)B<C<A<D 2)C<B<A<D B<A<C<D 4) D<C<A<B 3) (Space forRough Work) SR-49",
+  "stemImages": [
+   {
+    "src": "chemistry-2011-kea/q010-stem0.png",
+    "w": 1824,
+    "h": 1012
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

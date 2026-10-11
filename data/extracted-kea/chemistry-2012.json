@@ -1,0 +1,2332 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "L. 114gofoctanetolower itsvapourpressureby20%is· (1) 10 g (2) 11.4 g (3) 9.8 g (4) 12.8 g",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q001-stem0.png",
+    "w": 1863,
+    "h": 451
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "2.During the adsorption of a gas on the surface of a solid,which of the following is TRUE ? △G<O,△H>O,△S<O (1) (2) △G>O,△H<O,△S<O (3) G<O,H<O,S<O （4） G<O,H<O,S>O",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q002-stem0.png",
+    "w": 1764,
+    "h": 578
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "adsorption",
+   "surface"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "5. A(aq) + 2B(s); Ecell = 0.0295 V is 2.303RT =0.059 F 2×102 (1) 10 (2) (3) 3 ×.102 (4) 2×105 An oxygen containing organic compound was found to contain 52% carbon and 13% of",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q005-stem0.png",
+    "w": 1870,
+    "h": 610
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "carbon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "6. hydrogen.Its vapour density is 23. The compound reacts with sodium metal to liberate hydrogen.A functional isomer of this compound is (1) Ethanol (2) Ethanal (3) MethoxyMethane (4) MethoxyEthane",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q006-stem0.png",
+    "w": 1872,
+    "h": 451
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "functional isomer",
+   "isomer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "7. Which oneofthefollowingisNOTtrueregardingelectromericeffect? (1) It results in the appearance of partial charges on the carbon atoms. (2) It is a temporary effect. It operates on multiple bonds. (3) (4) It requires an attacking reagent.",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q007-stem0.png",
+    "w": 1875,
+    "h": 513
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "carbon"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "8. WhichoneofthefollowingisNOTformedwhenamixtureofmethylbromideand bromobenzene is heatedwithsodiummetal in thepresence of dryEther? (1) Ethane (2) Diphenyl (3) Propane (4) Toluene",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q008-stem0.png",
+    "w": 1874,
+    "h": 357
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "toluene"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "Power alcoholis amixtureof 9. (1) 80%Petrol + 20% Benzene + Small quantity of Ethanol (2) 80%Petrol +20%Ethanol+Small quantity of Benzene (3) 80%Ethanol + 20% Benzene + Small quantity of Petrol (4) 50%Petrol+50%Ethanol+SmallquantityofBenzene",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q009-stem0.png",
+    "w": 1870,
+    "h": 527
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 12,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "benzene"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "10.Identify'C' in the following : dil H,SO4 Anhyd AICl + CH-CH-CH >A B >Phenol+C -HCI 100°℃ 130°℃ Cl (1) Water (2) Ethanol (3) Propanone (4) Cumene hydroperoxide",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q010-stem0.png",
+    "w": 1763,
+    "h": 595
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "phenol",
+   "ethanol",
+   "cumene"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "11.20 ml of methane is completely burnt using 50 ml of oxygen. The volume of the gas left after cooling to room temperature is (1) 80 ml (2) 40 ml (3) 60 ml (4) 30 ml",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q011-stem0.png",
+    "w": 1864,
+    "h": 410
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxygen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "12.100ml of 0.1M acetic acid is completely neutralized using a standardsolution of NaOH. The volume of Ethane obtained at STP after the complete electrolysis of the resulting solution is (1) 112 ml (2) 56 ml (3) 224 ml (4) 560 ml",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q012-stem0.png",
+    "w": 1867,
+    "h": 395
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "13.Saccharin,an artificial sweetner,is manufactured from Cellulose (2) Toluene (1) Starch (3) Cyclohexane (4) 14.Which of the following is NOT TRUE for S1 reaction ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q013-stem0.png",
+    "w": 1770,
+    "h": 413
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "starch",
+   "cellulose"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "(1) Favouredbypolar solvents. (2) 3° - alkyl halides generally react through Sv1 reaction. 81 (3) The rate of the reaction does not depend upon the molar concentration of the nucleophile. 1° -- alkyl halides generally react through S1 reaction.",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q014-stem0.png",
+    "w": 1767,
+    "h": 505
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "nucleophile"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "17. For a reaction : A + B → Products, the rate of the reaction at various concentrations are givenbelow: Expt No [A] [B] rate (mol dm-3 s-1) 1 0.2 0.2 2 2 0.2 0.4 4 3 0.6 0.4 36 Theratelawfortheabovereactionis r=K[A]²[B] r=K[A] [B]2 (1) (2) (3) r=K[A][B] (4) r=K[A]²[B]2",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q017-stem0.png",
+    "w": 1864,
+    "h": 883
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "21.Impossibleorbitalamongthefollowingis (1) 2s (2) 3f (3) 2p (4) 4d",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q021-stem0.png",
+    "w": 1757,
+    "h": 297
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "22. The total number of electrons in 18 ml of water (density = 1 g ml-1) is 6.02 x 1023 6.02 × 1025 (1) (2) 6.02 x 1024 (3) (4) 6.02 × 18 × 1023",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q022-stem0.png",
+    "w": 1759,
+    "h": 324
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "23.The number of moles of hydrogen that can be added to 1 mole of an oil is the highest in (1) Linseed oil (2) Groundnut oil (3) Sunflower seed oil (4) Mustard oil",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q023-stem0.png",
+    "w": 1757,
+    "h": 302
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "mole"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "24.Thereactionbetween sodium andwater can be madeless vigorous by (2) (1) lowering the temperature adding a little alcohol (3) amalgamating sodium (4) adding a little acetic acid",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q024-stem0.png",
+    "w": 1759,
+    "h": 300
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "25.All colloidal dispersionshave (1) very high osmotic pressure (2) low osmotic pressure (3) no osmotic pressure (4) high osmotic pressure",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q025-stem0.png",
+    "w": 1760,
+    "h": 299
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "osmotic pressure"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "26.Silver iodide is used for producing artificial rain because AgI (1) iseasytosprayathighaltitude (2) is easy to synthesize (3) hascrystalstructuresimilartoice (4) isinsolubleinwater",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q026-stem0.png",
+    "w": 1764,
+    "h": 413
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "iodide"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "27. The equilibrium constant of a reaction is 0.008 at 298 K. The standard free energy change ofthereaction atthesametemperatureis (1) +11.96kJ (2) -11.96 kJ (3) -5.43kJ (4) 8.46 kJ",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q027-stem0.png",
+    "w": 1868,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "equilibrium constant",
+   "equilibrium"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "28.Thefunction of potassium ethyl xanthateinfrothfloatation process is to make the ore (1) attractedtowardswater (2) water repellant (3) lighter (4) heavier",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q028-stem0.png",
+    "w": 1768,
+    "h": 358
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "potassium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "29.The correct order ofelectronegativities of N,O,F & P is (1) F>N>P>O (2) F>O>P>N (3) F>O>N>P N>O>F>P (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q029-stem0.png",
+    "w": 1770,
+    "h": 356
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "30.The s-block element used as a catalyst in the manufacture of Buna-S rubber is (1) Mg (2) Ca (3) Ba (4) Na",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q030-stem0.png",
+    "w": 1771,
+    "h": 358
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "buna",
+   "rubber"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "31.Which of the following is NOT a characteristic of a covalent compound ? (1) Low melting point (2) No definite geometry (3) Insoluble in polar solvent (4) Small differencein electronegativitybetweenthecombining atoms.",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q031-stem0.png",
+    "w": 1773,
+    "h": 450
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "covalent",
+   "polar",
+   "geometry"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "32.Thevolume of 0.1M oxalic acid that canbe completelyoxidized by 20ml of 0.025M KMnO4 solution is 25 ml (1) 125ml (2) (3) 12.5ml (4) 37.5ml",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q032-stem0.png",
+    "w": 1869,
+    "h": 433
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "33. A ligand is (1) Lewis acid Bronsted acid (2) (3) either aLewisacid ora Lewisbase (4) Lewis base",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q033-stem0.png",
+    "w": 1773,
+    "h": 554
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 11,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "bronsted",
+   "lewis acid",
+   "acid",
+   "base"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "34.The vapour pressures of two liquids A and B in their pure states are in the ratio of 1 : 2. A binarysolution ofAand BcontainsAand Binthemoleproportion of 1:2.Themole fraction ofA in thevapourphase of the solutionwill be (1) 0.33 (2) 0.2 (3) 0.25 (4) 0.52",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q034-stem0.png",
+    "w": 1871,
+    "h": 484
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "35.Which ofthefollowingstatements isTRUE? (1) The total entropy of the universe remains constant. (2) The total entropy of the universe is continuously decreasing. (3) The total energy of the universe is continuously decreasing. (4) Thetotalenergyoftheuniverseremainsconstant.",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q035-stem0.png",
+    "w": 1776,
+    "h": 467
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "entropy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "36.5 ml of 0.4 N NaOH is mixed with 20 ml of 0.1 N HCl. The pH of the resulting solution will be (1) 6 (2) 7 (3) 8 (4) 5",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q036-stem0.png",
+    "w": 1865,
+    "h": 421
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "ph"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "37. On adding which of the following, the pH of 20 ml of 0.1 N HCl will not alter ? (1) 1mlof1NHCl (2) 20 ml of distilledwater 1 ml of 0.1 N NaOH (4) 500 ml of HCl ofpH =1 (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q037-stem0.png",
+    "w": 1762,
+    "h": 375
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ph"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "38.Which oneofthefollowinghasapotential more thanzero? Pt, H2 (1 atm) | HCl (1 M) (1) Pt, H (1 atm) / HCI(2 M) (2) (3) Pt, H2 (1 atm) / HCl (0.1 M) (4) Pt, 2 H2 (1 atm) / HCI (0.5 M)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q038-stem0.png",
+    "w": 1765,
+    "h": 783
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "39.HCHO was treated with a reagent X.The product formed upon hydrolysis in the presence of an acid gave CHOH. The reagent X is (1) aqueous KOH (2) alcoholic KOH alcoholicKCN CH, MgI (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q039-stem0.png",
+    "w": 1865,
+    "h": 356
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "40.Benzylamineisastrongerbasethan anilinebecause (1) The lone pair of electrons on the nitrogen atom inbenzylamine is delocalised. (2) The lone pair of electrons on the nitrogen atom in aniline is delocalised. (3) Thelonepair of electrons on thenitrogen atom in aniline is not involved in resonance. (4) Benzylamine has a highermolecularmass than aniline.",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q040-stem0.png",
+    "w": 1773,
+    "h": 539
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Amines",
+  "chapterScore": 12,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "aniline"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "41.The relative acidic strengths of benzoic acid, o-toluic acid and p-toluic acid is of the decreasing order: (1) p-toluic acid > o-toluic acid >benzoic acid (2) o-toluic acid > p-toluic acid > benzoic acid (3) p-toluic acid > benzoic acid > o-toluic acid (4) o-toluic acid > benzoic acid > p-toluic acid",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q041-stem0.png",
+    "w": 1867,
+    "h": 538
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "42.The C-H bond and C-C bond in ethane are formed by which of the following types of overlap ? (1) sp3 - s and sp3 - sp3 (2) sp2 - s and sp2 -- sp2 (3) sp - s and sp - sp (4) p-s and p-p",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q042-stem0.png",
+    "w": 1874,
+    "h": 384
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 24,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "sp3",
+   "sp2"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "43.TheIUPACnameof HO 1S (1) 4-Hydroxy-2-pentanone (2) 2-Hydroxy-4-pentanone (3) 2-Oxo-4-pentanol (4) 4-Keto-2-pentanol",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q043-stem0.png",
+    "w": 1773,
+    "h": 477
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "44.A first orderreaction is 60% complete in20 minutes.Howlongwill the reaction take to be 84% complete ? 6O (1)54 mins 68mins (2) (3) 40 mins (4) 76 mins",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q044-stem0.png",
+    "w": 1869,
+    "h": 402
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "45.A given sample of milk turns sour at room temperature (27 °C) in 5 hours. In a refrigerator at -3 °C, it can be stored 10 times longer. The energy of activation for the souring of milk is (1) 2.303 x 10 R kJ · mol-1 (2) 2.303 × 5 R kJ · mol-1 2.303× 3 RkJ·mol-1 2.303× 2.7 R kJ· mol-1 (3) 01360100 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q045-stem0.png",
+    "w": 1870,
+    "h": 408
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "48.Which of the following is a negatively charged bidentate ligand ? 0 (1) Dimethyl glyoximato (2) Cyano (3) Ethylene diamine (4) Acetato",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q048-stem0.png",
+    "w": 1752,
+    "h": 385
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ligand"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "49.Thesecondaryvalencyofplatinumin tetraamminedichloroplatinum(IV)chlorideis (1) +4 (2) +2 (3) 3 (4) 6",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q049-stem0.png",
+    "w": 1752,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "50.Whichoneofthefollowinghas amagneticmoment of1.75BM? (1) Ti3+ (2)olV3+1tgx ai sbau bas Cr3+ Fe3+d0C (3) （4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q050-stem0.png",
+    "w": 1755,
+    "h": 382
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "51.The correct order of ionisation energy of C, N, O & F is (1) F<N<C<O (2) C<N<O<F (3) C<O<N<F F<O<N<C (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q051-stem0.png",
+    "w": 1752,
+    "h": 383
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "53.Theore that isconcentrated by theFrothFloatationprocessis Chalcopyrites (1) (2) Cryolite (3) Cuprite (4) Calamine",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q053-stem0.png",
+    "w": 1768,
+    "h": 380
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "54. The equivalent mass of a certain bivalent metal is 20. The molecular mass of its anhydrous chloride is (1) 91 (2) 111 (3) 55.5 (4) 75.5",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q054-stem0.png",
+    "w": 1869,
+    "h": 444
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "chloride"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "heated to 596 K when 20% by mass of N2O4(g) decomposes to NO2. The resulting pressure is 2.4 atm (1) (2) 1.2 atm (3) 4.8 atm 2.8 atm (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q055-stem0.png",
+    "w": 1882,
+    "h": 539
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "56.SucroseisNOT areducingsugar since it is chemically stable (1) (2) it contains no free aldehyde or keto group adjacent to a CHOH group (3) itisbuiltupofafructoseunit (4) it is optically active",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q056-stem0.png",
+    "w": 1783,
+    "h": 574
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "group"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "NaOH (2) NaCl (1) (3) NaCN (4) NaNC",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q057-stem0.png",
+    "w": 1773,
+    "h": 459
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "58.Dialysiscanbeusedtoseparate glucose& fructose protein & starch (1) (2) (3) glucose & protein (4) glucose &NaCl",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q058-stem0.png",
+    "w": 1766,
+    "h": 447
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 22,
+  "chapterMargin": 22,
+  "chapterHits": [
+   "glucose",
+   "fructose",
+   "starch",
+   "protein"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "59. The percentage of p-character of the hybrid orbitals in graphite and diamond are respectively : 33 and 25 50 and 75 (1) (2) (3) 67 and 75 (4) 33 and 75",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q059-stem0.png",
+    "w": 1871,
+    "h": 538
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 60,
+  "subject": "Chemistry",
+  "year": 2012,
+  "source": "kcet-2012-chemistry-question-paper.pdf",
+  "stemText": "60. A gas expands from a volume of 1 m3 to a volume of 2 m? against an external pressure of 105 Nm-2. The work done by the gas will be 105 kJ (2) 10²kJ (1) (3) 102J (4) 103 J",
+  "stemImages": [
+   {
+    "src": "chemistry-2012-kea/q060-stem0.png",
+    "w": 1873,
+    "h": 473
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ }
+]

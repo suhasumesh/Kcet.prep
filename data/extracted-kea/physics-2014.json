@@ -1,0 +1,1761 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "A physical quantity Q is found to depend on observables x, y and z, obeying relation x3y2 . The percentage error in the measurements of x, y and z are 1%, 2% and 4% M. Z respectively. What is percentage error in the quantity Q ? lAMEKTVG ENITMUMIXAM VOITA JATOT 2XSAMMUMXAM (1) 4 % (2) 3 % aTTUNIM03 00 (3) 11 % (4) 1 % ONEALIONBOOKTELDELVITA WEMLIONKONK AEK2IOMCODE Which of the following is not a vector quantity ?",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q001-stem0.png",
+    "w": 1917,
+    "h": 613
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Units and Measurements",
+  "chapterScore": 10,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "percentage error",
+   "error"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "2. (1)Weight (2)Nuclear spin :O0 ensAMOsd co eoloio svitosqesrsrtaibebede borb （3）Momentumaolig (4)Potential energysbloo8 nobesu eidT JoawanMOs no btudbloodasboodnoiasup id toodmnM IsnsT aiivigassdbaejdeowaneoinobn#dbluodajofloodnoianpaidtosbonoiasVsdT yletolgrrro bebsdasdoelebluode",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q002-stem0.png",
+    "w": 1763,
+    "h": 409
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nuclear"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 3,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "3. A car moves from A to B with a speed of 30 kmph and from B to A with a speed of 20 kmph. What is the average speed of the car ? THWAMO TO SAMCMA DNIMIT SRT 24kmTAITUMAMA (1) 25 kmph (2) aOo taagni a #od 50 kmph (3) oitaoup ai to sbia bnsd rig (4)10 kmph Jblood oieoupgidobiani dool ton ou Jsde1wznsModtno0",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q003-stem0.png",
+    "w": 1871,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "speed"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 4,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "A body starts from rest and moves with constant acceleration for t s. It travels a distance x, in first half of time and x, in next half of time, then (aiorohogom1mibuo bns joloodnoup ilo sbibe igs go leeq#g svomsmsOof t# gmuei llab A gdbeosl （1）x=x2migqg m.b( （2）qx=2xn29bloa weneMOo o ganweae ha bnemotinesbesJeblood Jaot sislqmoo (3) x2=3x nimOnupeduesdtgtd (4) x2 =4x oeo nobup rios b",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q004-stem0.png",
+    "w": 1873,
+    "h": 423
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "acceleration",
+   "rest"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 5,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "5. 5 m. The coefficient of static friction between tyres and road is 0.1. Will the person slip while taking the turn with the same speed ? Take g = 10 ms-2. 08() Choose the correct statement. (3) A person will slip if v2 < 5 ms-1 (4) A person will not slip if v2 >10 ms-1 （5）00 J000C A stone is thrown vertically at a speed of 30 ms-1 making an angle of 45° with the",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q005-stem0.png",
+    "w": 1887,
+    "h": 562
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "static friction",
+   "friction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 10,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "lixem9dT.basoloibnsmoOL (1) 30 m (2) 22.5m aidoldor (3) 15 m (4) 10m am001(s) S-am1.0 (A） emo0S A force F = 5i + 2j - 5k acts on a particle whose position vector is =-2j +k. What is 7. the torque about the origin ? bsilgqsa g0lx011o22m62d aslmItosiwilletmAsl 8i+ 10j+ 12k vsw(2）8i+10j-12k (1) indwwo (4)10-10j-001(1) 8-10j-8k mo1（S) (3) m1.0（） m00s（e) 8. What is a period of revolution of earth satellite ? Ignore the height of satellite above the surface of earth. m Ol 3obosqeiw mobelgsebiswoi gfidosoqq aiaisnAcl Given: (1) The value of gravitational acceleration g =10ms.sH 0# nsupon 10 (2) Radius of earth Re = 6400km.Take π= 3.14. bsoqenoviOmotislq t (S) sHOEE(1) (1) 85 minutes (2) 156 minutes （3）30H H000 (A) (3) 83.73minutes (4) 90 minutes",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q010-stem0.png",
+    "w": 1895,
+    "h": 1175
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "torque"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "15.A flow of liquid is streamline if the Reynold number is (1) less than 1000 (2) greater than 1000 between2000 to3000id1osqy(4)ibetween4000 to5000srvsloyA0 (3) stsdsibA lemsdol(M) (S)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q015-stem0.png",
+    "w": 1779,
+    "h": 359
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "liquid",
+   "streamline"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "16.A pipe of 30 cm long and open at both the ends produces harmonics. Which harmonic mode of pipe resonates a 1.1 kHz source ? Given speed of sound in air = 330 ms-1. (1) Fifth harmonic (2) Fourth harmonic (4)Second harmonic oslg ei joidonAs orim svsnosdtodignel leooiaisdwsgemi leo",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q016-stem0.png",
+    "w": 1906,
+    "h": 427
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "harmonics",
+   "speed of sound",
+   "sound"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "17. In anomalous expansion of water, at what temperature, the density of water is maximum ? (1) 4℃ (2) <4℃ moc.r(A） m01(8) >4°℃ 10℃ (3) (4)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q017-stem0.png",
+    "w": 1779,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "18. 45°. What is the radius of the loop ? Take g = 10 ms-2. C1.0(1 4km (1) (2) 4.5km aOS() (3）12D (3) 7.2km (4) 2km",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q018-stem0.png",
+    "w": 1782,
+    "h": 338
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 19,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "with angular velocity of 3 rad s1. Kinetic energy of this rotating body is same as that of a body of mass 27 kg moving with velocity v. The value of v is b1πO（） SabaS 1 ms-1 ebeOA（A） 0.5 ms-1 (3) (1) (2) 2 ms-1 1.5 ms-1 (3) (4) aisdmun blouysdtisnilmsna eibiupil to wof Aal 0001（） ）1000",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q019-stem0.png",
+    "w": 1902,
+    "h": 613
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 20,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "20.A cycle tyre bursts suddenly. What is the type of this process ?oos neewisd () (1) Isothermal (2)Adiabatic inomiddidwainoisdaoouboqbnsiodoqobnegnolm0oqiqA",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q020-stem0.png",
+    "w": 1788,
+    "h": 187
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "isothermal",
+   "adiabatic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 25,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "25. Diameter of the objective of a telescope is 200 cm.What is the resolving power of a telescope ? Take wavelength of light = 5000 A. 6.56 x 106 (1) (2) 3.28 × 105 Vo mi beaesiqxe jido biidt mi gnivlovsnout",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q025-stem0.png",
+    "w": 1778,
+    "h": 230
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "resolving power"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "27. What is the de Broglie wavelength of the electron accelerated through a potential et difference of100Voltnsib essl s bmmoi igsmi bnmo08aidguslH imedoydbeoubonq noisoningen sr 12.27 A (1) (2)1.227 A (）120 (1) 0.1227 A (4) 0.001227 A (3) 25(e) (）152",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q027-stem0.png",
+    "w": 1769,
+    "h": 471
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "de broglie"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "28.The maximum kinetic energy of the photoelectrons depends only on sineo mon ogmin tisb (3)incident angle (4) pressure m01x1（1) m01x11()",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q028-stem0.png",
+    "w": 1767,
+    "h": 342
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "29. Which of the following spectral series of hydrogen atom is lying in visible range of electromagnetic wave? (1) Paschen series (2)Pfund series 10 13w0g (3)Lyman series （5）358×102 020×10 (1)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q029-stem0.png",
+    "w": 1879,
+    "h": 414
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Atoms",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "lyman",
+   "paschen",
+   "hydrogen atom"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "30. What is the energy of the electron revolving in third orbit expressed in eV ? （）358x10g (3)1×J0 (2)3.4eV (1) 1.51eV (3) 4.53eV (4)4eV 31Therelation between half life T）and decay constant ()issr diw oo sigas s tesinslog baoose moni irigil bssisloq",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q030-stem0.png",
+    "w": 1764,
+    "h": 459
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "half life",
+   "decay constant"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "32.d A force between two protons is same as the force between proton and neutron.The nature of the force is aiulosulevsdT aobslubom sbuilqmie (1) Weak nuclear force (2) Strong nuclear force (S) (1) (3) Electrical forceolx （4) Gravitational forcen",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q032-stem0.png",
+    "w": 1784,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nuclear"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "33.In n type semiconductor, electrons are majority charge carriers but it does not show any negative charge. The reason is (1) electrons are stationary sym wo ndnI ai ybodnosg#dsi (2) electronsneutralize with holes （1rex101 (3) mobility of electrons is extremely small (3）e52x105 (4) atom is electrically neutral",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q033-stem0.png",
+    "w": 1903,
+    "h": 516
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "34. For the given digital circuit, write the truth table and identify the logic gate it represents : 8e dWasabmsasdtdguod blihil A· 2.0= ai aa#m1o os -Y 2.0= (1) OR-Gate (2)NOR-Gate (3) NAND-Gate (4) AND-Gate",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q034-stem0.png",
+    "w": 1782,
+    "h": 736
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 16,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "logic gate",
+   "nand",
+   "nor",
+   "truth table"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 35,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "35.If a-current gain of a transistor is O.98. What is the value of β-current gain of the transistor ? (1) 0.49 (2) 49 (3) 4.9 (4) 5 otoV（4) sisngeM(E)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q035-stem0.png",
+    "w": 1786,
+    "h": 310
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "transistor"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "36.A tuned amplifier circuit is used to generate a carrier frequency of 2 MHz for the amplitudemodulation.Thevalue of√LCis ai 10110 osio gnon t unW(1) (1) (2) 2×106（) 1 1 (4) (3) 3πx10gsm yas woneJo 4π×106",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q036-stem0.png",
+    "w": 1901,
+    "h": 554
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "frequency"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "37. . If a charge on the body is 1 nC, then how many electrons are present on the body ? 1.6 x 1019 62 (1) 6.25× 109 (2) Heme ylom (E) 6.25 × 1027 (4)6.25 x 1028 (3) osle ei mots (A)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q037-stem0.png",
+    "w": 1782,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "38. Two equal and opposite charges of masses m and m, are accelerated in an uniform electric field through the same distance.What is the ratio of their accelerations if their m1 =0.5？ ratio of masses is m2 a (1) =0.5 (2) a2 O-O a",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q038-stem0.png",
+    "w": 1896,
+    "h": 541
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 40,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "40.ll What is the electric potential at a distance of9 cm from 3nCnstaiao nolsviup5 T# (1) 270V 300V (4) 30 V (3) 0108(S)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q040-stem0.png",
+    "w": 1783,
+    "h": 302
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "41.A voltmeter reads 4 V when connected to a parallel plate capacitor with air as a dielectric. When a dielectric slab is introduced between plates for the same configuration,voltmeter reads 2V.Whatis the dielectric constantof thematerial? (2）2to nsmneqx1imoinjoq 8n 1.m08 (1) 0.5 IgnionslsdaovigVcs.Itmslo m0psdot bnuot i dtgnl gm dons ydbslg ei lls ed (3) 8 (4) 10 lleobnoeto",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q041-stem0.png",
+    "w": 1899,
+    "h": 428
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "parallel plate capacitor",
+   "capacitor",
+   "dielectric"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "42.A spherical conductor of radius 2 cm is uniformly charged with 3 nC. What is the electric field at a distance of3 cm from the centre of the sphere ? VTA.I=(E) (1) 3× 106 V m-1 (2) 3 Vm-1 (3)3×104 V m-1 (4) 3 × 10-4 V m-1 todidw xslomeqbogisdAA jsmioo aitnemafetegmiwollot sdi",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q042-stem0.png",
+    "w": 1899,
+    "h": 373
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "electric field"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "43.A carbon film resistor has colour code Green Black Violet Gold. The value of the resistor is (1) 50MQ (2) 500MQ ellssg ai blsi itonge lbing dT (S) (3) 500±5%MQ (4) 500±10%MQ sgisg aiblonoisngsm bn noise ai loisgdT (E)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q043-stem0.png",
+    "w": 1784,
+    "h": 313
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "resistor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "44.Two resistors of resistances 2 Q and 6 Q are connected in parallel. This combination is then connected to a battery of emf 2V and internal resistance 0.5 Q.What is the current flowing through the battery ? loqmololfeisg bnsislnibneqisq dtod esdyiioolsvsll loineq bogedo sy disqsdi ei jsdwblei sisngem (1) 4A Iqil() (Dcnm #A (3) (4) 1A IsiloH(+)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q044-stem0.png",
+    "w": 1901,
+    "h": 527
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "internal resistance",
+   "current",
+   "resistance",
+   "battery"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "45.The equivalent resistance of two resistors connected in series is 6 Q and their parallel 4 VOrS(I) V008() (）30A (1) 4Q,6Q (2) 8 Q,1 Q 3）s4Q,2Qfiqslq lg （4）6Q,2QVb oA Ienetamsdto tnstanoorosloibodtai sdWV2be",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q045-stem0.png",
+    "w": 1788,
+    "h": 497
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "resistance"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "47.A charged particle experiences magnetic force in the presence of magnetic field. Which of the following statementis correct? T.bloD:eloiy: ai notai2 The particle is moving and magnetic field is perpendicular to the velocity. (1) M.0() (2) The particle is moving and magnetic field is parallel to velocity. M001±00元 (E) (3) The particle is stationary and magnetic field is perpendicular. ai oisn (4)The particle is stationary and magnetic field is parallel. 2e11o210jai2s1 owTAA nu sd aisdwQcosonsiaie lemstnibnsVstmoto yisedsoibstnnono dduodgnwo",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q047-stem0.png",
+    "w": 1923,
+    "h": 601
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "magnetic field",
+   "charged particle"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 48,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "48.If a velocity has both perpendicular and parallel components while moving through a magnetic field, what is the path followed by a charged particle ? AA(1) (1) Circular (2) Elliptical AT AI(） (e) (3) Linear (4) Helical",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q048-stem0.png",
+    "w": 1905,
+    "h": 365
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "magnetic field",
+   "charged particle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "53.AA susceptibility of a certain magnetic material is 40o. What is the class of the magnetic material ?bionoloa srb sbiani bleft oiengem srt ai istw bionloa eidtdguoenbszesq DiamagneticI x8s.d() Paramagneticx8s.d(1) (1) (2) Ferromagnetic FerroelectricoIx8.(8) (3) ×8s.0() (4)",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q053-stem0.png",
+    "w": 1883,
+    "h": 453
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ferromagnetic"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "54.oA solenoid of inductance 2H carries a current of 1 A. What is the magnetic energy stored d U=10xI0-1C (1) 2J (2) 1J (1）1xJ0-5K (5）01×10-5aR (3) 4J (4) 5J - (3）11x10-5aK",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q054-stem0.png",
+    "w": 1761,
+    "h": 445
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "solenoid"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "55.A multimeter reads a voltage of a certain A.C. source as 100 V. What is the peak value of voltage of A.C. source？ sviegshovaoootbotiupo nunato sulsvod ai erwle 200V 100V (1) (2) AIognetoojomimsnsoimiQo0 (3) 141.4 V (4)400V Am ceiotomonv aoitoefsb sleoe lluR:novio 22.e",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q055-stem0.png",
+    "w": 1874,
+    "h": 445
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "peak value"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "57.A step down transformer has 50 turns on secondary and 1000 turns on primary winding. If a transformer is connected to 220 V 1A A.C. source,what is output current of the transformer? 1 (1) (2) 20A 20 (3) 100A (4) 2A",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q057-stem0.png",
+    "w": 1876,
+    "h": 494
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "transformer"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2014,
+  "source": "kcet-2014-physics-question-paper.pdf",
+  "stemText": "58. The average power dissipated in A.C. circuit is 2 watt. If a current flowing through a circuit is 2 Aand impedance is 1 Q,what is the power factor of the AC circuit ？ (1) 0.5 (2) 1",
+  "stemImages": [
+   {
+    "src": "physics-2014-kea/q058-stem0.png",
+    "w": 1761,
+    "h": 222
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 9,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "power factor",
+   "impedance",
+   "ac circuit"
+  ],
+  "chapterConfidence": "high"
+ }
+]

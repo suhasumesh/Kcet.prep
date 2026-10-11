@@ -1,0 +1,695 @@
+[
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "18. ·If p=i+i, '=i+k, then the unit vector in the direction of -2is 3 p+ A A i+2j+2k -2j+2k 1) 2) CY -2j-2k v +2j+2k [a+=√,then the",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q018-stem0.png",
+    "w": 1899,
+    "h": 588
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Vector Algebra",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "unit vector",
+   "vector"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "and b' are the two vectors such that =3√3, 1 and angle between 一 and b is 一→ a 1500 2)300 1) 3). 600′ 4)÷1200",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q019-stem0.png",
+    "w": 1916,
+    "h": 440
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "22. in the plane is always a constant K(< 1 ) is. 2) straight line 1) circle hyperbola 4) 3) ellipse",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q022-stem0.png",
+    "w": 1956,
+    "h": 273
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "ellipse",
+   "hyperbola",
+   "circle"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "23. If the lines x +3y.- 9 = 0, 4x + by.- 2 = 0 and 2x - y - 4 = 0 are concurrent, then b = 1)0 2)..1 4） -5 3).",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q023-stem0.png",
+    "w": 1823,
+    "h": 188
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "28. and x2 + y? -6y + 7 = 0 is 1)·x+y+5=0 2) x+y-5=0 3) x-y+5=0. 4) x-y-5=0",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q028-stem0.png",
+    "w": 1901,
+    "h": 393
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "31. x=4 (x-4.)2 x 2) 1) 十 16 9 ·16 9 3) 16 16 9 9 If the distance between the foci and the distance between the directrices of the hyperbola",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q031-stem0.png",
+    "w": 1935,
+    "h": 489
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "hyperbola"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "32. 心 2 x y are in the ratio 3 : 2 , then a : b is =1 a 2)1:2 1) 2:1 4). √2 :1 √3 :√2 3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q032-stem0.png",
+    "w": 1910,
+    "h": 454
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "36. From an aeroplane flying, vertically above a horizontal road, the angles of depression of two consecutive stones on the same side of the aeroplane .are observed to be 30° and 600. 2 1) 2) √3 √3 4 3) J3 4 2",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q036-stem0.png",
+    "w": 1906,
+    "h": 576
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "37. If the angles of a triangle are in the ratio·3 : 4 : 5, then the sides are in the ratio :(1) 3:4:5. 2) 2:√3:√3+1 4) 2: V6:V3+1.. 3) √2 :V6:V3+1 2π",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q037-stem0.png",
+    "w": 1845,
+    "h": 376
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "41. The complex number. 3 +√3i() 2) on the Y-axis (Imaginary axis) 1)on the X-axis (Real axis) in the first quadrant 4) .. in the second quadrant 3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q041-stem0.png",
+    "w": 1810,
+    "h": 319
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "complex number",
+   "imaginary"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "42. If 2x = --1+ √3i, then the value of 1) 0 2).64. 3) -64 4)32",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q042-stem0.png",
+    "w": 1811,
+    "h": 293
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "43. The moduius and amplitude of (1 +i√3 are respectively 8π. 2π 256 and 2) 2 and 1)",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q043-stem0.png",
+    "w": 1801,
+    "h": 188
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "2 + bx ·+ c : passes through the origin and the tangents drawn to it at x = -1 and x = 2 are parallel to.the X-axis, then the values of a, b and c are respectively. f) 3, -12 and 0 2) - - 3, 12 and 0 - 3,- 12 and 0 4) · 12, - 3 and 0 3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q051-stem0.png",
+    "w": 1912,
+    "h": 341
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "x-axis"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "52. A circular sector of perimeter.60 metre with maximum area is to be constructed. The radius of the circular arc in' metre must be 2)15 1) 10 4)20 3) 5",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q052-stem0.png",
+    "w": 1906,
+    "h": 342
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2006,
+  "source": "kcet-2006-mathematics-question-paper.pdf",
+  "stemText": "56. 6 .-16 xVx 3 x 1 Sec Sec 2) 12 4 4 x3 Cosh-1 3) 4 xCos x dx , then which one of the following is true ? 57:If I1 xSinx dx and I2 =:",
+  "stemImages": [
+   {
+    "src": "mathematics-2006-kea/q056-stem0.png",
+    "w": 1873,
+    "h": 616
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sec"
+  ],
+  "chapterConfidence": "low"
+ }
+]

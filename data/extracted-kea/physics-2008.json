@@ -1,0 +1,1921 @@
+[
+ {
+  "number": 1,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "1. the reflected and refracted rays are mutually perpendicular to each other. The critical anglefor thepairofmediais 1)Sin-l(Tani) 2)Tan-1 (Sini) 3) Sin-1 (Cot i) Cos-1(Tani)",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q001-stem0.png",
+    "w": 1910,
+    "h": 450
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 2,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "2. Afishinwater(refractiveindexn)looksatabirdvertically abovein the air.Ifyis the heightofthebird andxis thedepthofthefishfrom the surface,then the distance of thebird asestimated bythefish is 1）x+ 2)x+ny 3)x+y 4)y+x n",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q002-stem0.png",
+    "w": 1910,
+    "h": 578
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "6. If μo is permeability of free space and Eo is permittivity of free space, the speed of lightinvacuum isgiven by 1) √Mo EO 2) 3) VμO EO",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q006-stem0.png",
+    "w": 1915,
+    "h": 526
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "permeability"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "7. InYoung's double slit experiment,a third slitis made in between the double slits.Then 1) intensity of fringes totally disappears. only bright light is observed on the screen. 2) 3) fringes of unequal width are formed.",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q007-stem0.png",
+    "w": 1913,
+    "h": 274
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "slit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 11,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "11.An unpolarised beam of intensity Io falls on a polaroid. The intensity of the emergent light is % 1） 2) I。 3) 4) Zero",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q011-stem0.png",
+    "w": 1909,
+    "h": 447
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "polaroid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 12,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "12.Which of thefollowing is a dichroic crystal? 1)Quartz 2) Tourmaline 3)Mica 4) Selenite",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q012-stem0.png",
+    "w": 1801,
+    "h": 279
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 13,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "13.Two identical metal spheres charged with +12uF and -8uF are kept at certain distancein air.They are brought into contact and then kept at the same distance.The ratioof the magnitudesofelectrostaticforcesbetween them before and aftercontactis 2)8:1 1) 12:1 3) 24:1 4)4:1",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q013-stem0.png",
+    "w": 1920,
+    "h": 407
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 16,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "16.How many 6uF,200 V condensers are needed to make a condenser of 18uF,600 V? 1)9 2)18 3)3 4)27",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q016-stem0.png",
+    "w": 1801,
+    "h": 250
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "17.The total energy stored in the condenser system shown in the figurewill be 6μF 2μF 3μF 1)2μJ 2) 4uJ 3) 8uJ 4) 16μJ",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q017-stem0.png",
+    "w": 1801,
+    "h": 707
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "energy"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "18.Ametalwire is subjected to a constantpotential difference.When the temperature of the metal wire increases,the drift velocity of the electron in it 1)increases,thermalvelocityofthe electron decreases 2） decreases,thermal velocity of the electron decreases 3) increases,thermalvelocity ofthe electronincreases 4) decreases,thermalvelocityofthe electronincreases",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q018-stem0.png",
+    "w": 1915,
+    "h": 444
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "drift velocity"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 22,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "22.Themagneticfieldat the centre of a circular current carrying conductor ofradius risB The magnetic field on its axis at a distance r from the centre is B.The value of B.:B,will be a 1)1:√2 2) 1: 2√2 3)2√2:1 4)√2 :1",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q022-stem0.png",
+    "w": 1919,
+    "h": 452
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "current carrying conductor",
+   "magnetic field"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 23,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "23.Current‘Tis flowingin a conductor shaped as shown in the figure. Theradius of the curved part is r and thelengthof straightportionisverylarge.Thevalue ofthemagneticfield atthecentre Owill be μol 3π Mol 3π 1) 2)",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q023-stem0.png",
+    "w": 1917,
+    "h": 314
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "conductor"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "26.A certain current on passing through a galvanometer produces a deflection of 100 divisions.When a shunt of one ohm is connected, the deflection reduces to 1 division. Thegalvanometerresistanceis 1) 100Ω 2) 990 3) 10Ω 4)±9.9 Ω",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q026-stem0.png",
+    "w": 1911,
+    "h": 389
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "current",
+   "galvanometer"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "27.Two similar circular loops carry equal currents in the same direction. On moving the coils further apart,the electric current will 1)increase in both decrease in both 2) 3) remain unaltered increases in oneand decreases in the second 4)",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q027-stem0.png",
+    "w": 1913,
+    "h": 430
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "28.Thevalueofalternating emfEin thegivencircuitwill be ←V=80 V→ V。=100 V→ W V, =40 V→ E,50Hz 1) 220V 2) 140V 3) 100V 4) 20V 29.A current of 5A is flowing at 220 V in the primary coil of a transformer.If the voltage",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q028-stem0.png",
+    "w": 1806,
+    "h": 682
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "transformer"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "produced in the secondary coil is 2200 V and 50% of power is lost, then the current in the secondary will be 1) 2.5A 2) 5A 3) 0.25A 4) 0.5A",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q029-stem0.png",
+    "w": 1921,
+    "h": 396
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "power"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 30,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "30.For a seriesLCR circuit atresonance,the statementwhich is not true is 1） Average power = apparent power 2) 3) Wattless currentis zero 4) Power factor is zero (Space for Rough Work) SR-33 Turn Over",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q030-stem0.png",
+    "w": 1808,
+    "h": 912
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "power factor"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "31.Solar spectrum is an example for 1) line emission spectrum 2) continuous emission spectrum 3) band absorption spectrum 4) line absorption spectrum",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q031-stem0.png",
+    "w": 1800,
+    "h": 249
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "32. When apieceofmetal isilluminated by amonochromaticlightofwavelength,then stopping potential is 3Vs. When same surface is illuminated by light of wavelength 2, then stopping potential becomes. Vs. The value of threshold wavelength for photoelectric emission will be 1)4 2) 81 3) 4) 6元 33.The maximum kinetic energy of emitted electrons in a photoelectric effect does not",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q032-stem0.png",
+    "w": 1920,
+    "h": 491
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 12,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "photoelectric effect",
+   "stopping potential"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 33,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "depend upon 1)/wavelength 2) frequency 3) intensity work function 4)",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q033-stem0.png",
+    "w": 1916,
+    "h": 293
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "work function"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 34,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "34.Theratioofminimumwavelengthsof LymanandBalmer serieswill be 1)1.25 2) 0.25",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q034-stem0.png",
+    "w": 1807,
+    "h": 150
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 36,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "36.If an electron and a proton have the same de-Broglie wavelength, then the kinetic energy of the electron is 1)zero 2)less than that ofa proton 3)more than that-of a proton 4) equal to thatof aproton 0",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q036-stem0.png",
+    "w": 1911,
+    "h": 335
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 37,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "37. Two protons are kept at a separation of 40A . F, is the nuclear force and F。 is the electrostaticforcebetween them.Then 1)Fn>>Fe 2) Fn =Fe Fn<<Fe 4) Fn=Fe 3）",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q037-stem0.png",
+    "w": 1909,
+    "h": 374
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "nuclear"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "38.Blue colour of sea water is due to 1) interference of sunlight reflected from the water surface 2) scattering of sunlightby the water molecules 3) image of sky in water",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q038-stem0.png",
+    "w": 1800,
+    "h": 271
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "interference"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "41.The masses of two radioactive substances are same and their half lives are 1 year and 2 years respectively. The ratio of their activities after 6 years will be 1)1:4 2)1:2 3) 1:3 4)1:6 92U235 undergoes successive disintegrations with the end product of s2Pb 203 . The",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q041-stem0.png",
+    "w": 1917,
+    "h": 362
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "radioactive"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 42,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "42. numberofαandβparticlesemitted are 1)α=6,β=4 2) α=6,β=0 α=8, β =6 α=3,β =3 3) 4) 43.The most stable particle in Baryon group is",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q042-stem0.png",
+    "w": 1913,
+    "h": 368
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "2) omega - particle 1)neutron 3)proton 4)lamda - particle",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q043-stem0.png",
+    "w": 1802,
+    "h": 238
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "44.In an unbiased p-n junction 1) Potential atpismore than that atn 2) Potential at p is less than that atn Potential at p is equal to that at n 3) 4) Potential at p is +ve and that at n is -ve",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q044-stem0.png",
+    "w": 1799,
+    "h": 377
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "p-n junction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "45.To get an output y = 1 from the circuit shown, the inputs A, B and C must be respectively A Y B C 1) 0, 1, 0 2) 1, 0, 0 3) 1, 0, 1 4) 1, 1, 0 (Space for Rough Work) SR-33",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q045-stem0.png",
+    "w": 1806,
+    "h": 1466
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 46,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "46.Dimensional formula for the universal gravitational constant Gis 1)M-LT-2 2)MLT M-1L3T-2 M-1L3T-1 3)",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q046-stem0.png",
+    "w": 1803,
+    "h": 318
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Gravitation",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "universal gravitational constant",
+   "gravitational"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 47,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "47.Abodyis projected verticallyupwards.The times corresponding to heighth while ascending and while descending are t1 and t2 respectively. Then the velocity of projection is(g isacceleration due to gravity) gtit2 1)g√tt2 2) t1+t2 g√tit2 g(t1+t2) 3) 4)",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q047-stem0.png",
+    "w": 1916,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "51.A simple pendulum is suspended from the ceiling of a lift.When the lift is at rest its time period is T. With what acceleration should the lift be accelerated upwards in order to reduce its period to T /2? (g is acceleration due to gravity). 1) 2g 2) 3g 3)4g 4)",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q051-stem0.png",
+    "w": 1912,
+    "h": 352
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 5,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "simple pendulum",
+   "pendulum"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 52,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "52. If y is the ratio of specific heats and R is the universal gas constant, then the molar specific heat at constant volume C, is given by (r-1)R 1)R 2) R yR 3) y-1 4) y-1",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q052-stem0.png",
+    "w": 1911,
+    "h": 546
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "molar specific heat"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 53,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "53.An ideal gas is taken via path ABCA as shown in figure. The network done in the whole cycle is 1) 3PV1 2) -3PV1 3) 6PV1 B 4) zero 3V,",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q053-stem0.png",
+    "w": 1912,
+    "h": 490
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Kinetic Theory",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ideal gas"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 54,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "54. In which of the processes, does the internal energy of the system remain constant ? 1） Adiabatic 2)Isochoric 3) Isobaric 4) Isothermal",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q054-stem0.png",
+    "w": 1801,
+    "h": 277
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 17,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "isothermal",
+   "adiabatic",
+   "isobaric",
+   "isochoric",
+   "internal energy"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 55,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "55.The coefficient of thermal conductivity of copper is 9 times that of steel. In the composite cylindrical bar shown in the figure, what will be the temperature at the junction of copper andsteel? 100℃ O°℃ steel →6 cm -→ 18cm 1) 75℃ 2)67°℃ 3)25℃ 4)33℃ (Space for Rough Work) SR-33",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q055-stem0.png",
+    "w": 1921,
+    "h": 1138
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "thermal conductivity",
+   "temperature"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 56,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "56. The equation of a simple harmonic wave is given by y =6Sin 2π (2t -0.1x ), where x and y are in mm and t is in seconds. The phase difference between two particles 2 mm apart atanyinstantis 1)180 2)360 3) 540 4) 72°",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q056-stem0.png",
+    "w": 1930,
+    "h": 460
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Oscillations",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "phase difference"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "57. With what velocity should an observer approach a stationary sound source so that the apparent frequency of sound should appear double the actual frequency? (u is velocity of sound). 1) % 2) 3u 3) 2u 4) U",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q057-stem0.png",
+    "w": 1921,
+    "h": 451
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "frequency",
+   "sound"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "58. If a black body emits 0.5 joules of energy per second when it is at 27°C , then the amount of energy emitted by it when it is at 627°C will be .1) 40.5J 2) 162J 3) 13.5J 4) 135J",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q058-stem0.png",
+    "w": 1924,
+    "h": 388
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "black body"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 59,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "59.A string vibrates with a frequency of 200 Hz.When its length is doubled and tension is altered,it begins to vibrate with a frequency of 300 Hz. The ratio of the new tension to the originaltension is 1) 9:1 2) 1:9 3) 3:1 4) 1:3",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q059-stem0.png",
+    "w": 1924,
+    "h": 403
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "tension"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 60,
+  "subject": "Physics",
+  "year": 2008,
+  "source": "kcet-2008-physics-question-paper.pdf",
+  "stemText": "60.How many timesmore intense is'a 60 dB sound than a 30 dB sound? 1)1000 2）2 3)100 4) 4 (Space.forRoughWork) SR-33",
+  "stemImages": [
+   {
+    "src": "physics-2008-kea/q060-stem0.png",
+    "w": 1821,
+    "h": 1090
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Waves",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sound"
+  ],
+  "chapterConfidence": "low"
+ }
+]

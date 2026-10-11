@@ -1,0 +1,1189 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "1. mappings that can be defined from A to B is (1) 144 (2) 72 (3) 60 (4) 120 Let f : R → R be defined by f(x) = 2x + 6 which is a bijective mapping then f '(x) is given",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q001-stem0.png",
+    "w": 1884,
+    "h": 395
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 7,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "bijective",
+   "mapping",
+   "f(x)",
+   "bijective"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "2. by x -3 (1) (2) 2x+6 2 6x + 2 (3) x-3 (4) Let * be a binary operation defined on R by a * b = a+b",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q002-stem0.png",
+    "w": 1893,
+    "h": 490
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "binary operation",
+   "binary operation"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "5. (1) 0 (2) 1 (3) -1 (4). 1/2",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q005-stem0.png",
+    "w": 1740,
+    "h": 365
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "6. The simplified form of tan is equal to (1) 0 (2) 4 (3) (4) π",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q006-stem0.png",
+    "w": 1849,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "9. dx =y (1) (2). y x y x- (3) (4) x y sin-(πx) tan-'（ cos-′(πx) tan-′( 1 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q009-stem0.png",
+    "w": 1773,
+    "h": 553
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "sin",
+   "cos",
+   "tan"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "cos2(e'.x) - cot(e x\") + c (2) tan(e*. x) + c (1) cot(e\") +c (3) tan(e) + c (4) log x log y logz 0n genb s!zz o1 zo1 x7 8o yo anga y I # 0 # pue penba you ae z A xg1 1",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q013-stem0.png",
+    "w": 1770,
+    "h": 547
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "tan",
+   "cot"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "log3xlog3ylog3z log(x y z) (2) log(6 x y z) (1) log(x + y + z)",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q014-stem0.png",
+    "w": 1768,
+    "h": 287
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "17. If 2a.b =al.|b} then the angle between a &bis (1) 30° (2) 0° (3) 90° (4) 60°",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q017-stem0.png",
+    "w": 1718,
+    "h": 404
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "dy 18. If x\"y\" = (x + y)m+n then is equal to dx x+y (1) (2) xy xy y",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q018-stem0.png",
+    "w": 1723,
+    "h": 349
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "21. The length of latus rectum of the parabola 4y² + 3x + 3y + 1 = 0 is 4/ (2) (1) (4) 3/4 (3) 12 6logx-es Slogx dx is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q021-stem0.png",
+    "w": 1773,
+    "h": 467
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "latus rectum",
+   "parabola"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "22.The value of 4log.x3log.x x (1) 0 (2) 3",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q022-stem0.png",
+    "w": 1768,
+    "h": 293
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "25. The real part of (1 -- cos 0 + i sin 0)-' is 1 1 (1) (2) 2 1+ cosθ θ (3) tan- (4) cot- 2 2 sin 100 π/2 xdx",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q025-stem0.png",
+    "w": 1850,
+    "h": 664
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "sin",
+   "cos",
+   "tan",
+   "cot"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "29. If tan-'(x² + y²) = α then dx =x (1) (2)xy y x (3) (4) -xy y",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q029-stem0.png",
+    "w": 1744,
+    "h": 597
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "33. The maximum value of ee (1) (2) e () (3) (4) d=0is dy.",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q033-stem0.png",
+    "w": 1783,
+    "h": 476
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "maximum value"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "34. The solution for the differential equation .y x 1 (1) (2) : log x . log y = c y (3) (4) x+ y= c xy=c dy dy",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q034-stem0.png",
+    "w": 1778,
+    "h": 496
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Differential Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "differential equation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "35. The order and degree of the differential equation +sin dx dx order= 2 order= 2 (1) (2) degree=4 degree=3 order= 2 order= 2 (3) .3 (4). degree= degree=not defined",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q035-stem0.png",
+    "w": 1774,
+    "h": 452
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Differential Equations",
+  "chapterScore": 6,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "order and degree of the differential",
+   "differential equation",
+   "degree of the differential"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "37. The sum of 1\"t n terms of the series 12 1² +22 1²+22+32 1 1+2 1+2+3 n+2 n(n+2) (1) (2) 3 3 n(n - 2)- (3) . n(n -2) (4) :3 6 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q037-stem0.png",
+    "w": 1842,
+    "h": 627
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Sequences and Series",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "series"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "41. If the straight lines 2x + 3y - 3 = 0 and x + ky + 7 = 0 are perpendicular, then the value of k is 2/3 3/2 (1) (2) -2/3 -3/2 (3) (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q041-stem0.png",
+    "w": 1784,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "42. The rate of change of area of a circle with respect to its radius at r = 2 cms is (1) 4 (2) 2π (4) 4π (3) 2 π",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q042-stem0.png",
+    "w": 1783,
+    "h": 315
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "rate of change"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "46. The coefficient of variation of two distributions are 60 and 70. The standard deviation are 21 and 16 respectively, then their mean is (1) 35 (2) 23 (3) 28.25 (4) 22.85",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q046-stem0.png",
+    "w": 1881,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Statistics",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "standard deviation",
+   "coefficient of variation",
+   "mean"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "47. Two cards are drawn at random from a pack of 52 cards. The probability of these two being \"Aces\" is 1 1 (1) (2) 26 221 1 1 (3) (4) 2 13",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q047-stem0.png",
+    "w": 1884,
+    "h": 516
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Probability",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "probability",
+   "drawn at random"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "51. Two dice are thrown simultaneously, the probability of obtaining.a total score of 5 is 1 1 (1) (2) 18 12 1 1 (3) (4) 9 6 -sin 20] cos 2θ and A + AT = I,",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q051-stem0.png",
+    "w": 1759,
+    "h": 436
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "52. If A = sin 20 cos 20 where I is the unit matrix of 2 × 2 & AT is the transpose of A, then the value of 0 is equal to m/6 (1) (2) T/3 31/2 (3) π (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q052-stem0.png",
+    "w": 1871,
+    "h": 452
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "56. The vector equation of the plane which is at a distance of from the origin and the √14 normal from the origin is 2i - 3j + k is r.(2i -3j+ k)=3 r.(i+j+k)=9 (1) (2) (3) r.(i+2)=3 r.(2i + k)= 3 (4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q056-stem0.png",
+    "w": 1884,
+    "h": 429
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "equation of the plane",
+   "plane"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2016,
+  "source": "Mathematics-2016.pdf",
+  "stemText": "57. Find the co-ordinates of.the foot of the perpendicular drawn from the origin to the plane 5y+8=0 : (1) (2) (3)",
+  "stemImages": [
+   {
+    "src": "mathematics-2016/q057-stem0.png",
+    "w": 1882,
+    "h": 501
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "foot of the perpendicular",
+   "plane"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

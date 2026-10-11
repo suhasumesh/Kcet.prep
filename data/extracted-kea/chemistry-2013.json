@@ -1,0 +1,2255 @@
+[
+ {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "1. The process of zone refining is used in the purification of (1) Al (2) Ge (3) Cu (4) Ag",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q001-stem0.png",
+    "w": 1884,
+    "h": 393
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "zone refining"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "The number of water molecules present in a drop of water weighing 0.018 gm is 2. 6.022 x 1026 6.022 × 1023 (1) (2) 6.022 x 1019 6.022 ×1020 (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q002-stem0.png",
+    "w": 1887,
+    "h": 388
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "3. Empirical formula of a compound is CH2O and its molecular mass is 90, the molecular formula of the compound is (1) C3H6O3 C2H4O2 (2) C6H1206 (3) (4) CH,O Hybridised states of carbon in Graphite and Diamond are respectively",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q003-stem0.png",
+    "w": 1880,
+    "h": 489
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "empirical formula",
+   "molecular formula"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "4. sp’, sp3 sp², sp2 (1) (2) (3) sp², sp (4) sp², sp3 . 5. The mass of 112 cm? of NH, gas at STP is",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q004-stem0.png",
+    "w": 1768,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "sp3",
+   "sp2"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "(1) 0.085 g 0.850 g (2) (3) 8.500 g (4) 80.500 g",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q005-stem0.png",
+    "w": 1771,
+    "h": 338
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 6,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "6. COOH HO 4-hydroxy 1 methyl pentanoic acid (1) 4-hydroxy 2 methyl pentanoic acid (2) (3) 2-hydroxy 4 methyl pentanoic acid 2-hydroxy 2 methyl pentanoic acid (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q006-stem0.png",
+    "w": 1851,
+    "h": 777
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "7. Alkali metals have negative reduction potential and hence they behave as (1) Oxidising agents (2) Lewis bases Electrolytes (3) Reducing agents (4) Which of the following gases has the highest value of RMS-velocity at 298 K ?",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q007-stem0.png",
+    "w": 1948,
+    "h": 483
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "reduction"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "8. (2) co (1) CH4 (4) CO2 (3) Cl, Cycloalkane formed when 1, 4-dibromopentane is heated with Sodium is",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q008-stem0.png",
+    "w": 1945,
+    "h": 474
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "Cyclopentane (1) Methyl cyclobutane (2) (4) Methyl cyclopentane (3) Cyclobutane",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q009-stem0.png",
+    "w": 1826,
+    "h": 305
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 10,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "10. In the reaction, 2FeSO4 + H2SO4 + H2O2 -→ Fe2(SO4)3 + 2H2O, the oxidizing agent is (1) FeSO4 2） H,SO (3) H2O2 Both H,SO4 and H2O2 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q010-stem0.png",
+    "w": 1695,
+    "h": 544
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "decomposition of water is (1) -- 571.6 kJ (2) + 571.6 kJ (3) -- 1143.2 kJ (4) + 285.8 kJ",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q011-stem0.png",
+    "w": 1810,
+    "h": 622
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "12. In Buna-S, the symbol ‘Bu' stands for (1) 1-Butene (2) n-Butene (3) 2-Butene Butadiene (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q012-stem0.png",
+    "w": 1714,
+    "h": 530
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "buna"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "13. The electronic configuration of Cu?+ ion is [Ar] 3d8 4s1 (1) (2) [Ar] 3d9 4s0 [Ar] 3d? 4s2 (3) (4) [Ar] 3d8 4s0",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q013-stem0.png",
+    "w": 1720,
+    "h": 381
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "electronic configuration"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 15,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "15. Mesomeric effect involves (1) delocalisation of π -electrons (2) delocalisation of o-electrons (3) partial displacement of electrons (4) delocalisation of π and o electrons",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q015-stem0.png",
+    "w": 1790,
+    "h": 639
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "mesomeric"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "17.Adsorption theory is applicable for (1) Homogeneous catalysis (2) Heterogeneous catalysis (3) Autocatalysis (4) Induced catalysis",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q017-stem0.png",
+    "w": 1800,
+    "h": 328
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "adsorption",
+   "catalysis"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "18. Methane can be converted into Ethane by the reactions Chlorination followed by the reaction with alcoholic KOH. (1) Chlorination followed by the reaction with aqueous KOH. (2) (3) Chlorination followed by Wurtz reaction. (4) Chlorination followed by decarboxylation.",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q018-stem0.png",
+    "w": 1787,
+    "h": 688
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "wurtz"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "19. Intramolecular Hydrogen bonding is formed in (1) HO (2) Salicylaldehyde (3) NH3 (4) Benzophenone",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q019-stem0.png",
+    "w": 1780,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "bonding"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "20. If 50% of the reactant is converted into a product in a first order reaction in 25 minutes, how much of it would react in 100 minutes ? (1) 93.75% (2) 87.5% (4) 100% (3) 75%",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q020-stem0.png",
+    "w": 1883,
+    "h": 510
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "first order reaction"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 22,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "22. When limestone is heated, CO, is given off. The metallurgical operation is Smelting (1) (2) Reduction (3) Calcination Roasting (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q022-stem0.png",
+    "w": 1783,
+    "h": 443
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "calcination",
+   "roasting",
+   "smelting"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "24. Meso compounds do not show optical activity because (1) they do not contain chiral carbon atoms. they have non-super imposable mirror images. (2) (3) they contain plane of symmetry. （4) they do not contain plane of symmetry.",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q024-stem0.png",
+    "w": 1793,
+    "h": 628
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "optical activity",
+   "chiral"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 25,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "25. When formic acid is heated with concentrated H,SO4, the gas evolved is (1) only CO2 (2) only 'CO' (3) a mixture of 'CO' and 'CO2 (4) a mixture of 'SO2′ and 'CO2",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q025-stem0.png",
+    "w": 1799,
+    "h": 353
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "26. Temperature coefficient of a reaction is “2'. When temperature is increased from 30 °C to 90 °C, the rate of reaction is increased by (1) 60 times (2) 64 times (3) 150 times (4) 400 times",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q026-stem0.png",
+    "w": 1901,
+    "h": 548
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "rate of reaction",
+   "temperature coefficient"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "27. Conversion of benzene to acetophenone can be brought by (2) Wurtz-Fittig's reaction (1) Wurtz reaction Friedel Crafts alkylation (4) Friedel Crafts acylation (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q027-stem0.png",
+    "w": 1780,
+    "h": 461
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "wurtz",
+   "benzene"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 28,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "28. Excess of PCls reacts with concentrated H,SO4 giving (1) Chlorosulphuric acid (2) Sulphurous acid Thionyl chloride (3) Sulphuryl chloride (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q028-stem0.png",
+    "w": 1775,
+    "h": 485
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 29,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "29. An example for a neutral buffer is Ammonium hydroxide and Ammonium chloride (1) Acetic acid and Sodium acetate (2) Acetic acid and Ammonium hydroxide (3) (4) Citric acid and Sodium citrate",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q029-stem0.png",
+    "w": 1765,
+    "h": 566
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acid"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "32. Conjugate base of H,PO4 is 2- HPO 4 (1) HPO4 (2) PO4 3- (3) H,PO4 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q032-stem0.png",
+    "w": 1818,
+    "h": 464
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "conjugate base",
+   "base"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "33. An alkyl bromide (X) reacts with Sodium in ether to form 4, 5-diethyl octane, the compound ‘X' is CH;(CH2)3Br (2) CH,(CH)5Br (1) CH-(CH2)2 - CH(Br) - CH, - CH (3) CH,(CH2);CH(Br)CH3 (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q033-stem0.png",
+    "w": 1920,
+    "h": 474
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "34. Which one of the following shows highest magnetic moment ? Fe2+ CO2+ (2) (1) Cr3+ Ni2+ (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q034-stem0.png",
+    "w": 1810,
+    "h": 298
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "35. The emf of a galvanic cell constituted with the electrodes Zn2+ ↓ Zn (-0.76 V) and Fe2+↓ Fe(-0.41 V) is (1) - 0.35 V (2) + 1.17 V (3) + 0.35 V (4) - 1.17 V",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q035-stem0.png",
+    "w": 1907,
+    "h": 503
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "galvanic cell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "36. Which of the following pairs are correctly matched ? Reactants Products RX + AgOH(aq) 1. RH RX + AgCN(alco) 11. RNC RX + KCN(alco) III. RNC RX + Na(ether) IV. R-R (1) I alone (2) I and II (3) HI and III (4) II and IV",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q036-stem0.png",
+    "w": 1904,
+    "h": 987
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "ether"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "37. In a transition series, with the increase in atomic-number, the paramagnetism (1) increasesgradually (2) decreases gradually (3) first increases to a maximum and then decreases (4) first decreases to a minimum and then increases",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q037-stem0.png",
+    "w": 1810,
+    "h": 577
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 38,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "38. Identify a species which is 'NOT' a Bronsted acid but a Lewis acid. BF3 (1) (2) (3) NH3 (4) HCI",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q038-stem0.png",
+    "w": 1815,
+    "h": 591
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "bronsted",
+   "lewis acid",
+   "acid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "39. The compound formed when calcium acetate and calcium formate is dry distilled. (1) Acetone (2) Acetaldehyde Acetophenone (3) Benzaldehyde (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q039-stem0.png",
+    "w": 1810,
+    "h": 549
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 9,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "benzaldehyde",
+   "acetophenone",
+   "acetone"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "40. d’sp? hybridisation of the atomic orbitals gives Square planar structure (2) Triangular structure (1) (3) Tetrahedral structure (4) Octahedral structure",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q040-stem0.png",
+    "w": 1803,
+    "h": 534
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "hybridisation",
+   "tetrahedral"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 42,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "42. Which of the following is strongly acidic ? (1) Phenol (2) O-cresol (3) p-nitrophenol (4) p-cresol",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q042-stem0.png",
+    "w": 1652,
+    "h": 428
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "phenol"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 43,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "43. A group of atoms can function as a ligand only when it is a small molecule. (1) (2) it has an unshared electron pair. (3) it is a negatively charged ion. (4) it is a positively charged ion.",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q043-stem0.png",
+    "w": 1648,
+    "h": 427
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "ligand"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "45. Acetone and Propanal are (1) Functional isomers Position isomers (2) (3) Geometrical isomers (4) Optical isomers",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q045-stem0.png",
+    "w": 1655,
+    "h": 425
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acetone"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "46. Which of the following is diamagnetic ? (1) H﹢ He2 (2)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q046-stem0.png",
+    "w": 1652,
+    "h": 226
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "47. 3 gms of urea is dissolved in 45 gms of H2O. The relative lowering in vapour pressure is (1) 0.05 (2) 0.04 (3) 0.02 (4) 0.01",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q047-stem0.png",
+    "w": 1824,
+    "h": 515
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "States of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "vapour pressure"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "48. The reagent used to distinguish between acetaldehyde and benzaldehyde is (1) Tollen's reagent (2) Fehling's solution (3) 2-4-dinitrophenyl hydrazine (4) Semicarbazide",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q048-stem0.png",
+    "w": 1848,
+    "h": 495
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "fehling",
+   "benzaldehyde"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "49. Metallic lustre is due to (1) high density of metals (2) high polish on the surface of metals (3) reflection of light by mobile electrons (4) chemical inertness of metals",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q049-stem0.png",
+    "w": 1885,
+    "h": 747
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "surface"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "50. Which of the following aqueous solutions will exhibit highest boiling point ? (1) 0.01 M urea (2) 0.01 M KNO3 (3) 0.01 M Na2SO4 (4) 0.015 M CH,206",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q050-stem0.png",
+    "w": 1910,
+    "h": 403
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "53. The process is spontaneous at the given temperature, if △H is -ve and △S is +ve (2) △H is +ve and △S is -ve (1) △H is +ve and △S is equal to zero (4) △H is +ve and △S is +ve (3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q053-stem0.png",
+    "w": 1785,
+    "h": 387
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "54. Glucose when reduced with HI and Red Phosphorus gives n-heptane (2) n-hexane (1) (4) n-octane (3) n-pentane",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q054-stem0.png",
+    "w": 1763,
+    "h": 400
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "glucose"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "55. The stability of a Lyophobic colloid is due to Adsorption of covalent molecules on the colloid (1) The size of the particles . (2) The charge on the particles (3) Tyndall effect (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q055-stem0.png",
+    "w": 1744,
+    "h": 500
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 17,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "colloid",
+   "tyndall",
+   "lyophobic",
+   "adsorption"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 56,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "56. Oils are liquids at room temperature since they contain higher percentage of (1) Oleates (2) Palmitates (3) Stearates (4) Myristates",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q056-stem0.png",
+    "w": 1858,
+    "h": 406
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 57,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "57. Which of the following cations will have minimum flocculation value for arsenic sulphide sol ? (1) +N (2) Mg2+ (3) Ca2+ (4) A13+",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q057-stem0.png",
+    "w": 1986,
+    "h": 482
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sol"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2013,
+  "source": "kcet-2013-chemistry-question-paper.pdf",
+  "stemText": "58.The value of entropy of solar system is (1) increasing (2) decreasing (3) constant (4) zero",
+  "stemImages": [
+   {
+    "src": "chemistry-2013-kea/q058-stem0.png",
+    "w": 1899,
+    "h": 408
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "entropy",
+   "system"
+  ],
+  "chapterConfidence": "low"
+ }
+]

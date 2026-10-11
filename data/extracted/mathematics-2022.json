@@ -1,0 +1,4115 @@
+[
+ {
+  "number": 1,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "Find the mean number of heads in three\ntosses of a fair coin.",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q001-stem0.png",
+    "w": 558,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1.5",
+    "img": {
+     "src": "mathematics-2022/q001-optA.png",
+     "w": 199,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "4.5",
+    "img": {
+     "src": "mathematics-2022/q001-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2.5",
+    "img": {
+     "src": "mathematics-2022/q001-optC.png",
+     "w": 200,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3.5",
+    "img": {
+     "src": "mathematics-2022/q001-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given three coins are tossed.\nTherefore, sample space,\nS = {TTT, TTH, THT, HTT, HHT, HTH, THH, HHH}\n\\ n(S) = 8\nLet X represents 'number of heads'\n X = 0, 1, 2 or 3.\nProbability distribution of X is\nX\n0\n1\n2\n1/8\n3/8\n3/8\n1/8",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q001-sol0.png",
+    "w": 657,
+    "h": 596
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "probability distribution",
+   "sample space",
+   "probability"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 2,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If A and B are two events such that \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q002-stem0.png",
+    "w": 558,
+    "h": 144
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "1/8",
+    "img": {
+     "src": "mathematics-2022/q002-optA.png",
+     "w": 199,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3/16",
+    "img": {
+     "src": "mathematics-2022/q002-optB.png",
+     "w": 259,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/12",
+    "img": {
+     "src": "mathematics-2022/q002-optC.png",
+     "w": 200,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3/4",
+    "img": {
+     "src": "mathematics-2022/q002-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q002-sol0.png",
+    "w": 657,
+    "h": 531
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 3,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "A pandemic has been spreading all over the\nworld. The probabilities are 0.7 that there will\nbe a lockdown, 0.8 that the pandemic is\ncontrolled in one month if there is a lockdown\nand 0.3 that it is controlled in one month if\nthere is no lockdown. The probability that the\npandemic will be controlled in one month is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q003-stem0.png",
+    "w": 558,
+    "h": 279
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0.65",
+    "img": {
+     "src": "mathematics-2022/q003-optA.png",
+     "w": 303,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1.65",
+    "img": {
+     "src": "mathematics-2022/q003-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1.46",
+    "img": {
+     "src": "mathematics-2022/q003-optC.png",
+     "w": 304,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "0.46",
+    "img": {
+     "src": "mathematics-2022/q003-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Let event E1 = There is a lockdown,\nEvent E2 = There is no lockdown, and A =\nPandemic is controlled in one month",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q003-sol0.png",
+    "w": 657,
+    "h": 178
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "probability",
+   "event"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 4,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If A and B are two independent events such\nthat\nthen find the value of x.",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q004-stem0.png",
+    "w": 558,
+    "h": 200
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5/14",
+    "img": {
+     "src": "mathematics-2022/q004-optA.png",
+     "w": 303,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8/15",
+    "img": {
+     "src": "mathematics-2022/q004-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "9/14",
+    "img": {
+     "src": "mathematics-2022/q004-optC.png",
+     "w": 304,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7/15",
+    "img": {
+     "src": "mathematics-2022/q004-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Also, A and B are independent.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q004-sol0.png",
+    "w": 652,
+    "h": 472
+   }
+  ],
+  "chapter": "Probability",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "independent events"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 5,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "Suppose that the number of elements in set A\nis p, the number of elements in set B is q and\nthe number of elements A x B is 7, then p2 +\nq2 =",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q005-stem0.png",
+    "w": 558,
+    "h": 182
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "50",
+    "img": {
+     "src": "mathematics-2022/q005-optA.png",
+     "w": 199,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "51",
+    "img": {
+     "src": "mathematics-2022/q005-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "42",
+    "img": {
+     "src": "mathematics-2022/q005-optC.png",
+     "w": 200,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "49",
+    "img": {
+     "src": "mathematics-2022/q005-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "So, possible values of p and q are 7, 1\nrespectively.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q005-sol0.png",
+    "w": 652,
+    "h": 298
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "set",
+   "a x b"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 6,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The \ndomain \nof \nthe \nfunction \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q006-stem0.png",
+    "w": 558,
+    "h": 104
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q006-optA.png",
+     "w": 525,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "[-2, 1)",
+    "img": {
+     "src": "mathematics-2022/q006-optB.png",
+     "w": 525,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "[-2, 0)",
+    "img": {
+     "src": "mathematics-2022/q006-optC.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "[-2, 0) U (0, 1)",
+    "img": {
+     "src": "mathematics-2022/q006-optD.png",
+     "w": 523,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q006-sol0.png",
+    "w": 652,
+    "h": 395
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "domain of the function",
+   "function",
+   "domain"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 7,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The trigonometric function y = tan x in the II\nquadrant",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q007-stem0.png",
+    "w": 577,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "decreases from 0 to",
+    "img": {
+     "src": "mathematics-2022/q007-optA.png",
+     "w": 545,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "decreases from -\n to 0",
+    "img": {
+     "src": "mathematics-2022/q007-optB.png",
+     "w": 545,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "increases from 0 to",
+    "img": {
+     "src": "mathematics-2022/q007-optC.png",
+     "w": 545,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "increases from -\n to 0",
+    "img": {
+     "src": "mathematics-2022/q007-optD.png",
+     "w": 543,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, function y = tan x\nWe know that, tan x is increasing in all the\nquadrants and for II quadrant the value of x is\nconsidered as (-∞, 0)\nHence, y = tan x is increase from -\n to 0.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q007-sol0.png",
+    "w": 652,
+    "h": 238
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 16,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "tan x",
+   "tan",
+   "trigonometric"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 8,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The degree measure of p/32 is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q008-stem0.png",
+    "w": 577,
+    "h": 51
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q008-optA.png",
+     "w": 224,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q008-optB.png",
+     "w": 278,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q008-optC.png",
+     "w": 224,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q008-optD.png",
+     "w": 276,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "\"MASK,\" it is helpful first to determine the total\nnumber of permutations for the word. Since\n\"MASK\" consists of 4 unique letters, the\nnumber of different permutations can be\ncalculated using the factorial of 4:\n4! = 4 x 3 x 2 x 1 = 24\nSo, there are 24 possible permutations.\nArranging these permutations in dictionary",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q008-sol0.png",
+    "w": 1346,
+    "h": 317
+   }
+  ],
+  "chapter": "Permutations and Combinations",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "factorial"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 9,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The value of \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q009-stem0.png",
+    "w": 577,
+    "h": 56
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2022/q009-optA.png",
+     "w": 224,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2022/q009-optB.png",
+     "w": 278,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2022/q009-optC.png",
+     "w": 224,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1/4",
+    "img": {
+     "src": "mathematics-2022/q009-optD.png",
+     "w": 276,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "We know that,\n2 sin A sin B = cos (A - B) - cos (A + B)\norder means starting with the permutations\nbeginning with 'A', followed by those starting\nwith 'K', 'M', and 'S'. Now let's list them out to\nfind the 19th word:\nWe will list the permutations in blocks based\non their starting letter. With each letter in the\nfirst position, the remaining three letters can\nbe arranged in \n or 6 different ways.\nStarting with 'A':\n1 A-K-M-S",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q009-sol0.png",
+    "w": 1346,
+    "h": 377
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 10,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q010-stem0.png",
+    "w": 563,
+    "h": 93
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "sin 2q",
+    "img": {
+     "src": "mathematics-2022/q010-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2 cos q",
+    "img": {
+     "src": "mathematics-2022/q010-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2 sin q",
+    "img": {
+     "src": "mathematics-2022/q010-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2 cos q/2",
+    "img": {
+     "src": "mathematics-2022/q010-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "1. A K M S\n2. A-K-S-M\n3. A-M-K-S\n4. A-M-S-K\n5. A-S-K-M\n6. A-S-M-K\nStarting with 'K': (Since the dictionary order will\nhave all permutations starting with 'A' first, we\ncontinue from the count of 6.)\n7. K-A-M-S\n8. K-A-S-M\n9. K-M-A-S\n10. K-M-S-A\n11. K-S-A-M\n12. K-S-M-A\nStarting with 'M':",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q010-sol0.png",
+    "w": 1346,
+    "h": 602
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "sin",
+   "cos"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 11,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If A = {1, 2, 3,....,10}, then number of subsets of\nA containing only odd numbers is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q011-stem0.png",
+    "w": 563,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "31",
+    "img": {
+     "src": "mathematics-2022/q011-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "27",
+    "img": {
+     "src": "mathematics-2022/q011-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "32",
+    "img": {
+     "src": "mathematics-2022/q011-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "30",
+    "img": {
+     "src": "mathematics-2022/q011-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, A = {1, 2, 3, ..., 10}\nSet A containing only odd number = {1, 3, 5, 7,\n9}\nNumber of subsets = 25 \nThe required number of subsets of A\ncontaining only odd number = 25 \n= 32 \n13. M-A-K-S\n14. M-A-S-K\n15. M-K-A-S\n16. M-K-S-A\n17. M-S-A-K\n18. M-S-K-A\nAt \nthis \npoint, \nwe've \nreached \nthe \n18th\npermutation, which implies the next one will\nbe the 19th. Since we are looking for the 19th",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q011-sol0.png",
+    "w": 1346,
+    "h": 343
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "set",
+   "number of subsets"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 12,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If all permutations of the letters of the word\nMASK are arranged in the order as in\ndictionary with or without meaning, which one\nof the following is 19th word?",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q012-stem0.png",
+    "w": 563,
+    "h": 165
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "KAMS",
+    "img": {
+     "src": "mathematics-2022/q012-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "SAKM",
+    "img": {
+     "src": "mathematics-2022/q012-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "AKMS",
+    "img": {
+     "src": "mathematics-2022/q012-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "AMSK",
+    "img": {
+     "src": "mathematics-2022/q012-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "To find the 19th word in the dictionary order\nof permutations of the letters in the word\nword \nand \nwe \nhave \nfinished \nwith \nall\npermutations starting with 'M', we know the\n19th word will begin with 'S', as it is the next\nletter \nin \nalphabetical \norder. \nThe \n19th\npermutation will be:\n1. S – A – K – M\nHence, the 19th word formed from the\npermutation of the letters in \"MASK\" in\ndictionary order is \"SAKM\".\nTherefore, the correct answer is:\nOption B: SAKM",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q012-sol0.png",
+    "w": 1346,
+    "h": 124
+   },
+   {
+    "src": "mathematics-2022/q012-sol1.png",
+    "w": 671,
+    "h": 371
+   }
+  ],
+  "chapter": "Permutations and Combinations",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "permutation",
+   "arranged"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 13,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n \nis \na \ngeometric\nprogression and \n equals",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q013-stem0.png",
+    "w": 563,
+    "h": 97
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3(52)",
+    "img": {
+     "src": "mathematics-2022/q013-optA.png",
+     "w": 210,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "54",
+    "img": {
+     "src": "mathematics-2022/q013-optB.png",
+     "w": 264,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "53",
+    "img": {
+     "src": "mathematics-2022/q013-optC.png",
+     "w": 210,
+     "h": 49
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2(52)",
+    "img": {
+     "src": "mathematics-2022/q013-optD.png",
+     "w": 262,
+     "h": 49
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q013-sol0.png",
+    "w": 671,
+    "h": 260
+   }
+  ],
+  "chapter": "Sequences and Series",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "geometric progression",
+   "progression"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 14,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If the straight line 2x - 3y + 17 = 0 is\nperpendicular to the line passing through the\npoints (7, 17) and (15, b), then b equals",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q014-stem0.png",
+    "w": 563,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-5",
+    "img": {
+     "src": "mathematics-2022/q014-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2022/q014-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "29",
+    "img": {
+     "src": "mathematics-2022/q014-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-29",
+    "img": {
+     "src": "mathematics-2022/q014-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Equation of line passing through (7, 17) and\n(15, b) is\nOn comparing to y = mx + c, we get slope, \nIt is given that above line is perpendicular to",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q014-sol0.png",
+    "w": 671,
+    "h": 787
+   }
+  ],
+  "chapter": "Straight Lines",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "straight line",
+   "perpendicular to the line",
+   "slope"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 15,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The octant in which the point (2, -4, -7) lies is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q015-stem0.png",
+    "w": 558,
+    "h": 50
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Eighth",
+    "img": {
+     "src": "mathematics-2022/q015-optA.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Third",
+    "img": {
+     "src": "mathematics-2022/q015-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Fourth",
+    "img": {
+     "src": "mathematics-2022/q015-optC.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Fifth",
+    "img": {
+     "src": "mathematics-2022/q015-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "The following table shows the signs of the\ncoordinates in eight octants.\nGiven, point is (2, -4, -7).\nIt lies in VIII quadrant.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q015-sol0.png",
+    "w": 671,
+    "h": 125
+   },
+   {
+    "src": "mathematics-2022/q015-sol1.png",
+    "w": 652,
+    "h": 94
+   }
+  ],
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "octant"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 16,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \nthe\nquadratic \nequation \nwhose \nroots \nare \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q016-stem0.png",
+    "w": 558,
+    "h": 189
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "x2 - 14x + 49 = 0",
+    "img": {
+     "src": "mathematics-2022/q016-optA.png",
+     "w": 526,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "x2 - 10x + 21 = 0",
+    "img": {
+     "src": "mathematics-2022/q016-optB.png",
+     "w": 525,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "x2 - 6x + 9 = 0",
+    "img": {
+     "src": "mathematics-2022/q016-optC.png",
+     "w": 526,
+     "h": 49
+    }
+   },
+   {
+    "letter": "D",
+    "text": "x2 - 7x + 8 = 0",
+    "img": {
+     "src": "mathematics-2022/q016-optD.png",
+     "w": 523,
+     "h": 49
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Therefore, the quadratic equation whose roots\nare \n3 \nand \n7 \nis \ngiven \nby \n \nwhich \nis",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q016-sol0.png",
+    "w": 652,
+    "h": 642
+   }
+  ],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "quadratic"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 17,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If 3x + i (4x - y) = 6 - i where x and y are real\nnumbers, then the values of x and y are\nrespectively,",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q017-stem0.png",
+    "w": 558,
+    "h": 127
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3, 9",
+    "img": {
+     "src": "mathematics-2022/q017-optA.png",
+     "w": 293,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "2, 4",
+    "img": {
+     "src": "mathematics-2022/q017-optB.png",
+     "w": 259,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2, 9",
+    "img": {
+     "src": "mathematics-2022/q017-optC.png",
+     "w": 293,
+     "h": 66
+    }
+   },
+   {
+    "letter": "D",
+    "text": "3, 4",
+    "img": {
+     "src": "mathematics-2022/q017-optD.png",
+     "w": 257,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "3x + i (4x - y) = 6 - i\nOn comparing real and imaginary parts of LHS\nand RHS, we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q017-sol0.png",
+    "w": 652,
+    "h": 385
+   }
+  ],
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "imaginary"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 18,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If the standard deviation of the numbers -1, 0,\n1, k is \n where k > 0, then k is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q018-stem0.png",
+    "w": 558,
+    "h": 101
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q018-optA.png",
+     "w": 293,
+     "h": 72
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q018-optB.png",
+     "w": 259,
+     "h": 51
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q018-optC.png",
+     "w": 293,
+     "h": 83
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q018-optD.png",
+     "w": 257,
+     "h": 50
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, numbers are -1, 0, 1, k\nStandard deviation,",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q018-sol0.png",
+    "w": 652,
+    "h": 131
+   }
+  ],
+  "chapter": "Statistics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "standard deviation"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If the set x contains 7 elements adn set y\ncontains 8 elements, then the number of\nbijections from x to y is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q019-stem0.png",
+    "w": 558,
+    "h": 127
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2022/q019-optA.png",
+     "w": 293,
+     "h": 53
+    }
+   },
+   {
+    "letter": "B",
+    "text": "8P7",
+    "img": {
+     "src": "mathematics-2022/q019-optB.png",
+     "w": 259,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "7!",
+    "img": {
+     "src": "mathematics-2022/q019-optC.png",
+     "w": 293,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "8!",
+    "img": {
+     "src": "mathematics-2022/q019-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Number of bijections from x to y will be zero\nbecause only sets with the same cardinality\nhave bijections between them and it is given\nthat number of elements in x and y are not\nsame.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q019-sol0.png",
+    "w": 671,
+    "h": 250
+   }
+  ],
+  "chapter": "Sets",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "set"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 20,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n \nbe \ndefined \nby\n then f(-1) +\nf(2) + f(4) is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q020-stem0.png",
+    "w": 558,
+    "h": 214
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2022/q020-optA.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2022/q020-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2022/q020-optC.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "14",
+    "img": {
+     "src": "mathematics-2022/q020-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q020-sol0.png",
+    "w": 671,
+    "h": 274
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "Let the relation R is defined in N by aRb, if 3a +\n2b = 27 then R is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q021-stem0.png",
+    "w": 558,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "{(1, 12), (3, 9), (5, 6), (7, 3)}",
+    "img": {
+     "src": "mathematics-2022/q021-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "{(0, 27/2), (1, 12), (3, 9), (5, 6), (7, 3)}",
+    "img": {
+     "src": "mathematics-2022/q021-optB.png",
+     "w": 525,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "{(1, 12), (3, 9), (5, 6), (7, 3), (9, 0)}",
+    "img": {
+     "src": "mathematics-2022/q021-optC.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "{(2, 1), (9, 3), (6, 5), (3, 7)}",
+    "img": {
+     "src": "mathematics-2022/q021-optD.png",
+     "w": 523,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given relation is 3a + 2b = 27, where \nHence, we can see that the elements of option\n(a) satisfies the given relation. Hence, option\n(a) is correct.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q021-sol0.png",
+    "w": 671,
+    "h": 507
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "relation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q022-stem0.png",
+    "w": 563,
+    "h": 85
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q022-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q022-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q022-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q022-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q022-sol0.png",
+    "w": 671,
+    "h": 384
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If A is a matrix of order 3 x 3, then \n is\nequal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q023-stem0.png",
+    "w": 563,
+    "h": 103
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(-A2)2",
+    "img": {
+     "src": "mathematics-2022/q023-optA.png",
+     "w": 210,
+     "h": 50
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(A1)2",
+    "img": {
+     "src": "mathematics-2022/q023-optB.png",
+     "w": 264,
+     "h": 50
+    }
+   },
+   {
+    "letter": "C",
+    "text": "A2",
+    "img": {
+     "src": "mathematics-2022/q023-optC.png",
+     "w": 210,
+     "h": 49
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(-A)-2",
+    "img": {
+     "src": "mathematics-2022/q023-optD.png",
+     "w": 262,
+     "h": 49
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q023-sol0.png",
+    "w": 671,
+    "h": 268
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "matrix"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 24,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n then the inverse of the\nmatrix A3 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q024-stem0.png",
+    "w": 563,
+    "h": 137
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "A",
+    "img": {
+     "src": "mathematics-2022/q024-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "-1",
+    "img": {
+     "src": "mathematics-2022/q024-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2022/q024-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-A",
+    "img": {
+     "src": "mathematics-2022/q024-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q024-sol0.png",
+    "w": 671,
+    "h": 49
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "inverse of the matrix"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 25,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If A is a skew symmetric matrix, then A2021 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q025-stem0.png",
+    "w": 563,
+    "h": 60
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Row matrix",
+    "img": {
+     "src": "mathematics-2022/q025-optA.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Column matrix",
+    "img": {
+     "src": "mathematics-2022/q025-optB.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Symmetric matrix",
+    "img": {
+     "src": "mathematics-2022/q025-optC.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Skew symmetric matrix",
+    "img": {
+     "src": "mathematics-2022/q025-optD.png",
+     "w": 529,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Hence, A2021 is also a skew symmetric matrix.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q025-sol0.png",
+    "w": 652,
+    "h": 289
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 27,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "symmetric matrix",
+   "skew symmetric",
+   "matrix"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n then (aI + bA)n is (where I is\nthe identify matrix of order 2)",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q026-stem0.png",
+    "w": 563,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q026-optA.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q026-optB.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q026-optC.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q026-optD.png",
+     "w": 529,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "aI + bA = aI + bA\nIt is ture for n = 1.\nLet P(n) is true for n = K.\nSo, \nNow, for n = K + 1\nHence, P(n) is true for all",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q026-sol0.png",
+    "w": 652,
+    "h": 453
+   },
+   {
+    "src": "mathematics-2022/q026-sol1.png",
+    "w": 709,
+    "h": 56
+   }
+  ],
+  "chapter": "Matrices",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "matrix"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If A is a 3 x 3 matrix such that |5 . adj A| = 5,\nthen |A| is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q027-stem0.png",
+    "w": 563,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q027-optA.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q027-optB.png",
+     "w": 264,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q027-optC.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q027-optD.png",
+     "w": 262,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given A is a 3 x 3 matrix and |5 . adj (A)| = 5",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q027-sol0.png",
+    "w": 709,
+    "h": 272
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "|a|",
+   "adj"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 28,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If there are two values of 'a' which makes\ndeterminant\nThen, the sum of these number is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q028-stem0.png",
+    "w": 563,
+    "h": 248
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "-4",
+    "img": {
+     "src": "mathematics-2022/q028-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2022/q028-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2022/q028-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2022/q028-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q028-sol0.png",
+    "w": 709,
+    "h": 633
+   }
+  ],
+  "chapter": "Determinants",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "determinant"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 29,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If the vertices of a triangle are (-2, 6), (3, -6) and\n(1, 5) then the area of the triangle is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q029-stem0.png",
+    "w": 558,
+    "h": 88
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "40 sq. units",
+    "img": {
+     "src": "mathematics-2022/q029-optA.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "15.5 sq. units",
+    "img": {
+     "src": "mathematics-2022/q029-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "30 sq. units",
+    "img": {
+     "src": "mathematics-2022/q029-optC.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "35 sq. units",
+    "img": {
+     "src": "mathematics-2022/q029-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given vertices of triangle are (-2, 6), (3, -6) and\n(1, 5).",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q029-sol0.png",
+    "w": 709,
+    "h": 124
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 30,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "Domain cos-1[x] is, where [x] denotes a\ngreatest integer function",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q030-stem0.png",
+    "w": 558,
+    "h": 96
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(-1, 2]",
+    "img": {
+     "src": "mathematics-2022/q030-optA.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(-1, 2)",
+    "img": {
+     "src": "mathematics-2022/q030-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "[-1, 2]",
+    "img": {
+     "src": "mathematics-2022/q030-optC.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "[-1, 2)",
+    "img": {
+     "src": "mathematics-2022/q030-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q030-sol0.png",
+    "w": 652,
+    "h": 316
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "function",
+   "greatest integer",
+   "domain"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q031-stem0.png",
+    "w": 558,
+    "h": 60
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q031-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q031-optB.png",
+     "w": 525,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q031-optC.png",
+     "w": 809,
+     "h": 46
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q031-optD.png",
+     "w": 804,
+     "h": 67
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Differentiating the given function w.r.t. x",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q031-sol0.png",
+    "w": 652,
+    "h": 372
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n is a\nparameter, then dy/dx at (1, 1) is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q032-stem0.png",
+    "w": 558,
+    "h": 89
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2022/q032-optA.png",
+     "w": 293,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "1/2",
+    "img": {
+     "src": "mathematics-2022/q032-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "-1/2",
+    "img": {
+     "src": "mathematics-2022/q032-optC.png",
+     "w": 293,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "-1/4",
+    "img": {
+     "src": "mathematics-2022/q032-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "On dividing Eq. (ii) by Eq. (i), we get\nAs we also have, \nPutting tan q =1 into Eq. (iii), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q032-sol0.png",
+    "w": 652,
+    "h": 628
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "tan"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n \nthen \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q033-stem0.png",
+    "w": 558,
+    "h": 129
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2022/q033-optA.png",
+     "w": 293,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2022/q033-optB.png",
+     "w": 259,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2022/q033-optC.png",
+     "w": 293,
+     "h": 66
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2022/q033-optD.png",
+     "w": 257,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, \nDifferentiating w.r,t x, we get \nDifferentiating w.r.t. x, we get\nAt x = loge 3, from Eq (i). we get \nPutting \n into Eq. (iii), get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q033-sol0.png",
+    "w": 693,
+    "h": 931
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n then the derivation of \n at x = 1 is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q034-stem0.png",
+    "w": 558,
+    "h": 90
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "10",
+    "img": {
+     "src": "mathematics-2022/q034-optA.png",
+     "w": 293,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "33",
+    "img": {
+     "src": "mathematics-2022/q034-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "35",
+    "img": {
+     "src": "mathematics-2022/q034-optC.png",
+     "w": 293,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "12",
+    "img": {
+     "src": "mathematics-2022/q034-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Diffentiating w.r.t x, we get \nAt \n′\n′\n′\n′\n′\n′\n′\n′\n′\n′\n′\n′",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q034-sol0.png",
+    "w": 693,
+    "h": 563
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 35,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q035-stem0.png",
+    "w": 858,
+    "h": 76
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q035-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q035-optB.png",
+     "w": 525,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2022/q035-optC.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q035-optD.png",
+     "w": 523,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given \nLet\nand \nNow, \nDifferentiating w.r.t. x, we get\nNow, \nDifferentiating w.r.t x, we get \nadding Eqs. (i) and (ii), we get \nAt",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q035-sol0.png",
+    "w": 693,
+    "h": 205
+   },
+   {
+    "src": "mathematics-2022/q035-sol1.png",
+    "w": 652,
+    "h": 585
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q036-stem0.png",
+    "w": 558,
+    "h": 169
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "–2021",
+    "img": {
+     "src": "mathematics-2022/q036-optA.png",
+     "w": 193,
+     "h": 52
+    }
+   },
+   {
+    "letter": "B",
+    "text": "–(2021)2",
+    "img": {
+     "src": "mathematics-2022/q036-optB.png",
+     "w": 259,
+     "h": 52
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(2021)2",
+    "img": {
+     "src": "mathematics-2022/q036-optC.png",
+     "w": 193,
+     "h": 53
+    }
+   },
+   {
+    "letter": "D",
+    "text": "4042",
+    "img": {
+     "src": "mathematics-2022/q036-optD.png",
+     "w": 257,
+     "h": 53
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q036-sol0.png",
+    "w": 652,
+    "h": 750
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The \nFunction \n \nis\nincreasing on",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q037-stem0.png",
+    "w": 563,
+    "h": 95
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q037-optA.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q037-optB.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q037-optC.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q037-optD.png",
+     "w": 529,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given\nsign \n depends on the sign of \n When \nincreasing \n when \ndecreasing \nHence \n Is increasing on \n \n′\n′\n′\n′",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q037-sol0.png",
+    "w": 652,
+    "h": 87
+   },
+   {
+    "src": "mathematics-2022/q037-sol1.png",
+    "w": 709,
+    "h": 621
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 38,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The \ncoordinates \nof \nthe \npoint \non \nthe\n at which the tangent is equally\ninclined to the axes is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q038-stem0.png",
+    "w": 563,
+    "h": 136
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(4,4)",
+    "img": {
+     "src": "mathematics-2022/q038-optA.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(1,1)",
+    "img": {
+     "src": "mathematics-2022/q038-optB.png",
+     "w": 264,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(9,9)",
+    "img": {
+     "src": "mathematics-2022/q038-optC.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(6,6)",
+    "img": {
+     "src": "mathematics-2022/q038-optD.png",
+     "w": 262,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Differentiating w.r.t.x, we get\nSince, the tangent is equally inclined to the\naxes.\nTherefore",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q038-sol0.png",
+    "w": 709,
+    "h": 671
+   }
+  ],
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "coordinates of the point"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 39,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The \nfunction\n is\nstrictly",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q039-stem0.png",
+    "w": 563,
+    "h": 130
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "decreasing in",
+    "img": {
+     "src": "mathematics-2022/q039-optA.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Decreased in",
+    "img": {
+     "src": "mathematics-2022/q039-optB.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Increasing in",
+    "img": {
+     "src": "mathematics-2022/q039-optC.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Decreasing in",
+    "img": {
+     "src": "mathematics-2022/q039-optD.png",
+     "w": 529,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given\nWe know \n and \n and \n′\n′\nTherfore \n \nWhen \nSo, \n is increasing when \n and\n When\nSo, \n is decreasing when \nHence, \n is decreaing in \n′",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q039-sol0.png",
+    "w": 709,
+    "h": 386
+   },
+   {
+    "src": "mathematics-2022/q039-sol1.png",
+    "w": 652,
+    "h": 316
+   }
+  ],
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "strictly decreasing"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 40,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n is the greatest integer function not\ngreater than x, then \n is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q040-stem0.png",
+    "w": 563,
+    "h": 136
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "28",
+    "img": {
+     "src": "mathematics-2022/q040-optA.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "30",
+    "img": {
+     "src": "mathematics-2022/q040-optB.png",
+     "w": 264,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "29",
+    "img": {
+     "src": "mathematics-2022/q040-optC.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "20",
+    "img": {
+     "src": "mathematics-2022/q040-optD.png",
+     "w": 262,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q040-sol0.png",
+    "w": 652,
+    "h": 774
+   }
+  ],
+  "chapter": "Relations and Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "function",
+   "greatest integer"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q041-stem0.png",
+    "w": 563,
+    "h": 101
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q041-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q041-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q041-optC.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q041-optD.png",
+     "w": 262,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Let \nLet \nwhen \nWhen",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q041-sol0.png",
+    "w": 652,
+    "h": 535
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 42,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n the ordered pair \n at\nx=0 is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q042-stem0.png",
+    "w": 563,
+    "h": 115
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q042-optA.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q042-optB.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q042-optC.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q042-optD.png",
+     "w": 529,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given \nDifferentaing w.r.t x, we get\nAgain, dirrentiantiang Eq. (ii) w.r.t x, we get \nNow, on putting \n in Eq, (i), we get\nOn putting \n in Eq, (iii), we get \nnow, putting \nand \nin Eq,\n(iv), we get\nHence \nat x = 0 is \n \n′",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q042-sol0.png",
+    "w": 652,
+    "h": 124
+   },
+   {
+    "src": "mathematics-2022/q042-sol1.png",
+    "w": 671,
+    "h": 661
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 43,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q043-stem0.png",
+    "w": 563,
+    "h": 57
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q043-optA.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q043-optB.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q043-optC.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q043-optD.png",
+     "w": 529,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q043-sol0.png",
+    "w": 671,
+    "h": 383
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q044-stem0.png",
+    "w": 558,
+    "h": 99
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q044-optA.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q044-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q044-optC.png",
+     "w": 193,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q044-optD.png",
+     "w": 257,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Here\n and \nWe \nknow\n′\n′",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q044-sol0.png",
+    "w": 671,
+    "h": 364
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 45,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "if \nthen",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q045-stem0.png",
+    "w": 558,
+    "h": 183
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q045-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q045-optB.png",
+     "w": 525,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q045-optC.png",
+     "w": 526,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q045-optD.png",
+     "w": 804,
+     "h": 69
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Here \nOn soving them, we get\nTherefore \nOn comparing Eqs. (i) and (ii), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q045-sol0.png",
+    "w": 687,
+    "h": 900
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 46,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "Area of the region bounded by the curve\n, the X-axis and line \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q046-stem0.png",
+    "w": 558,
+    "h": 92
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q046-optA.png",
+     "w": 293,
+     "h": 52
+    }
+   },
+   {
+    "letter": "B",
+    "text": "log 2",
+    "img": {
+     "src": "mathematics-2022/q046-optB.png",
+     "w": 259,
+     "h": 47
+    }
+   },
+   {
+    "letter": "C",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2022/q046-optC.png",
+     "w": 293,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "– log 2",
+    "img": {
+     "src": "mathematics-2022/q046-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "Given, curve \n and line",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q046-sol0.png",
+    "w": 687,
+    "h": 558
+   }
+  ],
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "area of the region"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "Evaluate \n as the limit of a sum",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q047-stem0.png",
+    "w": 558,
+    "h": 98
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "72/6",
+    "img": {
+     "src": "mathematics-2022/q047-optA.png",
+     "w": 293,
+     "h": 46
+    }
+   },
+   {
+    "letter": "B",
+    "text": "53/9",
+    "img": {
+     "src": "mathematics-2022/q047-optB.png",
+     "w": 259,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "25/7",
+    "img": {
+     "src": "mathematics-2022/q047-optC.png",
+     "w": 293,
+     "h": 67
+    }
+   },
+   {
+    "letter": "D",
+    "text": "19/3",
+    "img": {
+     "src": "mathematics-2022/q047-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Now, from Eq, (i) we have",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q047-sol0.png",
+    "w": 687,
+    "h": 48
+   },
+   {
+    "src": "mathematics-2022/q047-sol1.png",
+    "w": 1346,
+    "h": 99
+   }
+  ],
+  "chapter": "Limits and Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "limit"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 48,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q048-stem0.png",
+    "w": 858,
+    "h": 98
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "log 2 – 1",
+    "img": {
+     "src": "mathematics-2022/q048-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "log 2",
+    "img": {
+     "src": "mathematics-2022/q048-optB.png",
+     "w": 807,
+     "h": 46
+    }
+   },
+   {
+    "letter": "C",
+    "text": "– log 2",
+    "img": {
+     "src": "mathematics-2022/q048-optC.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1 – log 2",
+    "img": {
+     "src": "mathematics-2022/q048-optD.png",
+     "w": 523,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q048-sol0.png",
+    "w": 1346,
+    "h": 149
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 49,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q049-stem0.png",
+    "w": 858,
+    "h": 75
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q049-optA.png",
+     "w": 193,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q049-optB.png",
+     "w": 259,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q049-optC.png",
+     "w": 193,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q049-optD.png",
+     "w": 257,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q049-sol0.png",
+    "w": 1346,
+    "h": 661
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 50,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The solution of the differential equation",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q050-stem0.png",
+    "w": 558,
+    "h": 98
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q050-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q050-optB.png",
+     "w": 525,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q050-optC.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q050-optD.png",
+     "w": 523,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Eq. (i) can be written as",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q050-sol0.png",
+    "w": 1346,
+    "h": 400
+   }
+  ],
+  "chapter": "Differential Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "differential equation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n is the solution of differential equation \n is equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q051-stem0.png",
+    "w": 563,
+    "h": 111
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "e",
+    "img": {
+     "src": "mathematics-2022/q051-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "0",
+    "img": {
+     "src": "mathematics-2022/q051-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2022/q051-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2e",
+    "img": {
+     "src": "mathematics-2022/q051-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Putting \n we get \nPutting \n in Eq,(i), we get",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q051-sol0.png",
+    "w": 1346,
+    "h": 402
+   }
+  ],
+  "chapter": "Differential Equations",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "differential equation"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n and the angle between a\nand b is 120°, then the length of the vector\n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q052-stem0.png",
+    "w": 563,
+    "h": 135
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2022/q052-optA.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "3",
+    "img": {
+     "src": "mathematics-2022/q052-optB.png",
+     "w": 264,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "1/6",
+    "img": {
+     "src": "mathematics-2022/q052-optC.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "1",
+    "img": {
+     "src": "mathematics-2022/q052-optD.png",
+     "w": 262,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "B",
+  "solutionText": "We know that, \nHence, Option (b) is correct",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q052-sol0.png",
+    "w": 709,
+    "h": 572
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "angle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "If \n equal to",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q053-stem0.png",
+    "w": 563,
+    "h": 110
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "9",
+    "img": {
+     "src": "mathematics-2022/q053-optA.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "36",
+    "img": {
+     "src": "mathematics-2022/q053-optB.png",
+     "w": 264,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2022/q053-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "2",
+    "img": {
+     "src": "mathematics-2022/q053-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "and \nCorrect one is \n and \nWe know",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q053-sol0.png",
+    "w": 709,
+    "h": 353
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 54,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "if \n then express i\nthe form \n Where \n is parallel to\n is \nperpendicular to , then \n is given by",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q054-stem0.png",
+    "w": 563,
+    "h": 173
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q054-optA.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q054-optB.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q054-optC.png",
+     "w": 531,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q054-optD.png",
+     "w": 529,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "is parallelr to \nIt is given \n is perpendicular to .",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q054-sol0.png",
+    "w": 709,
+    "h": 389
+   }
+  ],
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 55,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The sum of the degree and order of the\ndifferential equation \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q055-stem0.png",
+    "w": 563,
+    "h": 101
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "4",
+    "img": {
+     "src": "mathematics-2022/q055-optA.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "6",
+    "img": {
+     "src": "mathematics-2022/q055-optB.png",
+     "w": 264,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "5",
+    "img": {
+     "src": "mathematics-2022/q055-optC.png",
+     "w": 210,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "7",
+    "img": {
+     "src": "mathematics-2022/q055-optD.png",
+     "w": 262,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Here, highest derivative is y2.\nTherefore, order is 2 and power of y2 is 3.\nSo, the degree is 3.\nHence, required sum = 2+3=5",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q055-sol0.png",
+    "w": 652,
+    "h": 398
+   }
+  ],
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "degree"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The coordinates of foot of the perpendicular\ndrawn \nfrom \nthe \norigin \nto \nthe \nplane\n are",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q056-stem0.png",
+    "w": 563,
+    "h": 127
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q056-optA.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q056-optB.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q056-optC.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q056-optD.png",
+     "w": 529,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "C",
+  "solutionText": "Given, \nequation \nof \nplane \nis \nSince, \n is perpendicular to the plane\nTherefore, Direction Ratios of \n will be \n.\nEquation of line \n will be\n (say) \nCoordinates of \n will be \n.\n \nlies \non \nplane, \nso \n Coordinates of \n will be \n.",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q056-sol0.png",
+    "w": 652,
+    "h": 846
+   }
+  ],
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 7,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "foot of the perpendicular",
+   "plane"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The \nangle \nbetween \nthe \npair \nof \nlines\n and \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q057-stem0.png",
+    "w": 558,
+    "h": 117
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q057-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q057-optB.png",
+     "w": 525,
+     "h": 44
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q057-optC.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q057-optD.png",
+     "w": 523,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Given, equation of lines are\n.... (i)\n and \n.... (ii)\nDirection ratios of line (i) :",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q057-sol0.png",
+    "w": 652,
+    "h": 266
+   }
+  ],
+  "chapter": "Introduction to Three Dimensional Geometry",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "direction ratios"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The corner points of the feasible region of an\nLPP are \n,\nthen the minimum value of \noccurs at",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q058-stem0.png",
+    "w": 558,
+    "h": 165
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "Finite number of points",
+    "img": {
+     "src": "mathematics-2022/q058-optA.png",
+     "w": 526,
+     "h": 44
+    }
+   },
+   {
+    "letter": "B",
+    "text": "Infinite number of points",
+    "img": {
+     "src": "mathematics-2022/q058-optB.png",
+     "w": 525,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "Only one point",
+    "img": {
+     "src": "mathematics-2022/q058-optC.png",
+     "w": 526,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "Only two points",
+    "img": {
+     "src": "mathematics-2022/q058-optD.png",
+     "w": 523,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "D",
+  "solutionText": "Given, the corner points of the feasible region\nof an LPP are (0, 2), (3, 0), (6, 0), (6, 8) and (0,5)\nMinimum value of z occurs at (0, 2) and (3,0).\nHence, minimum value of z lies at any point on\nthe line joining two points (0, 2) and (3,0).",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q058-sol0.png",
+    "w": 1346,
+    "h": 239
+   }
+  ],
+  "chapter": "Linear Programming",
+  "chapterScore": 18,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "feasible region",
+   "lpp",
+   "feasible"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 59,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "A dietician has to develop a special diet using\ntwo foods X and Y. Each packet (containing 30\ng) of food. X contains 12 units of calcium, 4\nunits of iron, 6 units of cholesterol and 6 units\nof vitamin A. Each packet of the same quantity\nof food Y contains 3 units of calcium, 20 units\nof iron, 4 units of cholesterol and 3 units of\nvitamin A. The diet requires at least 240 units\nof calcium, atleast 460 units of iron and atmost\n300 units of cholesterol. The corner points of\nthe feasible region are",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q059-stem0.png",
+    "w": 563,
+    "h": 431
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "(2,72), (40, 15), (15, 20)",
+    "img": {
+     "src": "mathematics-2022/q059-optA.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "B",
+    "text": "(2,72), (15, 20), (0, 23)",
+    "img": {
+     "src": "mathematics-2022/q059-optB.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "C",
+    "text": "(0, 23), (40, 15), (2, 72)",
+    "img": {
+     "src": "mathematics-2022/q059-optC.png",
+     "w": 531,
+     "h": 43
+    }
+   },
+   {
+    "letter": "D",
+    "text": "(2,72), (40, 15), (115,0",
+    "img": {
+     "src": "mathematics-2022/q059-optD.png",
+     "w": 529,
+     "h": 43
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "Direction ratios of line (ii) : \nWe know angle between pair of lines is given\nby\nwhere, \n and \n are\ndirection ratios of respectively lines.\nQ59\nwe can see that corner point of the feasible\nregion are (2,72), (40, 15), (15, 20)",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q059-sol0.png",
+    "w": 1346,
+    "h": 515
+   }
+  ],
+  "chapter": "Linear Programming",
+  "chapterScore": 14,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "feasible region",
+   "corner point",
+   "feasible"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 60,
+  "subject": "Mathematics",
+  "year": 2022,
+  "source": "Mathematics-2022.pdf",
+  "stemText": "The distance of the point whose position\nvector is \n from the plane \n is",
+  "stemImages": [
+   {
+    "src": "mathematics-2022/q060-stem0.png",
+    "w": 563,
+    "h": 147
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q060-optA.png",
+     "w": 210,
+     "h": 48
+    }
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q060-optB.png",
+     "w": 264,
+     "h": 48
+    }
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q060-optC.png",
+     "w": 210,
+     "h": 44
+    }
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": {
+     "src": "mathematics-2022/q060-optD.png",
+     "w": 262,
+     "h": 44
+    }
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [
+   {
+    "src": "mathematics-2022/q060-sol0.png",
+    "w": 1346,
+    "h": 91
+   }
+  ],
+  "chapter": "Vector Algebra",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "position vector",
+   "vector"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

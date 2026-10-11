@@ -1,0 +1,841 @@
+[
+ {
+  "number": 19,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "19. The equation to two circles which touch the Y-axis at (0, 3) and make an intercept of 8 units on X-axis are 0=6+9-x01++αx 1) 2） 4) x² + y2 -8x±10y +9 = 0",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q019-stem0.png",
+    "w": 1886,
+    "h": 258
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Straight Lines",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "x-axis",
+   "y-axis",
+   "intercept"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 21,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "21. x²+y2 -6x -6y+4=0, x2 +y2 -2x-4y+3=0, x2 + y2 + 2kx+2y+1=0 Ifthe Radical centre of the above three circles exists, then which of the following cannot be the value ofk ? 1)1 2)2 3) 4) 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q021-stem0.png",
+    "w": 1894,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 22,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "22. Ifthe circles x2 + y2 - 2x - 2y-7 =0 and x2 + y2 + 4x + 2y + k =0 cut orthogenally,then the length of the common chord of the circles is 2) 1%/13 1) 3) 8.: 4)5",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q022-stem0.png",
+    "w": 1891,
+    "h": 402
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "26. A graph G has 'm' vertices of odd degree and 'n' vertices of even degree. Then which of the following statements is necessarily true ? 1) m + n is an even number 2) m + n is an odd number 3) m + 1 is an odd number 4) n + 1 is an even number",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q026-stem0.png",
+    "w": 1883,
+    "h": 364
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "degree"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 27,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "27. If p is any point on the ellipse 1, and S and S' are the foci, then PS + PS'= 36 16 1)8 2) 4 3)12 4) 10",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q027-stem0.png",
+    "w": 1774,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ellipse"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 31,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "31. 1S 3 1 1 1) 2) √3 √3 3) √3 4",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q031-stem0.png",
+    "w": 1784,
+    "h": 419
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 32,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "32. Sin217.50 +Sin272.50 is equal to 1） Tan2450 2) Cos2900 3) Sin2450 4) Cos2300 (1+",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q032-stem0.png",
+    "w": 1789,
+    "h": 400
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 33,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "33. The conjugate of the complex number 1S 1-i 1) 1+i 2) 1-i 3) -1-i 4) -1+i",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q033-stem0.png",
+    "w": 1791,
+    "h": 331
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "complex number",
+   "conjugate of the complex",
+   "conjugate"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 34,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "34. ABC is a triangle with [A = 30° BC = 10 cms A The area of the circum-circle of the triangle is B 10 cms 1) 5 sq. cms. 2)100π sq. cms. 100π 3) sq. cms. 4） 25 sq. cms.",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q034-stem0.png",
+    "w": 1911,
+    "h": 766
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Conic Sections",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circle"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 36,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "36.The imaginary part of ji is 1)1 .2)0 3) -1 4).2",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q036-stem0.png",
+    "w": 1790,
+    "h": 284
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "imaginary",
+   "imaginary part"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 37,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "37. The amplitude of (1 +i)? 1S -3π 3π 1) 2) .4 4 5π -5π 3) 4)",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q037-stem0.png",
+    "w": 1783,
+    "h": 341
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 41,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "41. If Sec =α,then dx y+1 y-1 1) 2). x-1 x+1 x-1 x-1 3) y+1 4) y-1",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q041-stem0.png",
+    "w": 1796,
+    "h": 526
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sec"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 47,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "2 at (-a, α) is 47. The length of the subtangent to the curve a 1)2α 2) a/ α/3 3) 4) a",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q047-stem0.png",
+    "w": 1803,
+    "h": 373
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "subtangent"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 51,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "x2 + 6x - 3 is increasing is 51. :. The range in which y = -x2 . 1) x>3 2) x<3 3 5<x<6 4) 7<x<8 π/2 x -Cos100x 100",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q051-stem0.png",
+    "w": 1851,
+    "h": 349
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Relations and Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "range"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "52. The value of the integral Sin 0 100! 1 0or(00) 2) 1) 100",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q052-stem0.png",
+    "w": 1808,
+    "h": 386
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "sin"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 56,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "56.Thevalue of ex .x5 +ex +C 1) 2) 5x4 ·ex ex+1.x5+C 3) 4) x² +1 dx is",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q056-stem0.png",
+    "w": 1805,
+    "h": 413
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "dx"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 57,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "57. The value of x²-1 x+1 Log 1) Log 2) x+1 x x-1 4)x +Log 3）",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q057-stem0.png",
+    "w": 1800,
+    "h": 516
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 58,
+  "subject": "Mathematics",
+  "year": 2007,
+  "source": "kcet-2007-mathematics-question-paper.pdf",
+  "stemText": "58. The area bounded by the curve x = 4 - y2 and the Y-axis is 1) 32 sq. units 2) 16 sq. units",
+  "stemImages": [
+   {
+    "src": "mathematics-2007-kea/q058-stem0.png",
+    "w": 1800,
+    "h": 190
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Application of Integrals",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "area bounded by the curve"
+  ],
+  "chapterConfidence": "medium"
+ }
+]

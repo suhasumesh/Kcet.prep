@@ -1,0 +1,1352 @@
+[
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "11.For an ideal binary liquid mixture S<0byalimt(2)S>0;Gik0illsmA olsbn（1)ix△H.=0;△S (mix) (mix) (xru) (xIu) odbluo (3) △S =0;△G.、=0 (4) △V =0;△G.、>0 (mix) (mix)OM(S) (mix) (mix) KO (1) （A） (8)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q011-stem0.png",
+    "w": 1783,
+    "h": 344
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "12.For hydrogen - oxygen fuel cell at one atm and 298 K H2(g) +02(g) →H2O(n; △G° = -240 kJ aiavloaosO S+Y E° for the cell is approximately, iwno（Given F=96,500C）ib2sogbosbdbidosdnsY (1) 1.24V (2) 1.26VluoXilsbsuo (3) 2.48V (4) 2.5V HO CH=CH",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q012-stem0.png",
+    "w": 1786,
+    "h": 556
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "fuel cell"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 13,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "13. Which one of these is not known ? (S) CuL2HO=HO CuBr2H= (1) (2) (3) CuCl2 (A) (4) CuF2 (E)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q013-stem0.png",
+    "w": 1783,
+    "h": 283
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 14,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "14.The correct statement is OH (1) The extent of actinoid contraction is almost the same as lanthanoid contraction.8l (2) Ce+4 in aqueous solution is not known. (3) The earlier members of lanthanoid series resemble calcium in their chemical properties.o-S-neins() lo-fneudlvdtom-() （4) 美 gol to dqeng 6mmdtoei doilbnuoHe",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q014-stem0.png",
+    "w": 1790,
+    "h": 610
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 12,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "lanthanoid",
+   "actinoid"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 18,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "\"A' Bioniteto nstxsnT 18 D (S) 0 The IUPACname of‘B'is noeo2onsebionsninisl 1oasdmamsilsesdT (E) (1) 2-methylbutan-3-ol (2) Pentan-2-olzsinsqoq onob ebion(4）s2 2-methylbutan-2-ol (3)ao3-methylbutan-2-ol 251 x",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q018-stem0.png",
+    "w": 1894,
+    "h": 469
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 19,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "is plotted against log P. The slope of the line and om-A J2b its y-axis intercept,respectively corresponds to OH.S △ 1 1 (1) 1og (2) log,log k aig",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q019-stem0.png",
+    "w": 1894,
+    "h": 285
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 23,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "23. Y (major product) Y is CH²C=CH (+) (）CH²CH(OHCH -NO2 (1) HO COO- drnoituloa aibadr ltsiqmoozew#inommetoslomnO (2) O2N- COO- NOHOOHM(MI() coo- (3) （CIAGDK(MH)=) O2N- COO- (4) <d<(1) K<d（） s<<d(8)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q023-stem0.png",
+    "w": 1898,
+    "h": 837
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 24,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "24. A(g) P(g) + Q(g) + R(g), follows first order kinetics with a half life of 69.3 s at 500°C. Starting from the gas‘A'enclosed in a container at 500°C and at a pressure of 0.4 atm, the total pressure of thesystem after 230 swill besvloezib asg negouin io gn c.8s G22m panslomodT.eegnsgouim 1.32 atm (1) (2) 1.12 atm (3) 1.15atm (4) 1.22 atm （S）1×10 01x1(1) (3）1×10-e 01x1 △",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q024-stem0.png",
+    "w": 1925,
+    "h": 493
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 26,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "26. Acetophenone cannot be prepared easily starting from HO CHCOGI\\Ps (1) CH,CH (ubog)Y (2) CH6 (3) CH,CH(OH)CH, (4) CHC = CH aiY OV",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q026-stem0.png",
+    "w": 1817,
+    "h": 424
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "acetophenone"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 30,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "30.The compound that reacts the fastest with sodium methoxide issuiot yxoibyd bsislyiu& CI isnielums (S) CI Jnsge gniwoveff(l) (#) jasbixoins (e) (1) (2) NO2 TON ai snslysT NO2 Celog rworgqt (1）b loNOwogmied myloqo(e) (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q030-stem0.png",
+    "w": 1794,
+    "h": 806
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 32,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "32. Solubility product of the salt AB at 298K isdmn imoie mon nsmsl sd gnomAe ai Hedadua atisd mi uoulsbieqau Given ^(AB) = 140 × 10-4 S m2mol-1 (S) 1.32×10-12 1.74×10-12 (1) (2) 5.7 × 10-12 (A) 7.5×10-12 (E) (3) (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q032-stem0.png",
+    "w": 1794,
+    "h": 431
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "solubility product"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 33,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "9b V (1) 8001019 (1) Competing reaction for an S2 reaction is rearrangement. lesT10t A weak nucleophile and a protic solvent increases the rate or favours S1 reaction. (2) (3)A strong nucleophile in an aprotic solvent increases the rate or favours S2 Tuorve reaction. 2g61no oinw ts tsisqmsjewolsruaiusiogmseoin (A) S1 reactions can be catalysed by some Lewis acids. zmsso taai (4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q033-stem0.png",
+    "w": 1796,
+    "h": 498
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "nucleophile"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 34,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "34.Butylated hydroxy toluene as a food additive acts asteai s ztoes jsd bnuoqaoo sdT o (1) flavouring agent (2) emulsifier (3) antioxidant (4) colouring agent",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q034-stem0.png",
+    "w": 1796,
+    "h": 307
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "toluene"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 35,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "35.Terylene is NOTa OM polyester fibre (1) (2) stepgrowth polymer (3) copolymer (4) chain growth polymer",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q035-stem0.png",
+    "w": 1796,
+    "h": 302
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "copolymer",
+   "terylene",
+   "polymer"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 36,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "36.The correct statement is One mole each of benzene and hydrogen when reacted gives 1/3 mole of (1) cyclohexane and 2/3mole unreacted hydrogen. (2) It is easier to hydrogenate benzene when compared to cyclohexene.isq srdT J (3) Cyclohexadiene and cyclohexene cannot be isolated with ease during controlled hydrogenation of benzene.) H (4) Hydrogenation of benzene to cyclohexane is an endothermicprocess. m201x8.iX8Adug tofobuloabstsmutsasloydivitoubno",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q036-stem0.png",
+    "w": 1796,
+    "h": 570
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 12,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "benzene"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 39,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "39. The correct arrangement for the ions in the increasing order of their radi ise mmoloboi Ca+²,K+,S-²H-H(S) (2)Cr,F,s-2 Na+, Cr, Ca+2 (4) Na+, AI+3, Be+2 (3) CH-CH-OH (A COOH HO CH-CH (E)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q039-stem0.png",
+    "w": 1791,
+    "h": 324
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 40,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "40.The correct arrangement of the species in the decreasing order of the bond length between carbon and oxygen in them is -2 (1) (2)CO, CO3,CO2,HCO2 A -2 (4) CO,HCO, CO, CO (3) (D ebiov abioy teabs biovlebedsdoitoooo",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q040-stem0.png",
+    "w": 1889,
+    "h": 431
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "bond length"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 41,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "41.The species that is not hydrolysed in water is (1)BaO2 (2) CaC2 (3) P4O10 (4) Mg3N2",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q041-stem0.png",
+    "w": 1797,
+    "h": 222
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 44,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "1 CH -CHCHOH (1) CH,CHO (2) D S++A+M(A) +. (E) (3) CH-CH-CH-COOH (4) CH-CH-OH pouq jupemc HO zi mod ai nogyxo bns nodis",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q044-stem0.png",
+    "w": 1789,
+    "h": 500
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 45,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "45. A crystalline solid XY has ccp arrangement for its element Y. X occupies 00 (1) 33% of octahedral voids 33%oftetrahedralvoids (2) (3) 66% of octahedral voids 66%oftetrahedralvoids (4） ziiswm bav (1）BO (5) NaOBr (A) 1. Conc. H,SO4 0r0 (E) 1.NH",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q045-stem0.png",
+    "w": 1796,
+    "h": 470
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "ccp",
+   "crystalline"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 46,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "46. CHCOOH - >Q →'R' 2. 2.heat to 460 K iieiqnibotbt nbnoin iqogo 'R'is ml<sO<A-Josfttiegh IT<IA<(2)p-bromo sulphanilamide (1) sulphanilamide (S) (3) o-bromo sulphanilic acidiA(4)-sulphanilic acidgnsnia (E) T+nl<A-roqonggnieibixo (A)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q046-stem0.png",
+    "w": 1897,
+    "h": 547
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
+ },
+ {
+  "number": 47,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "47.The statement that is NOT correct is inme roA (1) Carbohydrates are optically active. sbsiM](1) (2) Lactose has glycosidic linkage between C of glucose and C, of galactose unit. (3) Aldose or ketose sugars in alkaline medium do not isomerise.ol (E) (4) Penta acetate of glucose does notreact with hydroxylamine.doOl (A)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q047-stem0.png",
+    "w": 1794,
+    "h": 538
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 16,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "glucose",
+   "lactose",
+   "glycosidic"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 49,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "49.The statement that is NOTcorrect is bluode lsiom gninnsi sasdq woqeml() (1)In solid state PCl exists as [PCl]+[PCl] 1o228m1 (2oMPhosphorous acid on heating disproportionates to givemetaphosphoric acid and phosphine.to noisiooeaslo ssigsb srT (w）AeiT =I'8KK (3) Hypophosphorous acid reduces silver nitrate to silver. (1) Pure phosphine is non-inflammable. (4) P08 (E)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q049-stem0.png",
+    "w": 1813,
+    "h": 537
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "phosphine"
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "number": 50,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "50.In which one of the pairs of ion given, there is an ion that forms a co-ordination compound ot with both aqueous sodium hydroxide and ammonia and an other ion that forms a co-ordination compound only with aqueous sodium hydroxide ? Zn+2, AI+3 AI+3,Cu+2 (1) AtA (2) AEA(D (S) Pb+2, Cu+2 Cu+2,Zn+2 (3) (4) AA AAA (E)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q050-stem0.png",
+    "w": 1908,
+    "h": 430
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "ammonia"
+  ],
+  "chapterConfidence": "medium"
+ },
+ {
+  "number": 51,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "51.A crystalline solid X reacts with dil. HCl to liberate a gas Y.Y decolourises acidified is obtained.X and Zcould be,respectively Hq sdT.oo.I ei slomuillim I =[ Na,SO4, H,S (1) A (S) (2) Na,SO4, SO2",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q051-stem0.png",
+    "w": 1908,
+    "h": 284
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "crystalline"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 52,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "52.An aromatic compound A' (CHN) on reacting with NaNO/HCl at O C forms benzyl alcohol and nitrogen gas.The number of isomers possible for the compound‘A'is (1) 7 dq12(2））6 biosobsA G) (3) 5 aflsiO-IsbeiH （4）3 stendq muibo2() SVH (0) binsv IydoM(ii)",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q052-stem0.png",
+    "w": 1899,
+    "h": 381
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "nitrogen"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 53,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "53.The statement that is NOT correct is Koipes (b) snoufoT(vi) (1) Collectors enhance the wettability of mineral particles duringfroth flotation. (2) Copper from its low grade ores is extracted by hydrometallurgy.i(E) (3) A furnace lined with Haematite is used to convert cast iron to wrought iron. (4) In vapour phase refining,metal should form a volatile compound.mststa rT",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q053-stem0.png",
+    "w": 1801,
+    "h": 459
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "iron",
+   "copper"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 55,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "55. Volume occupied by single CsCl ion pair in a crystal is 7.014 x 10-23 cm.The smallest Cs Cs internuclear distance is equal to length of the side of the cube corresponding to volume of one CsCl ion pair.The smallest Cs to Cs interhuclear distance is nearlyo-o EAS(1) 4.3 A (2)4.5A (1) (S) 4.4A (4) 4 A (3) doIH libdiweXbinilatayA 56.For CrO+14H++6e→2Cr+3+7H,O;E°=1.33VAt [CrO1=4.5millimole,",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q055-stem0.png",
+    "w": 1907,
+    "h": 474
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "crystal"
+  ],
+  "chapterConfidence": "low"
+ },
+ {
+  "number": 58,
+  "subject": "Chemistry",
+  "year": 2014,
+  "source": "kcet-2014-chemistry-question-paper.pdf",
+  "stemText": "58. 10 g of a mixture of BaO and CaO requires 100 cm3 of 2.5 M HCl to react completely. The percentage of calcium oxide in the mixture is approximately (Given:molar mass of BaO= 153) (1) 55.1 (2) 47.4 (3) 52.6 (4) 44.9",
+  "stemImages": [
+   {
+    "src": "chemistry-2014-kea/q058-stem0.png",
+    "w": 1889,
+    "h": 438
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "molar mass"
+  ],
+  "chapterConfidence": "low"
+ }
+]
