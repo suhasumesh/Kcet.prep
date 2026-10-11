@@ -78,5 +78,17 @@
  "pradeep|Chemistry|0|115|Pradeep Chemistry · Class 12|787|229": "only the four generic assertion-reason options are in the band; the statements themselves are missing",
  "pradeep|Chemistry|0|50|Pradeep Chemistry · Class 12|863|284": "match-the-column question with Column II blank (clipped on the right) and the choice list cut off",
  "pradeep|Chemistry|0|67|Pradeep Chemistry · Class 12|865|286": "assertion-reason block with no answer choices attached to the first statement pair, and the band runs on through the TYPE III directions into questions 68, 69 and 70",
- "pradeep|Chemistry|0|14|Pradeep Chemistry · Class 12|654|147": "option (d) missing: the band ends after the three structures (a), (b) and (c)"
+ "pradeep|Chemistry|0|14|Pradeep Chemistry · Class 12|654|147": "option (d) missing: the band ends after the three structures (a), (b) and (c)",
+ "pradeep|Chemistry|0|12|Pradeep Chemistry · Class 12|100|17": "not an MCQ: a written exercise asking the student to outline seven preparations, with no answer choices",
+ "pradeep|Chemistry|0|25|Pradeep Chemistry · Class 12|101|18": "not an MCQ: written exercises on naming isomers of C4H9Br and defining optical activity, with no answer choices",
+ "pradeep|Chemistry|0|10|Pradeep Chemistry · Class 12|129|20": "stem missing: the band opens on four orphan option lists, then a question whose own options are not in the crop",
+ "pradeep|Chemistry|0|32|Pradeep Chemistry · Class 12|131|22": "refers to 'the above reaction', which is not in the band, and is a 'more than one correct' question besides",
+ "pradeep|Chemistry|0|33|Pradeep Chemistry · Class 12|132|23": "refers to 'this reaction', which is not in the band, and the crop runs on into question 34",
+ "pradeep|Chemistry|0|35|Pradeep Chemistry · Class 12|132|24": "refers to 'this reaction', which is not in the band, and the crop runs on into question 36",
+ "pradeep|Chemistry|0|38|Pradeep Chemistry · Class 12|132|25": "options (a) and (b) are printed as the same sentence, so the question as printed cannot be answered",
+ "pradeep|Chemistry|0|39|Pradeep Chemistry · Class 12|132|26": "from the book's 'more than one correct' section: several options are right, so the question cannot be graded against a single key (both ethylidene chloride and methylene chloride are gem-dihalides)",
+ "pradeep|Chemistry|0|40|Pradeep Chemistry · Class 12|132|27": "from the book's 'more than one correct' section: several options are right, so the question cannot be graded against a single key (both (CH3)2CHBr and CH3CH(Br)CH2CH3 are secondary)",
+ "pradeep|Chemistry|0|41|Pradeep Chemistry · Class 12|132|28": "from the book's 'more than one correct' section: several options are right, so the question cannot be graded against a single key (both p-ClC6H4CH2CH(CH3)2 and C6H5Cl are aryl halides)",
+ "pradeep|Chemistry|0|43|Pradeep Chemistry · Class 12|132|30": "from the book's 'more than one correct' section: several options are right, so the question cannot be graded against a single key (the Swarts reaction uses CoF2 or Hg2F2, so two options are right)",
+ "pradeep|Chemistry|0|31|Pradeep Chemistry · Class 12|134|32": "not a question: the printed explanations for questions 31 and 33 to 36, each ending 'thus option (x) is correct'"
 }
