@@ -1,0 +1,48 @@
+{
+  "kcet|Chemistry|2012|11||0|0": {
+    "ch": "Some Basic Concepts of Chemistry",
+    "s": "By Gay-Lussac's law, gas volumes at the same temperature and pressure react in the ratio of\nthe coefficients.\nCH₄ + 2O₂ ⇒ CO₂ + 2H₂O\nOxygen needed for 20 ml of methane = 2 × 20 = 40 ml\nOxygen supplied = 50 ml, so 50 − 40 = 10 ml of O₂ is left over.\nCarbon dioxide formed = 20 ml (1 : 1 with methane).\nWater formed = 40 ml of vapour — but the question says the mixture is **cooled to room\ntemperature**, so the water condenses to a liquid and takes up no measurable gas volume.\nThat is the whole point of the cooling, and the step most often missed.\nGas remaining = unused O₂ + CO₂ = 10 + 20 = 30 ml\n∴ 30 ml."
+  },
+
+  "kcet|Chemistry|2012|12||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Neutralisation converts the acid completely to its sodium salt:\nCH₃COOH + NaOH ⇒ CH₃COONa + H₂O\nmoles of acetic acid = 0.100 L × 0.1 mol L⁻¹ = 0.01 mol\nso 0.01 mol of sodium acetate is formed.\nElectrolysing that salt is Kolbe's reaction. Two acetate ions are discharged at the anode, each\nlosing CO₂, and the two methyl radicals couple:\n2CH₃COO⁻ ⇒ 2CH₃• + 2CO₂ + 2e⁻ ⇒ C₂H₆ + 2CO₂ + 2e⁻\nNote the 2 : 1 ratio — **two** acetates give **one** ethane:\nmoles of ethane = 0.01 / 2 = 0.005 mol\nVolume at STP = 0.005 × 22400 = 112 ml\nForgetting the factor of two gives 224 ml, which is option (3).\n∴ 112 ml."
+  },
+
+  "kcet|Chemistry|2012|13||0|0": {
+    "ch": "Chemistry in Everyday Life",
+    "s": "Saccharin is an artificial sweetener, about 550 times as sweet as sucrose, and it passes\nthrough the body unchanged — which is why it is used by diabetics.\nIt is manufactured from **toluene**. The route is:\ntoluene is sulphonated at the ortho position, the sulphonic acid is converted to the sulphonyl\nchloride, treated with ammonia to give the sulphonamide, and the methyl group is then\noxidised to –COOH, which closes the ring onto the nitrogen to form the cyclic imide.\nThe benzene ring of saccharin comes straight from the toluene, and so does the carbon of its\ncarbonyl group — it is the original methyl, oxidised.\nCellulose and starch are carbohydrates and are not used here, and cyclohexane has no aromatic\nring to supply.\n∴ toluene."
+  },
+
+  "kcet|Chemistry|2012|17||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "Compare experiments in pairs, changing one concentration at a time.\nExperiments 1 and 2 — [A] is held at 0.2 while [B] doubles from 0.2 to 0.4:\nrate goes 2 ⇒ 4, a factor of 2\n2 = 2^y ⇒ y = 1, so the reaction is **first order in B**.\nExperiments 2 and 3 — [B] is held at 0.4 while [A] triples from 0.2 to 0.6:\nrate goes 4 ⇒ 36, a factor of 9\n9 = 3^x ⇒ x = 2, so the reaction is **second order in A**.\nPutting them together:\nrate = k[A]²[B]\nOverall order = 2 + 1 = 3.\nCheck with experiment 1: k = 2/((0.2)² × 0.2) = 2/0.008 = 250, and experiment 3 gives\n250 × 0.36 × 0.4 = 36 ✓\n∴ r = k[A]²[B]."
+  },
+
+  "kcet|Chemistry|2012|21||0|0": {
+    "ch": "Structure of Atom",
+    "s": "The orbitals available in a shell are fixed by the quantum numbers.\nFor a principal quantum number n, the azimuthal quantum number l can take values\nl = 0, 1, 2, … , (n − 1)\nand those map to the letters s, p, d, f.\nSo shell n can contain only the first n types of orbital:\nn = 1 ⇒ l = 0 only ⇒ 1s\nn = 2 ⇒ l = 0, 1 ⇒ 2s, 2p\nn = 3 ⇒ l = 0, 1, 2 ⇒ 3s, 3p, 3d — and no more\nn = 4 ⇒ l = 0, 1, 2, 3 ⇒ 4s, 4p, 4d, 4f\nAn f orbital needs l = 3, which requires n ≥ 4. So **3f** cannot exist.\nThe others are all allowed: 2s (n=2, l=0), 2p (n=2, l=1) and 4d (n=4, l=2) ✓\n∴ 3f is not possible."
+  },
+
+  "kcet|Chemistry|2012|22||0|0": {
+    "ch": "Some Basic Concepts of Chemistry",
+    "s": "Convert the volume to mass, then to moles, then count electrons.\nmass = volume × density = 18 ml × 1 g ml⁻¹ = 18 g\nMolar mass of water = 18 g mol⁻¹, so\nmoles = 18 / 18 = 1 mol\nNow count the electrons in one molecule of H₂O:\n2 hydrogens × 1 electron = 2\n1 oxygen × 8 electrons = 8\ntotal = 10 electrons per molecule\nTotal electrons = 1 mol × 6.022 × 10²³ molecules × 10 electrons\n= 6.022 × 10²⁴\nThe factor of ten is what moves the exponent from 23 to 24; option (1) is the answer if you\ncount molecules instead of electrons.\n∴ 6.02 × 10²⁴."
+  },
+
+  "kcet|Chemistry|2012|23||0|0": {
+    "ch": "Biomolecules",
+    "s": "Hydrogen adds across the C=C double bonds of the unsaturated fatty acid chains, so the moles\nof H₂ taken up equal the number of double bonds per molecule of oil.\nThat quantity is measured as the **iodine value** — the higher it is, the more unsaturated the\noil and the more hydrogen it absorbs.\nTypical iodine values:\nLinseed oil 170–204 ← highest, rich in linolenic acid with three C=C per chain\nSunflower seed oil 125–145\nMustard oil 95–125\nGroundnut oil 85–100\nLinseed oil is the most unsaturated of the four, which is also why it is a **drying** oil: those\ndouble bonds cross-link on exposure to air, which is why it is used in paints and varnishes.\n∴ linseed oil."
+  },
+
+  "kcet|Chemistry|2012|24||0|0": "Sodium reacts violently with water:\n2Na + 2H₂O ⇒ 2NaOH + H₂\nThe reaction is so exothermic that the hydrogen often ignites, and the metal skates about on\nthe surface because it is less dense than water.\nAmalgamating the sodium — dissolving it in mercury — dilutes it. The sodium atoms are\ndispersed through the mercury, so only a small fraction of the surface is sodium at any moment.\nThe reaction still proceeds, but steadily and controllably, which is why sodium amalgam is used\nas a mild reducing agent in the laboratory.\nThe others do not work:\n(1) Lowering the temperature only slows it slightly; sodium reacts even with ice.\n(2) Sodium reacts with alcohol too, giving sodium ethoxide and hydrogen.\n(4) Adding acetic acid makes it **more** vigorous, since sodium reacts faster with acid than\nwith water.\n∴ amalgamating the sodium.",
+
+  "kcet|Chemistry|2012|25||0|0": {
+    "ch": "Surface Chemistry",
+    "s": "Osmotic pressure is a colligative property: π = iCRT, so it depends on the **number** of\ndispersed particles, not their size.\nIn a colloid each particle is an aggregate containing thousands of molecules or atoms. So for a\ngiven mass of dispersed material there are far fewer particles than there would be in a true\nsolution of the same mass.\nFewer particles means a much smaller molar concentration, and therefore a **low** osmotic\npressure.\nIt is not zero (3) — colloidal particles cannot pass a semipermeable membrane, so they do exert\na measurable pressure. That pressure is small but reliable enough to be used to determine the\nmolar masses of polymers and proteins.\nThe same reasoning explains why colloids show negligible elevation of boiling point and\ndepression of freezing point.\n∴ low osmotic pressure."
+  },
+
+  "kcet|Chemistry|2012|26||0|0": {
+    "ch": "Surface Chemistry",
+    "s": "Artificial rain is made by cloud seeding. Supercooled water droplets in a cloud need a\n**nucleus** on which to crystallise; without one they stay liquid well below 0 °C and no rain falls.\nSilver iodide works because its crystal lattice is almost identical to that of ice — both are\nhexagonal, with lattice spacings differing by only about 1.5%.\nA water molecule arriving at an AgI crystal therefore finds itself in very nearly the\narrangement it would adopt in ice, so ice grows on it readily. The AgI acts as a template, and\nice formation begins at about −4 °C instead of −40 °C.\nThe crystals grow, become heavy and fall, melting on the way down to give rain.\nBeing easy to spray (1) or insoluble (4) are convenient but incidental; the structural match is\nthe reason it was chosen.\n∴ because AgI has a crystal structure similar to ice."
+  }
+}
