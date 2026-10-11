@@ -1,0 +1,37 @@
+{
+  "kcet|Chemistry|2013|27||0|0": {
+    "ch": "Aldehydes, Ketones and Carboxylic Acids",
+    "s": "Acetophenone is C₆H₅COCH₃ — a benzene ring carrying an **acyl** group, CH₃CO–.\nPutting an acyl group onto a ring is Friedel–Crafts acylation, using an acid chloride or anhydride\nwith anhydrous AlCl₃:\nC₆H₆ + CH₃COCl --AlCl₃--> C₆H₅COCH₃ + HCl\nThe AlCl₃ generates the electrophile, the acylium ion CH₃CO⁺, which the ring attacks.\nFriedel–Crafts **alkylation** (3) would attach CH₃– and give toluene, not a ketone — no carbonyl\nis introduced.\nWurtz (1) couples two alkyl halides and does not involve an aromatic ring at all, and\nWurtz–Fittig (2) joins an aryl halide to an alkyl halide, giving an alkylbenzene again rather\nthan a ketone.\nAcylation also has the advantage of not rearranging and not polysubstituting, because the\nproduct ketone is deactivated.\n∴ Friedel–Crafts acylation."
+  },
+
+  "kcet|Chemistry|2013|28||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "PCl₅ replaces an –OH by –Cl, and sulphuric acid has two of them, so the amount of PCl₅ decides\nhow far the substitution goes.\nWith one equivalent only the first OH is replaced:\nH₂SO₄ + PCl₅ ⇒ HSO₃Cl + POCl₃ + HCl\ngiving chlorosulphuric acid, option (1).\nWith **excess** PCl₅ the second OH goes too:\nHSO₃Cl + PCl₅ ⇒ SO₂Cl₂ + POCl₃ + HCl\nThe product is sulphuryl chloride, SO₂Cl₂, in which sulphur keeps its two oxygens and now\ncarries two chlorines.\nNote the word 'excess' in the question is the whole clue; without it the answer would be\nchlorosulphuric acid.\nDo not confuse SO₂Cl₂ (sulphuryl chloride, S at +6) with SOCl₂ (thionyl chloride, S at +4).\n∴ sulphuryl chloride."
+  },
+
+  "kcet|Chemistry|2013|29||0|0": "A neutral buffer has a pH close to 7, and that happens when the salt is formed from a weak\nacid and a weak base of **comparable** strength.\nAcetic acid (Ka = 1.8 × 10⁻⁵) with ammonium hydroxide (Kb = 1.8 × 10⁻⁵) gives ammonium\nacetate. Because Ka and Kb are equal, the hydrolysis of the cation and of the anion cancel\nexactly and the solution is neutral:\npH = 7 + ½(pKa − pKb) = 7 + ½(4.74 − 4.74) = 7\n(1) NH₄OH with NH₄Cl is a weak base and its salt — a **basic** buffer, pH above 7.\n(2) Acetic acid with sodium acetate and (4) citric acid with sodium citrate are weak acids with\ntheir salts — **acidic** buffers, pH below 7.\nOnly (3) pairs a weak acid with a weak base.\n∴ acetic acid and ammonium hydroxide.",
+
+  "kcet|Chemistry|2013|32||0|0": "On the Brønsted–Lowry definition, the conjugate base of an acid is what is left after it has\ndonated **one** proton.\nStart with H₂PO₄⁻ and remove one H⁺:\nH₂PO₄⁻ ⇒ H⁺ + HPO₄²⁻\nCheck the bookkeeping: the hydrogen count falls from 2 to 1, and losing a positive charge makes\nthe charge go from −1 to −2 ✓\nSo the conjugate base is HPO₄²⁻.\nThe other options are a step too far in one direction or the other:\nH₃PO₄ is the conjugate **acid** of H₂PO₄⁻, formed by *gaining* a proton.\nPO₄³⁻ is two protons away, the conjugate base of HPO₄²⁻, not of H₂PO₄⁻.\nHPO₄⁻ as written in option (1) is not even a valid species — the charge does not balance.\nNote H₂PO₄⁻ is amphiprotic: it can lose a proton or gain one, which is why it buffers so well.\n∴ HPO₄²⁻.",
+
+  "kcet|Chemistry|2013|33||0|0": {
+    "ch": "Haloalkanes and Haloarenes",
+    "s": "The Wurtz reaction joins two identical alkyl groups, so the product must be symmetrical and\nthe new bond lies at its centre.\nDraw 4,5-diethyloctane: an eight-carbon chain with an ethyl group on C4 and another on C5.\nThe molecule is symmetrical about the C4–C5 bond, so that is the bond Wurtz made.\nCut it there and look at one half:\nC1–C2–C3–C4, with an ethyl branch on C4\nWritten out, that fragment is CH₃CH₂CH₂–CH(C₂H₅)–\nSo the radical had six carbons, with the reactive centre on the third one. Putting the bromine\nback where the bond was formed:\nX = CH₃CH₂CH₂–CHBr–CH₂CH₃, that is 3-bromohexane.\nCheck by recombining: two C6 fragments give C12, and 4,5-diethyloctane is C8 + 2(C2) = C12 ✓\n∴ CH₃–(CH₂)₂–CH(Br)–CH₂–CH₃."
+  },
+
+  "kcet|Chemistry|2013|34||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Magnetic moment rises with the number of unpaired electrons, μ = √(n(n + 2)) BM.\nWrite each ion's d configuration, removing the 4s electrons first, and fill by Hund's rule.\nFe²⁺ : Fe is [Ar]3d⁶4s² ⇒ 3d⁶ ⇒ ↑↓ ↑ ↑ ↑ ↑ ⇒ n = 4\nCo²⁺ : Co is [Ar]3d⁷4s² ⇒ 3d⁷ ⇒ ↑↓ ↑↓ ↑ ↑ ↑ ⇒ n = 3\nCr³⁺ : Cr is [Ar]3d⁵4s¹ ⇒ 3d³ ⇒ ↑ ↑ ↑ ⇒ n = 3\nNi²⁺ : Ni is [Ar]3d⁸4s² ⇒ 3d⁸ ⇒ ↑↓ ↑↓ ↑↓ ↑ ↑ ⇒ n = 2\nThe largest n is 4, for Fe²⁺:\nμ = √(4 × 6) = √24 = 4.90 BM\nagainst 3.87 for Co²⁺ and Cr³⁺, and 2.83 for Ni²⁺.\n∴ Fe²⁺."
+  },
+
+  "kcet|Chemistry|2013|35||0|0": "In a galvanic cell the electrode with the **more negative** reduction potential is oxidised and\nbecomes the anode.\nZn²⁺|Zn at −0.76 V is more negative than Fe²⁺|Fe at −0.41 V, so zinc is the anode and iron\nthe cathode.\nE°cell = E°cathode − E°anode\n= (−0.41) − (−0.76)\n= −0.41 + 0.76\n= +0.35 V\nThe positive value confirms the choice: a spontaneous cell must have E°cell > 0, since\nΔG° = −nFE°cell has to be negative.\nHad the electrodes been assigned the other way round the answer would have come out −0.35 V,\nwhich is option (1) and the usual error.\nThe cell reaction is Zn + Fe²⁺ ⇒ Zn²⁺ + Fe.\n∴ +0.35 V.",
+
+  "kcet|Chemistry|2013|36||0|0": {
+    "ch": "Haloalkanes and Haloarenes",
+    "s": "Check each pairing.\nI. RX + aqueous AgOH ⇒ **ROH**, an alcohol, not RH. The hydroxide ion substitutes for the\nhalide; nothing reduces the carbon. ✗\nII. RX + alcoholic AgCN ⇒ RNC ✓ Silver cyanide is largely covalent, so the lone pair that\nattacks belongs to the **nitrogen**, giving the isocyanide.\nIII. RX + alcoholic KCN ⇒ **RCN**, the nitrile, not RNC. KCN is ionic, so the free cyanide ion\nattacks through its **carbon**, which is the more nucleophilic end. ✗\nIV. RX + Na in dry ether ⇒ R–R ✓ This is the Wurtz reaction, coupling two alkyl groups.\nSo II and IV are the correctly matched pairs.\nII and III together are the classic contrast: the same cyanide group, but AgCN gives the\nisocyanide and KCN the nitrile, purely because of ionic against covalent character.\n∴ II and IV."
+  },
+
+  "kcet|Chemistry|2013|37||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Paramagnetism depends on the number of unpaired electrons, so follow the 3d subshell across\nthe first transition series.\nSc(3d¹) ⇒ Ti(3d²) ⇒ V(3d³) ⇒ Cr(3d⁵) ⇒ Mn(3d⁵): electrons go into separate orbitals by\nHund's rule, so unpaired electrons keep increasing, reaching a maximum of five at manganese.\nFe(3d⁶) ⇒ Co(3d⁷) ⇒ Ni(3d⁸) ⇒ Cu(3d¹⁰) ⇒ Zn(3d¹⁰): now every further electron must pair\nup with one already present, so the unpaired count falls — 4, 3, 2, 1, 0.\nSo the magnetic moment climbs to a peak near the middle of the series and then falls away to\nzero at zinc, which is diamagnetic.\nPlotted against atomic number it is an inverted V.\n∴ it first increases to a maximum and then decreases."
+  }
+}
