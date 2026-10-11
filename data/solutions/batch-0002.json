@@ -1,0 +1,29 @@
+{
+  "kcet|Chemistry|2026|7||0|0": "SN1 goes through a flat, sp² carbocation, so the nucleophile attacks equally from either face.\nThat only shows up as a racemic mixture if the carbon carrying the halogen is a stereocentre.\n(1) (CH₃)₃CBr ionises fastest, but the product (CH₃)₃COH has two identical methyls — not chiral.\n(3) (CH₃)₂CHBr and (4) CH₃Br likewise have no stereocentre.\n(2) CH₃CHBrC₂H₅: that carbon holds H, CH₃, C₂H₅ and Br — four different groups, so it is chiral.\nIts planar carbocation is attacked from both sides in equal measure.\n∴ 2-bromobutane gives the racemic mixture.",
+
+  "kcet|Chemistry|2026|8||0|0": {
+    "ch": "Chemistry in Everyday Life",
+    "s": "Take each compound by its medicinal use.\n(a) Chloramphenicol — a broad-spectrum antibiotic, the standard treatment for typhoid fever ⇒ (iv).\n(b) Thyroxine — the thyroid hormone; a deficiency of it causes goitre ⇒ (iii).\n(c) Chloroquine — the classic antimalarial ⇒ (i).\n(d) Chloroform — once used as a general anaesthetic ⇒ (ii).\n∴ a–iv, b–iii, c–i, d–ii."
+  },
+
+  "kcet|Chemistry|2026|9||0|0": "The target R–CHO is the aldehyde, so the oxidation has to stop one step short of the acid.\n(1) Alkaline KMnO₄ is a strong oxidant — it runs straight on to R–COOH.\n(2) LiAlH₄ is a reducing agent; it works the other way.\n(3) Na/C₂H₅OH is also a reducing system.\n(4) PCC is Cr(VI) in a non-aqueous medium, so no hydrate forms and the oxidation halts at the aldehyde.\n∴ PCC converts R–CH₂OH to R–CHO.",
+
+  "kcet|Chemistry|2026|10||0|0": {
+    "ch": "Alcohols, Phenols and Ethers",
+    "s": "Glycerol is propane-1,2,3-triol: CH₂OH–CHOH–CH₂OH.\nClassify each –OH by the carbon carrying it.\nC1: the carbon bears the OH plus one other carbon ⇒ primary.\nC3: identical to C1 ⇒ primary.\nC2: the middle carbon bears the OH plus two carbons ⇒ secondary.\nThere is no carbon attached to three other carbons, so no tertiary –OH is possible.\n∴ two primary and one secondary alcoholic groups."
+  },
+
+  "kcet|Chemistry|2026|11||0|0": {
+    "ch": "Alcohols, Phenols and Ethers",
+    "s": "The structure is (CH₃)₃C–O–C₂H₅.\nIn IUPAC naming an ether is an alkoxy group on the larger hydrocarbon chain.\nThe bigger fragment is the C(CH₃)₃ unit: as a chain that is propane, CH₃–C–CH₃.\nThe central carbon (C2) carries a methyl and the –OC₂H₅ group.\nThe –OC₂H₅ substituent is named ethoxy.\nNumbering from either end puts both on C2.\n∴ 2-ethoxy-2-methylpropane."
+  },
+
+  "kcet|Chemistry|2026|14||0|0": "Benzaldehyde has no α-hydrogen; acetophenone, C₆H₅COCH₃, does.\nDilute OH⁻ removes an α-H from the CH₃ to give the carbanion C₆H₅CO–CH₂⁻.\nThat carbanion adds to the carbonyl carbon of benzaldehyde — a crossed (Claisen-Schmidt) aldol.\nThe β-hydroxy ketone formed loses water readily because the new C=C conjugates with both rings.\nThe product is the chalcone C₆H₅–CH=CH–CO–C₆H₅.\n∴ 'A' is the α,β-unsaturated ketone shown in option (4).",
+
+  "kcet|Chemistry|2026|15||0|0": {
+    "ch": "Aldehydes, Ketones and Carboxylic Acids",
+    "s": "Acid strength is decided by how stable the anion left behind is.\nA carboxylic acid gives RCOO⁻, in which the charge is shared equally by two oxygen atoms;\nthe two resonance forms are identical, so the delocalisation is especially effective.\nPhenol gives C₆H₅O⁻, where the charge is delocalised onto ring carbon atoms —\nless favourable, because carbon is far less electronegative than oxygen.\nDimer formation (1) and hydrogen bonding (2) are properties of the acid, not of its anion.\n∴ because the conjugate base of a carboxylic acid is more resonance stabilised."
+  },
+
+  "kcet|Chemistry|2026|16||0|0": "The iodoform test needs a CH₃–CO– group, or a CH₃–CH(OH)– group that I₂/OH⁻ can oxidise to one.\n(1) Ethanal, CH₃CHO — has CH₃ next to C=O ⇒ positive.\n(2) Acetone, CH₃COCH₃ — a methyl ketone ⇒ positive.\n(4) Acetophenone, C₆H₅COCH₃ — also a methyl ketone ⇒ positive.\n(3) Ethanoic acid, CH₃COOH — the carbon beside the CH₃ is a carboxyl carbon, not a ketonic one;\nin alkali it simply forms the acetate ion and is not attacked.\n∴ ethanoic acid does not give the iodoform test."
+}

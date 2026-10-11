@@ -299,6 +299,53 @@ async function main() {
                 `(${reprints} skipped as reprints of a paper already loaded)`);
   }
 
+  // ---- hand-written solutions ------------------------------------------
+  // The official booklets and the Pradeep volumes print an answer key and no
+  // working at all. Those solutions are written against the question crop --
+  // the OCR text of a scanned paper interleaves lines across question
+  // boundaries, so it cannot be trusted to say which question is which --
+  // and kept here, keyed the same way the bank is, so a re-extract or a
+  // reseed never loses them.
+  const SOLUTIONS = path.join(ROOT, 'data', 'solutions');
+  const handWritten = new Map();
+  if (fs.existsSync(SOLUTIONS)) {
+    for (const file of fs.readdirSync(SOLUTIONS).sort()) {
+      if (!file.endsWith('.json') || file.startsWith('_')) continue;
+      for (const [k, v] of Object.entries(
+        JSON.parse(fs.readFileSync(path.join(SOLUTIONS, file), 'utf8')))) {
+        handWritten.set(k, v);
+      }
+    }
+  }
+  let applied = 0;
+  let retagged = 0;
+  for (const op of ops) {
+    const f = op.updateOne.filter;
+    const doc = op.updateOne.update.$set;
+    // An entry is the solution text, or {s, ch} when reading the question
+    // also showed the chapter classifier had put it in the wrong place.
+    const entry = handWritten.get(
+      [f.bank, f.subject, f.year, f.number, f.book, f.page, f.seq].join('|'));
+    if (!entry) continue;
+    const text = typeof entry === 'string' ? entry : entry.s;
+    // Never overwrite the examiner's own working with ours.
+    if (text && !doc.solutionText && !doc.solutionImages.length) {
+      doc.solutionText = text;
+      doc.solutionSource = 'written';
+      applied++;
+    }
+    if (typeof entry === 'object' && entry.ch) {
+      doc.chapter = canonicalChapter(doc.subject, entry.ch);
+      doc.puc = pucOf.get(`${doc.subject}|${doc.chapter}`) ?? doc.puc;
+      doc.chapterConfidence = 'high';
+      retagged++;
+    }
+  }
+  if (retagged) console.log(`re-tagged ${retagged} question(s) read by hand`);
+  if (handWritten.size) {
+    console.log(`applied ${applied} hand-written solution(s) of ${handWritten.size} on file`);
+  }
+
   console.log(`upserting ${ops.length} questions (${skipped} skipped for missing answer key)...`);
   for (let i = 0; i < ops.length; i += 500) {
     const res = await Question.bulkWrite(ops.slice(i, i + 500), { ordered: false });

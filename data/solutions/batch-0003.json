@@ -1,0 +1,26 @@
+{
+  "kcet|Chemistry|2026|17||0|0": "Aniline itself is strongly activating and o/p-directing, so on its own it would give almost no meta product.\nBut the nitrating mixture is strongly acidic, and the lone pair on –NH₂ is basic.\nIt is protonated: C₆H₅NH₂ + H⁺ ⇒ C₆H₅NH₃⁺, the anilinium ion.\nThat lone pair is now tied up, and the –NH₃⁺ group carries a full positive charge,\nso it is strongly deactivating and meta-directing, like –NO₂.\nThe mixture therefore contains a sizeable share of m-nitroaniline.\n∴ because in strong acid aniline exists as the anilinium ion.",
+
+  "kcet|Chemistry|2026|18||0|0": {
+    "ch": "Amines",
+    "s": "In water the basicity of an alkylamine is a balance of three things.\n(1) Inductive effect — alkyl groups push electron density onto N, making the lone pair more available.\n(2) Solvation effect — the more N–H bonds the cation keeps, the better water can hydrogen bond to it and stabilise it.\n(3) Steric hindrance — bulky alkyl groups block the proton's approach to the lone pair.\nTogether these are why the order in water is 2° > 1° > 3° rather than simply 3° > 2° > 1°.\n(4) Hyperconjugation needs a π system or an empty/odd orbital next to the C–H bonds; an amine lone pair is neither.\n∴ basic strength in aqueous phase is not decided by hyperconjugation."
+  },
+
+  "kcet|Chemistry|2026|19||0|0": {
+    "ch": "Amines",
+    "s": "Follow the chain one reagent at a time.\nBenzene + conc. HNO₃/conc. H₂SO₄ at 323–333 K ⇒ A = nitrobenzene, C₆H₅NO₂.\nA + Fe/HCl (reduction) ⇒ B = aniline, C₆H₅NH₂.\nB + NaNO₂/HCl at 273 K (diazotisation) ⇒ C = benzene diazonium chloride, C₆H₅N₂⁺Cl⁻.\nC + C₂H₅OH loses N₂: ethanol acts as the reducing agent, handing a hydride to the ring.\nBenzene is formed, and the ethanol is oxidised as it gives that hydrogen up.\nC₂H₅OH ⇒ CH₃CHO, so the products are C₆H₆ + CH₃CHO + N₂ + HCl.\n∴ D is CH₃CHO."
+  },
+
+  "kcet|Chemistry|2026|20||0|0": {
+    "ch": "Hydrocarbons",
+    "s": "In staggered ethane the C–H bonds on the front carbon sit between those on the back carbon, 60° apart.\nIn eclipsed ethane they line up, so the bonding pairs are closest and repel most.\nThat repulsion between eclipsing bonds is the torsional strain.\nSo torsional strain is at a maximum in the eclipsed form and a minimum in the staggered form —\nabout 12.5 kJ mol⁻¹ separates them, with staggered the lower.\nStatement I (staggered is more stable) is therefore true.\nStatement II says the staggered form has more torsional strain, which is the reverse, so it is false.\n∴ Statement I is true but Statement II is false."
+  },
+
+  "kcet|Chemistry|2026|24||0|0": "Count the σ bonds and lone pairs on nitrogen in each, then read off the shape.\nNO₂⁺ : 2 σ bonds, no lone pair on N ⇒ 2 electron domains ⇒ linear, 180° ⇒ sp.\nNO₃⁻ : 3 σ bonds, no lone pair on N ⇒ 3 domains ⇒ trigonal planar, 120° ⇒ sp².\nNH₄⁺ : 4 σ bonds, no lone pair ⇒ 4 domains ⇒ tetrahedral, 109°28′ ⇒ sp³.\nNote all three are ions in which nitrogen keeps no lone pair, so the σ count alone decides it.\n∴ sp, sp² and sp³ respectively.",
+
+  "kcet|Chemistry|2026|25||0|0": "Test each order against the real values.\n(b) Bond angle: HgCl₂ is linear 180°, NH₄⁺ tetrahedral 109°28′, SF₆ octahedral 90° ⇒ the order holds.\n(c) H-bond strength rises with the electronegativity of the atom carrying H: N < O < F ⇒ the order holds.\n(d) Bond length follows atomic size, I > Br > Cl ⇒ H–I > H–Br > H–Cl holds.\n(a) Dipole moment: BF₃ is trigonal planar and symmetric, so its bond dipoles cancel exactly, μ = 0.\nIn NF₃ the lone-pair moment opposes the three N–F moments, leaving only μ ≈ 0.23 D.\nIn NH₃ the lone pair and the N–H moments point the same way, giving μ ≈ 1.47 D.\nThe true order is NH₃ > NF₃ > BF₃, the reverse of the one printed.\n∴ only (a) fails to agree.",
+
+  "kcet|Chemistry|2026|26||0|0": "Take the statements one by one.\n(a) True — resonance makes all three C–O bonds identical, each of bond order 1⅓, all 1.29 Å.\n(b) True — the double bond can be placed on any one of the three oxygens, giving three equivalent structures.\n(c) False — in resonance only electrons are redistributed. The nuclei stay exactly where they are;\nif atoms moved, the structures would be different compounds, not resonance forms.\n(d) False — carbon has 4 bonds and no lone pair, so its formal charge is 0.\nThe 2– belongs to the oxygens, each carrying −⅔ on average.\n∴ only (a) and (b) are correct.",
+
+  "kcet|Chemistry|2026|27||0|0": "Check each statement against the oxidation numbers.\nStatement I: in H₂O₂ the O–O peroxide link gives each oxygen −1 ✓.\nRbO₂ is a superoxide containing O₂⁻, so the charge is shared by two oxygens, −½ each ✓.\nStatement I is correct.\nStatement II: in HAuCl₄, H is +1 and each Cl is −1, so Au = +3, and HAu(III)Cl₄ is right.\nIn MnO₂ each O is −2, so Mn = +4, and the stock notation must be Mn(IV)O₂, not Mn(II)O₂.\nStatement II is therefore incorrect.\n∴ Statement I is correct but Statement II is incorrect."
+}

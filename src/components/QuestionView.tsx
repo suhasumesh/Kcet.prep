@@ -142,7 +142,7 @@ export function Solution({ q }: { q: QData }) {
       {/* The answer above it is the official key either way. This says only
           that the working was written for us rather than printed in a book,
           which a student is entitled to know before trusting a step. */}
-      {q.solutionSource === 'generated' && (
+      {q.solutionSource && (
         <p className="text-xs text-ink-400">
           Worked out for this app, not reproduced from the examiner. The marked
           answer is from the official key.
