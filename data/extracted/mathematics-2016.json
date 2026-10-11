@@ -37,17 +37,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Relations and Functions",
-  "chapterScore": 7,
-  "chapterMargin": 5,
-  "chapterHits": [
-   "bijective",
-   "mapping",
-   "f(x)",
-   "bijective"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 2,
@@ -87,15 +77,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Relations and Functions",
-  "chapterScore": 5,
-  "chapterMargin": 5,
-  "chapterHits": [
-   "binary operation",
-   "binary operation"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 5,
@@ -135,12 +117,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 6,
@@ -180,14 +157,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "tan"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 9,
@@ -227,16 +197,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 4,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "sin",
-   "cos",
-   "tan"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 13,
@@ -247,7 +208,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q013-stem0.png",
-    "w": 1770,
+    "w": 2000,
     "h": 547
    }
   ],
@@ -276,15 +237,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "tan",
-   "cot"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 14,
@@ -324,12 +277,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 17,
@@ -340,7 +288,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q017-stem0.png",
-    "w": 1718,
+    "w": 1945,
     "h": 404
    }
   ],
@@ -369,14 +317,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "angle"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 18,
@@ -387,7 +328,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q018-stem0.png",
-    "w": 1723,
+    "w": 1952,
     "h": 349
    }
   ],
@@ -416,14 +357,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Integrals",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "dx"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 21,
@@ -434,7 +368,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q021-stem0.png",
-    "w": 1773,
+    "w": 2001,
     "h": 467
    }
   ],
@@ -463,15 +397,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Conic Sections",
-  "chapterScore": 8,
-  "chapterMargin": 7,
-  "chapterHits": [
-   "latus rectum",
-   "parabola"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 22,
@@ -482,7 +408,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q022-stem0.png",
-    "w": 1768,
+    "w": 1996,
     "h": 293
    }
   ],
@@ -511,12 +437,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 25,
@@ -527,7 +448,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q025-stem0.png",
-    "w": 1850,
+    "w": 1967,
     "h": 664
    }
   ],
@@ -556,17 +477,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 5,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "sin",
-   "cos",
-   "tan",
-   "cot"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 29,
@@ -577,7 +488,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q029-stem0.png",
-    "w": 1744,
+    "w": 1970,
     "h": 597
    }
   ],
@@ -606,14 +517,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "tan"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 33,
@@ -624,7 +528,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q033-stem0.png",
-    "w": 1783,
+    "w": 2010,
     "h": 476
    }
   ],
@@ -653,14 +557,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Application of Derivatives",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "maximum value"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 34,
@@ -671,7 +568,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q034-stem0.png",
-    "w": 1778,
+    "w": 2010,
     "h": 496
    }
   ],
@@ -700,14 +597,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Differential Equations",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "differential equation"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 35,
@@ -718,7 +608,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q035-stem0.png",
-    "w": 1774,
+    "w": 2005,
     "h": 452
    }
   ],
@@ -747,16 +637,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Differential Equations",
-  "chapterScore": 6,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "order and degree of the differential",
-   "differential equation",
-   "degree of the differential"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 37,
@@ -767,7 +648,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q037-stem0.png",
-    "w": 1842,
+    "w": 1972,
     "h": 627
    }
   ],
@@ -796,14 +677,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Sequences and Series",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "series"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 41,
@@ -814,7 +688,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q041-stem0.png",
-    "w": 1784,
+    "w": 2014,
     "h": 331
    }
   ],
@@ -843,12 +717,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 42,
@@ -859,7 +728,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q042-stem0.png",
-    "w": 1783,
+    "w": 2014,
     "h": 315
    }
   ],
@@ -888,14 +757,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Application of Derivatives",
-  "chapterScore": 4,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "rate of change"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 46,
@@ -906,7 +768,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q046-stem0.png",
-    "w": 1881,
+    "w": 1998,
     "h": 331
    }
   ],
@@ -935,16 +797,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Statistics",
-  "chapterScore": 9,
-  "chapterMargin": 9,
-  "chapterHits": [
-   "standard deviation",
-   "coefficient of variation",
-   "mean"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 47,
@@ -955,7 +808,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q047-stem0.png",
-    "w": 1884,
+    "w": 2003,
     "h": 516
    }
   ],
@@ -984,15 +837,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Probability",
-  "chapterScore": 2,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "probability",
-   "drawn at random"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 51,
@@ -1003,7 +848,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q051-stem0.png",
-    "w": 1759,
+    "w": 1987,
     "h": 436
    }
   ],
@@ -1032,15 +877,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 2,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "sin",
-   "cos"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 52,
@@ -1051,7 +888,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q052-stem0.png",
-    "w": 1871,
+    "w": 1987,
     "h": 452
    }
   ],
@@ -1080,15 +917,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 2,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "sin",
-   "cos"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 56,
@@ -1099,7 +928,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q056-stem0.png",
-    "w": 1884,
+    "w": 2001,
     "h": 429
    }
   ],
@@ -1128,15 +957,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Three Dimensional Geometry",
-  "chapterScore": 5,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "equation of the plane",
-   "plane"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 57,
@@ -1147,7 +968,7 @@
   "stemImages": [
    {
     "src": "mathematics-2016/q057-stem0.png",
-    "w": 1882,
+    "w": 2001,
     "h": 501
    }
   ],
@@ -1176,14 +997,6 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Three Dimensional Geometry",
-  "chapterScore": 5,
-  "chapterMargin": 5,
-  "chapterHits": [
-   "foot of the perpendicular",
-   "plane"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  }
 ]
