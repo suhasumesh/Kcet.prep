@@ -1,0 +1,42 @@
+{
+  "kcet|Chemistry|2016|35||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "Use VSEPR. Xenon has 8 valence electrons; six are used bonding to six fluorines, leaving one\nlone pair.\nBonding pairs = 6, lone pairs = 1, so there are 7 electron domains.\nSeven domains give a pentagonal bipyramidal arrangement, and placing the lone pair in one\nposition leaves the six fluorines in a distorted octahedron.\nThe lone pair is stereochemically active: it pushes the nearby Xe–F bonds away, so the F–Xe–F\nangles are not the clean 90° of a regular octahedron.\nCompare the series: XeF₂ has 3 lone pairs and is linear, XeF₄ has 2 and is square planar, XeF₆\nhas 1 and is distorted octahedral.\n∴ distorted octahedral."
+  },
+
+  "kcet|Chemistry|2016|36||0|0": "Count the donor atoms first: 2 Cl + 2 N from en + 2 N from NH₃ = 6, so the complex is octahedral.\nThe key constraint is that en is a bidentate ligand with a short backbone — it can only bridge\ntwo *adjacent* (cis) positions, never trans.\nFix en across one cis edge. Four sites remain for 2 Cl and 2 NH₃, and these can be arranged as:\n1. the two Cl trans to each other\n2. the two Cl cis, with one Cl trans to a nitrogen of en\n3. the two Cl cis, arranged the other way round\nThe trans-Cl form has a mirror plane and is achiral. The cis-Cl forms lack one, so one of them\nexists as a non-superimposable pair of mirror images — a d and an l form.\nAdding the optical pair to the geometrical ones gives four distinct isomers in all.\n∴ four isomers.",
+
+  "kcet|Chemistry|2016|37||0|0": "Ligand strength in the spectrochemical series is not simply a matter of charge — if it were,\nCl⁻ would beat neutral CO, and it does not.\nCO is a strong field ligand because it bonds in two ways at once (synergic bonding):\nσ donation — the carbon lone pair goes into an empty metal d orbital.\nπ back-donation — a filled metal d orbital pushes electron density back into CO's empty π*\nantibonding orbital. CO can accept this precisely because it has π bonds, and therefore π* orbitals.\nThat back-donation removes electron density from the metal's t₂g set, which widens the gap\nbetween t₂g and e₉ and makes Δ₀ large.\nCl⁻ has no empty π* orbital to accept back-donation. It is a π *donor* instead, which pushes\nthe t₂g level up and shrinks Δ₀ — so it is a weak field ligand.\n∴ because CO has π-bonds.",
+
+  "kcet|Chemistry|2016|38||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Paramagnetism rises with the number of unpaired electrons, μ = √(n(n + 2)) BM.\nWrite the configuration of each ion. For a transition metal cation the 4s electrons go first.\nMn²⁺ : Mn is [Ar]3d⁵4s² ⇒ Mn²⁺ = 3d⁵ ⇒ five orbitals, one electron each, n = 5\nCu²⁺ : Cu is [Ar]3d¹⁰4s¹ ⇒ Cu²⁺ = 3d⁹ ⇒ n = 1\nSc²⁺ : Sc is [Ar]3d¹4s² ⇒ Sc²⁺ = 3d¹ ⇒ n = 1 (and Sc²⁺ is not a common ion)\nCu⁺ : 3d¹⁰ ⇒ n = 0, diamagnetic — and it is not bivalent anyway\nd⁵ is the half-filled case and gives the maximum possible for the 3d series:\nμ = √(5 × 7) = √35 = 5.92 BM\n∴ Mn²⁺."
+  },
+
+  "kcet|Chemistry|2016|39||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Identify A from the description: a brown compound of manganese. That is MnO₂, a dark brown solid.\nStep 1 — MnO₂ with concentrated HCl is the laboratory preparation of chlorine:\nMnO₂ + 4HCl ⇒ MnCl₂ + Cl₂ + 2H₂O\nso B = Cl₂, a greenish-yellow gas.\nStep 2 — chlorine with ammonia, and the amount matters.\nWith *excess ammonia*: 8NH₃ + 3Cl₂ ⇒ 6NH₄Cl + N₂\nWith *excess chlorine*: NH₃ + 3Cl₂ ⇒ NCl₃ + 3HCl\nThe question says the gas is taken in excess, so chlorine is in excess and the product is\nnitrogen trichloride.\nNCl₃ is a notoriously explosive oily yellow liquid, which matches 'explosive compound' ✓\n∴ A = MnO₂, B = Cl₂, C = NCl₃."
+  },
+
+  "kcet|Chemistry|2016|40||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Oxidation from +2 to +3 means removing a third electron, so compare the third ionisation energies.\nMn²⁺ is 3d⁵ — exactly half filled, with one electron in each of the five d orbitals and all spins\nparallel. This is an especially stable arrangement because of its symmetry and its large exchange energy.\nTaking a further electron away destroys that half-filled stability, so the third ionisation energy\nof manganese is abnormally high and Mn²⁺ resists oxidation.\nFe²⁺ is 3d⁶ — one electron has had to pair up. Losing that paired electron actually *gives* the\nstable 3d⁵ configuration, so it is easy, Fe's third ionisation energy is lower, and Fe²⁺ is readily\noxidised to Fe³⁺.\nThat is why Fe²⁺ salts darken in air while Mn²⁺ salts are stable.\n(3) is wrong: 3d⁵ is half filled, not completely filled.\n∴ because Mn²⁺ is stabilised by its high third ionisation energy."
+  },
+
+  "kcet|Chemistry|2016|41||0|0": "The spectrochemical series ranks ligands by the size of the crystal field splitting Δ₀ they produce.\nThe usual ordering, weak field to strong field, runs:\nI⁻ < Br⁻ < SCN⁻ < Cl⁻ < F⁻ < OH⁻ < C₂O₄²⁻ < H₂O < NH₃ < en < NO₂⁻ < CN⁻ < CO\nTaking just the four asked about and keeping that order:\nSCN⁻ < F⁻ < CN⁻ < CO\nThe reasoning behind the ends of the series: SCN⁻ bonded through sulphur is a large, polarisable,\nπ-donating ligand and splits weakly, while CN⁻ and CO are π acceptors whose back-bonding\nwidens Δ₀ the most.\nNote the series is not a charge ordering — neutral CO outranks every anion here, which is why\nit has to be learned as an experimental sequence.\n∴ SCN⁻ < F⁻ < CN⁻ < CO.",
+
+  "kcet|Chemistry|2016|42||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "Name the complex ion first, then the counter ion.\nLigands are cited alphabetically, ignoring the multiplying prefixes:\nchlorido (Cl⁻), ethane-1,2-diamine (en), nitrito-O (ONO⁻).\nen already contains numbers in its name, so the multiplying prefix must be bis, not di, and the\nname is enclosed in brackets: bis(ethane-1,2-diamine).\nThe ambidentate ligand ONO⁻ is bonded through oxygen, shown by writing the donor atom first\nin the formula; that linkage isomer is named nitrito-O. (Bonded through nitrogen it would be\nwritten NO₂ and named nitrito-N, the old 'nitro'.)\nOxidation state: the complex ion is +1 because one Cl⁻ sits outside. Inside, en is neutral and\nCl⁻ and ONO⁻ are each −1, so x − 2 = +1 and x = +3.\nThe chloride outside is named last as the anion.\n∴ chlorido bis(ethane-1,2-diamine) nitrito-O-cobalt(III) chloride."
+  },
+
+  "kcet|Chemistry|2016|43||0|0": {
+    "ch": "Amines",
+    "s": "Work backwards from the product.\nB + HNO₂ gives CH₃CH₂OH. Nitrous acid converts an aliphatic **primary amine** into an alcohol,\nthrough an unstable diazonium salt that loses N₂ at once:\nCH₃CH₂NH₂ + HNO₂ ⇒ CH₃CH₂OH + N₂ + H₂O\nSo B = CH₃CH₂NH₂, ethylamine.\nNow A on reduction gives ethylamine. A nitrile reduces to a primary amine with the same\nnumber of carbons plus the nitrile carbon:\nCH₃CN + 4[H] ⇒ CH₃CH₂NH₂\nSo A = CH₃CN, ethane nitrile (acetonitrile).\nCheck the carbon count: CH₃CN has 2 carbons, and so does ethylamine ✓ Propane nitrile would\nhave given propylamine, one carbon too many.\n∴ A is ethane nitrile."
+  },
+
+  "kcet|Chemistry|2016|44||0|0": {
+    "ch": "Amines",
+    "s": "Work backwards from the end.\nC on catalytic reduction gives N-methylbenzenamine, C₆H₅NHCH₃ — a secondary amine with one\nmethyl on the nitrogen. Reducing an isocyanide, R–NC, gives exactly that: R–NH–CH₃.\nSo C = C₆H₅NC, phenyl isocyanide.\nC was made from B with trichloromethane and caustic potash. That is the carbylamine reaction,\nand it works only on **primary amines**:\nC₆H₅NH₂ + CHCl₃ + 3KOH ⇒ C₆H₅NC + 3KCl + 3H₂O\nSo B = C₆H₅NH₂, aniline.\nB came from reducing A, and the standard route to aniline is the reduction of nitrobenzene:\nC₆H₅NO₂ + 6[H] ⇒ C₆H₅NH₂ + 2H₂O\n∴ A is nitrobenzene."
+  }
+}

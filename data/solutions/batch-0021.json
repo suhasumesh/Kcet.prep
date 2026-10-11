@@ -1,0 +1,37 @@
+{
+  "kcet|Chemistry|2015|7||0|0": "Two steps, and the first one hinges on which silver salt is used.\n2-Bromopropane + AgCN, alcoholic, heated.\nAgCN is largely covalent, so the lone pair available to attack comes from the **nitrogen**, not\nthe carbon. The product is therefore the iso cyanide, not the cyanide:\nX = (CH₃)₂CH–NC, isopropyl isocyanide.\n(Had the reagent been KCN, which is ionic, carbon would have attacked and the product would\nhave been the nitrile (CH₃)₂CH–CN.)\nX + LiAlH₄ — reducing an isocyanide R–NC adds four hydrogens and gives a **secondary** amine,\nwith a methyl group left on the nitrogen:\nY = (CH₃)₂CH–NH–CH₃\nName it: the longer chain on N is propane with the amine at C2, and a methyl sits on nitrogen.\n∴ N-methylpropan-2-amine.",
+
+  "kcet|Chemistry|2015|8||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "First identify the gas. White phosphorus warmed with concentrated NaOH in an inert\natmosphere disproportionates:\nP₄ + 3NaOH + 3H₂O ⇒ PH₃ + 3NaH₂PO₂\nThe gas is phosphine, PH₃. (The CO₂ atmosphere is there to keep air out, because PH₃ traces\nignite spontaneously.)\nNow test the statements.\n(3) True — PH₃ is very poisonous and smells of rotten fish or garlic.\n(4) True — its aqueous solution decomposes in light, giving red phosphorus and hydrogen.\n(1) True and (2) false — PH₃ is a **weaker** base than NH₃. Phosphorus is larger than nitrogen,\nso its lone pair occupies a bigger, more diffuse 3s orbital and is less available for donation to\na proton. Basicity falls down the group: NH₃ > PH₃ > AsH₃ > SbH₃ > BiH₃.\n∴ statement (2) is incorrect."
+  },
+
+  "kcet|Chemistry|2015|10||0|0": {
+    "ch": "Solutions",
+    "s": "Isotonic solutions have equal osmotic pressure, and since π = CRT at the same temperature,\nthat simply means equal molar concentration.\nUrea: 0.06% w/v means 0.06 g in 100 mL, which is 0.6 g per litre.\nMolar mass of urea, NH₂CONH₂ = 60 g mol⁻¹\nconcentration = 0.6 / 60 = 0.01 mol L⁻¹\nSo the glucose solution must also be 0.01 M, which option (3) states directly.\nFor the w/v options: 0.01 M glucose (M = 180) is 1.8 g L⁻¹, that is 0.18% w/v — neither 0.06%\nnor 0.6%, so (1) and (2) are both wrong.\nNeither solute dissociates, so i = 1 for both and no van't Hoff correction is needed.\n∴ 0.01 M glucose solution."
+  },
+
+  "kcet|Chemistry|2015|11||0|0": "Express the fraction remaining as a power of a half.\n12.5% = 12.5/100 = 1/8 = (1/2)³\nSo three half-lives have passed.\nThat took one hour:\n3 × t½ = 60 min\nt½ = 20 min\nCheck it through: 100% ⇒ 50% at 20 min ⇒ 25% at 40 min ⇒ 12.5% at 60 min ✓\nThe question asks when the reaction was half completed, which is one half-life.\nFor a first order reaction the half-life does not depend on the starting concentration, so this\nis a fixed 20 minutes whatever you began with.\n∴ 20 minutes.",
+
+  "kcet|Chemistry|2015|12||0|0": "The flocculation value is the minimum concentration of electrolyte needed to coagulate a sol,\nso the **maximum** flocculation value belongs to the **least effective** electrolyte.\nAgI/Ag⁺ means the sol was made with silver nitrate in excess, so the particles adsorb Ag⁺ and\nthe sol is **positively charged**.\nA positive sol is coagulated by the negative ion of the electrolyte, so compare the anions.\nBy the Hardy–Schulze rule, coagulating power rises steeply with the charge on that ion:\nPO₄³⁻ > SO₄²⁻ ≈ S²⁻ > Cl⁻\nCl⁻ carries only one negative charge, so NaCl is the weakest coagulant here and needs the\nhighest concentration — the maximum flocculation value.\n∴ NaCl.",
+
+  "kcet|Chemistry|2015|14||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "Geometrical isomerism needs two or more ways of arranging the ligands in space that cannot\nbe interconverted by rotating the whole molecule.\nTetrahedral complexes show none at all. Every vertex of a tetrahedron is adjacent to every\nother, so there is no cis and no trans — that rules out (2) and (4) immediately.\nMA₃B square planar: the single B can go to any corner, but all four corners of a square are\nequivalent by rotation, so there is only one arrangement. No isomerism.\nMABCD square planar: here the four ligands all differ, and the isomer is decided by which\nligand sits **opposite** A. B, C or D can each take that position, giving three distinct isomers.\nSo only the square planar MABCD qualifies.\n∴ MABCD – square planar."
+  },
+
+  "kcet|Chemistry|2015|15||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Gadolinium has Z = 64. Its configuration is one of the irregular ones:\nGd = [Xe] 4f⁷ 5d¹ 6s²\nThe 5d¹ appears because a half-filled 4f⁷ subshell is especially stable, so the last electron goes\nto 5d rather than pairing up in 4f.\nNow form Gd²⁺. For any transition or inner-transition element the outermost **s** electrons are\nremoved first, before d or f.\nRemove the two 6s electrons:\nGd²⁺ = [Xe] 4f⁷ 5d¹\nNote this keeps both the stable half-filled 4f⁷ and the lone 5d electron.\nThe common error is option (2), [Xe]4f⁷, which comes from removing the 5d electron as well —\nthat would be Gd³⁺, the usual oxidation state of the lanthanoids.\n∴ [Xe] 4f⁷ 5d¹."
+  },
+
+  "kcet|Chemistry|2015|16||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Follow the qualitative analysis.\nMSO₄ + NH₄OH gives a **white** precipitate. That rules out copper (pale blue), iron (dirty green\nor brown) and leaves zinc or aluminium:\nZnSO₄ + 2NH₄OH ⇒ Zn(OH)₂↓ (white) + (NH₄)₂SO₄\nX + **excess** NH₄OH dissolves. This is the deciding step. Zn(OH)₂ is soluble in excess ammonia\nbecause it forms a soluble ammine complex:\nZn(OH)₂ + 4NH₄OH ⇒ [Zn(NH₃)₄](OH)₂ + 4H₂O\nAl(OH)₃ does **not** dissolve in excess ammonia, so aluminium is eliminated.\nY + H₂S gives a precipitate: the complex is broken down and zinc sulphide is thrown out:\n[Zn(NH₃)₄]²⁺ + H₂S ⇒ ZnS↓ (white) + 2NH₄⁺ + 2NH₃\n∴ M is Zn and Z is ZnS."
+  },
+
+  "kcet|Chemistry|2015|17||0|0": {
+    "ch": "Haloalkanes and Haloarenes",
+    "s": "2-Bromobutane, CH₃CHBrCH₂CH₃, has four different groups on C2 — H, Br, CH₃ and C₂H₅ — so\nthat carbon is a stereocentre and the compound is optically active.\nHydrolysis with aqueous NaOH on a secondary halide proceeds substantially by SN1:\nStep 1 — the C–Br bond ionises, giving a secondary carbocation. That carbocation is sp²\nhybridised and therefore **planar**, so the stereochemical information is lost.\nStep 2 — OH⁻ attacks, and it can approach either face of the flat carbocation with equal ease.\nAttack from one face gives the (+) alcohol, from the other the (−) alcohol, in equal amounts.\nEqual amounts of the two enantiomers make a racemic mixture, written (±), which is optically\ninactive because the rotations cancel.\nThe chain is unchanged, so the product is butan-2-ol, not butan-1-ol.\n∴ (±) butan-2-ol."
+  }
+}

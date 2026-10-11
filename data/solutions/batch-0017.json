@@ -1,0 +1,42 @@
+{
+  "kcet|Chemistry|2016|23||0|0": "Two clues, and together they pin the answer down.\nClue 1 — the oxidation product reacts with phenylhydrazine. Phenylhydrazine condenses with a\ncarbonyl group, so the product is an aldehyde or a ketone.\nClue 2 — it does *not* give the silver mirror test. Tollens' reagent is reduced by aldehydes but\nnot by ketones, so the product must be a ketone.\nA ketone is produced by oxidising a **secondary** alcohol.\nNow check the options. Ethanol (3) is primary and would give ethanal, which does give a silver\nmirror. Ethanal (2) is already the aldehyde. Propane (4) is not oxidised by K₂Cr₂O₇ at all.\n2-Propanol, CH₃CH(OH)CH₃, is secondary:\nCH₃CH(OH)CH₃ --[O]--> CH₃COCH₃ (propanone), a ketone ✓\n∴ X is 2-propanol.",
+
+  "kcet|Chemistry|2016|24||0|0": {
+    "ch": "Aldehydes, Ketones and Carboxylic Acids",
+    "s": "Follow each reagent.\nCH₃COOH + PCl₅ — the –OH of the acid is replaced by chlorine:\nA = CH₃COCl, acetyl chloride.\nA + C₆H₆ with anhydrous AlCl₃ — Friedel–Crafts acylation. The acylium ion CH₃CO⁺ substitutes\nonto the ring:\nB = C₆H₅COCH₃, acetophenone.\nB + CH₃MgBr — a Grignard adds across the C=O. The carbanion-like CH₃⁻ attacks the carbonyl\ncarbon and the alkoxide is protonated on work-up.\nThe carbonyl carbon of acetophenone already carries a CH₃ and a C₆H₅; adding one more CH₃\nand an OH gives a carbon bearing three carbon groups and an OH — a tertiary alcohol:\nC = (CH₃)₂C(OH)C₆H₅, 2-phenylpropan-2-ol.\n∴ (CH₃)₂C(OH)C₆H₅."
+  },
+
+  "kcet|Chemistry|2016|25||0|0": {
+    "ch": "Some Basic Concepts of Chemistry",
+    "s": "Convert mass to moles, then moles to atoms.\nMolar mass of CO₂ = 12 + 2(16) = 44 g mol⁻¹\nmoles of CO₂ = 4.4 / 44 = 0.1 mol\nEach CO₂ molecule contains 2 oxygen atoms, so\nmoles of O atoms = 0.1 × 2 = 0.2 mol\nNumber of O atoms = 0.2 × 6.022 × 10²³ = 1.2044 × 10²³\nThe trap is option (2), 6 × 10²², which is the answer if you forget there are two oxygens per\nmolecule, and option (3), which is the count of *molecules* times ten.\n∴ about 1.2 × 10²³ oxygen atoms."
+  },
+
+  "kcet|Chemistry|2016|26||0|0": {
+    "ch": "Thermodynamics",
+    "s": "Bond enthalpies give ΔH as (energy to break the reactant bonds) − (energy released forming\nthe product bonds).\nReaction: H₂(g) + Br₂(g) ⇒ 2HBr(g)\nBonds broken: one H–H and one Br–Br\n= 433 + 192 = 625 kJ (absorbed, positive)\nBonds formed: two H–Br\n= 2 × 364 = 728 kJ (released, negative)\nΔH° = 625 − 728 = −103 kJ\nThe negative sign says more energy comes out forming the two H–Br bonds than goes in breaking\nthe two reactant bonds, so the reaction is exothermic ✓\n∴ ΔH° = −103 kJ."
+  },
+
+  "kcet|Chemistry|2016|27||0|0": {
+    "ch": "Equilibrium",
+    "s": "Write the solubility product for the equilibrium:\nFe(OH)₃(s) ⇌ Fe³⁺ + 3OH⁻\nKsp = [Fe³⁺][OH⁻]³\nThe solid does not appear in the expression, and Ksp is a constant at fixed temperature, so the\nproduct [Fe³⁺][OH⁻]³ cannot change.\nLet the hydroxide fall to a quarter: [OH⁻]new = ¼[OH⁻]\nThen [OH⁻]new³ = (¼)³[OH⁻]³ = (1/64)[OH⁻]³\nTo keep the product constant, [Fe³⁺] must rise by the reciprocal:\n[Fe³⁺]new = 64 × [Fe³⁺]\nNote the cube — the stoichiometric coefficient becomes the exponent, which is why a modest\nchange in OH⁻ has such a large effect.\n∴ 64 times."
+  },
+
+  "kcet|Chemistry|2016|28||0|0": "This is the third law of thermodynamics, and the wording has to be exact.\nThe law states: the entropy of a **perfectly crystalline solid** is zero at absolute zero.\nThe reason is statistical. Entropy measures the number of ways the particles can be arranged,\nS = k ln W. In a perfect crystal at 0 K every particle is in its fixed lattice position and every\nmotion has ceased, so there is exactly one possible arrangement: W = 1, ln 1 = 0, hence S = 0.\nNow test the options against that wording.\n(2) says +ve — wrong, it is exactly zero.\n(3) says *all* crystalline substances — wrong, only perfect ones. A crystal with defects, or one\nwith residual disorder such as CO, keeps a residual entropy at 0 K.\n(4) says 0 °C — wrong, that is 273 K, not absolute zero.\n∴ at absolute zero the entropy of a perfectly crystalline solid is zero.",
+
+  "kcet|Chemistry|2016|31||0|0": "Copper matte is the intermediate produced when copper pyrites, CuFeS₂, is smelted.\nThe ore is first roasted, which partly oxidises the iron, and then smelted with silica in a\nreverberatory furnace. The silica is there to remove the iron oxide as slag:\nFeO + SiO₂ ⇒ FeSiO₃ (slag, which floats off)\nWhat is left as a separate molten layer is the matte, and it is still a mixture of sulphides:\nmainly Cu₂S with some FeS remaining.\nThe matte is then transferred to a Bessemer converter, where a blast of air finishes the job:\n2Cu₂S + 3O₂ ⇒ 2Cu₂O + 2SO₂, then 2Cu₂O + Cu₂S ⇒ 6Cu + SO₂\nThat last self-reduction gives blister copper.\n∴ copper matte is Cu₂S + FeS.",
+
+  "kcet|Chemistry|2016|32||0|0": {
+    "ch": "Isolation of Elements (Metallurgy)",
+    "s": "This is the Bayer process for purifying bauxite.\nBauxite is Al₂O₃ contaminated with Fe₂O₃, SiO₂ and TiO₂. The separation works because Al₂O₃\nis amphoteric while the iron and titanium oxides are basic.\nTreating with hot concentrated NaOH dissolves only the alumina:\nAl₂O₃ + 2NaOH + 3H₂O ⇒ 2Na[Al(OH)₄]\nThe aluminium leaves as the soluble tetrahydroxoaluminate complex, in which Al(III) is\nfour-coordinate with four OH⁻ ligands and the sodium is the counter ion.\nThe insoluble impurities are filtered off as red mud.\nThe solution is then seeded with fresh Al(OH)₃ to precipitate the hydroxide, which is heated to\ngive pure Al₂O₃ for electrolysis.\n∴ Na[Al(OH)₄]."
+  },
+
+  "kcet|Chemistry|2016|33||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "Find the statement that is false.\n(1) True — fluorine's reactions are strongly exothermic, because the bonds it forms are very\nstrong and its own bond is weak.\n(2) True — fluorine forms only one oxoacid, HOF (hypofluorous acid). The other halogens form\nseveral, because they can expand their octet using d orbitals; fluorine, in period 2, cannot.\n(3) True — fluorine is the most electronegative element, 4.0 on the Pauling scale.\n(4) False — the F–F bond enthalpy is unusually **low**, about 158 kJ mol⁻¹, lower even than\nCl–Cl at 242. The two fluorine atoms are so small that their non-bonding lone pairs are forced\nclose together and repel strongly, weakening the bond.\nThat weak bond is precisely why statement (1) is true: little energy is needed to start the\nreaction and a great deal is released.\n∴ statement (4) is not true."
+  },
+
+  "kcet|Chemistry|2016|34||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "Check each claim about nitrogen against its neighbours in group 15.\n(1) Less electronegative — false. Nitrogen is the *most* electronegative of the group, 3.0.\n(2) Low ionisation enthalpy — false. Its small size and half-filled 2p³ configuration give it an\nunusually *high* ionisation enthalpy.\n(3) d orbitals available — false. Nitrogen is a second period element, so it has only 2s and 2p.\nThis is exactly why its covalency never exceeds four, while phosphorus reaches five in PCl₅.\n(4) True — nitrogen is small enough for its 2p orbitals to overlap sideways effectively, so it\nforms pπ–pπ multiple bonds with itself. The result is N≡N, with a bond enthalpy of 941 kJ mol⁻¹,\nwhich is why nitrogen is a diatomic gas and so unreactive.\nPhosphorus, being larger, cannot do this and instead exists as P₄ with single bonds.\n∴ its ability to form pπ–pπ bonds with itself."
+  }
+}
