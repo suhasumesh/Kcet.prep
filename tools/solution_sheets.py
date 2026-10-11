@@ -64,6 +64,29 @@ def load_todo(inventory):
     return [q for q in rows if key_of(q) not in have]
 
 
+def stack(stem, options):
+    """
+    The stem with its option images beneath it, as one picture.
+
+    The scanned papers store each option as a separate crop, so a sheet built
+    from the stem alone shows a question with no answers to choose from -- and
+    reads as a truncated crop when it is nothing of the kind.
+    """
+    parts = [Image.open(stem).convert('RGB')]
+    for p in options:
+        if os.path.exists(p):
+            parts.append(Image.open(p).convert('RGB'))
+    if len(parts) == 1:
+        return parts[0]
+    w = max(p.width for p in parts)
+    out = Image.new('RGB', (w, sum(p.height for p in parts) + 4 * (len(parts) - 1)), 'white')
+    y = 0
+    for p in parts:
+        out.paste(p, (0, y))
+        y += p.height + 4
+    return out
+
+
 def build(rows, out_path, size, budget=2300):
     """
     One labelled sheet. Returns the keys it shows, in order.
@@ -79,7 +102,7 @@ def build(rows, out_path, size, budget=2300):
         path = os.path.join(ASSETS, src)
         if not os.path.exists(path):
             continue
-        im = Image.open(path).convert('RGB')
+        im = stack(path, [os.path.join(ASSETS, o) for o in q.get('opts', [])])
         if im.width > SHEET_W - 2 * PAD:
             w = SHEET_W - 2 * PAD
             im = im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)

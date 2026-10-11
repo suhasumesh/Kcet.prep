@@ -28,7 +28,7 @@ const rows = await Question.find({
   'solutionImages.0': { $exists: false },
 }).project({
   bank: 1, subject: 1, chapter: 1, year: 1, number: 1, book: 1, page: 1,
-  seq: 1, answer: 1, stemImages: 1,
+  seq: 1, answer: 1, stemImages: 1, options: 1, optionsInImage: 1,
 }).toArray();
 
 const out = [];
@@ -46,6 +46,12 @@ for (const q of rows) {
     seq: q.seq || 0,
     answer: q.answer,
     src: String(src).replace(/^\/questions\//, ''),
+    // The scanned papers keep each option as its own image. Listing them here
+    // lets the contact sheet show the whole question: without them a stem
+    // crop looks as though its options had been cut off, and several perfectly
+    // good questions were withdrawn on that mistaken reading.
+    opts: (q.options || []).map((o) => o.img && String(o.img.src).replace(/^\/questions\//, ''))
+      .filter(Boolean),
     label: q.book ? `${q.book} Q${q.number}` : `KCET ${q.year} Q${q.number}`,
   });
 }
