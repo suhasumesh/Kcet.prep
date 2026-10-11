@@ -108,7 +108,7 @@ def find_cut(img, marker):
             continue
         if min(xs) > img.width * 0.30:        # not in the left margin
             continue
-        if min(ys) < img.height * 0.22:       # the first question's own number
+        if min(ys) < img.height * 0.12:       # the first question's own number
             continue
         if best is None or min(ys) < best:
             best = min(ys)
