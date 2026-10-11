@@ -1,0 +1,49 @@
+{
+  "kcet|Chemistry|2006|26||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "Find the rate constant first, then apply the rate law.\nThe concentration falls 0.1 ⇒ 0.05 ⇒ 0.025 M, which is two successive halvings in 40 minutes:\nt½ = 40/2 = 20 min\nFor a first order reaction:\nk = 0.693/t½ = 0.693/20 = 0.03465 min⁻¹\nThe rate law is rate = k[X], so at [X] = 0.01 M:\nrate = 0.03465 × 0.01 = 3.465 × 10⁻⁴ M min⁻¹\nThe rate must be evaluated at the concentration asked for, not at the initial one — using\n0.1 M would give 3.47 × 10⁻³, a factor of ten out.\n∴ about 3.47 × 10⁻⁴ M min⁻¹."
+  },
+
+  "kcet|Chemistry|2006|27||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "The Arrhenius equation links the rate constant to the activation energy:\nk = Ae^(−Ea/RT)\nEa sits in the exponent with a minus sign, so a **large** Ea makes the exponent a large\nnegative number and e raised to it very small. The rate constant is therefore tiny and the\nreaction is **very slow**.\nPhysically, Ea is the energy barrier the colliding molecules must clear. If it is high, only a\nminute fraction of collisions are energetic enough, so very few are effective.\nThis is why diamond does not turn into graphite despite being thermodynamically unstable —\nthe activation energy is enormous. Spontaneity (4) is a question of ΔG and says nothing about\nspeed; the two are entirely independent.\n∴ very slow."
+  },
+
+  "kcet|Chemistry|2006|28||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Conduction needs **mobile charge carriers** — either free electrons or free ions.\n(4) Copper conducts by free electrons, the delocalised sea in a metal ✓\n(3) Brine is aqueous NaCl, in which the lattice has broken up into mobile Na⁺ and Cl⁻ ions ✓\n(1) Fused NaCl is molten, so the lattice has melted and the ions can move ✓\n(2) **Solid NaCl** does not conduct. The ions are certainly there, but every one of them is\nlocked at a fixed lattice site by strong electrostatic forces. They can only vibrate about\nthose positions, not travel through the crystal, and there are no free electrons either.\nSo an ionic solid is an insulator while solid and a good conductor once melted or dissolved —\nthe ions themselves have not changed, only their freedom to move.\n∴ solid NaCl."
+  },
+
+  "kcet|Chemistry|2006|29||0|0": {
+    "ch": "Electrochemistry",
+    "s": "The same quantity of electricity passes through both cells, so equate the moles of electrons.\nAt the copper cathode: Cu²⁺ + 2e⁻ ⇒ Cu\nmoles of Cu = 0.16/64 = 0.0025 mol\nmoles of electrons = 2 × 0.0025 = 0.005 mol\nAt the hydrogen cathode: 2H⁺ + 2e⁻ ⇒ H₂\nmoles of H₂ = 0.005/2 = 0.0025 mol\nVolume at STP = 0.0025 × 22400 = 56 cm³\nThis is Faraday's second law in action: the masses liberated by the same charge are in the\nratio of the equivalent masses. Copper is divalent and hydrogen monovalent, but each H₂\n*molecule* also takes two electrons, so the two half reactions happen to need the same\ncharge per mole of product.\n∴ 56 cm³."
+  },
+
+  "kcet|Chemistry|2006|30||0|0": {
+    "ch": "Equilibrium",
+    "s": "Precipitation begins when the ionic product exceeds the solubility product:\n[A⁺][B⁻] > Ksp\nSubstitute what is known:\n(10⁻³)[B⁻] > 1 × 10⁻⁸\n[B⁻] > 10⁻⁸ / 10⁻³\n[B⁻] > 10⁻⁵ M\nSo any concentration of B⁻ above 10⁻⁵ M will throw the salt out of solution ✓\nBelow that value the ionic product is less than Ksp and the solution is still unsaturated,\nwhich rules out options (1), (2) and (4) — all of them are smaller than 10⁻⁵.\nNote the answer is an inequality, not a range: precipitation continues for every higher\nconcentration too.\n∴ > 10⁻⁵ M."
+  },
+
+  "kcet|Chemistry|2006|31||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Write the Nernst equation for Cu(s) + 2Ag⁺ ⇌ Cu²⁺ + 2Ag(s), with n = 2:\nE = E° − (0.059/2)·log([Cu²⁺]/[Ag⁺]²)\nTo raise E, the log term must be made **smaller**, that is more negative.\n(4) Increasing [Ag⁺] increases the denominator, so the fraction shrinks, the log falls and E\nrises ✓\n(3) Increasing [Cu²⁺] does the opposite — the fraction grows and E falls.\n(1) and (2) change the **size** of the electrodes. This makes no difference at all: Cu(s) and\nAg(s) are pure solids, so their activity is 1 and they do not appear in the Nernst expression.\nA bigger electrode gives more current for longer, but not a higher voltage.\nThat last point is the real test here — electrode potential is an intensive property.\n∴ increase the concentration of Ag⁺ ions."
+  },
+
+  "kcet|Chemistry|2006|36||0|0": "Ferric hydroxide sol is **positively** charged, because the particles adsorb Fe³⁺ ions from the\nmedium. A positive sol is coagulated by the **negative** ion of the added electrolyte.\nThe flocculation value is the minimum concentration needed to coagulate, so the **maximum**\nflocculation value belongs to the **least effective** electrolyte.\nBy the Hardy–Schulze rule, coagulating power rises steeply with the charge on that ion:\nPO₄³⁻ > SO₄²⁻ ≈ S²⁻ > Cl⁻\nCl⁻ carries only a single negative charge, so NaCl is the weakest coagulant of the four and\nneeds the highest concentration.\n(NH₄)₃PO₄, with its triply charged phosphate, would be the most effective and so would have\nthe *minimum* flocculation value — the opposite of what is asked.\n∴ NaCl.",
+
+  "kcet|Chemistry|2006|37||0|0": {
+    "ch": "Thermodynamics",
+    "s": "At equilibrium ΔG = 0, so from ΔG = ΔH − TΔS:\nT = ΔH/ΔS\nFirst find ΔS for X + 3Y ⇌ 2Z:\nΔS = ΣS(products) − ΣS(reactants)\n= 2(50) − [60 + 3(40)]\n= 100 − [60 + 120]\n= 100 − 180 = −80 J K⁻¹ mol⁻¹\nNow substitute, converting ΔH to joules so the units match:\nT = (−40000 J)/(−80 J K⁻¹) = 500 K\nThe two negatives cancel, which they must — a reaction with ΔH and ΔS both negative is\nspontaneous below this temperature and non-spontaneous above it, with equilibrium exactly\nat the crossover.\nMixing kJ with J K⁻¹ would give 0.5 K and is the usual slip.\n∴ 500 K."
+  },
+
+  "kcet|Chemistry|2006|38||0|0": "NaCl has the rock-salt structure: each ion is octahedrally surrounded by six of the other kind,\nso cations and anions alternate along every edge of the cube.\nTravelling along one edge you pass through:\nhalf a Cl⁻ ... a whole Na⁺ ... half a Cl⁻\nwhich adds up to one complete anion plus one complete cation. So\na = 2(r₊ + r₋)\nSubstitute:\na = 2(95 + 181)\na = 2 × 276\na = 552 pm\nOption (1), 276 pm, is the answer if you forget the factor of 2 — that distance is just the\nNa⁺–Cl⁻ separation, which is half the edge.\nThe radius ratio here is 95/181 = 0.52, which falls in the 0.414–0.732 band and correctly\npredicts the octahedral, six-coordinate structure.\n∴ 552 pm.",
+
+  "kcet|Chemistry|2006|39||0|0": "The inductive effect arises when a bonded atom is more electronegative than its partner. It\npulls the shared pair of the **σ bond** slightly towards itself.\nThe key words are **displacement** and **σ**:\n**Displacement**, not delocalisation — the electrons shift only partially, creating small δ+ and\nδ− charges. They are not spread over several atoms.\n**σ electrons**, not π — the effect travels along single bonds in a chain, weakening rapidly\nwith distance and becoming negligible after three or four carbons.\nIt is also a **permanent** effect, present whether or not a reagent is nearby.\nThe contrast is with the electromeric effect, which is the complete and temporary\ndisplacement of **π** electrons in the presence of a reagent — option (4) — and with resonance,\nwhich is the delocalisation of π electrons, option (2).\n∴ displacement of σ electrons.",
+
+  "kcet|Chemistry|2006|40||0|0": {
+    "ch": "Amines",
+    "s": "Cyclohexylamine, C₆H₁₁NH₂, has its –NH₂ on an sp³ carbon of a saturated ring. Nothing\ncompetes for the nitrogen lone pair, so it is fully available to accept a proton and the\ncompound is a good base.\nIn aniline the –NH₂ is attached directly to the benzene ring. The nitrogen lone pair is donated\ninto the ring's π system and delocalised over the ortho and para positions — this is the **+R\n(resonance) effect of the –NH₂ group**.\nA lone pair spread over four atoms is far less available to bind a proton, so aniline is a much\nweaker base. Its Kb is about 4 × 10⁻¹⁰ against roughly 5 × 10⁻⁴ for cyclohexylamine.\nOption (2) is wrong because –NH₂ is electron *releasing* overall in this context, and the −I\neffect is not the dominant factor; option (3) has the sign of the resonance effect reversed;\nand (4) hyperconjugation requires α C–H bonds, which an –NH₂ does not have.\n∴ the +R effect of the –NH₂ group."
+  },
+
+  "kcet|Chemistry|2006|41||0|0": "Methyl bromide has one carbon, ethane has two, so the carbon chain must be **doubled**.\nThat means coupling two methyl fragments, which is the **Wurtz reaction**: an alkyl halide\nheated with **sodium** in dry ether.\n2CH₃Br + 2Na ⇒ CH₃–CH₃ + 2NaBr\nThe sodium gives an electron to the alkyl halide, the bromide leaves, and the two methyl\nfragments join.\nThe other metals do different things:\n(1) Aluminium is used in Friedel–Crafts work as AlCl₃, a Lewis acid, not for coupling.\n(2) Zinc with an alkyl halide gives dialkylzinc (Frankland), which is a different reaction and\nnot how ethane is made here.\n(4) Copper couples **aryl** halides in the Ullmann reaction, not alkyl halides.\nDry ether is essential: any moisture would destroy the sodium.\n∴ sodium."
+}
