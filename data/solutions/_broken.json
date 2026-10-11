@@ -38,5 +38,10 @@
  "pradeep|Chemistry|0|18|Pradeep Chemistry · Class 11|443|131": "not a question: the printed explanations for questions 18 and 19 of the multiple-correct section",
  "pradeep|Chemistry|0|20|Pradeep Chemistry · Class 11|443|132": "not a question: the printed explanation for question 20 of the multiple-correct section",
  "pradeep|Chemistry|0|57|Pradeep Chemistry · Class 11|465|144": "not a question: the printed explanation for question 57, which states the answers to options (a), (b) and (c) outright",
- "pradeep|Chemistry|0|12|Pradeep Chemistry · Class 11|1004|292": "stem missing: the band asks 'What is the value of equilibrium constant for the given reaction?' but the reaction itself is not in the crop"
+ "pradeep|Chemistry|0|12|Pradeep Chemistry · Class 11|1004|292": "stem missing: the band asks 'What is the value of equilibrium constant for the given reaction?' but the reaction itself is not in the crop",
+ "pradeep|Chemistry|0|27|Pradeep Chemistry · Class 11|1123|310": "options (c) and (d) cut off at the foot of the band; only 'be neutral' and 'be basic' are visible, so the question cannot be answered from the crop",
+ "pradeep|Chemistry|0|62|Pradeep Chemistry · Class 11|1125|328": "stem missing: the band opens straight into the four analogies, the question line 'Which of the following analogies is not correct?' having been left at the foot of the previous band",
+ "pradeep|Chemistry|0|60|Pradeep Chemistry · Class 11|726|211": "clipped on the right, so options (c) and (d) break off mid-formula, and the band runs on into question 61, whose own options are missing",
+ "pradeep|Chemistry|0|68|Pradeep Chemistry · Class 11|727|212": "from the 'one or more than one correct' section: Boyle's law is correctly expressed by both (b) and (d), so a single-answer key cannot grade it",
+ "pradeep|Chemistry|0|71|Pradeep Chemistry · Class 11|727|214": "from the 'one or more than one correct' section (IIT 2008 answer is a, c and d), and the band also runs on into the kinetic-theory question after it"
 }

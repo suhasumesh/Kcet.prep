@@ -99,7 +99,10 @@ def find_cut(img, marker):
         xs = [p[0] for p in box]
         ys = [p[1] for p in box]
         if head is not None:
-            if not re.sub(r'\W+', '', text).lower().startswith(head):
+            # 'in', not 'startswith': a section banner often has a stray
+            # character or two in front of it once the scan has been cropped
+            # ("h One or More than One Correct Answers)").
+            if head not in re.sub(r'\W+', '', text).lower():
                 continue
         elif not want.match(text.strip()):
             continue
