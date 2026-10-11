@@ -1,0 +1,34 @@
+{
+  "kcet|Chemistry|2009|2||0|0": "Potassium has Z = 19, so its configuration is\nK = 1s² 2s² 2p⁶ 3s² 3p⁶ **4s¹**\nThe 4s orbital fills before 3d because of the (n + l) rule: 4s has n + l = 4 + 0 = 4, while 3d has\n3 + 2 = 5, so 4s is lower in energy.\nThe outermost electron is therefore the lone 4s electron. Read off its quantum numbers:\nn = 4 — the fourth shell\nl = 0 — an s orbital\nm = 0 — an s orbital is spherical, so there is only one orientation and m can only be 0\ns = +½ — the convention for a single unpaired electron\nOptions (2) and (4) give n = 3, which would put the electron in the third shell, and (3) gives\nl = 1, which would make it a p electron. Neither matches 4s¹.\n∴ 4, 0, 0, +½.",
+
+  "kcet|Chemistry|2009|7||0|0": {
+    "ch": "Chemical Bonding and Molecular Structure",
+    "s": "The compound must contain all three kinds of linkage at once, so look for an ion that is\nitself held together by a coordinate bond.\nNH₄Cl does exactly that.\n**Covalent** — in the ammonia part, nitrogen shares an electron pair with each of three\nhydrogens: three N–H covalent bonds.\n**Coordinate** — the fourth hydrogen arrives as a bare proton, H⁺, with no electrons of its own.\nNitrogen's lone pair supplies **both** electrons for that bond, making it coordinate (dative).\n**Ionic** — the resulting NH₄⁺ is then held to Cl⁻ by electrostatic attraction.\nSo all three appear in one formula unit.\nThe others fall short: NaCl and CaO are purely ionic, and NH₃ has only covalent bonds — its\nlone pair is still unused.\n(Note that once formed, all four N–H bonds in NH₄⁺ are identical and indistinguishable; the\ndistinction is about how the bond was made.)\n∴ NH₄Cl."
+  },
+
+  "kcet|Chemistry|2009|8||0|0": "A pyramidal AB₃ molecule is ammonia-like, so work from VSEPR.\nFor the shape to be pyramidal rather than trigonal planar, the central atom must carry a lone\npair that pushes the three bonds downwards.\nThat means four electron domains in total:\n3 bond pairs, one to each B atom\n1 lone pair on A\nThe four domains take up a tetrahedral arrangement, and with one position occupied by the\nlone pair the three atoms form a pyramid — the lone pair repels more strongly than a bond\npair, so the angle closes slightly below 109°28′ (107° in NH₃).\nHad there been no lone pair, the four would have been three bond pairs only, giving a flat\ntrigonal planar shape as in BF₃ — which is option (4) and the usual wrong answer.\n∴ 1 lone pair and 3 bond pairs.",
+
+  "kcet|Chemistry|2009|9||0|0": {
+    "ch": "Some Basic Concepts of Chemistry",
+    "s": "Follow the calcium through, since none of it is lost.\nmoles of Ca(OH)₂ = 0.050 L × 0.5 mol L⁻¹ = 0.025 mol\nExcess CO₂ first converts the hydroxide to the soluble hydrogencarbonate:\nCa(OH)₂ + 2CO₂ ⇒ Ca(HCO₃)₂\nbut evaporating to dryness decomposes that back again:\nCa(HCO₃)₂ ⇒ CaCO₃ + H₂O + CO₂\nSo the solid is 0.025 mol of CaCO₃.\nNeutralising it takes two moles of acid per mole of carbonate:\nCaCO₃ + 2HCl ⇒ CaCl₂ + H₂O + CO₂\nequivalents of CaCO₃ = 0.025 × 2 = 0.05\nvolume of 0.1 N HCl = 0.05 / 0.1 = 0.5 L = 500 cm³\nForgetting the factor of 2 gives 250 cm³; the carbonate is dibasic, which is what the use of\n**normality** in the question is signalling.\n∴ 500 cm³."
+  },
+
+  "kcet|Chemistry|2009|10||0|0": {
+    "ch": "Some Basic Concepts of Chemistry",
+    "s": "Equivalent mass and atomic mass are related through the valency:\natomic mass = equivalent mass × valency\nThe metal is bivalent, so\natomic mass = 32 × 2 = 64\n(That identifies it as copper, though the name is not needed.)\nA bivalent metal forms the nitrate M(NO₃)₂. The nitrate group NO₃ has mass\n14 + 3(16) = 62\nso the formula mass is\n64 + 2 × 62 = 64 + 124 = 188\nOption (1), 192, comes from using 64 with an incorrectly rounded nitrate mass, and (4), 168,\nfrom taking the metal as monovalent.\n∴ 188."
+  },
+
+  "kcet|Chemistry|2009|11||0|0": {
+    "ch": "States of Matter",
+    "s": "The root mean square speed can be written in terms of pressure and density, which is exactly\nwhat is given here:\nu(rms) = √(3P/d)\nThis form comes from pV = ⅓mNu², since density d = mN/V.\nSubstitute P = 1.2 × 10⁵ N m⁻² and d = 4 kg m⁻³:\nu = √(3 × 1.2 × 10⁵ / 4)\n= √(3.6 × 10⁵ / 4)\n= √(9 × 10⁴)\n= 300 m s⁻¹\nThe numbers are chosen to give a perfect square, which is a useful check that the right form\nof the equation has been used.\nNote the alternative form u = √(3RT/M) cannot be used here, since neither temperature nor\nmolar mass is given.\n∴ 300 m s⁻¹."
+  },
+
+  "kcet|Chemistry|2009|12||0|0": {
+    "ch": "States of Matter",
+    "s": "A hole in the container means the gases **effuse** out, and Graham's law governs the rates:\nrate ∝ 1/√M\nSo the lightest gas escapes fastest and is depleted most; the heaviest escapes slowest and is\nleft behind.\nMolar masses:\nH₂ = 2 — lightest, effuses fastest, so least of it remains\nCH₄ = 16 — intermediate\nSO₂ = 64 — heaviest, effuses slowest, so most of it remains\nRelative rates are √(64/2) ≈ 5.7 times faster for H₂ than SO₂, so after three hours the\ndifference is substantial.\nPartial pressure is proportional to the moles remaining, so the order of partial pressures is\nthe reverse of the order of effusion rates:\npSO₂ > pCH₄ > pH₂\nThey started equal at 0.5 mol each, so this ordering is entirely the work of the hole.\n∴ pSO₂ > pCH₄ > pH₂."
+  },
+
+  "kcet|Chemistry|2009|13||0|0": "The enthalpy of formation refers to making **one mole** of the compound from its elements:\n½N₂(g) + 3/2H₂(g) ⇒ NH₃(g), ΔH = −46 kJ mol⁻¹\nThe reaction asked about is the decomposition of **two** moles, so it is the formation reaction\nreversed and doubled.\nReverse it — change the sign:\nNH₃ ⇒ ½N₂ + 3/2H₂, ΔH = +46 kJ\nDouble it — double the value:\n2NH₃(g) ⇒ N₂(g) + 3H₂(g), ΔH = +92 kJ\nBoth operations are needed, and each is a place a mark is commonly lost: forgetting the sign\ngives −92, and forgetting to double gives +46.\nThe positive sign makes sense — ammonia is stable, so energy must be supplied to break it up.\n∴ +92 kJ.",
+
+  "kcet|Chemistry|2009|14||0|0": "Set out the ICE table for 2SO₂ + O₂ ⇌ 2SO₃.\nInitially: SO₂ = 5 mol, O₂ = 5 mol, SO₃ = 0.\n60% of the SO₂ reacts:\nSO₂ used = 0.60 × 5 = 3 mol\nBy the stoichiometry, O₂ used is half of that:\nO₂ used = 3/2 = 1.5 mol\nSO₃ formed = 3 mol\nAt equilibrium:\nSO₂ = 5 − 3 = 2 mol\nO₂ = 5 − 1.5 = 3.5 mol\nSO₃ = 3 mol\ntotal = 2 + 3.5 + 3 = 8.5 mol\nPartial pressure is the mole fraction times the total pressure, and the total is 1 atm:\np(O₂) = (3.5/8.5) × 1 = 0.41 atm\nNote the total moles fall from 10 to 8.5, since the reaction consumes three moles of gas for\nevery two produced.\n∴ 0.41 atm."
+}

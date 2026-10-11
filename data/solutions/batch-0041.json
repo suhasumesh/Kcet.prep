@@ -1,0 +1,42 @@
+{
+  "kcet|Chemistry|2011|1||0|0": "Find the false statement. The distinction being tested is roasting against calcination.\nRoasting — heating in a **free supply of air**, used for **sulphide** ores, converting them to\noxides and giving off SO₂.\nCalcination — heating in the **absence or limited supply of air**, used for **carbonate** and\nhydrated ores, driving off CO₂ or water.\n(1) True — roasting does drive off moisture along with the volatile impurities.\n(2) True — roasting burns away non-metallic impurities such as S, As and Sb as their oxides.\n(3) True — that is the definition of calcination.\n(4) False — zinc blende is **ZnS**, a sulphide, so it is **roasted**, not calcined:\n2ZnS + 3O₂ ⇒ 2ZnO + 2SO₂\nIt is zinc *carbonate*, calamine ZnCO₃, that would be calcined.\n∴ statement (4) is false.",
+
+  "kcet|Chemistry|2011|2||0|0": {
+    "ch": "Structure of Atom",
+    "s": "Orbital energy is decided by the **(n + l) rule**: the higher the value of n + l, the higher the\nenergy; if two are equal, the one with the larger n is higher.\nWork out n + l for each set:\n1) n = 4, l = 0 ⇒ 4 + 0 = 4 (this is 4s)\n2) n = 3, l = 1 ⇒ 3 + 1 = 4 (3p)\n3) n = 3, l = 2 ⇒ 3 + 2 = 5 (3d) ← highest\n4) n = 3, l = 0 ⇒ 3 + 0 = 3 (3s)\nThe largest sum is 5, so the 3d orbital is the highest in energy.\nNote sets 1 and 2 tie at 4; between 4s and 3p the rule's tiebreaker gives 4s the higher energy,\nbut both are still below 3d.\nThe m and s values play no part in the energy of an orbital in a many-electron atom.\n∴ n = 3, l = 2, m = −2, s = +½."
+  },
+
+  "kcet|Chemistry|2011|3||0|0": "Fill the molecular orbitals and compare.\nO₂ has 16 electrons, with the last two singly occupying the two π* orbitals:\nbond order = (10 − 6)/2 = 2, and 2 unpaired electrons ⇒ paramagnetic\nO₂⁺ is formed by removing one electron, and it comes out of a π* **antibonding** orbital —\nthe highest occupied one.\nbond order = (10 − 5)/2 = 2.5 ⇒ **increased**\nunpaired electrons = 1 ⇒ paramagnetic character **decreased**\nRemoving an antibonding electron always strengthens the bond, which is why the O–O distance\nshortens from 121 pm in O₂ to 112 pm in O₂⁺.\nSo both halves of option (4) are right: paramagnetism falls while bond order rises.\nOption (1) gets the paramagnetism backwards and (2) the bond order.\n∴ paramagnetic character decreases and the bond order increases.",
+
+  "kcet|Chemistry|2011|4||0|0": {
+    "ch": "Redox Reactions",
+    "s": "Chromite ore is FeCr₂O₄, sometimes written FeO·Cr₂O₃.\nLet the oxidation numbers be x for iron and y for chromium. Oxygen is −2 and the compound\nis neutral:\nx + 2y + 4(−2) = 0\nx + 2y = 8\nThe second form of the formula, FeO·Cr₂O₃, settles it: in FeO iron must be +2, and in Cr₂O₃\nchromium must be +3.\nCheck against the equation: 2 + 2(3) = 8 ✓\nSo iron is +2 and chromium is +3.\nOption (2), +3 and +6, is the trap — chromium does reach +6 in chromate and dichromate, but\nnot in the ore itself; the +6 state is produced later, when chromite is fused with sodium\ncarbonate in air.\n∴ +2 and +3."
+  },
+
+  "kcet|Chemistry|2011|6||0|0": {
+    "ch": "Structure of Atom",
+    "s": "Photon energy and wavelength are related by the Planck–Einstein equation:\nE = hc/λ\nh and c are constants, so E ∝ 1/λ — the two are **inversely** proportional.\nTherefore the ratio of wavelengths is the inverse of the ratio of energies:\nE₁ : E₂ = 3 : 2\nλ₁ : λ₂ = 1/3 : 1/2\nMultiply both sides by 6 to clear the fractions:\nλ₁ : λ₂ = 2 : 3\nSo the more energetic photon has the shorter wavelength, as it must.\nOption (4), 3 : 2, is the answer if you treat them as directly proportional, and (1), 9 : 4,\ntreats the relationship as a square.\n∴ 2 : 3."
+  },
+
+  "kcet|Chemistry|2011|7||0|0": {
+    "ch": "Hydrocarbons",
+    "s": "Find the statement that is not true.\n(2) True — benzene gives only one monosubstituted product, which is itself evidence that all\nsix carbons are equivalent.\n(3) True — the ring is planar and each carbon sp², so the angles are 120°.\n(4) True — the measured heat of hydrogenation is about 208 kJ mol⁻¹ against the 360 predicted\nfor three isolated double bonds. That shortfall of roughly 150 kJ mol⁻¹ is the resonance energy.\n(1) False — benzene does **not** have three single and three double bonds. All six carbon–carbon\nbonds are identical, each 139 pm long, between a single bond (154 pm) and a double bond (134 pm),\nwith a bond order of 1.5.\nThe six π electrons are delocalised in a ring above and below the plane.\nNotice that statements (2), (3) and (4) are precisely the evidence *against* (1): equivalent\nbonds explain the single monosubstituted product, and the delocalisation explains the lowered\nheat of hydrogenation.\n∴ statement (1) is not true."
+  },
+
+  "kcet|Chemistry|2011|8||0|0": {
+    "ch": "Classification of Elements and Periodicity",
+    "s": "Ionisation energy generally rises across a period, but it dips wherever a stable filled or\nhalf-filled subshell is being broken into.\nCheck each pair, with values in kJ mol⁻¹:\n(2) Be 899 > B 801 — an **exception**. Beryllium has a filled 2s², and boron's electron comes\nfrom the higher 2p.\n(3) N 1402 > O 1314 — an **exception**. Nitrogen has a half-filled 2p³, and oxygen's fourth p\nelectron must pair up.\n(4) Mg 738 > Al 578 — an **exception**, for the same reason as Be and B one period down.\n(1) Na 496 < Mg 738 — the value **increases**, exactly as the general trend predicts. Both\nelements are filling the same 3s subshell and magnesium simply has the greater nuclear charge.\nSo sodium and magnesium are the pair that behaves normally.\n∴ Na and Mg is NOT an exception."
+  },
+
+  "kcet|Chemistry|2011|9||0|0": {
+    "ch": "Alcohols, Phenols and Ethers",
+    "s": "A is p-nitrophenol and B is o-nitrophenol — the same groups, differing only in position.\nIn **o**-nitrophenol the –OH and the –NO₂ are on adjacent carbons, close enough for the\nhydroxyl hydrogen to reach the nitro oxygen within the same molecule. That closes a\nsix-membered ring: **intramolecular** hydrogen bonding, also called chelation.\nBecause its OH is tied up internally, it is not available to bond to neighbouring molecules.\nIn **p**-nitrophenol the two groups are too far apart for that, so the molecules hydrogen bond\nto **each other** — intermolecular association, effectively making larger aggregates.\nMore intermolecular attraction means harder to vaporise, so A has the lower vapour pressure.\nTherefore B, free of that association, is the more volatile and has the **higher** vapour pressure.\nThe same difference shows in their melting points (45 °C for ortho, 114 °C for para) and is why\nthe ortho isomer is steam-volatile and can be separated that way.\n∴ higher than that of A."
+  },
+
+  "kcet|Chemistry|2011|10||0|0": {
+    "ch": "Chemical Bonding and Molecular Structure",
+    "s": "Carbon–carbon bond length falls as bond order rises, so rank by bond order.\nB. C₂H₂, ethyne — a triple bond, order 3, length 120 pm ← shortest\nA. C₂H₄, ethene — a double bond, order 2, 134 pm\nC. C₆H₆, benzene — delocalised, order 1.5, 139 pm\nD. C₂H₆, ethane — a single bond, order 1, 154 pm ← longest\nBenzene sits between ethene and ethane precisely because its bonds are neither single nor\ndouble but an average of the two.\nIncreasing order of bond length is therefore:\nB < A < C < D\nThe same order reversed is the order of bond strength and of s-character: sp (50%) in ethyne,\nsp² (33%) in ethene and benzene, sp³ (25%) in ethane.\n∴ B < A < C < D."
+  },
+
+  "kcet|Chemistry|2010|1||0|0": "In electrolytic refining the impure metal is made the **anode** and a thin sheet of the pure\nmetal the **cathode**, with a solution of a salt of that metal as the electrolyte.\nThe anode dissolves, the metal ions migrate through the solution, and pure metal is deposited\non the cathode. The impurities either fall below the anode as anode mud or stay in solution.\nFor zinc, the electrolyte is **acidified zinc sulphate**, ZnSO₄ with H₂SO₄ added to improve its\nconductivity ✓\nNow see why the others are wrong:\n(1) Reversed — the **impure** metal is the anode, not the cathode.\n(2) Graphite is used as a **cathode** in the industrial process, not the anode; the anode must\nbe the metal being refined.\n(4) Reduction happens at the **cathode**, by definition; oxidation occurs at the anode.\n∴ acidified zinc sulphate is the electrolyte."
+}
