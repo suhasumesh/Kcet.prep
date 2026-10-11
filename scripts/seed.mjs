@@ -311,10 +311,15 @@ async function main() {
   if (fs.existsSync(SOLUTIONS)) {
     for (const file of fs.readdirSync(SOLUTIONS).sort()) {
       if (!file.endsWith('.json') || file.startsWith('_')) continue;
-      for (const [k, v] of Object.entries(
-        JSON.parse(fs.readFileSync(path.join(SOLUTIONS, file), 'utf8')))) {
-        handWritten.set(k, v);
+      let parsed;
+      try {
+        parsed = JSON.parse(fs.readFileSync(path.join(SOLUTIONS, file), 'utf8'));
+      } catch (e) {
+        // Name the file. A bare "Unexpected token" after the upsert has already
+        // run tells you nothing about which batch of solutions is malformed.
+        throw new Error(`data/solutions/${file} is not valid JSON: ${e.message}`);
       }
+      for (const [k, v] of Object.entries(parsed)) handWritten.set(k, v);
     }
   }
   let applied = 0;

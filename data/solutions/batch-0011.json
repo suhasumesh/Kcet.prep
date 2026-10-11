@@ -1,0 +1,32 @@
+{
+  "kcet|Chemistry|2017|32||0|0": {
+    "ch": "Surface Chemistry",
+    "s": "Physical adsorption is held together only by weak van der Waals forces, and it is exothermic.\nApply Le Chatelier to the equilibrium gas ⇌ adsorbed gas + heat.\n(D) Low temperature — the forward step gives out heat, so cooling drives it forward ✓ favourable.\n(B) High pressure — adsorption reduces the number of free gas molecules, so raising the pressure\ndrives it forward ✓ favourable.\n(C) A higher critical temperature means the gas is more easily liquefied, which is the same thing\nas saying its molecules attract each other more strongly, so it is adsorbed more readily ✓ favourable.\n(A) High temperature — heating supplies the small enthalpy of adsorption (20–40 kJ mol⁻¹) back\nto the molecules, and they simply desorb. This is the one condition that works against it.\n∴ high temperature is not favourable."
+  },
+
+  "kcet|Chemistry|2017|33||0|0": "This is leaching, a chemical separation used when the ore is very dilute.\nSilver (and gold) are extracted by the Mac Arthur–Forrest cyanide process.\nThe crushed ore is treated with dilute NaCN in the presence of air; the metal dissolves as a\nsoluble complex:\n4Ag + 8CN⁻ + 2H₂O + O₂ ⇒ 4[Ag(CN)₂]⁻ + 4OH⁻\nAir is essential — it is the oxidising agent that takes Ag to Ag⁺.\nThe silver is then displaced from the solution by a more reactive metal, zinc:\n2[Ag(CN)₂]⁻ + Zn ⇒ [Zn(CN)₄]²⁻ + 2Ag\nAluminium is leached with NaOH (Bayer process), not cyanide; copper is usually roasted and\nsmelted; sodium is obtained by electrolysis of fused NaCl.\n∴ silver.",
+
+  "kcet|Chemistry|2017|34||0|0": "Brine is aqueous NaCl, so the chlorine is present as chloride ion, Cl⁻, at oxidation state −1.\nThe chlorine we want, Cl₂, is at oxidation state 0.\nGoing from −1 to 0 is a loss of electrons, which is oxidation:\n2Cl⁻ ⇒ Cl₂ + 2e⁻\nIndustrially this is done at the anode during the electrolysis of brine, where the anode is simply\nthe electrode that takes those electrons away.\nIt cannot be reduction (C) — that would drive chloride to a still lower state, which does not exist.\nChlorination (B) means adding chlorine to something else, and acidification (D) is irrelevant here.\n∴ it is based on oxidation.",
+
+  "kcet|Chemistry|2017|35||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "A pπ–pπ bond needs two p orbitals to overlap sideways, and that only works if the atoms are\nsmall enough to come close together.\nNitrogen is a second period element with no d orbitals and a small atomic radius, so its 2p\norbitals overlap sideways effectively. Two nitrogens form one σ and two π bonds: N≡N.\nPhosphorus, selenium and tellurium are all larger. Their 3p, 4p and 5p orbitals are more diffuse\nand the nuclei cannot approach closely enough for good sideways overlap.\nThose elements get round it by forming more single bonds instead — which is why phosphorus\nexists as P₄ with six P–P single bonds rather than as P₂, while nitrogen is happily diatomic.\n∴ nitrogen."
+  },
+
+  "kcet|Chemistry|2017|36||0|0": {
+    "ch": "p-Block Elements (Group 13-14)",
+    "s": "An amphoteric oxide reacts with both acids and bases. Metal oxides go basic ⇒ amphoteric ⇒\nacidic as you move right across a period and as the metal's electronegativity rises.\nCaO, Na₂O and BaO are oxides of strongly electropositive s-block metals, so they are purely basic:\nthey dissolve in acid but not in alkali.\nAl₂O₃ sits at the borderline and does both:\nwith acid — Al₂O₃ + 6HCl ⇒ 2AlCl₃ + 3H₂O\nwith base — Al₂O₃ + 2NaOH + 3H₂O ⇒ 2Na[Al(OH)₄]\nThat second reaction, dissolving in alkali as the aluminate, is the Bayer process used to purify\nbauxite.\n∴ Al₂O₃."
+  },
+
+  "kcet|Chemistry|2017|37||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "Check each equation against the chemistry it claims.\n(A) MnO₂ + 4HCl ⇒ MnCl₂ + Cl₂ + 2H₂O — correct; this is the laboratory preparation of chlorine.\n(B) 8NH₃ + 3Cl₂ ⇒ 6NH₄Cl + N₂ — correct; with *excess ammonia* chlorine oxidises some ammonia\nto nitrogen and the HCl formed is taken up as ammonium chloride.\n(D) 2Ca(OH)₂ + 2Cl₂ ⇒ Ca(OCl)₂ + CaCl₂ + 2H₂O — correct; this is how bleaching powder is made.\n(C) 2NaOH + Cl₂ ⇒ 2NaCl + H₂ + O₂ — wrong. Chlorine disproportionates in cold dilute alkali;\nit does not liberate hydrogen and oxygen. The real reaction is\nCl₂ + 2NaOH ⇒ NaCl + NaOCl + H₂O\nNote the giveaway: producing H₂ and O₂ from NaOH would mean splitting water, which chlorine\ncannot do.\n∴ reaction (C) is the wrong one."
+  },
+
+  "kcet|Chemistry|2017|38||0|0": "All noble gases are monatomic and unreactive, so what separates them here is size.\nAtomic radius increases down the group: He < Ne < Ar < Kr.\nHelium is the smallest atom of all, with just two electrons and a radius of about 31 pm.\nRubber, glass and many plastics are not fully dense at the atomic scale — they have gaps between\ntheir polymer chains or in the silica network, and a helium atom is small enough to slip through them.\nThis is why helium balloons deflate within a day or two, and why helium is used to leak-test\nvacuum systems: if there is a hole, helium will find it.\n∴ helium.",
+
+  "kcet|Chemistry|2017|39||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "The spin-only magnetic moment is μ = √(n(n + 2)) BM, so the largest μ belongs to the\nconfiguration with the most unpaired electrons, n.\nFill the five d orbitals by Hund's rule — singly first, then pair up.\n3d² : ↑ ↑ _ _ _ ⇒ n = 2, μ = √8 = 2.83 BM\n3d⁵ : ↑ ↑ ↑ ↑ ↑ ⇒ n = 5, μ = √35 = 5.92 BM ← maximum\n3d⁷ : ↑↓ ↑↓ ↑ ↑ ↑ ⇒ n = 3, μ = √15 = 3.87 BM\n3d⁸ : ↑↓ ↑↓ ↑↓ ↑ ↑ ⇒ n = 2, μ = √8 = 2.83 BM\nd⁵ is the half-filled case: every orbital has one electron and none has had to pair, so it is the\nmost any 3d configuration can manage.\n∴ 3d⁵."
+  }
+}

@@ -53,9 +53,16 @@ def load_todo(inventory):
     return [q for q in rows if key_of(q) not in have]
 
 
-def build(rows, out_path, size):
-    """One labelled sheet. Returns the keys it shows, in order."""
-    tiles, keys = [], []
+def build(rows, out_path, size, budget=2300):
+    """
+    One labelled sheet. Returns the keys it shows, in order.
+
+    Packed to a height budget rather than a fixed count: a question with four
+    one-line options takes a fifth of the space of one with a reaction scheme,
+    and a fixed count either wastes half the sheet or produces one too tall to
+    stay legible once it is scaled to fit.
+    """
+    tiles, keys, used = [], [], 0
     for q in rows[:size]:
         src = q['src']
         path = os.path.join(ASSETS, src)
@@ -68,6 +75,9 @@ def build(rows, out_path, size):
         # A tall scan is usually mostly margin; cap it so a sheet stays legible.
         if im.height > 560:
             im = im.crop((0, 0, im.width, 560))
+        if tiles and used + im.height > budget:
+            break
+        used += im.height + 44
         tiles.append((q, im))
         keys.append(key_of(q))
 
@@ -95,8 +105,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--inventory', default=os.path.join(STORE, '_todo.json'))
     ap.add_argument('--batch', type=int, default=0)
-    ap.add_argument('--size', type=int, default=6)
-    ap.add_argument('--out', default=None)
+    ap.add_argument('--size', type=int, default=16)
+    ap.add_argument('--budget', type=int, default=2300)
+    ap.add_argument('--sheets', type=int, default=1)
     ap.add_argument('--todo', action='store_true')
     a = ap.parse_args()
 
@@ -109,11 +120,18 @@ def main():
             print('  %-40s %4d' % (k, n))
         return 0
 
-    rows = todo[a.batch * a.size:]
-    out = a.out or os.path.join(STORE, '_sheet.png')
-    keys = build(rows, out, a.size)
-    print(json.dumps(keys, indent=0))
-    print(out)
+    # Sheets are cut one after another out of the same list, because a sheet
+    # packed by height holds a variable number: fixed offsets would skip
+    # whatever did not fit on the sheet before.
+    rows, out = todo, []
+    for i in range(a.sheets):
+        path = os.path.join(STORE, '_s%d.png' % i)
+        keys = build(rows, path, a.size, a.budget)
+        if not keys:
+            break
+        rows = rows[len(keys):]
+        out.append(dict(sheet=path, n=len(keys), keys=keys))
+    print(json.dumps(out, indent=0))
     return 0
 
 

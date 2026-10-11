@@ -1,0 +1,34 @@
+{
+  "kcet|Chemistry|2017|54||0|0": "Sucrose is a disaccharide of glucose and fructose, and the link is unusual.\nIn most disaccharides one anomeric carbon joins to an ordinary hydroxyl, leaving the other\nanomeric carbon free. In sucrose *both* anomeric carbons are used.\nThe anomeric carbon of glucose is C-1; the anomeric carbon of fructose, a ketose, is C-2.\nThe linkage is therefore C-1 of α-glucose to C-2 of β-fructose, written α-1,2-glycosidic.\nBecause neither anomeric carbon is left free, no open-chain aldehyde form can appear.\nThat is why sucrose is a *non-reducing* sugar — it gives no reaction with Tollens' or Fehling's —\nwhile maltose and lactose, which keep one free anomeric carbon, are reducing.\n∴ C-1 of α-glucose and C-2 of β-fructose.",
+
+  "kcet|Chemistry|2017|55||0|0": {
+    "ch": "Biomolecules",
+    "s": "Match each hormone to its gland and composition.\nInsulin — a peptide hormone from the pancreas, built of amino acids; no iodine.\nTestosterone — a steroid hormone from the testes; carbon, hydrogen and oxygen only.\nAdrenaline — a catecholamine from the adrenal medulla; again no iodine.\nThyroxine — secreted by the thyroid gland, and it is an iodinated derivative of the amino acid\ntyrosine. Its formula is C₁₅H₁₁I₄NO₄, carrying four iodine atoms, which is why it is also called T4.\nThis is exactly why dietary iodine matters: without it the thyroid cannot make thyroxine, the\ngland enlarges trying to compensate, and the result is goitre. Hence iodised salt.\n∴ thyroxine."
+  },
+
+  "kcet|Chemistry|2017|56||0|0": "Find the false statement.\n(A) True — thiamine (B₁) is found in yeast, milk, green vegetables and cereals; its deficiency\ncauses beri-beri.\n(B) True — pyridoxine (B₆) deficiency causes convulsions and anaemia.\n(C) True — scurvy is the deficiency disease of vitamin C, which citrus fruits and green leafy\nvegetables supply.\n(D) False — xerophthalmia, the drying of the cornea, is caused by a deficiency of **vitamin A**,\nnot vitamin D. Vitamin A deficiency also gives night blindness.\nVitamin D deficiency causes rickets in children and osteomalacia in adults, because without it\ncalcium is not absorbed properly and the bones soften.\n∴ statement (D) is wrong.",
+
+  "kcet|Chemistry|2017|57||0|0": {
+    "ch": "Polymers",
+    "s": "Novolac is a phenol–formaldehyde resin, made by condensing phenol with formaldehyde under\n*acidic* conditions.\nThe reaction is an electrophilic substitution on the ring: formaldehyde attacks at the ortho and\npara positions to give hydroxymethyl phenol, which then condenses with another phenol molecule,\nlosing water and forming a –CH₂– bridge between two rings.\nRepeating this gives a linear chain, and that linear, soluble polymer is Novolac — used in paints.\nHeating Novolac with more formaldehyde cross-links the chains into Bakelite, which is a\nthree-dimensional thermosetting solid.\n(B) melamine with formaldehyde gives melamine–formaldehyde resin, (C) butadiene with styrene\ngives Buna-S and (D) butadiene with acrylonitrile gives Buna-N.\n∴ phenol and formaldehyde."
+  },
+
+  "kcet|Chemistry|2017|58||0|0": "A polymer is biodegradable if microorganisms can break its backbone, which generally means\nthe chain contains ester or amide linkages that can be hydrolysed.\n(A) and (B) are the same material, PHBV — a copolymer of 3-hydroxybutanoic acid and\n3-hydroxypentanoic acid joined by ester links. It is biodegradable and used for packaging and\ncontrolled drug release.\n(C) Nylon 2–nylon 6 is an alternating polyamide of glycine and aminocaproic acid; its amide links\nare hydrolysable, so it too is biodegradable.\n(D) Glyptal is made from ethylene glycol and phthalic acid. It is a heavily cross-linked polyester\nresin, and that dense cross-linking leaves nothing for an enzyme to attack.\n∴ glyptal is not biodegradable.",
+
+  "kcet|Chemistry|2017|59||0|0": {
+    "ch": "Chemistry in Everyday Life",
+    "s": "Antibiotics are divided by what they do to the bacterium.\nBactericidal — they kill the organism outright.\nBacteriostatic — they only stop it multiplying, leaving the body's immune system to clear it.\nErythromycin, tetracycline and chloramphenicol all act by binding the bacterial ribosome and\nblocking protein synthesis. That halts growth without killing, so all three are bacteriostatic.\nOfloxacin is a fluoroquinolone. It inhibits DNA gyrase, so the bacterial DNA cannot be unwound\nand replicated, and the cell dies. That makes it bactericidal.\nPenicillin and aminoglycosides are the other familiar bactericidal examples.\n∴ ofloxacin."
+  },
+
+  "kcet|Chemistry|2016|1||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "For a first order reaction the half-life is constant, so just count how many have passed.\nNumber of half-lives n = total time / t½ = 240 / 60 = 4\nAfter each half-life the amount left is halved:\n60 min ⇒ 50%\n120 min ⇒ 25%\n180 min ⇒ 12.5%\n240 min ⇒ 6.25%\nOr in one step: fraction left = (½)ⁿ = (½)⁴ = 1/16 = 0.0625 = 6.25%\n∴ 6.25% remains."
+  },
+
+  "kcet|Chemistry|2016|2||0|0": "A colligative property depends only on the *number* of solute particles in solution, not on what\nthey are. There are four of them:\nrelative lowering of vapour pressure, elevation of boiling point, depression of freezing point and\nosmotic pressure.\nSo (1), (3) and (4) are all colligative.\nOptical activity is the rotation of plane-polarised light, and it depends entirely on the *nature*\nof the molecule — specifically on whether it is chiral. A solution of a chiral substance rotates\nlight whatever its concentration; an achiral one never does, however much you dissolve.\nIt is a property of the particle, not a count of particles.\n∴ optical activity is not a colligative property.",
+
+  "kcet|Chemistry|2016|6||0|0": {
+    "ch": "Electrochemistry",
+    "s": "A primary cell runs its reaction once and is then finished — a dry cell, for example.\nA secondary cell is one in which the electrode reaction can be reversed, so it can be recharged.\nThe crucial detail is the direction of the charging current.\nWhile discharging, the cell drives electrons out of its negative electrode through the circuit.\nTo recharge it you must push electrons back the way they came, so the external current has to\nbe passed *in the opposite direction* to the discharge current. That reverses the electrode\nreactions and regenerates the original reactants.\nIn a lead storage battery, discharge turns both electrodes to PbSO₄; charging in the opposite\ndirection converts them back to Pb and PbO₂.\nOption (2), recharging in the same direction, would simply continue discharging it.\n∴ it can be recharged by passing current through it in the opposite direction."
+  }
+}
