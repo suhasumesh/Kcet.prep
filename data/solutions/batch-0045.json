@@ -1,0 +1,44 @@
+{
+  "kcet|Chemistry|2009|25||0|0": "Argon is a noble gas: it has a complete octet, so it is chemically inert and will not react with\nhot metal.\nThat is exactly what high temperature welding needs. At welding temperatures a metal would\notherwise be attacked by atmospheric oxygen and nitrogen, forming brittle oxides and\nnitrides in the weld. Blanketing the arc in argon excludes the air entirely, so the joint stays\nclean — this is the basis of TIG and MIG welding.\nThe other uses belong to other gases:\n(2) Radiotherapy uses radioactive cobalt-60, not a noble gas.\n(3) Airships are filled with helium, which is chosen for its very low density and\nnon-flammability.\n(4) Low temperatures are reached with liquid helium, which boils at 4 K.\n∴ in high temperature welding.",
+
+  "kcet|Chemistry|2009|26||0|0": "The chromyl chloride test detects a **chloride**. A solid chloride is warmed with potassium\ndichromate and concentrated sulphuric acid:\n4NaCl + K₂Cr₂O₇ + 6H₂SO₄ ⇒ 2CrO₂Cl₂ + 4NaHSO₄ + 2KHSO₄ + 3H₂O\nNow check the statements.\n(1) Correct — chromyl chloride, CrO₂Cl₂, is formed ✓\n(3) Correct — it comes off as deep **red** vapours, which is the visible sign of a positive test ✓\n(4) Correct — the vapour is passed into NaOH to give yellow sodium chromate, and adding\nlead acetate then precipitates yellow lead chromate, PbCrO₄, which confirms it ✓\n(2) **Incorrect** — no chlorine gas is liberated. The chlorine stays bound in the CrO₂Cl₂\nmolecule. If free Cl₂ were evolved the vapour would be greenish-yellow, not red, and the\nconfirmation with lead acetate would not work.\n∴ 'liberation of chlorine' is the incorrect statement.",
+
+  "kcet|Chemistry|2009|28||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "Name the ligands, then the metal with its oxidation state.\nThere are five NH₃ ligands: ammine, with the prefix penta ⇒ **pentaammine**.\nThe ambidentate ligand is written **ONO**, with oxygen first. That tells you it is bonded\nthrough the **oxygen**, which is named **nitrito** (older usage: nitrito-O).\nHad it been written NO₂, bonded through nitrogen, it would be named nitro or nitrito-N — and\nthat linkage isomer is what options (1) and (2) describe.\nNow the oxidation state. The complex ion carries +2, NH₃ is neutral and ONO⁻ is −1:\nx + 5(0) + (−1) = +2\nx = +3\nSo cobalt is in the +3 state.\nPutting it together, with ligands before the metal and the oxidation state in Roman numerals:\n∴ pentaammine nitrito cobalt(III) ion."
+  },
+
+  "kcet|Chemistry|2009|32||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "First count the days from 1 January to 1 March 2009, including both.\nJanuary has 31 days and February 28 (2009 is not a leap year):\n31 + 28 = 59, and including the 1st of March itself makes 60 days.\nNow count the half-lives:\nn = 60 / 15 = 4\nEach half-life halves the amount:\n2 g ⇒ 1 g ⇒ 0.5 g ⇒ 0.25 g ⇒ 0.125 g\nOr directly: amount left = 2 × (½)⁴ = 2/16 = 0.125 g\nRadioactive decay is first order, so the half-life is constant and independent of how much is\npresent — which is what lets you simply count the halvings.\nThe answer is never exactly zero (option 3); the amount approaches zero but is only ever halved.\n∴ 0.125 g."
+  },
+
+  "kcet|Chemistry|2009|33||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "Compare the two experiments. The rate law is rate = k[A]ⁿ, so\nrate₂/rate₁ = ([A]₂/[A]₁)ⁿ\nSubstitute:\nrate₂/rate₁ = 1.6 × 10⁻² / 2 × 10⁻³ = 8\n[A]₂/[A]₁ = 0.1 / 0.05 = 2\nSo\n8 = 2ⁿ\n2³ = 8 ⇒ n = 3\nThe concentration doubled and the rate went up eightfold, which is 2³ — the signature of a\nthird order reaction.\nFor comparison: doubling the concentration would double the rate if first order, quadruple it\nif second order.\n∴ the order is 3."
+  },
+
+  "kcet|Chemistry|2009|35||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "The rate law is r = k[A]⁰, and anything to the power zero is 1, so\nr = k\nThe rate is **constant** — it does not depend on the concentration at all. This is a zero order\nreaction.\nBecause the rate is constant, the concentration falls in a straight line:\n[A] = a − kt\nHalf-life is the time at which [A] has fallen to a/2:\na/2 = a − k·t½\nk·t½ = a − a/2 = a/2\nt½ = a/(2k)\nSo unlike a first order reaction, the half-life of a zero order reaction **does** depend on the\nstarting concentration — twice as much material takes twice as long to half-consume, because\nit is being used up at a fixed rate.\n∴ t½ = a/2K."
+  },
+
+  "kcet|Chemistry|2009|36||0|0": {
+    "ch": "Equilibrium",
+    "s": "Work in millimoles, then find the excess.\nAcid supplied:\nHCl : 30 cc × (1/3) M = 10 mmol of H⁺\nHNO₃ : 20 cc × (1/2) M = 10 mmol of H⁺\ntotal H⁺ = 20 mmol\nBase supplied:\nNaOH : 40 cc × (1/4) M = 10 mmol of OH⁻\nNeutralisation removes 10 mmol of each, leaving\nexcess H⁺ = 20 − 10 = 10 mmol\nThe volume is made up to 1 dm³ = 1000 cm³, so\n[H⁺] = 10 mmol / 1000 cm³ = 0.01 mol dm⁻³ = 10⁻²\npH = −log(10⁻²) = 2\nBoth acids are strong and monobasic, so each contributes its full molarity as H⁺; the dilution\nto a fixed final volume is what makes the arithmetic come out neatly.\n∴ pH = 2."
+  },
+
+  "kcet|Chemistry|2009|39||0|0": {
+    "ch": "Equilibrium",
+    "s": "Start from 10⁻⁵ M NaOH and dilute it a hundredfold:\n[OH⁻] = 10⁻⁵ / 100 = 10⁻⁷ M\nAt this point the obvious step — pOH = 7, so pH = 7 — is a trap, but it happens to land close\nto the right answer for the wrong reason.\nThe care needed is that 10⁻⁷ M is the same order as the OH⁻ already present in pure water,\nso the water's own ionisation can no longer be ignored. Adding the two contributions gives\n[OH⁻] slightly above 10⁻⁷, around 1.6 × 10⁻⁷ M.\npOH = −log(1.6 × 10⁻⁷) ≈ 6.8\npH = 14 − 6.8 ≈ 7.2\nThe solution is a very dilute **base**, so its pH must be just above 7 — never below it, however\nfar you dilute. That rules out options (1) and (4) immediately, and (2) would need a far more\nconcentrated base.\n∴ between 7 and 8."
+  },
+
+  "kcet|Chemistry|2009|40||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Convert the gas volume to moles, then to electrons, then to charge.\nAt STP one mole of gas occupies 22400 cc:\nmoles of H₂ per second = 1.12 / 22400 = 5 × 10⁻⁵ mol\nAt the cathode, two electrons are needed for each H₂ molecule:\n2H⁺ + 2e⁻ ⇒ H₂\nmoles of electrons per second = 2 × 5 × 10⁻⁵ = 1 × 10⁻⁴ mol\nCharge per second = moles of electrons × Faraday constant:\nQ = 1 × 10⁻⁴ × 96500 = 9.65 C\nCurrent is charge per second, so\nI = 9.65 A\nForgetting the factor of 2 gives 4.83 A, and using 22.4 instead of 22400 shifts the answer by\na thousand — the unit of the volume (cc, not litres) is worth checking first.\n∴ 9.65 A."
+  },
+
+  "kcet|Chemistry|2009|41||0|0": "The three conductances behave differently on dilution, and the distinction is the point of the\nquestion.\n**Specific conductance** (conductivity, κ) is the conductance of 1 cm³ of solution. On dilution\nthe same ions are spread through more volume, so that fixed cubic centimetre contains fewer\nions and conducts less. Specific conductance therefore **decreases** ✓\n**Molar and equivalent conductance** are defined per mole or per equivalent of electrolyte,\nso they measure the whole amount however far it is spread:\nΛm = κ × 1000/C\nAs C falls, the increase in volume more than compensates for the fall in κ, so these\n**increase** on dilution. For a weak electrolyte the increase is steep, because dilution also\nincreases the degree of dissociation.\n(4) Conductance depends on the cell geometry and is not a property of the solution alone.\n∴ specific conductance decreases with dilution.",
+
+  "kcet|Chemistry|2009|42||0|0": "For an ideal solution, Raoult's law gives the total pressure as the sum of the partial pressures:\nptotal = xA·p°A + xB·p°B\nThe mole fractions must add to one:\nxA = 0.8, so xB = 1 − 0.8 = 0.2\nSubstitute what is known:\n84 = (0.8 × 70) + (0.2 × p°B)\n84 = 56 + 0.2 p°B\n0.2 p°B = 84 − 56 = 28\np°B = 28 / 0.2 = 140 mm Hg\nCheck it: 0.8 × 70 = 56 and 0.2 × 140 = 28, and 56 + 28 = 84 ✓\nNote B turns out to be the more volatile component even though it is the minor one in the\nliquid — which is why the solution's pressure (84 mm) exceeds that of pure A.\n∴ 140 mm."
+}
