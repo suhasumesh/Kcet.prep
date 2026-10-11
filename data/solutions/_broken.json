@@ -65,5 +65,8 @@
  "pradeep|Chemistry|0|42|Pradeep Chemistry · Class 12|415|87": "not a question: narrative text on decarboxylation, Kolbe's electrolysis and the Hunsdiecker reaction",
  "pradeep|Chemistry|0|9|Pradeep Chemistry · Class 12|416|90": "stem missing: the band opens on options (b), (c) and (d) of a reagent question whose stem was left at the foot of the previous band",
  "pradeep|Chemistry|0|40|Pradeep Chemistry · Class 12|486|102": "match-the-column question with no (a)-(d) answer choices in the band, and it runs on into a second matching question",
- "pradeep|Chemistry|0|19|Pradeep Chemistry · Class 12|493|104": "stem missing: the band opens on structures (iii) and (iv) and the four ordering options, with the question itself left behind"
+ "pradeep|Chemistry|0|19|Pradeep Chemistry · Class 12|493|104": "stem missing: the band opens on structures (iii) and (iv) and the four ordering options, with the question itself left behind",
+ "pradeep|Chemistry|0|55|Pradeep Chemistry · Class 12|498|116": "stem missing: the band opens on four structural options whose question was left at the foot of the previous band, and it runs on into question 51",
+ "pradeep|Chemistry|0|5|Pradeep Chemistry · Class 12|509|125": "not a question: the printed worked solutions for questions 5 to 8, each ending 'Thus, option (x) is correct'",
+ "pradeep|Chemistry|0|29|Pradeep Chemistry · Class 12|737|172": "stem truncated: the band opens mid-sentence at 'of electric field is called its', so the question (the pH at which an amino acid does not migrate) is unreadable"
 }
