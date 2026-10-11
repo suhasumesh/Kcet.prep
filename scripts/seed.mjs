@@ -27,9 +27,17 @@ function solutionFiles() {
 function solutionKeys() {
   const out = new Set();
   for (const f of solutionFiles()) {
-    for (const k of Object.keys(JSON.parse(fs.readFileSync(path.join(SOLUTIONS, f), 'utf8')))) {
-      out.add(k);
+    let parsed;
+    try {
+      parsed = JSON.parse(fs.readFileSync(path.join(SOLUTIONS, f), 'utf8'));
+    } catch (e) {
+      // This runs before the batches are applied, so it is the first place a
+      // malformed file is met. Name it here too: a bare "Unexpected
+      // non-whitespace character" says nothing about which of ninety files is
+      // at fault.
+      throw new Error(`data/solutions/${f} is not valid JSON: ${e.message}`);
     }
+    for (const k of Object.keys(parsed)) out.add(k);
   }
   return out;
 }
