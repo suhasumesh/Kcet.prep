@@ -70,5 +70,11 @@
  "pradeep|Chemistry|0|5|Pradeep Chemistry · Class 12|509|125": "not a question: the printed worked solutions for questions 5 to 8, each ending 'Thus, option (x) is correct'",
  "pradeep|Chemistry|0|29|Pradeep Chemistry · Class 12|737|172": "stem truncated: the band opens mid-sentence at 'of electric field is called its', so the question (the pH at which an amino acid does not migrate) is unreadable",
  "pradeep|Chemistry|0|31|Pradeep Chemistry · Class 12|737|173": "stem missing: the band opens on options (b), (c) and (d) of a zwitterion question, then runs on into question 21",
- "pradeep|Chemistry|0|15|Pradeep Chemistry · Class 12|777|200": "no answer choices in the band: only the stem and the ring structure are shown, with the four sets of terms missing"
+ "pradeep|Chemistry|0|15|Pradeep Chemistry · Class 12|777|200": "no answer choices in the band: only the stem and the ring structure are shown, with the four sets of terms missing",
+ "pradeep|Chemistry|0|99|Pradeep Chemistry · Class 12|785|224": "options (c) and (d) missing: only two of the four forms of the amino acid are shown",
+ "pradeep|Chemistry|0|100|Pradeep Chemistry · Class 12|785|225": "match-the-column question with Column II blank (clipped on the right) and the choice list cut off",
+ "pradeep|Chemistry|0|101|Pradeep Chemistry · Class 12|785|226": "match-the-column question with Column II blank (clipped on the right) and the choice list cut off",
+ "pradeep|Chemistry|0|114|Pradeep Chemistry · Class 12|787|228": "assertion-reason pair with no answer choices in the band; the four options were left in the following band",
+ "pradeep|Chemistry|0|115|Pradeep Chemistry · Class 12|787|229": "only the four generic assertion-reason options are in the band; the statements themselves are missing",
+ "pradeep|Chemistry|0|50|Pradeep Chemistry · Class 12|863|284": "match-the-column question with Column II blank (clipped on the right) and the choice list cut off"
 }
