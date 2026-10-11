@@ -83,9 +83,11 @@ def build(rows, out_path, size, budget=2300):
         if im.width > SHEET_W - 2 * PAD:
             w = SHEET_W - 2 * PAD
             im = im.resize((w, round(im.height * w / im.width)), Image.LANCZOS)
-        # A tall scan is usually mostly margin; cap it so a sheet stays legible.
-        if im.height > 560:
-            im = im.crop((0, 0, im.width, 560))
+        # The whole crop goes on the sheet, however tall. Cropping the tile to
+        # keep sheets short hid the bottom of every long band -- and the bottom
+        # is where a second question starts when the band split went wrong, so
+        # the defect I most need to see was the one systematically cut off.
+        # A tall question simply gets a sheet of its own.
         if tiles and used + im.height > budget:
             break
         used += im.height + 44

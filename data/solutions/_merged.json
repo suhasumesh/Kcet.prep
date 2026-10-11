@@ -1,0 +1,21 @@
+{
+ "_note": "bank key -> the number the SECOND question in the band is printed with, or the opening words of the orphan choice list to cut at. Filled in by hand while reading the crops; tools/trim_merged.py does the cutting.",
+ "pradeep|Chemistry|0|2|Pradeep Chemistry · Class 12|71|1": 3,
+ "pradeep|Chemistry|0|2|Pradeep Chemistry · Class 11|856|216": 3,
+ "pradeep|Chemistry|0|3|Pradeep Chemistry · Class 11|164|26": 4,
+ "pradeep|Chemistry|0|4|Pradeep Chemistry · Class 11|885|234": 5,
+ "pradeep|Chemistry|0|14|Pradeep Chemistry · Class 11|562|155": 15,
+ "pradeep|Chemistry|0|33|Pradeep Chemistry · Class 11|563|163": 34,
+ "pradeep|Chemistry|0|9|Pradeep Chemistry · Class 11|610|183": 10,
+ "pradeep|Chemistry|0|17|Pradeep Chemistry · Class 11|610|186": 18,
+ "pradeep|Chemistry|0|25|Pradeep Chemistry · Class 11|611|187": 26,
+ "pradeep|Chemistry|0|33|Pradeep Chemistry · Class 11|612|188": 34,
+ "pradeep|Chemistry|0|40|Pradeep Chemistry · Class 11|612|189": 41,
+ "pradeep|Chemistry|0|2|Pradeep Chemistry · Class 11|144|15": "Choose the correct option out of the four",
+ "pradeep|Chemistry|0|2|Pradeep Chemistry · Class 12|271|65": "Choose the correct option out of the four",
+ "pradeep|Chemistry|0|2|Pradeep Chemistry · Class 11|589|179": "Choose the correct option out of the four",
+ "pradeep|Chemistry|0|83|Pradeep Chemistry · Class 11|616|195": 84,
+ "pradeep|Chemistry|0|124|Pradeep Chemistry · Class 11|619|198": 125,
+ "pradeep|Chemistry|0|126|Pradeep Chemistry · Class 11|619|199": 127,
+ "pradeep|Chemistry|0|19|Pradeep Chemistry · Class 11|408|100": 20
+}

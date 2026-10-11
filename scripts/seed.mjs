@@ -417,16 +417,21 @@ async function main() {
   // _broken.json and _suspect.json, which until now only kept them out of my
   // own work queue -- they still shipped. They are dropped here instead.
   //
-  // A flag is overridden by a hand-written solution for the same key: where
-  // the working got written, the question was understood and the key settled,
-  // so the note is stale.
+  // The two lists are overridden differently. _suspect.json records a doubt
+  // about the answer, and writing the working settles it, so a hand-written
+  // solution releases the question. _broken.json records a defect in the crop
+  // -- prose, a cut-off option, two questions in one band -- and understanding
+  // the question does nothing to repair the picture the student is shown, so
+  // the solution is kept on file against a future re-crop but the question
+  // stays out of the bank until the crop itself is fixed.
   const withdrawn = new Set();
-  for (const file of ['_broken.json', '_suspect.json']) {
+  for (const [file, releasedBySolution] of [['_broken.json', false], ['_suspect.json', true]]) {
     const p = path.join(SOLUTIONS, file);
     if (!fs.existsSync(p)) continue;
     for (const k of Object.keys(JSON.parse(fs.readFileSync(p, 'utf8')))) {
       if (k.startsWith('_')) continue;          // free-text notes, not keys
-      if (!handWritten.has(k)) withdrawn.add(k);
+      if (releasedBySolution && handWritten.has(k)) continue;
+      withdrawn.add(k);
     }
   }
   const kept = ops.filter((op) => {
