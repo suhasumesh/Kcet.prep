@@ -95,5 +95,9 @@
  "pradeep|Chemistry|0|50|Pradeep Chemistry · Class 12|153|47": "stem missing: the band opens on the words 'product is' and the four numerical options",
  "pradeep|Chemistry|0|52|Pradeep Chemistry · Class 12|154|50": "option (d) missing: the band ends after reactions (a), (b) and (c)",
  "pradeep|Chemistry|0|38|Pradeep Chemistry · Class 12|165|52": "not a question: the printed explanations for questions 38 to 42, each stating which option is correct",
- "pradeep|Chemistry|0|51|Pradeep Chemistry · Class 12|167|53": "not a question: the printed explanations for questions 51 and 52, with the reasoning set out in full"
+ "pradeep|Chemistry|0|51|Pradeep Chemistry · Class 12|167|53": "not a question: the printed explanations for questions 51 and 52, with the reasoning set out in full",
+ "kcet|Chemistry|2006|5||0|0": "option (4) cut off at the foot of the band; only three of the four reasons are visible",
+ "kcet|Chemistry|2006|9||0|0": "options cut off: only the first two formulae are partly visible, so the gas cannot be identified from the crop",
+ "kcet|Chemistry|2006|12||0|0": "options (3) and (4) cut off at the foot of the band",
+ "kcet|Chemistry|2014|3||0|0": "options (3) and (4) cut off; only '50' and '20' are visible, and the answer (60 %) is not among them"
 }
