@@ -79,6 +79,12 @@ export default function Runner({ attempt, questions, responses: initial, serverN
       }).catch(() => {});
       await fetch(`/api/attempts/${attempt.id}/submit`, { method: 'POST' }).catch(() => {});
       if (document.fullscreenElement) await document.exitFullscreen().catch(() => {});
+      // Drop the client router cache before leaving. The pages that count
+      // this test -- the overview, analytics, the plan -- are all dynamic on
+      // the server, but Next keeps their last payload on the client for
+      // thirty seconds, so without this the student submits a test and then
+      // finds their own result missing from their numbers.
+      router.refresh();
       router.replace(`/results/${attempt.id}${reason ? `?ended=${reason}` : ''}`);
     },
     [attempt.id, router],

@@ -5,7 +5,7 @@
   "chapter": "Application of Derivatives",
   "number": 1,
   "page": 130,
-  "seq": 488,
+  "seq": 490,
   "answer": "B",
   "stemText": "1. through the origin and the tangents drawn to it at x = -1 and x = 2 are parallel to the X-axis, then the values of a, b and c are respectively (b) -3, -12 and 0 (a) 12, -3 and 0 (d) 3, -12 and 0 (c) -3, 12 and 0 (2006)",
   "year": 2006,
@@ -14,7 +14,13 @@
    "w": 716,
    "h": 291
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c16-p0130-q001-s.png",
+    "w": 703,
+    "h": 418
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -23,7 +29,7 @@
   "chapter": "Application of Derivatives",
   "number": 2,
   "page": 130,
-  "seq": 489,
+  "seq": 491,
   "answer": "C",
   "stemText": "A circular sector of perimeter 60 metre with 2. maximum area is to be constructed. The radius of the circular arc in metre must be (b) 5 (a) 20 (2006) (d) 10 (c) 15 The tangent and the normal drawn to the",
   "year": 2006,
@@ -32,7 +38,13 @@
    "w": 716,
    "h": 211
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c16-p0130-q002-s.png",
+    "w": 697,
+    "h": 209
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -41,7 +53,7 @@
   "chapter": "Application of Derivatives",
   "number": 3,
   "page": 130,
-  "seq": 490,
+  "seq": 492,
   "answer": "D",
   "stemText": "3. curve y = x2 - x + 4 at P(1, 4) cut the X-axis at A and B respectively. If the length of the subtangent drawn to the curve at P is equal to the length of the subnormal, then the area of the triangle PAB in sq. units is (b) 32 (a) 4 (d) 16 (2006) (c) 8 The range in which y = -x2 + 6x - 3 is",
   "year": 2006,
@@ -59,7 +71,7 @@
   "chapter": "Application of Derivatives",
   "number": 4,
   "page": 130,
-  "seq": 491,
+  "seq": 493,
   "answer": "B",
   "stemText": "4. increasing is (b) x>3 (a) x<3 (d) 5<x<6 (2007) (c) 7<x<8",
   "year": 2007,
@@ -77,7 +89,7 @@
   "chapter": "Application of Derivatives",
   "number": 5,
   "page": 130,
-  "seq": 492,
+  "seq": 494,
   "answer": "A",
   "stemText": "OA and OB are two roads enclosing an angle 5. of 120°. X and Y start from ‘O' at the same time. X travels along OA with a speed of 4 km/hour and Y travels along OB with a speed of 3 km/hour. The rate at which the shortest distance between X and Y is increasing after 1 hour is O 120° B (a)√37 km/ h (b) 37 km/h (d) √13 km/ h (c) 13 km/h (2007)",
   "year": 2007,
@@ -95,7 +107,7 @@
   "chapter": "Application of Derivatives",
   "number": 6,
   "page": 130,
-  "seq": 493,
+  "seq": 495,
   "answer": "A",
   "stemText": "6. which makes an angle 45° with X-axis is (b) (a) (d) C (2007, 2017)",
   "year": 0,
@@ -113,7 +125,7 @@
   "chapter": "Application of Derivatives",
   "number": 7,
   "page": 130,
-  "seq": 494,
+  "seq": 496,
   "answer": "C",
   "stemText": "The length of the subtangent to the curve 7. x2y2 = a* at (-a, a) is (b) 2a (a)a/2 (2007) (d) a/3 (c) a",
   "year": 2007,
@@ -131,7 +143,7 @@
   "chapter": "Application of Derivatives",
   "number": 8,
   "page": 130,
-  "seq": 495,
+  "seq": 497,
   "answer": "A",
   "stemText": "The maximum area of a rectangle that can be 8. inscribed in a circle of radius 2 units is (in square units) (b) 5 (a) 8 (2008) (d) 8π (c) 4",
   "year": 2008,
@@ -149,7 +161,7 @@
   "chapter": "Application of Derivatives",
   "number": 11,
   "page": 130,
-  "seq": 496,
+  "seq": 498,
   "answer": "D",
   "stemText": "11. The tangent to a given curve y = f(x) is perpendicular to the x-axis if dx dy (b) (a) dy dx dx dy (2009) =0 (d) (c) dy dx",
   "year": 2009,
@@ -167,7 +179,7 @@
   "chapter": "Application of Derivatives",
   "number": 13,
   "page": 131,
-  "seq": 497,
+  "seq": 499,
   "answer": "C",
   "stemText": "13. The length ofthe subtangent at 't on the curve x = a(t + sin t), y = a(1 - cos t) is t 2asin (a) 2 (b)2asin3 (c) asint (d)2asin (2009)",
   "year": 2009,
@@ -185,7 +197,7 @@
   "chapter": "Application of Derivatives",
   "number": 14,
   "page": 131,
-  "seq": 498,
+  "seq": 500,
   "answer": "C",
   "stemText": "14. P is the point of contact of the tangent from the origin to the curve y = logex. The length of the perpendicular drawn from the origin to the normal at P is (a) 1/e (b) 1/2e Ve2 +1 (d)2√e2 +1 (2010) (c)",
   "year": 2010,
@@ -209,7 +221,7 @@
   "chapter": "Application of Derivatives",
   "number": 15,
   "page": 131,
-  "seq": 499,
+  "seq": 501,
   "answer": "D",
   "stemText": "15. For the curve 4x? = 5y*, the ratio of the cube of the subtangent at a point on the curve to the square of the subnormal at the same point is (5) (a) (b) 5 (c) (d) (2010) 5",
   "year": 2010,
@@ -227,7 +239,7 @@
   "chapter": "Application of Derivatives",
   "number": 16,
   "page": 131,
-  "seq": 500,
+  "seq": 502,
   "answer": "B",
   "stemText": "16. The set of real values of x for which is increasing, is f(x)= logx (a) empty (b) {x:x≥e} (c) {1} (d) {x:x<e} (2010)",
   "year": 2010,
@@ -251,7 +263,7 @@
   "chapter": "Application of Derivatives",
   "number": 17,
   "page": 131,
-  "seq": 501,
+  "seq": 503,
   "answer": "A",
   "stemText": "17. A wire oflength 20 cm is bent in the form of a sector of a circle. The maximum area that can be enclosed by the wire is (a) 25 sq. cm (b) 20 sq. cm (c) 30 sq. cm (d) 10 sq. cm (2010)",
   "year": 2010,
@@ -275,7 +287,7 @@
   "chapter": "Application of Derivatives",
   "number": 18,
   "page": 131,
-  "seq": 502,
+  "seq": 504,
   "answer": "A",
   "stemText": "18. A sphere increases its volume at the rate of π cc/s. The rate at which its surface area increases when the radius is I cm is (a)2π sq. cm/s (b)π sq. cm/s 3π π (c) sq. cm/s (d) sq. cm/s 2 2 (2011)",
   "year": 2011,
@@ -299,7 +311,7 @@
   "chapter": "Application of Derivatives",
   "number": 20,
   "page": 131,
-  "seq": 503,
+  "seq": 505,
   "answer": "C",
   "stemText": "20. The maximum value of xe-* is (a) -1/e (b) e (c) 1/e (d) -e (2012)",
   "year": 2012,
@@ -323,7 +335,7 @@
   "chapter": "Application of Derivatives",
   "number": 21,
   "page": 131,
-  "seq": 504,
+  "seq": 506,
   "answer": "C",
   "stemText": "21. Length of the subtangent at (x, y1) on x\"ym = am+n, m, n> 0,is 1x1 n (a) —x1 (b) m m m (c) (d) |x11 n m",
   "year": 0,
@@ -341,7 +353,7 @@
   "chapter": "Application of Derivatives",
   "number": 22,
   "page": 131,
-  "seq": 505,
+  "seq": 507,
   "answer": "D",
   "stemText": "22. If a ball is thrown vertically upward and the height ‘s’ reached in time ‘t’ is given by s = 22t - 1lt’, then the total distance travelled by the ball is (a)22 units (b)44 units (c)33 units (d) 1l units (2012)",
   "year": 2012,
@@ -359,7 +371,7 @@
   "chapter": "Application of Derivatives",
   "number": 23,
   "page": 131,
-  "seq": 506,
+  "seq": 508,
   "answer": "B",
   "stemText": "23. The sum of two positive numbers is given. If the sum of their cubes is minimum, then (a) one is thrice the other (b) they are equal one is twice the other (c) (d) they are unequal (2012)",
   "year": 2012,
@@ -383,7 +395,7 @@
   "chapter": "Application of Derivatives",
   "number": 24,
   "page": 131,
-  "seq": 507,
+  "seq": 509,
   "answer": "A",
   "stemText": "24. The perimeter of a sector is a constant. If its area is to be maximum, then the sectorial angle is T (a) 2c (b) 6 π (c) (d) 4c (2012) 4 3",
   "year": 2012,
@@ -407,7 +419,7 @@
   "chapter": "Application of Derivatives",
   "number": 25,
   "page": 131,
-  "seq": 508,
+  "seq": 510,
   "answer": "A",
   "stemText": "x 25. The function f(x)= decreases in the 十一 3x interval (a) (-3, 3) (b) (-∞∞, 3) (c) (3, ∞) (d) (-9, 9) (2013)",
   "year": 2013,
@@ -431,7 +443,7 @@
   "chapter": "Application of Derivatives",
   "number": 26,
   "page": 131,
-  "seq": 509,
+  "seq": 511,
   "answer": "C",
   "stemText": "26. If sin-l a is the acute angle between the curves x2 + y2 = 4x and x2 + y2 = 8 at (2, 2),then a = (a) 1 (b) 0 √3 1 (c) (d) (2013) √2 2",
   "year": 2013,
@@ -449,7 +461,7 @@
   "chapter": "Application of Derivatives",
   "number": 27,
   "page": 131,
-  "seq": 510,
+  "seq": 512,
   "answer": "D",
   "stemText": "27. The maximum area of a rectangle that can be inscribed in a circle of radius 2 units is (a) 8π sq. units (b) 4 sq. units (c) 5 sq. units (d) 8 sq. units (2013)",
   "year": 2013,
@@ -473,7 +485,7 @@
   "chapter": "Application of Derivatives",
   "number": 29,
   "page": 132,
-  "seq": 511,
+  "seq": 513,
   "answer": "D",
   "stemText": "29. makes an angle 0 with y- axis, then the value of tan θ is 1 1 (d) (c) -3 (b) 3 (a) 3 3 (2014)",
   "year": 2014,
@@ -482,7 +494,13 @@
    "w": 702,
    "h": 241
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c16-p0132-q029-s.png",
+    "w": 713,
+    "h": 264
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -491,7 +509,7 @@
   "chapter": "Application of Derivatives",
   "number": 31,
   "page": 132,
-  "seq": 512,
+  "seq": 514,
   "answer": "D",
   "stemText": "31. A stone is dropped into a quiet lake and waves move in circles at the speed of 5 cm/sec. At that instant, when the radius of circular wave is 8 cm, how fast is the enclosed area increasing? (b) 8π cm2/s (a) 6πcm2/s 8一 (d) 80π cm2/s cm2/s (c) 3 (2014) dy",
   "year": 2014,
@@ -515,7 +533,7 @@
   "chapter": "Application of Derivatives",
   "number": 32,
   "page": 132,
-  "seq": 513,
+  "seq": 515,
   "answer": "D",
   "stemText": "find att =2. 32. Ifx= ct and y=- dx 1 1 (d) (c) (b) 0 (a) 4 4 (2015)",
   "year": 2015,
@@ -533,7 +551,7 @@
   "chapter": "Application of Derivatives",
   "number": 33,
   "page": 132,
-  "seq": 514,
+  "seq": 516,
   "answer": "C",
   "stemText": "33. A balloon which always remains spherical is being inflated by pumping in 10 cubic centimeters of gas per second. Find the rate at which the radius of the balloon is increasing when the radius is 15 cm. 1一 1 (b) cm/sec cm/sec (a) 9π 元 1 1 (d) cm/sec cm/sec (c) 30π 90π (2015)",
   "year": 2015,
@@ -557,7 +575,7 @@
   "chapter": "Application of Derivatives",
   "number": 34,
   "page": 132,
-  "seq": 515,
+  "seq": 517,
   "answer": "A",
   "stemText": "34. The two curves x2 - 3xy2 + 2 = 0 and 3x2y-y2= 2 π (a) cut at right angle (b) cut at angle 4 (c)touch each other (d) cut at angle 3 (2015, 2016)",
   "year": 0,
@@ -575,7 +593,7 @@
   "chapter": "Application of Derivatives",
   "number": 36,
   "page": 132,
-  "seq": 516,
+  "seq": 518,
   "answer": "B",
   "stemText": "and Q = x 1 36.IfP: dx X 1 1 x (b) 3P (a) 1 -3P (2015) (d) -3P (c) 3P+ 1 √ 1",
   "year": 2015,
@@ -599,7 +617,7 @@
   "chapter": "Application of Derivatives",
   "number": 37,
   "page": 132,
-  "seq": 517,
+  "seq": 519,
   "answer": "C",
   "stemText": "2 37. Slope of normal to the curve y = x at x2 (-1, 0) is 1 (b) -4 (a) 4 1 (2015) (d) 4 (c) 4",
   "year": 2015,
@@ -617,7 +635,7 @@
   "chapter": "Application of Derivatives",
   "number": 38,
   "page": 132,
-  "seq": 518,
+  "seq": 520,
   "answer": "B",
   "stemText": "38. The slope of the tangent to the curve x = t2 + 3t - 8, y = 2t2 - 2t - 5 at the point (2, - 1) is -6 7 22 6 (d) (c) (b) (a) 7 6 7 7 (2016)",
   "year": 2016,
@@ -641,7 +659,7 @@
   "chapter": "Application of Derivatives",
   "number": 39,
   "page": 132,
-  "seq": 519,
+  "seq": 521,
   "answer": "A",
   "stemText": "39. The equation of the normal to the curve y(1 + x) = 2 - x where the tangent crosses x-axis is (b) x-5y -10 =0 (a) 5x-y- 10 =0 (d) x+ 5y + 10 =0 (c) 5x +y+ 10 =0 (2016)",
   "year": 2016,
@@ -665,7 +683,7 @@
   "chapter": "Application of Derivatives",
   "number": 40,
   "page": 132,
-  "seq": 520,
+  "seq": 522,
   "answer": "C",
   "stemText": "40. The maximum value of is (b) ee (a) e 1 (d) ee (c) (2016, 2018)",
   "year": 0,
@@ -689,7 +707,7 @@
   "chapter": "Application of Derivatives",
   "number": 41,
   "page": 132,
-  "seq": 521,
+  "seq": 523,
   "answer": "D",
   "stemText": "41. The rate of change of area of a circle with respect to its radius at r = 2 cms is (b) 2π (a) 4 (2016) (d) 4π (c) 2 The function f(x) = x2 + 2x - 5 is strictly",
   "year": 2016,
@@ -713,7 +731,7 @@
   "chapter": "Application of Derivatives",
   "number": 42,
   "page": 132,
-  "seq": 522,
+  "seq": 524,
   "answer": "D",
   "stemText": "42. increasing in the interval (b) (-∞, -1) (a) [-1,∞) (d) (-1,∞)(2017) (c) (-∞, -1}",
   "year": 2017,
@@ -737,7 +755,7 @@
   "chapter": "Application of Derivatives",
   "number": 44,
   "page": 133,
-  "seq": 523,
+  "seq": 525,
   "answer": "A",
   "stemText": "44. Approximate change in the volume V of a cube of side x metres caused by increasing the side by 3% is (a) 0.09x m3 (b) 0.03x2 m? (c) 0.06x2 m3 (d) 0.04x2 m2 (2018)",
   "year": 2018,
@@ -755,7 +773,7 @@
   "chapter": "Application of Derivatives",
   "number": 45,
   "page": 133,
-  "seq": 524,
+  "seq": 526,
   "answer": "B",
   "stemText": "45. f(x) = x* has stationary point at 1 (a) x=e (b) x=- a (d) x=√e (c) x= 1 (2018)",
   "year": 2018,
@@ -764,7 +782,13 @@
    "w": 704,
    "h": 211
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c16-p0133-q045-s.png",
+    "w": 748,
+    "h": 321
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -773,7 +797,7 @@
   "chapter": "Application of Derivatives",
   "number": 46,
   "page": 133,
-  "seq": 525,
+  "seq": 527,
   "answer": "C",
   "stemText": "46. The maximum area of a rectangle inscribed in the circle (x+ 1)2 + (y -3)2= 64 is (a) 64 sq.units (b)72 sq. units (c)128 sq. units (d) 8 sq. units (2018)",
   "year": 2018,
@@ -791,7 +815,7 @@
   "chapter": "Application of Derivatives",
   "number": 47,
   "page": 133,
-  "seq": 526,
+  "seq": 528,
   "answer": "C",
   "stemText": "47.The interval in which the function f(x)=x2-6x2+ 9x + 10 is increasing in (a)(-∞,1)(3,∞)(b)[1,3] (c) (- ∞, 1] U [3, ∞) (d) (- ∞, - 1] U[3, ∞) (2019)",
   "year": 2019,
@@ -809,7 +833,7 @@
   "chapter": "Application of Derivatives",
   "number": 49,
   "page": 133,
-  "seq": 527,
+  "seq": 529,
   "answer": "A",
   "stemText": "49. The value of √24.99 is (a) 4.999 (b) 5.001 (c)4.899 (d) 4.897 (2019)",
   "year": 2019,
@@ -833,7 +857,7 @@
   "chapter": "Application of Derivatives",
   "number": 50,
   "page": 133,
-  "seq": 528,
+  "seq": 530,
   "answer": "C",
   "stemText": "50. If the curves 2x = y2 and 2xy = K intersect perpendicularly, then the value of K2 is (a) 2√2 (b) 2 (c) 8 (d) 4 (2020) loge x",
   "year": 2020,
@@ -857,7 +881,7 @@
   "chapter": "Application of Derivatives",
   "number": 51,
   "page": 133,
-  "seq": 529,
+  "seq": 531,
   "answer": "B",
   "stemText": "51. 'lhe maximum value of ifx> 0 is x 1 (a) 1 (b) e 1 (c) (d) e (2020) e",
   "year": 2020,
@@ -881,7 +905,7 @@
   "chapter": "Application of Derivatives",
   "number": 52,
   "page": 133,
-  "seq": 530,
+  "seq": 532,
   "answer": "D",
   "stemText": "52.If the side of a cube is increased by 5%, then the surface area of a cube is increased by (a)60% (b)6% (c) 20% (d) 10% (2020)",
   "year": 2020,
@@ -890,7 +914,13 @@
    "w": 685,
    "h": 212
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c16-p0133-q052-s.png",
+    "w": 672,
+    "h": 730
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -899,7 +929,7 @@
   "chapter": "Application of Integrals",
   "number": 2,
   "page": 155,
-  "seq": 599,
+  "seq": 601,
   "answer": "C",
   "stemText": "2. The area bounded by the curve x = 4 - y2 and the Y-axis is (a)16 sq. units (b)32 sq. units 32 16 (c) (d) sq.units -sq.units 3 3 (2007)",
   "year": 2007,
@@ -908,7 +938,13 @@
    "w": 716,
    "h": 259
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c18-p0155-q002-s.png",
+    "w": 714,
+    "h": 549
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -917,7 +953,7 @@
   "chapter": "Application of Integrals",
   "number": 3,
   "page": 155,
-  "seq": 600,
+  "seq": 602,
   "answer": "D",
   "stemText": "The area of the region bounded by y = 2x - x2 3.7 and the x-axis is 2— 7 (b) (a) Sq.units Sq. units 3 3 8 4 (c) Sq. units sq. units (d) 一 3 3 (2008)",
   "year": 2008,
@@ -926,7 +962,13 @@
    "w": 716,
    "h": 298
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c18-p0155-q003-s.png",
+    "w": 720,
+    "h": 851
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -935,7 +977,7 @@
   "chapter": "Application of Integrals",
   "number": 4,
   "page": 155,
-  "seq": 601,
+  "seq": 603,
   "answer": "A",
   "stemText": "4. The area bounded between the parabola y2 = 4x and the line y = 2x - 4 is equal to (a) 9 sq. units (b)15 sq. units 17 19 (c) (d) Sq. units Sq. units 3 3 (2009)",
   "year": 2009,
@@ -953,7 +995,7 @@
   "chapter": "Application of Integrals",
   "number": 5,
   "page": 155,
-  "seq": 602,
+  "seq": 604,
   "answer": "B",
   "stemText": "5.The bounded by the area curve 2 x<0 x and the line y = 4 is x≥0 x, 8 40 32 16 (b) (c) (a) (d) 3 3 3 3 (2010)",
   "year": 2010,
@@ -977,7 +1019,7 @@
   "chapter": "Application of Integrals",
   "number": 6,
   "page": 155,
-  "seq": 603,
+  "seq": 605,
   "answer": "B",
   "stemText": "6. If the area between y = mx2 and x = my2(m > 0) 1 is sq. units, then value of m is 4 ±2 (c)√ (d)√3 (a)±3√2 (b) √3 (2011)",
   "year": 2011,
@@ -995,7 +1037,7 @@
   "chapter": "Application of Integrals",
   "number": 7,
   "page": 155,
-  "seq": 604,
+  "seq": 606,
   "answer": "C",
   "stemText": "7. The area bounded by the curve y = sin x-axis and lines x=0 and x = 3π is (a) 9 (b) 0 (c) 6 (d) 3 (2013)",
   "year": 2013,
@@ -1004,7 +1046,13 @@
    "w": 684,
    "h": 185
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c18-p0155-q007-s.png",
+    "w": 709,
+    "h": 182
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -1013,7 +1061,7 @@
   "chapter": "Application of Integrals",
   "number": 8,
   "page": 155,
-  "seq": 605,
+  "seq": 607,
   "answer": "D",
   "stemText": "8. The area of the region bounded by the lines y = mx, x = 1, x = 2, and x axis is 6 sq. units, then ^m' is (a) 3 (c) 2 (b) 1 (d) 4 (2014)",
   "year": 2014,
@@ -1031,7 +1079,7 @@
   "chapter": "Application of Integrals",
   "number": 9,
   "page": 155,
-  "seq": 606,
+  "seq": 608,
   "answer": "B",
   "stemText": "Area of the region bounded by two parabolas 9. y= x2 and x = y2 is 1 1 (a) (b) (c) 4 (d) 3 4 3 (2014)",
   "year": 2014,
@@ -1040,7 +1088,13 @@
    "w": 684,
    "h": 186
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c18-p0155-q009-s.png",
+    "w": 709,
+    "h": 677
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -1049,7 +1103,7 @@
   "chapter": "Application of Integrals",
   "number": 10,
   "page": 155,
-  "seq": 607,
+  "seq": 609,
   "answer": "D",
   "stemText": "10. Area bounded by y = x’, y = 8 and x = 0 is (a) 14 sq. units (b) 6 sq. units (c) 2 sq. units (d) 12 sq. units (2015)",
   "year": 2015,
@@ -1073,7 +1127,7 @@
   "chapter": "Application of Integrals",
   "number": 11,
   "page": 155,
-  "seq": 608,
+  "seq": 610,
   "answer": "A",
   "stemText": "11. Area lying between the curves y2 = 2x and y=xis 2- (a) Sq.units (b) sq.units 3 3 1 3— (c) sq.units (d) sq-units 4 4 (2016)",
   "year": 2016,
@@ -1097,7 +1151,7 @@
   "chapter": "Application of Integrals",
   "number": 12,
   "page": 155,
-  "seq": 609,
+  "seq": 611,
   "answer": "A",
   "stemText": "12. The area of the region bounded by the curve y = x2 and the line y = 16 is 256 128 (a) (b) sq.units Sq.units 3 3 64 32 (c) (d) sq.units sq.units 3 3 (2017)",
   "year": 2017,
@@ -1121,7 +1175,7 @@
   "chapter": "Application of Integrals",
   "number": 13,
   "page": 155,
-  "seq": 610,
+  "seq": 612,
   "answer": "A",
   "stemText": "13. Area of the region bounded by the curve y = cos x,x = 0 and x = π is (a) 2 sq. units (b)3 sq. units (c) 4 sq. units (d) 1 sq. unit (2017, 2018)",
   "year": 0,
@@ -1145,7 +1199,7 @@
   "chapter": "Application of Integrals",
   "number": 15,
   "page": 156,
-  "seq": 611,
+  "seq": 613,
   "answer": "D",
   "stemText": "15. The area of the region above X-axis included between the parabola y2 = x and the circle x2 + y2 = 2x in square units is 2 π (b) (a) 3 4 4 2 2 3 π (d) (2019) (c) 2 3 4 4",
   "year": 2019,
@@ -1169,7 +1223,7 @@
   "chapter": "Application of Integrals",
   "number": 17,
   "page": 156,
-  "seq": 612,
+  "seq": 614,
   "answer": "A",
   "stemText": "17. The area of the region bounded by the curve y2 = 8x and the line y = 2x is 4 3 (b) sq. units (a) Sq. units 3 4 16 8 (d) Sq.units (c) sq.units 二 3 3 (2020)",
   "year": 2020,
@@ -1193,7 +1247,7 @@
   "chapter": "Application of Integrals",
   "number": 18,
   "page": 156,
-  "seq": 613,
+  "seq": 615,
   "answer": "B",
   "stemText": "18. The area of the region bounded by the line y = 2x + 1, x-axis and the ordinates x = -1 and x=1is (b) 5/2 (a) 2 (2020) (d) 9/4 (c) 5",
   "year": 2020,
@@ -1226,7 +1280,13 @@
    "w": 708,
    "h": 252
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c06-p0056-q001-s.png",
+    "w": 713,
+    "h": 377
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -1262,7 +1322,13 @@
    "w": 708,
    "h": 173
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c06-p0056-q003-s.png",
+    "w": 713,
+    "h": 131
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -1298,7 +1364,13 @@
    "w": 708,
    "h": 129
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c06-p0056-q005-s.png",
+    "w": 713,
+    "h": 136
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -1358,7 +1430,13 @@
    "w": 708,
    "h": 172
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c06-p0056-q008-s.png",
+    "w": 713,
+    "h": 262
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -1424,7 +1502,13 @@
    "w": 747,
    "h": 174
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c06-p0056-q012-s.png",
+    "w": 722,
+    "h": 344
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -1934,7 +2018,13 @@
    "w": 709,
    "h": 277
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c03-p0045-q007-s.png",
+    "w": 721,
+    "h": 381
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2360,7 +2450,13 @@
    "w": 736,
    "h": 224
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c03-p0046-q028-s.png",
+    "w": 712,
+    "h": 197
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2378,7 +2474,13 @@
    "w": 736,
    "h": 174
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c03-p0046-q029-s.png",
+    "w": 712,
+    "h": 126
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2573,7 +2675,7 @@
   "chapter": "Conic Sections",
   "number": 1,
   "page": 69,
-  "seq": 227,
+  "seq": 228,
   "answer": "D",
   "stemText": "1. x = 4(1 + cos0) and y = 3(1 + sin0) are the parametric equations of (x-3)2 (y-4)2 (a) 9 16 (x+ 4)2 +(y+ 3)2 (b) 16 9 (x-4)2 (y- 3)2 (c) 16 9 (x-4)2 (y- 3)2 (d) (2006) 16 9",
   "year": 2006,
@@ -2582,7 +2684,13 @@
    "w": 720,
    "h": 488
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0069-q001-s.png",
+    "w": 714,
+    "h": 458
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2591,7 +2699,7 @@
   "chapter": "Conic Sections",
   "number": 2,
   "page": 69,
-  "seq": 228,
+  "seq": 229,
   "answer": "A",
   "stemText": "If the distance between the foci and the 2. distance between the directrices of the hyperbola : 1 are in the ratio 3 : 2, 62 a then a : b is (a) √2 :1 (b) √3 : √2 (c) 1:2 (d) 2:1 (2006)",
   "year": 2006,
@@ -2600,7 +2708,13 @@
    "w": 720,
    "h": 346
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0069-q002-s.png",
+    "w": 714,
+    "h": 479
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2609,7 +2723,7 @@
   "chapter": "Conic Sections",
   "number": 3,
   "page": 69,
-  "seq": 229,
+  "seq": 230,
   "answer": "C",
   "stemText": "The ellipse 3. : 1 and the hyperbola 25 16 =1 have in common 25 16 (a) centre only (b) centre, foci and directrices (c) centre, foci and vertices (d) centre and vertices only. (2006)",
   "year": 2006,
@@ -2618,7 +2732,13 @@
    "w": 720,
    "h": 351
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0069-q003-s.png",
+    "w": 714,
+    "h": 352
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2627,7 +2747,7 @@
   "chapter": "Conic Sections",
   "number": 6,
   "page": 69,
-  "seq": 230,
+  "seq": 231,
   "answer": "C",
   "stemText": "The equation of the common tangent of the 6. two touching circles, y2 + x2 - 6x - 12y + 37 = 0 and x2 + y2 - 6y + 7 = 0 is (a) x-y-5=0 (b) x-y+5=0 (c) x+y-5 =0 (d) x + y + 5 = 0. (2006)",
   "year": 2006,
@@ -2636,7 +2756,13 @@
    "w": 677,
    "h": 272
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0069-q006-s.png",
+    "w": 719,
+    "h": 408
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2645,7 +2771,7 @@
   "chapter": "Conic Sections",
   "number": 7,
   "page": 69,
-  "seq": 231,
+  "seq": 232,
   "answer": "A",
   "stemText": "The equation of the parabola with vertex at 7. (-1, 1) and focus (2, 1) is (a) y2 - 2y - 12x - 11 = 0 (b) x2 + 2x - 12y + 13 = 0 (c) y2 - 2y + 12x + 11 = 0 (d) y2 - 2y - 12x + 13 = 0 (2006)",
   "year": 2006,
@@ -2654,7 +2780,13 @@
    "w": 677,
    "h": 274
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0069-q007-s.png",
+    "w": 719,
+    "h": 915
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2663,7 +2795,7 @@
   "chapter": "Conic Sections",
   "number": 8,
   "page": 69,
-  "seq": 232,
+  "seq": 233,
   "answer": "A",
   "stemText": "The equation of the line which is tangent to 8. both the circle x2 + y2 = 5 and the parabola y2 = 40x is (a) 2x-y± 5 =0 (b) 2x-y+ 5 =0 (c) 2x-y-5 =0 (d) 2x + y + 5 = 0. (2006)",
   "year": 2006,
@@ -2672,7 +2804,13 @@
    "w": 677,
    "h": 283
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0069-q008-s.png",
+    "w": 719,
+    "h": 496
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2681,7 +2819,7 @@
   "chapter": "Conic Sections",
   "number": 9,
   "page": 69,
-  "seq": 233,
+  "seq": 234,
   "answer": "B",
   "stemText": "The locus of the point which moves such that 9. the ratio of its distance from two fixed point in the plane is always a constant K (< 1) is (a) hyperbola (b)ellipse (c)straight line (d) circle. (2006)",
   "year": 2006,
@@ -2699,7 +2837,7 @@
   "chapter": "Conic Sections",
   "number": 10,
   "page": 69,
-  "seq": 234,
+  "seq": 235,
   "answer": "C",
   "stemText": "The equation of the circle having x - y - 2 = 0 10. and x - y +2 = 0 as two tangents and x + y = 0 as a diameter is (a) x2 + y2 + 2x - 2y + 1 = 0 (b) x2 + y2 - 2x + 2y - 1 = 0 (c) x2 + y2 = 2 (d) x2 + y2 = 1 (2006)",
   "year": 2006,
@@ -2723,7 +2861,7 @@
   "chapter": "Conic Sections",
   "number": 11,
   "page": 70,
-  "seq": 235,
+  "seq": 236,
   "answer": "D",
   "stemText": "11. If P is any point on the ellipse 36 16 and S and S' are the foci, then PS + PS' = (b) 8 (a) 4 (c) 10 (d) 12 (2007)",
   "year": 2007,
@@ -2747,7 +2885,7 @@
   "chapter": "Conic Sections",
   "number": 12,
   "page": 70,
-  "seq": 236,
+  "seq": 237,
   "answer": "C",
   "stemText": "If 12. : 1 is a hyperbola, then which of 36k2 the following statements can be true ? (a) (-3, 1) lies on the hyperbola (b) (3, 1) lies on the hyperbola (c) (10, 4) lies on the hyperbola (2007) (d) (5, 2) lies on the hyperbola",
   "year": 2007,
@@ -2765,7 +2903,7 @@
   "chapter": "Conic Sections",
   "number": 13,
   "page": 70,
-  "seq": 237,
+  "seq": 238,
   "answer": "B",
   "stemText": "13. The number of common tangents to the circles x2 + y2 = 4 and x2 + y2 - 6x - 8y - 24 = 0 is, (b) 4 (a) 3 (2007) (c) 2 (d) 1",
   "year": 2007,
@@ -2774,7 +2912,13 @@
    "w": 718,
    "h": 211
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0070-q013-s.png",
+    "w": 717,
+    "h": 547
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -2783,7 +2927,7 @@
   "chapter": "Conic Sections",
   "number": 14,
   "page": 70,
-  "seq": 238,
+  "seq": 239,
   "answer": "C",
   "stemText": "14. If 3x + y + k = 0 is a tangent to the circle x + y2 = 10, the values of k are, (a) ± 7 (b) ±5 (c) ± 10 (d) ± 9 (2007)",
   "year": 2007,
@@ -2807,7 +2951,7 @@
   "chapter": "Conic Sections",
   "number": 15,
   "page": 70,
-  "seq": 239,
+  "seq": 240,
   "answer": "A",
   "stemText": "15. The equation of two circles which touch the Y-axis at (0, 3) and make an intercept of 8 units on X-axis are (a) x2 + y2 ± 10x - 6y + 9 = 0 (b) x2 + y2 ± 6x - 10y + 9 = 0 (c) x2 + y2 - 8x ± 10y + 9 = 0 (2007) (d) x2 + y2 + 10x ± 6y + 9 = 0",
   "year": 2007,
@@ -2831,7 +2975,7 @@
   "chapter": "Conic Sections",
   "number": 16,
   "page": 70,
-  "seq": 240,
+  "seq": 241,
   "answer": "C",
   "stemText": "16. x2 + y2 -6x-6y+ 4 =0,x2 +y2 -2x-4y+ 3 = 0, x2 + y2 + 2kx + 2y + 1 = 0. Ifthe radical centre of the above three circles exists, then which of the following cannot be the value of k? (b) 1 (a) 2 (d) 4 (2007) (c) 5",
   "year": 2007,
@@ -2855,7 +2999,7 @@
   "chapter": "Conic Sections",
   "number": 17,
   "page": 70,
-  "seq": 241,
+  "seq": 242,
   "answer": "B",
   "stemText": "17. If the circles x2 + y2 - 2x - 2y - 7 = 0 and x2 + y2 + 4x + 2y + k = 0 cut orthogonally, then the length of the common chord of the circles is 12 (b) 2 (a) √13 (d) 8 (c) 5 (2007)",
   "year": 2007,
@@ -2879,7 +3023,7 @@
   "chapter": "Conic Sections",
   "number": 19,
   "page": 70,
-  "seq": 242,
+  "seq": 243,
   "answer": "A",
   "stemText": "19. The locus of a point which moves such that the sum of its distances from two fixed points is a constant is (a) an ellipse (b) a hyperbola (c) a circle (d) a parabola (2008)",
   "year": 2008,
@@ -2897,7 +3041,7 @@
   "chapter": "Conic Sections",
   "number": 20,
   "page": 70,
-  "seq": 243,
+  "seq": 244,
   "answer": "D",
   "stemText": "20. The equation of the smallest circle passing through the points (2, 2) and (3, 3) is (a) x2 + y2 + 5x - 5y + 12 = 0 (b) x2 + y2 - 5x + 5y - 12 = 0 (c) x2 + y2 + 5x + 5y + 12 = 0 (2008) (d) x2 + y2 - 5x - 5y + 12 = 0",
   "year": 2008,
@@ -2921,7 +3065,7 @@
   "chapter": "Conic Sections",
   "number": 21,
   "page": 70,
-  "seq": 244,
+  "seq": 245,
   "answer": "C",
   "stemText": "21. The point (5, - 7) lies outside the circle (a) x2 + y2 - 5x + 7y - 1 = 0 (b) x2 + y2 - 8x + 7y - 2 = 0 (c) x2 + y2 - 8x = 0 (2008) (d) x2 + y2 - 5x + 7y = 0",
   "year": 2008,
@@ -2945,7 +3089,7 @@
   "chapter": "Conic Sections",
   "number": 22,
   "page": 70,
-  "seq": 245,
+  "seq": 246,
   "answer": "C",
   "stemText": "22. Ifthe circles x2 + y2 = 9 and x2 + y2 + 2αx + 2y + 1 = 0 touch each other internally, then α = -4 4. (b) (c) (d) 1 (a) 3 3 3 (2008)",
   "year": 2008,
@@ -2969,7 +3113,7 @@
   "chapter": "Conic Sections",
   "number": 23,
   "page": 70,
-  "seq": 246,
+  "seq": 247,
   "answer": "A",
   "stemText": "23. The locus of the midpoints of the line joining the focus and any point on the parabola y2 = 4ax is a parabola with the equation of directrix as a (a) x=0 (b) x= 2 (c) x+a=0 (d) 2x + a = 0 (2008)",
   "year": 2008,
@@ -2993,7 +3137,7 @@
   "chapter": "Conic Sections",
   "number": 24,
   "page": 70,
-  "seq": 247,
+  "seq": 248,
   "answer": "D",
   "stemText": "24. The tangents drawn at the extremeties of a focal chord of the parabola y2 = 16x (a) intersect at an angle of 60° intersect at an angle of 45° (b) i (c) i intersect on x = 0 (2008) (d) intersect on the line x + 4 = 0",
   "year": 2008,
@@ -3002,7 +3146,13 @@
    "w": 767,
    "h": 298
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0070-q024-s.png",
+    "w": 722,
+    "h": 193
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -3011,7 +3161,7 @@
   "chapter": "Conic Sections",
   "number": 25,
   "page": 70,
-  "seq": 248,
+  "seq": 249,
   "answer": "D",
   "stemText": "25. The equation -1=0 represents -5 2- an ellipse if (a) 2<<5 (b) 2>>5 (d) <2 (c) >5 (2008)",
   "year": 2008,
@@ -3035,7 +3185,7 @@
   "chapter": "Conic Sections",
   "number": 27,
   "page": 71,
-  "seq": 249,
+  "seq": 250,
   "answer": "C",
   "stemText": "27. The perimeter of a certain sector of a circle is equal to the length of the arc of the semicircle. Then the angle at the centre of the sector in radians is 2π 匹 (a) (b) 3 3 (c)π-2 (d) π+2 (2008)",
   "year": 2008,
@@ -3059,7 +3209,7 @@
   "chapter": "Conic Sections",
   "number": 28,
   "page": 71,
-  "seq": 250,
+  "seq": 251,
   "answer": "D",
   "stemText": "28. Ife, and e, are the eccentricities ofa hyperbola 3x2 - 3y2 = 25 and its conjugate, then (b) e+e2 =v√2 (a) e +e2 =4 (c) e2 +e2 =2 (d) e2 +e2 =4 (2008)",
   "year": 2008,
@@ -3083,7 +3233,7 @@
   "chapter": "Conic Sections",
   "number": 29,
   "page": 71,
-  "seq": 251,
+  "seq": 252,
   "answer": "B",
   "stemText": "29. A cow is tied to a post by a rope. The cow moves along the circular path always keeping the rope tight. If it describes 44 metres, when it has traced out 72° at the centre, the length of the rope is (a) 45 metres (b) 35 metres (d) 56 metres (2009) (c) 22 metres",
   "year": 2009,
@@ -3107,7 +3257,7 @@
   "chapter": "Conic Sections",
   "number": 30,
   "page": 71,
-  "seq": 252,
+  "seq": 253,
   "answer": "D",
   "stemText": "30. The locus of the mid points of the chords of the circle x2 + y2 = 4 which subtend a right angle at the origin is (a) x+y=1 (b) x+y=2 (d) x2 + y2 = 2 (2009) (c) x2 + y2 = 1",
   "year": 2009,
@@ -3131,7 +3281,7 @@
   "chapter": "Conic Sections",
   "number": 31,
   "page": 71,
-  "seq": 253,
+  "seq": 254,
   "answer": "C",
   "stemText": "31. The length of the chord joining the points (4cos0, 4sin0) and (4 cos(0 + 60°), 4 sin(0 + 60%)) of the circle x2 + y2 = 16 is (a) 16 (b) 2 (c) 4 (d) 8 (2009)",
   "year": 2009,
@@ -3140,7 +3290,13 @@
    "w": 714,
    "h": 215
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0071-q031-s.png",
+    "w": 706,
+    "h": 225
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -3149,7 +3305,7 @@
   "chapter": "Conic Sections",
   "number": 32,
   "page": 71,
-  "seq": 254,
+  "seq": 255,
   "answer": "D",
   "stemText": "32. The number of common tangents to the circles x2 + y2 - y = 0 and x2 + y2 + y = 0 is (a) 0 (b) 1 (c) 2 (d) 3 (2009)",
   "year": 2009,
@@ -3173,7 +3329,7 @@
   "chapter": "Conic Sections",
   "number": 34,
   "page": 71,
-  "seq": 255,
+  "seq": 256,
   "answer": "A",
   "stemText": "34. The length of the diameter of the circle which cuts three circles x2 +y2 -x- y- 14 = 0; x2 + y2 + 3x - 5y - 10 = 0; x2 + y2 - 2x + 3y - 27 = 0 orthogonally, is (a) 4 (b) 2 (d) 6 (2009) (c) 8",
   "year": 2009,
@@ -3197,7 +3353,7 @@
   "chapter": "Conic Sections",
   "number": 35,
   "page": 71,
-  "seq": 256,
+  "seq": 257,
   "answer": "B",
   "stemText": "35. For the parabola y2 = 4x, the point P whose focal distance is 17, is (a)(2, 8) or (2,-8) (b) (16, 8) or (16, -8) (c) (8, 8) or (8, -8) (d) (4, 8) or (4, -8) (2009)",
   "year": 2009,
@@ -3221,7 +3377,7 @@
   "chapter": "Conic Sections",
   "number": 36,
   "page": 71,
-  "seq": 257,
+  "seq": 258,
   "answer": "C",
   "stemText": "36. The angle hetween the tangents drawn to the parabola y2 = 12x from the point (-3, 2) is (a) 30° (b) 45° (c) 90° (d) 60% (2009)",
   "year": 2009,
@@ -3245,7 +3401,7 @@
   "chapter": "Conic Sections",
   "number": 37,
   "page": 71,
-  "seq": 258,
+  "seq": 259,
   "answer": "D",
   "stemText": "37. The number of values of^c' such that the line t? ~-+ y2 =1 is y = 4x + c touches the curve 4 (a) infinite (b) 0 (c) 1 (d) 2 (6002)",
   "year": 0,
@@ -3269,7 +3425,7 @@
   "chapter": "Conic Sections",
   "number": 38,
   "page": 71,
-  "seq": 259,
+  "seq": 260,
   "answer": "B",
   "stemText": "38. If the circle x2 + y2 = a2 intersects the hyperbola xy = c2 in four points P(x, y1), Q(x2, y2), R(x3, y3) and S(x4, y4), then (a)yy2y3y4 = 2c4 (b) x1 + x2 + x3 + x4 = 0 (c) y +y2 + y3 +y4 = 2 (d) x1x2x3x4 = 2c4 (2009)",
   "year": 2009,
@@ -3293,7 +3449,7 @@
   "chapter": "Conic Sections",
   "number": 39,
   "page": 71,
-  "seq": 260,
+  "seq": 261,
   "answer": "C",
   "stemText": "39. The chord of the circle x2 + y2 - 4x = 0 which is bisected at (1, 0) is perpendicular to the line (a) x+y= 0 (b) y=x (d) x= 1 (c) y= 1 (2010)",
   "year": 2010,
@@ -3317,7 +3473,7 @@
   "chapter": "Conic Sections",
   "number": 40,
   "page": 71,
-  "seq": 261,
+  "seq": 262,
   "answer": "C",
   "stemText": "40. The straight line 2x + 3y - k = 0, k > 0 cuts the X and Y-axes at A and B. The area of △OAB, where O is the origin, is 12 sq. units. The equation of the circle having AB as diameter is (a) x2 + y2 + 4x - 6y = 0 (b) x2 + y2 - 6x - 4y = 0 (c) x2 + y2 - 4x - 6y = 0 (d) x2 + y2 - 6x + 4y = 0 (2010)",
   "year": 2010,
@@ -3341,7 +3497,7 @@
   "chapter": "Conic Sections",
   "number": 42,
   "page": 72,
-  "seq": 262,
+  "seq": 263,
   "answer": "D",
   "stemText": "42. Two circles centered at (2, 3) and (5, 6) intersect each other. If the radii are equal, the equation of the common chord is (a) x-y+1=0 (b) x+y+1=0 (d)x+y- 8 =0 (c) x-y-8=0 (2010)",
   "year": 2010,
@@ -3365,7 +3521,7 @@
   "chapter": "Conic Sections",
   "number": 43,
   "page": 72,
-  "seq": 263,
+  "seq": 264,
   "answer": "B",
   "stemText": "43. Equation of the circle centered at (4, 3) touching the circle x2 + y2 = 1 externally, is (a) x2 + y2 + 8x + 6y + 9 = 0 (b) x2 + y2 - 8x - 6y + 9 = 0 (c) x2 + y2 - 8x + 6y + 9 = 0 (2010) (d) x2 + y2 + 8x - 6y + 9 = 0",
   "year": 2010,
@@ -3374,7 +3530,13 @@
    "w": 709,
    "h": 252
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0072-q043-s.png",
+    "w": 709,
+    "h": 348
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -3383,7 +3545,7 @@
   "chapter": "Conic Sections",
   "number": 44,
   "page": 72,
-  "seq": 264,
+  "seq": 265,
   "answer": "D",
   "stemText": "44. The points (1, 0), (0, 1), (0, 0) and (2k, 3k), k ≠ 0 are concyclic if k = -5 5 1 1 (d) (c) (b) (a) 13 13 5 5 (2010)",
   "year": 2010,
@@ -3392,7 +3554,13 @@
    "w": 709,
    "h": 217
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0072-q044-s.png",
+    "w": 709,
+    "h": 238
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -3401,7 +3569,7 @@
   "chapter": "Conic Sections",
   "number": 45,
   "page": 72,
-  "seq": 265,
+  "seq": 266,
   "answer": "D",
   "stemText": "45. The locus of the point of intersection of the tangents drawn at the ends of a focal chord of the parabola x2 = - 8y is (b) x=2 (a) x=-2 (2010) (d) y= 2 (c) y= -2 The condition for the line y = mx + c to be a",
   "year": 2010,
@@ -3425,7 +3593,7 @@
   "chapter": "Conic Sections",
   "number": 46,
   "page": 72,
-  "seq": 266,
+  "seq": 267,
   "answer": "B",
   "stemText": "46. normal to the parabola y2 = 4ax is D (b) c= -2am - am3 (a) m a (2010) (c) c= 2am + am3 (d) C m",
   "year": 2010,
@@ -3449,7 +3617,7 @@
   "chapter": "Conic Sections",
   "number": 47,
   "page": 72,
-  "seq": 267,
+  "seq": 268,
   "answer": "D",
   "stemText": "47. The eccentric angle of the point (2, 3) lying t? ,2 =1 is on 16 4 元一 元一 π 匹 (d) (c) (b) (a) 6 3 4 2 (2010)",
   "year": 2010,
@@ -3467,7 +3635,7 @@
   "chapter": "Conic Sections",
   "number": 48,
   "page": 72,
-  "seq": 268,
+  "seq": 269,
   "answer": "C",
   "stemText": "48. The distance of the focus of x2 - y2 = 4, from the directrix which is nearer to it, is (a) 8√2 (b) 4√2 (c) √2 (d) 2√2 (2010)",
   "year": 2010,
@@ -3491,7 +3659,7 @@
   "chapter": "Conic Sections",
   "number": 50,
   "page": 72,
-  "seq": 269,
+  "seq": 270,
   "answer": "D",
   "stemText": "50. If 2x2 + 2y2 + 4x + 5y + 1 = 0 and 3x2 + 3y2 + 6x - 7y + 3k = 0 are orthogonal, then value of k is -12 -17 12 17 (d) (c) (b) (a) 12 17 17 12 (2011)",
   "year": 2011,
@@ -3515,7 +3683,7 @@
   "chapter": "Conic Sections",
   "number": 51,
   "page": 72,
-  "seq": 270,
+  "seq": 271,
   "answer": "C",
   "stemText": "51. The total number of common tangents of x2 + y2 - 6x - 8y + 9 = 0 and x2 + y2 = 1 is (c) 3 (d) 1 (b) 2 (a) 4 (2011)",
   "year": 2011,
@@ -3539,7 +3707,7 @@
   "chapter": "Conic Sections",
   "number": 52,
   "page": 72,
-  "seq": 271,
+  "seq": 272,
   "answer": "D",
   "stemText": "52. The centre ofa circle which cuts x2 + y2 + 6x - 1 = 0, x2 + y2 - 3y+ 2 = 0 andx2+ y2+ x+ y- 3 = 0 orthogonally is (19) (b) (a) (2011) (d)",
   "year": 2011,
@@ -3563,7 +3731,7 @@
   "chapter": "Conic Sections",
   "number": 53,
   "page": 72,
-  "seq": 272,
+  "seq": 273,
   "answer": "B",
   "stemText": "53. The length of the latus rectum of 3x2 - 4y + 6x - 3 = 0 is 4 3 (d) 3 (c) 2 (b) (a) 4 3 (2011)",
   "year": 2011,
@@ -3572,7 +3740,13 @@
    "w": 752,
    "h": 195
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0072-q053-s.png",
+    "w": 712,
+    "h": 261
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -3581,7 +3755,7 @@
   "chapter": "Conic Sections",
   "number": 54,
   "page": 72,
-  "seq": 273,
+  "seq": 274,
   "answer": "A",
   "stemText": "54. The sum of the reciprocals of focal distances of a focal chord PQ of y2 = 4ax is 1 1- (d) (b) a (c) 2a (a) 2a a (2011)",
   "year": 2011,
@@ -3605,7 +3779,7 @@
   "chapter": "Conic Sections",
   "number": 55,
   "page": 72,
-  "seq": 274,
+  "seq": 275,
   "answer": "D",
   "stemText": "55. If the focii of and 3 16 4 coincide, then value of a is 1 (a) √3 (d) 3 (c) 2 (b) √3 (2011)",
   "year": 2011,
@@ -3623,7 +3797,7 @@
   "chapter": "Conic Sections",
   "number": 56,
   "page": 72,
-  "seq": 275,
+  "seq": 276,
   "answer": "D",
   "stemText": "56. The equation of a hyperbola whose asymptotes are 3x ± 5y = 0 and vertices are (±5,0) is (b) 5x2 - 3y2 = 225 (a) 3x2 - 5y2 = 25 (c) 25x2 - 9y2 = 225 (d) 9x2 - 25y2 = 225 (2011)",
   "year": 2011,
@@ -3647,7 +3821,7 @@
   "chapter": "Conic Sections",
   "number": 58,
   "page": 73,
-  "seq": 276,
+  "seq": 277,
   "answer": "C",
   "stemText": "58. The angle between y2 = 4x and x2 + y2 = 12 at a point of their intersection is (a) tan-1√2 (b)tan-12 (c)tan-12√2 (d) tan (2011)",
   "year": 2011,
@@ -3656,7 +3830,13 @@
    "w": 708,
    "h": 268
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0073-q058-s.png",
+    "w": 696,
+    "h": 300
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -3665,7 +3845,7 @@
   "chapter": "Conic Sections",
   "number": 59,
   "page": 73,
-  "seq": 277,
+  "seq": 278,
   "answer": "D",
   "stemText": "59. IfxcosQ + ysinα = 4is tangent to =1 25 9 then the value of α is (a) tan-1 (3/7) (b) tan-1 (V3 / 7) (c) tan-1 (7/3) (d) tan-1 (3 / √7) (2011)",
   "year": 2011,
@@ -3689,7 +3869,7 @@
   "chapter": "Conic Sections",
   "number": 60,
   "page": 73,
-  "seq": 278,
+  "seq": 279,
   "answer": "C",
   "stemText": "60. If P is point on 1with focii S and S', then the maximum value of triangle SPS is (a) ab (b) abe2 (c) abe (d) able (2011)",
   "year": 2011,
@@ -3713,7 +3893,7 @@
   "chapter": "Conic Sections",
   "number": 61,
   "page": 73,
-  "seq": 279,
+  "seq": 280,
   "answer": "A",
   "stemText": "61. The least and the greatest distances of the point (10, 7) from the circle x2 + y2 - 4x - 2y - 20 = 0 are (a) 5, 15 (b) 10, 5 (c) 15, 20 (d) 12, 16 (2012)",
   "year": 2012,
@@ -3737,7 +3917,7 @@
   "chapter": "Conic Sections",
   "number": 62,
   "page": 73,
-  "seq": 280,
+  "seq": 281,
   "answer": "D",
   "stemText": "Ifthe straight line 3x + 4y = k touches the circle 62. x2 + y2 = 16x, then the values of k are (a) 16, -64 (b) 16, 64 (c) -16, -64 (d) -16, 64 (2012)",
   "year": 2012,
@@ -3761,7 +3941,7 @@
   "chapter": "Conic Sections",
   "number": 63,
   "page": 73,
-  "seq": 281,
+  "seq": 282,
   "answer": "A",
   "stemText": "63. The locus of the point of intersection of perpendicular tangents to the ellipse is called (a) director circle (b) hyperbola (c) ellipse (d) auxiliary circle (2012)",
   "year": 2012,
@@ -3779,7 +3959,7 @@
   "chapter": "Conic Sections",
   "number": 65,
   "page": 73,
-  "seq": 282,
+  "seq": 283,
   "answer": "B",
   "stemText": "65. The equations of the two tangents from (-5, -4) to the circle x2 + y2 + 4x + 6y + 8 = 0 are (a) x - 7y = 23, 6x + 13y = 4 (b) x + 2y + 13 = 0, 2x - y + 6 = 0 (c) 2x + y + 13 = 0, x - 2y = 6 (d) 3x + 2y + 23 = 0, 2x - 3y + 4 = 0 (2012)",
   "year": 2012,
@@ -3803,7 +3983,7 @@
   "chapter": "Conic Sections",
   "number": 66,
   "page": 73,
-  "seq": 283,
+  "seq": 284,
   "answer": "D",
   "stemText": "66. Ifx = t + 2 and y= 2t represent the parametric equation of the parabola (a) (x -2)2 = 4y (b) x2 = 4(y - 2) (c) (y -2)2 = 4x (d) y2 = 4(x - 2) (2012)",
   "year": 2012,
@@ -3827,7 +4007,7 @@
   "chapter": "Conic Sections",
   "number": 67,
   "page": 73,
-  "seq": 284,
+  "seq": 285,
   "answer": "B",
   "stemText": "67. If x - y = 1 is a tangent to the hyperbola, the point of contact is (a) (5, 4) (b) (4, 3) (c) (3, 4) (d) (2, 1) (2012)",
   "year": 2012,
@@ -3851,7 +4031,7 @@
   "chapter": "Conic Sections",
   "number": 68,
   "page": 73,
-  "seq": 285,
+  "seq": 286,
   "answer": "B",
   "stemText": "The tangent to the curve xy = 25 at any point 68. on it cuts the coordinate axes at A and B, then the area of the triangle OAB is (a) 100 sq. units (b) 50 sq. units (c) 25 sq. units (d) 75 sq. units (2012)",
   "year": 2012,
@@ -3875,7 +4055,7 @@
   "chapter": "Conic Sections",
   "number": 69,
   "page": 73,
-  "seq": 286,
+  "seq": 287,
   "answer": "B",
   "stemText": "69. A tangent is drawn to the circle 2x2 + 2y2 - 3x + 4y = 0 at the point ^A' and it meets the line x + y = 3 at B(2, 1), then AB = (a) √10 (b) 2 (c) 2√2 (d) 0 (2013)",
   "year": 2013,
@@ -3899,7 +4079,7 @@
   "chapter": "Conic Sections",
   "number": 70,
   "page": 73,
-  "seq": 287,
+  "seq": 288,
   "answer": "A",
   "stemText": "70. The area of the circle having its centre at (3, 4) and touching the line 5x + 12y - 11 = 0 is (a)16π sq. units (b) 4π sq. units (c)12π sq. units (d)25π sq. units (2013)",
   "year": 2013,
@@ -3923,7 +4103,7 @@
   "chapter": "Conic Sections",
   "number": 71,
   "page": 73,
-  "seq": 288,
+  "seq": 289,
   "answer": "A",
   "stemText": "71.The number of real circles cutting orthogonally the circle x2 + y2 + 2x - 2y + 7 = 0 is (a) 0 (b) 1 (c) 2 (d) infinitely many (2013)",
   "year": 2013,
@@ -3932,7 +4112,13 @@
    "w": 685,
    "h": 309
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0073-q071-s.png",
+    "w": 765,
+    "h": 299
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -3941,7 +4127,7 @@
   "chapter": "Conic Sections",
   "number": 73,
   "page": 74,
-  "seq": 289,
+  "seq": 290,
   "answer": "A",
   "stemText": "73. The sum of the squares of the eccentricities of v2 the conics =1 is :1 and 3 4 4 3 (c) √ (d) √3 (a) 2 (b) (2013)",
   "year": 2013,
@@ -3965,7 +4151,7 @@
   "chapter": "Conic Sections",
   "number": 74,
   "page": 74,
-  "seq": 290,
+  "seq": 291,
   "answer": "D",
   "stemText": "74. The equation of the tangent to the parabola y2 = 4x inclined at an angle of to the 4 positive direction of x-axis is (a) x+y-4 =0 (b) x-y+4=0 (d) x-y+ I =0 (c) x-y-1 =0 (2013)",
   "year": 2013,
@@ -3989,7 +4175,7 @@
   "chapter": "Conic Sections",
   "number": 75,
   "page": 74,
-  "seq": 291,
+  "seq": 292,
   "answer": "A",
   "stemText": "75. If the distance between the foci and the distance between the directrices of the x hyperbola =1 are in the ratio 3 : 2, 29 a then a : b is (a) √2:1 (b) 1:2 (c) √3:V2 (2013) (d) 2: 1",
   "year": 2013,
@@ -3998,7 +4184,13 @@
    "w": 713,
    "h": 324
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0074-q075-s.png",
+    "w": 716,
+    "h": 162
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4007,7 +4199,7 @@
   "chapter": "Conic Sections",
   "number": 76,
   "page": 74,
-  "seq": 292,
+  "seq": 293,
   "answer": "D",
   "stemText": "76. If the area of the auxiliary circle of the ellipse 2 y x : 1(a > b) is twice the area of the 62 a ellipse, then the eccentricity of the ellipse is √3 1- 1 1 (b) (d) (c) a √2 2 2 (2013)",
   "year": 2013,
@@ -4031,7 +4223,7 @@
   "chapter": "Conic Sections",
   "number": 77,
   "page": 74,
-  "seq": 293,
+  "seq": 294,
   "answer": "A",
   "stemText": "77. Equation of circle with centre (-a, -b) and radius √a2 -b2 is (a) x2 + y2 + 2ax + 2by + 2b2 = 0 (b) x2 + y2 - 2ax - 2by - 2b2 = 0 (c) x2 + y2 - 2ax - 2by + 2b2 = 0 (2014) (d) x2 + y2 - 2ax + 2by + 2a2 = 0",
   "year": 2014,
@@ -4055,7 +4247,7 @@
   "chapter": "Conic Sections",
   "number": 78,
   "page": 74,
-  "seq": 294,
+  "seq": 295,
   "answer": "B",
   "stemText": "78. The area of the triangle formed by the lines joining the vertex of the parabola x2 = 12y to the ends of latus rectum is (a) 20 sq. units (b)18 sq. units (d)19 sq. units (c)17 sq. units (2014)",
   "year": 2014,
@@ -4079,7 +4271,7 @@
   "chapter": "Conic Sections",
   "number": 80,
   "page": 74,
-  "seq": 295,
+  "seq": 296,
   "answer": "D",
   "stemText": "80. The length of latus rectum of the parabola 4y2 + 3x + 3y + 1 = 0 is 3 4- (c) 12 (b) 7 (d) (a) 4 3 (2016)",
   "year": 2016,
@@ -4088,7 +4280,13 @@
    "w": 752,
    "h": 219
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0074-q080-s.png",
+    "w": 668,
+    "h": 422
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4097,7 +4295,7 @@
   "chapter": "Conic Sections",
   "number": 81,
   "page": 74,
-  "seq": 296,
+  "seq": 297,
   "answer": "B",
   "stemText": "81. If x = 2 + 3 cos θ and y= 1 - 3 sin 0 represent a circle then the centre and radius is (b) (2, 1), 3 (a)(2, 1), 9 (d) (-2, -1), 3 3 (2016)",
   "year": 2016,
@@ -4106,7 +4304,13 @@
    "w": 752,
    "h": 281
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c09-p0074-q081-s.png",
+    "w": 668,
+    "h": 323
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4115,7 +4319,7 @@
   "chapter": "Conic Sections",
   "number": 82,
   "page": 74,
-  "seq": 297,
+  "seq": 298,
   "answer": "A",
   "stemText": "X 82. The eccentricity of the ellipse =1 is 16 36 2√13 2√5 (b) (a) 4 6 2√5 2√13 (d) (2017) (c) 6 4",
   "year": 2017,
@@ -4139,7 +4343,7 @@
   "chapter": "Conic Sections",
   "number": 83,
   "page": 74,
-  "seq": 298,
+  "seq": 299,
   "answer": "A",
   "stemText": "83.The distance between the focii of a hyperbola is 16 and its eccentricity is 2. Its equation is x (a) x2 -y2 = 32 (b) 4 9 (d) y2 -x2 = 32 (c) 2x2 - 3y2 = 7 (2018)",
   "year": 2018,
@@ -4157,7 +4361,7 @@
   "chapter": "Conic Sections",
   "number": 84,
   "page": 74,
-  "seq": 299,
+  "seq": 300,
   "answer": "A",
   "stemText": "84. The eccentricity of the ellipse 9x2 + 25y2 = 225 is 4 3- (a) (b) 5 4 9 3 (d) (2019) (c) 5 16",
   "year": 2019,
@@ -4181,7 +4385,7 @@
   "chapter": "Conic Sections",
   "number": 85,
   "page": 74,
-  "seq": 300,
+  "seq": 301,
   "answer": "A",
   "stemText": "85. If the parabola x2 = 4ay passes through the point (2, 1), then the length of the latus rectum is (b) 2 (a) 4 (2020) (d) 1 (c) 8",
   "year": 2020,
@@ -4205,7 +4409,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 1,
   "page": 115,
-  "seq": 422,
+  "seq": 423,
   "answer": "B",
   "stemText": "Which one of the following is not true 1. always? (a) if f(x) is not continuous at x = a, then it is not differentiable at x = a (b) if f(x) is continuous at x = a, then it is differentiable at x = a (c) if f(x) and g(x) are differentiable at x = a, then f(x) + g(x) is also differentiable at D=x (d) if a function f(x) is continuous at x = a, (2006) then lim f(x) exists x-→a 1 1 +... to ∞ with |x| > 1 If y=1+ x x X dy then dx 2 X (b) x2y a (2006) (d) (c)",
   "year": 2006,
@@ -4214,7 +4418,13 @@
    "w": 706,
    "h": 856
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0115-q001-s.png",
+    "w": 707,
+    "h": 213
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4223,7 +4433,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 3,
   "page": 115,
-  "seq": 423,
+  "seq": 424,
   "answer": "A",
   "stemText": "3. If f(x) and g(x) are two functions with 1 1 g(x)=x - ~ and fog(x)= x3 ,thenf\"(x)= x x 1 (a) 3x2 + 3 (b) 2 x 1 3 (c) 1+ (2006) (d) x The derivative of asecx w.r.t. atanx (a > 0) is",
   "year": 2006,
@@ -4232,7 +4442,13 @@
    "w": 706,
    "h": 329
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0115-q003-s.png",
+    "w": 707,
+    "h": 681
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4241,7 +4457,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 4,
   "page": 115,
-  "seq": 424,
+  "seq": 425,
   "answer": "B",
   "stemText": "4. (a) secx asecx - tanx tanx-secx (b) sinxa qasecx - tanx sinx asecr- tanx (2006) (d) (c) If sin(x + y) + cos(x + y) = log(x + y), then",
   "year": 2006,
@@ -4259,7 +4475,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 5,
   "page": 115,
-  "seq": 425,
+  "seq": 426,
   "answer": "B",
   "stemText": "5. d2 dx2 (b) 0 (a) -y/x (2006) (d) 1 (c) -1",
   "year": 2006,
@@ -4268,7 +4484,13 @@
    "w": 706,
    "h": 281
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0115-q005-s.png",
+    "w": 673,
+    "h": 320
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4277,7 +4499,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 6,
   "page": 115,
-  "seq": 426,
+  "seq": 427,
   "answer": "C",
   "stemText": "6. and g(x) = [f(x)]2 + [f'(x)]2 and g(3) = 3 then g(8) = (b) 0 (a) 5 (2006) (c) 3 (d) 8 dy If y = 2logx, then",
   "year": 2006,
@@ -4286,7 +4508,13 @@
    "w": 699,
    "h": 218
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0115-q006-s.png",
+    "w": 673,
+    "h": 279
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4295,7 +4523,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 7,
   "page": 115,
-  "seq": 427,
+  "seq": 428,
   "answer": "D",
   "stemText": "is 7. dx 2logx (b)2logx.log2 (a) log2 2log x 2logx .1og2 (d) (c) (2007) x x dy",
   "year": 2007,
@@ -4313,7 +4541,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 8,
   "page": 115,
-  "seq": 428,
+  "seq": 429,
   "answer": "A",
   "stemText": "a, then If sec 8. is dx y+1 -1 (a) (b) x-1 x+1 x-1 x-1 (2007) (d) (c) y+1 y-1 d2 23x 3x",
   "year": 2007,
@@ -4322,7 +4550,13 @@
    "w": 699,
    "h": 293
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0115-q008-s.png",
+    "w": 711,
+    "h": 380
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4331,7 +4565,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 9,
   "page": 115,
-  "seq": 429,
+  "seq": 430,
   "answer": "C",
   "stemText": "then 9. If y =cos sin is dx2 2 2 (a)-3√1-y2 (b) 9y 3√1-y2 (2007) (c) -9y (d) [1--cosx for x ≠0",
   "year": 2007,
@@ -4340,7 +4574,13 @@
    "w": 699,
    "h": 244
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0115-q009-s.png",
+    "w": 711,
+    "h": 556
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -4349,7 +4589,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 10,
   "page": 115,
-  "seq": 430,
+  "seq": 431,
   "answer": "C",
   "stemText": "x2 10. If the function f(x)= 0=x 101 k is continuous at x = 0, then the value of k is (b) 0 (a) 1 1 (2007) (d) -1 (c) 2 dy",
   "year": 2007,
@@ -4373,7 +4613,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 11,
   "page": 115,
-  "seq": 431,
+  "seq": 432,
   "answer": "D",
   "stemText": "11. If x* = y\", then S dx (a) - X (b) y x 1+logx (c) 1+log x (2007) (d) 1+logy",
   "year": 2007,
@@ -4397,7 +4637,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 13,
   "page": 116,
-  "seq": 432,
+  "seq": 433,
   "answer": "A",
   "stemText": "13. The derivative of sin(x*) w.r.t. cos(x) is (b) cot(x”) (a) - cot(x) (c) - tan(x) (d) tan(x) (2008)",
   "year": 2008,
@@ -4415,7 +4655,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 14,
   "page": 116,
-  "seq": 433,
+  "seq": 434,
   "answer": "A",
   "stemText": "14. If f(x) = beax + aebx, then f\"(0) = (b) ab (a) ab(a + b) (2008) (d)2ab (c) 0",
   "year": 2008,
@@ -4439,7 +4679,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 15,
   "page": 116,
-  "seq": 434,
+  "seq": 435,
   "answer": "C",
   "stemText": "15. Iff(x) = 5x”, then f'(x) = 3 5/x (b) (a) x 3 3 (d) (2008) (c)",
   "year": 2008,
@@ -4463,7 +4703,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 16,
   "page": 116,
-  "seq": 435,
+  "seq": 436,
   "answer": "D",
   "stemText": "16. f(x)=2a -xin-a<x<a = 3x - 2a in a ≤x. Then which of the following is true? (a) f(x) is differentiable at all x ≥ a (b) f(x) is continuous at all x <a (c) f(x) is discontinuous at x = a (d) f(x) is not differentiable at x = a (2008, 2013) log(1+ax)-log(1-bx)",
   "year": 0,
@@ -4487,7 +4727,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 17,
   "page": 116,
-  "seq": 436,
+  "seq": 437,
   "answer": "D",
   "stemText": "17. The function f(x)= x is not defined at x = 0. The value which should be assigned to ^f' at x = 0 so that it is continuous at x = 0 is (b) (a) log a + log b 0 (2009) (d) a+b (c) a-b",
   "year": 2009,
@@ -4511,7 +4751,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 18,
   "page": 116,
-  "seq": 437,
+  "seq": 438,
   "answer": "A",
   "stemText": "18. Iff(x) = n(n-1)2,n(n-1)(n-2) x3+...+xn, 1+nx+ 6 2 then f\"(1) = (a) n(n - 1)2n-2 (b) n(n - 1)2\" (c) n(n - 1)2n-1 (d) (n - 1)2n-1 (2009)",
   "year": 2009,
@@ -4535,7 +4775,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 19,
   "page": 116,
-  "seq": 438,
+  "seq": 439,
   "answer": "A",
   "stemText": "19. If f(x) = logx2(logex), then f'(x) at x = e is (b) 0 (a) 1/2e (2009) (c) 1 (d) 1/e dy",
   "year": 2009,
@@ -4559,7 +4799,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 20,
   "page": 116,
-  "seq": 439,
+  "seq": 440,
   "answer": "B",
   "stemText": "20. If y = sin^ xcosnx, then 1S dx nsin\"- x cos nx (a) )nsin\"- 1x cos(n + 1)x (b) x(I + u)uis x -uuis u (c) (d) nsin\"- 1x cos(n - 1)x (2009)",
   "year": 2009,
@@ -4583,7 +4823,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 22,
   "page": 116,
-  "seq": 440,
+  "seq": 441,
   "answer": "C",
   "stemText": "22. The function f(x) = |x - 2]+ x is (a) differentiable at x = 2 but not at x = 0 (b) differentiable at both x = 2 and x = 0 (c) continuous at both x = 2 and x = 0 continuous at x = 2 but not at x = 0 (d) (2010)",
   "year": 2010,
@@ -4607,7 +4847,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 23,
   "page": 116,
-  "seq": 441,
+  "seq": 442,
   "answer": "B",
   "stemText": "23. The function f(x) = [x], where [x] denotes the greatest integer not greater than x, is (a) continuous only at positive integral values of x continuous for all non-integral values of x (b) continuous only at rational values of x (c) ) continuous for all real values of x (d) (2010)",
   "year": 2010,
@@ -4631,7 +4871,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 24,
   "page": 116,
-  "seq": 442,
+  "seq": 443,
   "answer": "D",
   "stemText": "24. If the three functions f(x), g(x) and h(x) are such that h(x) = f(x)·g(x) and f'(x)·g’(x) = c, where c is a constant, then f\"(x)+g\"(x) 2c is equal to f(x) f(x)·g(x) g(x) h(x) (a) (b)h’(x).h\"(x) h\"(x) h\"(x) h(x) (d) (2010) (c) h'(x) h(x)",
   "year": 2010,
@@ -4649,7 +4889,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 25,
   "page": 116,
-  "seq": 443,
+  "seq": 444,
   "answer": "B",
   "stemText": "25. The derivative of e* cosbx with respect to x is 91- When a > 0, b > 0, the reax COS bx+tan a value of r is 1 √a2 +b2 (b) (a) √ab (d) ab (2010) (c) a+b",
   "year": 2010,
@@ -4667,7 +4907,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 26,
   "page": 116,
-  "seq": 444,
+  "seq": 445,
   "answer": "C",
   "stemText": "26. Ifx= a cos\"θ and y =a sin?θ, then dy dx x (b) (a) X 3y (2010) (c) (d) d2y.dy",
   "year": 2010,
@@ -4691,7 +4931,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 28,
   "page": 117,
-  "seq": 445,
+  "seq": 446,
   "answer": "C",
   "stemText": "28.If f(x)=x-1 is continuous at x = 1, kifx=1 then thevalue of kis (b) - 1 (a) 0 (d) e (c) 1 (2011)",
   "year": 2011,
@@ -4715,7 +4955,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 29,
   "page": 117,
-  "seq": 446,
+  "seq": 447,
   "answer": "D",
   "stemText": "e cota where a and α are real numbers, 29. If √r =ae d2r -4rcot2 α is then do2 1 (a) r (b) r (c) 1 (2011) (d) 0 sinx",
   "year": 2011,
@@ -4733,7 +4973,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 30,
   "page": 117,
-  "seq": 447,
+  "seq": 448,
   "answer": "B",
   "stemText": "-1 30. The derivative tan with of 1+cosx cOSX respect to tan is 1+sinx (a) 2 (b) -1 (c)( (2011) (d) -2 0 d",
   "year": 2011,
@@ -4757,7 +4997,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 31,
   "page": 117,
-  "seq": 448,
+  "seq": 449,
   "answer": "A",
   "stemText": "2+x 31. is COS cot dx 1 1 (a) (b) 2 4 -1 -3 (c) (d) (2011) 2 4",
   "year": 2011,
@@ -4781,7 +5021,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 32,
   "page": 117,
-  "seq": 449,
+  "seq": 450,
   "answer": "B",
   "stemText": "32. If cos then (a)xy =n√/b2 -y2 (b)xy+n√b2-y2 =0 (c) y=x√b2-y2 (d) xy-√b2-y2 (2011)",
   "year": 2011,
@@ -4799,7 +5039,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 33,
   "page": 117,
-  "seq": 450,
+  "seq": 451,
   "answer": "B",
   "stemText": "33. If y = sinx sin2x · sin3x .... · sin nx, then y' is n n (b)y·∑k cotkx ∑k tankx (a) k=1 k=1 n n (c) y·∑k tankn ∑cotkx (d) (2011) k=1 k=1",
   "year": 2011,
@@ -4823,7 +5063,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 34,
   "page": 117,
-  "seq": 451,
+  "seq": 452,
   "answer": "C",
   "stemText": "34.If f(x)= x-2 x=2 2 is continuous at x = 2, then the value of a is (a) -1 (b) -6 (c) 0 (d) 1 (2012)",
   "year": 2012,
@@ -4847,7 +5087,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 37,
   "page": 117,
-  "seq": 452,
+  "seq": 453,
   "answer": "B",
   "stemText": "37. If f(x) is an even function, then f'(x) is (a) nothing can be said (b) an odd function (c) an even function (d) may be even or may be odd (2012) 1",
   "year": 2012,
@@ -4871,7 +5111,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 38,
   "page": 117,
-  "seq": 453,
+  "seq": 454,
   "answer": "A",
   "stemText": "38. If y=tan +tan (1+x+x2 x2+3x+3 I + ....n terms, +tan x2+5x+7 then y' (0) is n2 (b) (a): 1+n2 2 2n (c) (d) (2012) 1+n2 1+n2 ,then f(y) =",
   "year": 2012,
@@ -4895,7 +5135,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 39,
   "page": 117,
-  "seq": 454,
+  "seq": 455,
   "answer": "B",
   "stemText": "dy 39. Ifx+ y= tan-ryand dx2 dx -2 2 (a) (b) 3 y 二 1— (c) (d) (2013) y y",
   "year": 2013,
@@ -4913,7 +5153,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 40,
   "page": 117,
-  "seq": 455,
+  "seq": 456,
   "answer": "B",
   "stemText": "40. Let f(x) = cos (2cosx-3sinx) [√13 Then f'(0.5) = (a) 0.5 (b) 1 (c) 0 (d) -1 (2013)",
   "year": 2013,
@@ -4931,7 +5171,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 42,
   "page": 118,
-  "seq": 456,
+  "seq": 457,
   "answer": "A",
   "stemText": "42. Iff(x) =f'(x) + f\"(x) + f\"\"(x) + .... ... and f(0) = 1, then f(x) = (b) ex e2 (a) (c) e2r (d) e&x (2013) ifxis irrational",
   "year": 2013,
@@ -4955,7 +5195,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 43,
   "page": 118,
-  "seq": 457,
+  "seq": 458,
   "answer": "C",
   "stemText": "43.Let f(x)= then f is ifxisrational 0, )continuous everywhere (a) discontinuous everywhere (b) (c) continuous only at x = 0 (d) continuous at all rational numbers (2013)",
   "year": 2013,
@@ -4979,7 +5219,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 44,
   "page": 118,
-  "seq": 458,
+  "seq": 459,
   "answer": "C",
   "stemText": "44. If y = (tan-x), then (x2 + 1)y + 2x(x2 + 1)y is equal to (a) 4 (b) 0 (c) 2 (d) 1 (2014)",
   "year": 2014,
@@ -5003,7 +5243,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 45,
   "page": 118,
-  "seq": 459,
+  "seq": 460,
   "answer": "D",
   "stemText": "45. If f(x) = x2 and g(x) = x2 - 4x in -2 ≤x ≤ 2, then consider the statements : (i) f(x) and g(x) satisfy mean value theorem. (ii) f(x) and g(x) both satisfy Rolle's theorem. (ii) Only g(x) satisfies Rolle's theorem. Of these statements (a) (i) and (ii) are correct (b) (i) alone is correct (c) None is correct (d) (i) and (ii) are correct (2014)",
   "year": 2014,
@@ -5021,7 +5261,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 46,
   "page": 118,
-  "seq": 460,
+  "seq": 461,
   "answer": "A",
   "stemText": "46. The function represented by the following graph is >X 0 2 1 (a) Continuous but not differentiable at x=1 (b)Differentiable but not continuous at x=1 Continuous and differentiable at x = 1 (c) (d) Neither continuous nor differentiable at x=1 (2014)",
   "year": 2014,
@@ -5045,7 +5285,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 47,
   "page": 118,
-  "seq": 461,
+  "seq": 462,
   "answer": "B",
   "stemText": "47. If f(x)= 5x is continuous at 2K x=0 x = O, then the value of K is 3π 3π 3π π (b) (d) (a) (c) 5 2 10 10 (2014) 3x-8, ifx≤5",
   "year": 2014,
@@ -5069,7 +5309,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 48,
   "page": 118,
-  "seq": 462,
+  "seq": 463,
   "answer": "B",
   "stemText": "48. fx)= is continuous, find k. 2k, ifx>5 2 4 3 7 (c) (d) (b) (a) |7 -2 7 7 (2015)",
   "year": 2015,
@@ -5078,7 +5318,13 @@
    "w": 761,
    "h": 215
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0118-q048-s.png",
+    "w": 711,
+    "h": 339
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5087,7 +5333,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 49,
   "page": 118,
-  "seq": 463,
+  "seq": 464,
   "answer": "B",
   "stemText": "49. The function f(x) = [x], where [x] denotes greatest integer function is continuous at (a) -2 (b)1.5 (c) 4 (d) 1 (2015, 2016) dy",
   "year": 0,
@@ -5105,7 +5351,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 50,
   "page": 118,
-  "seq": 464,
+  "seq": 465,
   "answer": "C",
   "stemText": "50. If y=log is equal to then xp -4x3 4x (b) (a) 1-x4 1-x 4 -4x 1 (c) (d) (2015) 4-x 4 1-x dy",
   "year": 2015,
@@ -5129,7 +5375,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 54,
   "page": 119,
-  "seq": 465,
+  "seq": 466,
   "answer": "D",
   "stemText": "54. Ifxmy = (x+ y)m+n then is equal to dx x+y (a) (b) xy xy y (c) 0 (d) (2016) x",
   "year": 2016,
@@ -5153,7 +5399,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 55,
   "page": 119,
-  "seq": 466,
+  "seq": 467,
   "answer": "B",
   "stemText": "55. The differential coeffcient of logiox with respect to logx10 is (b) -(log1ox)2 (a) 1 x2 (c)(logx10)2 (d) (2016) 100 dy",
   "year": 2016,
@@ -5162,7 +5408,13 @@
    "w": 705,
    "h": 259
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0119-q055-s.png",
+    "w": 716,
+    "h": 307
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5171,7 +5423,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 56,
   "page": 119,
-  "seq": 467,
+  "seq": 468,
   "answer": "A",
   "stemText": "is equal to 56. If tan-'(x2 + y”) = u then dx 二x (b) xy (a) y x (d) -xy (c) (2016) y",
   "year": 2016,
@@ -5195,7 +5447,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 57,
   "page": 119,
-  "seq": 468,
+  "seq": 469,
   "answer": "D",
   "stemText": "57. The value of C in mean value theorem for the function f(x) = x2 in [2, 4] is (b) 4 (a) 2 7 (c) (d) 3 (2017) 2 dy sinx+cosx",
   "year": 2017,
@@ -5219,7 +5471,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 58,
   "page": 119,
-  "seq": 469,
+  "seq": 470,
   "answer": "D",
   "stemText": "then 58.If y=tan is dx cosx-sinx equal to 1 π (b) (c) (d) 1 (a) 0 一 4 2 (2017)",
   "year": 2017,
@@ -5237,7 +5489,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 59,
   "page": 119,
-  "seq": 470,
+  "seq": 471,
   "answer": "A",
   "stemText": "59. The derivative of cos-′(2x2 - 1) w.r.t. cos- x is 2- (b) (a) 2 x -1 (c) 1- x2 (d) 2V1-x2 (2017)",
   "year": 2017,
@@ -5261,7 +5513,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 60,
   "page": 119,
-  "seq": 471,
+  "seq": 472,
   "answer": "B",
   "stemText": "is equal to 60. If y = log (log x), then dx2 -(1+logx) (1 + log x) (a) (b) x2 log x (xlogx)2 -(1+logx) (1+ logx) (c) (d) x21ogx (xlogx)2 (2017)",
   "year": 2017,
@@ -5270,7 +5522,37 @@
    "w": 705,
    "h": 355
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0119-q060-s.png",
+    "w": 740,
+    "h": 177
+   }
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "subject": "Mathematics",
+  "source": "mtg-maths",
+  "chapter": "Continuity and Differentiability",
+  "number": 62,
+  "page": 119,
+  "seq": 473,
+  "answer": "B",
+  "stemText": "is continuous at 62. If f(x)= 3 ifx>2 x = 2, then the value of K is 3 4 (b) (a) 一 3 4 (2017) (c) 3 (d) 4 dy 2t 2t",
+  "year": 2017,
+  "image": {
+   "src": "mtg-maths/mtg-maths-c15-p0119-q062.png",
+   "w": 669,
+   "h": 284
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0119-q062-s.png",
+    "w": 740,
+    "h": 480
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5279,7 +5561,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 63,
   "page": 119,
-  "seq": 472,
+  "seq": 474,
   "answer": "A",
   "stemText": "then 63. If sinx = is tan y = 1+t2 1-t2 dx equal to (a) 1 (b) -1 (2017) (c) 2 (d) 0 1",
   "year": 2017,
@@ -5297,7 +5579,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 64,
   "page": 119,
-  "seq": 473,
+  "seq": 475,
   "answer": "B",
   "stemText": "64. Let f(x)= x --,then f'(-1) is x (b) 2 (a) 0 (2018) (d) -2 (c) 1",
   "year": 2018,
@@ -5306,7 +5588,13 @@
    "w": 669,
    "h": 148
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c15-p0119-q064-s.png",
+    "w": 740,
+    "h": 252
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5315,7 +5603,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 65,
   "page": 119,
-  "seq": 474,
+  "seq": 476,
   "answer": "B",
   "stemText": "65. If √1+kx-√1-kx if 0>x>- x f(x)= 2x+1 I>x0 if x-1 is continuous at x = 0, then the value of k is (b) -1 (a) 1 (d) 2 (c) 0 (2018)",
   "year": 2018,
@@ -5339,7 +5627,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 66,
   "page": 120,
-  "seq": 475,
+  "seq": 477,
   "answer": "B",
   "stemText": "66. If cosy = xcos(a + y) with cosa ≠ ±1, then xp is equal to cos2(a+ y) sina (b) (a) cos2(a+ y) sina cos2(a+ y) cosa (d) (c) sin2(a+ y) cosa (2018)",
   "year": 2018,
@@ -5363,7 +5651,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 67,
   "page": 120,
-  "seq": 476,
+  "seq": 478,
   "answer": "A",
   "stemText": "67. If f(x) = ↓cosx - sinxl, then f'(π/6) is equal to 1 --(1+√3) (b) (a) 2 2 1 1 =(1-√3) ÷(1-√3) (c) (d) 2 2 (2018) dy",
   "year": 2018,
@@ -5387,7 +5675,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 68,
   "page": 120,
-  "seq": 477,
+  "seq": 479,
   "answer": "D",
   "stemText": "68.If y=√x+√x+√x+...∞,then dx 1 1 (b) (a) y2-1 2y+1 1 2y (c) (d) (2018) y2-1 2y-1 [loge x ; x≠1",
   "year": 2018,
@@ -5411,7 +5699,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 69,
   "page": 120,
-  "seq": 478,
+  "seq": 480,
   "answer": "B",
   "stemText": "69. If f(x)={ is x-1 k ; x=1 continuous at x = 1, then the value of k is (a) e (b) 1 (c) -1 (2018) (d) sin3x ;x≠0 e2x-1",
   "year": 2018,
@@ -5435,7 +5723,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 71,
   "page": 120,
-  "seq": 479,
+  "seq": 481,
   "answer": "C",
   "stemText": ", then f'(0) = 71. If f(x) = sin 1+4x 2log2 (b) (a) 2 log 2 5 4log2 (c) log 2 (2019) (d) 5 d2y",
   "year": 2019,
@@ -5459,7 +5747,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 72,
   "page": 120,
-  "seq": 480,
+  "seq": 482,
   "answer": "B",
   "stemText": "72. If x = a sec20, y = a tan20, then dx2 (b) 0 (a) 2a (c) 1 (d) (2019) 4",
   "year": 2019,
@@ -5477,7 +5765,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 73,
   "page": 120,
-  "seq": 481,
+  "seq": 483,
   "answer": "D",
   "stemText": "73. If 3y√x =(x+ y)5 , then dx (a) xly (b) x-y (c) x+y (d) y/x (2019)",
   "year": 2019,
@@ -5501,7 +5789,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 74,
   "page": 120,
-  "seq": 482,
+  "seq": 484,
   "answer": "B",
   "stemText": "74. Rolle's theorem is not applicable in which one of the following cases? (a) f(x) =x2 - 4x+ 5 in [1,3] (b) f(x) = [x| in [- 2, 2] (c) f(x) = x2 - xin [0, 1] (2019) (d) f(x) = [x] in [2.5, 2.7] [1- cos Kx ,if x≠0 x sin x",
   "year": 2019,
@@ -5525,7 +5813,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 75,
   "page": 120,
-  "seq": 483,
+  "seq": 485,
   "answer": "C",
   "stemText": "75. If f(x)=< is 1 ,if x=0 [2 continuous at x = O, then the value of K is 1 (d) ± (c) ±1 (a) 0 (b) ±2 一 2 (2020)",
   "year": 2020,
@@ -5549,7 +5837,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 76,
   "page": 120,
-  "seq": 484,
+  "seq": 486,
   "answer": "A",
   "stemText": "2x 76. If f(x)=sin-1 then f'(V3) is 1+x2 1 1 1 1 (b) (a) (d) (c) √3 √3 2 2 (2020) dy is",
   "year": 2020,
@@ -5573,7 +5861,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 77,
   "page": 120,
-  "seq": 485,
+  "seq": 487,
   "answer": "A",
   "stemText": "77. If 2*+ 2\" = 2x+y, then dx (a)-2y-x (b) 2x-y 2y-1 (d) 2y-x (c) (2020) 2* -1 dy",
   "year": 2020,
@@ -5591,7 +5879,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 78,
   "page": 120,
-  "seq": 486,
+  "seq": 488,
   "answer": "D",
   "stemText": "78. If (xe)' = e*, then is dx log x 1 (a) (b) (1 + log x) (1+logx)2 log x ex (c) (d) (1+ log x)2 x(y -1) (2020)",
   "year": 2020,
@@ -5615,7 +5903,7 @@
   "chapter": "Continuity and Differentiability",
   "number": 79,
   "page": 120,
-  "seq": 487,
+  "seq": 489,
   "answer": "A",
   "stemText": "79. If y=2xn+1 + 3 is dx2 dy (a) n(n + 1)y (b) +y x xp (c) y (d) 6n(n + 1)y (2020)",
   "year": 2020,
@@ -5639,7 +5927,7 @@
   "chapter": "Determinants",
   "number": 7,
   "page": 95,
-  "seq": 341,
+  "seq": 342,
   "answer": "C",
   "stemText": "IfA= 7. , then A· adj (A) is equal 2 0 -3 3 -2 4 to 5 T 0 5 0 (a) (b) 5 1 0 5 0 1 1 1 5 0 0 5 0 0 0 (c) (d) 0 8 0 0 0 0 0 0 8 0 0 0 (2007) x p h",
   "year": 2007,
@@ -5648,7 +5936,13 @@
    "w": 711,
    "h": 590
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0095-q007-s.png",
+    "w": 767,
+    "h": 880
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5657,7 +5951,7 @@
   "chapter": "Determinants",
   "number": 14,
   "page": 96,
-  "seq": 347,
+  "seq": 348,
   "answer": "C",
   "stemText": "logy 2 14. The value of |logy x 1 logz y logz x 1 (b) log xyz (a)xyz (2009) (d) 1 (c) 0 2 0 1 then |adj A|=",
   "year": 2009,
@@ -5681,7 +5975,7 @@
   "chapter": "Determinants",
   "number": 35,
   "page": 97,
-  "seq": 365,
+  "seq": 366,
   "answer": "D",
   "stemText": "35. If the determinant of the adjoint of a (real) matrix of order 3 is 25, then the determinant of the inverse of the matrix is 1 (a) 0.2 (b)±5 (c) (d) ±0.2 625 (2013) 3 2",
   "year": 2013,
@@ -5705,7 +5999,7 @@
   "chapter": "Determinants",
   "number": 40,
   "page": 98,
-  "seq": 369,
+  "seq": 370,
   "answer": "C",
   "stemText": "Consider the following statements : 40. (i) If any two rows or columns of a determinant are identical, then the value of the determinant is zero. (ii) If the corresponding rows and columns of a determinant are interchanged, then the value of the determinant does not change. (iii)If any two rows (or columns) of a determinant are interchanged, then the value of the determinant changes in sign. Which of these are correct? (b) (i) and (i) (a) (i) and (ii) (c) (i), (ii) and (i) (d) (ii) and (ii) (2014) 07 2 0",
   "year": 2014,
@@ -5729,7 +6023,7 @@
   "chapter": "Determinants",
   "number": 41,
   "page": 98,
-  "seq": 370,
+  "seq": 371,
   "answer": "D",
   "stemText": "41. The inverse of the matrix A = 3 0 0 is 0 0 4 2 0 0 0 1 (b) 0 3 0 3 0 0 (a) 24 0 0 4 0 0 4 0 0 2 0 1 1 (d) 0 (c) 1 0 0 0 24 3 0 0 1 1 0 0 4 (2014)",
   "year": 2014,
@@ -5753,7 +6047,7 @@
   "chapter": "Determinants",
   "number": 43,
   "page": 98,
-  "seq": 371,
+  "seq": 372,
   "answer": "A",
   "stemText": "43. The system of linear equations x + y + z = 6, ou se q = 2D + z + x pue 01 = z + Kz + x solution when (b) b = 3,a ≠ 10 (a) a = 3, b ≠ 10 (d) b = 2,a = 3 (c) a = 2, b ≠ 3 (2015) 0 1",
   "year": 2015,
@@ -5777,7 +6071,7 @@
   "chapter": "Determinants",
   "number": 65,
   "page": 100,
-  "seq": 391,
+  "seq": 392,
   "answer": "D",
   "stemText": "65. Ifx, y, zE R, then the value ofthe determinant (5-5-x)2 (5*+5-*)2 A=1(6+6-)2 (6-6-x)2 1 is (7-7-×)2 (7+7-x)2 (c) 1 (b) 12 (d) 0 (a) 10 (2018) la-b b+c a",
   "year": 2018,
@@ -5801,7 +6095,7 @@
   "chapter": "Determinants",
   "number": 69,
   "page": 100,
-  "seq": 393,
+  "seq": 394,
   "answer": "B",
   "stemText": "is 69.The inverse of the matrix 0 1 3 -1 0 5 [ 3 -15 L 3 -1 1 (b) -2 (a) -1 -5 6 -15 6 -5 2 1 5 -2 2 5 厂 -15 3 3 -5 5 (d) -1 -2 6 (c) -2 -1 -6 -5 -2 1 -5 2 1 (2019)",
   "year": 2019,
@@ -5825,7 +6119,7 @@
   "chapter": "Differential Equations",
   "number": 1,
   "page": 159,
-  "seq": 614,
+  "seq": 616,
   "answer": "A",
   "stemText": "1. The solution of the differential equation e-x(y + 1)dy + (cos2x - sin 2x)y(dx) = 0 subjected to the condition that y = 1 when x = 0 is (a) y + logy + e* cos2x = 2 (b) log(y + 1) + e* cos2x = 1 (c) y + logy = ex cos2x (2006) (d) (y + 1) + e* cos2x = 2. The differential equation of the family of straight",
   "year": 2006,
@@ -5843,7 +6137,7 @@
   "chapter": "Differential Equations",
   "number": 2,
   "page": 159,
-  "seq": 615,
+  "seq": 617,
   "answer": "A",
   "stemText": "2. lines whose slope is equal to y-intercept is dy -y=0 (b) (x+1) +y=0 xp dx dy x-1 dy x+1 (c) (d) dx y-1 y+1 dx (2007)",
   "year": 2007,
@@ -5852,7 +6146,13 @@
    "w": 711,
    "h": 332
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0159-q002-s.png",
+    "w": 717,
+    "h": 369
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5861,7 +6161,7 @@
   "chapter": "Differential Equations",
   "number": 3,
   "page": 159,
-  "seq": 616,
+  "seq": 618,
   "answer": "D",
   "stemText": "3. The order and degree of the differential dy equation are respectively 1+ dx2 xp (a) 1,5 (b) 2,1 (d) 2, 3 (c) 2,5 (2007) dy",
   "year": 2007,
@@ -5885,7 +6185,7 @@
   "chapter": "Differential Equations",
   "number": 4,
   "page": 159,
-  "seq": 617,
+  "seq": 619,
   "answer": "B",
   "stemText": "4. The differential equation y. + x = C represents dx (a) a family of parabolas (b) a family of circles whose centres are on thex-axis (c) a family of hyperbolas (d) a family of circles whose centres are on the y-axis (2008)",
   "year": 2008,
@@ -5894,7 +6194,13 @@
    "w": 711,
    "h": 289
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0159-q004-s.png",
+    "w": 709,
+    "h": 540
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5903,7 +6209,7 @@
   "chapter": "Differential Equations",
   "number": 5,
   "page": 159,
-  "seq": 618,
+  "seq": 620,
   "answer": "C",
   "stemText": "5. The differential equation of the family of circles passing through the origin and having their centres on the x-axis is dy dy x2 = y2 + 3xy (a) x2 =y2 +xy (b) dx dx dy dy (d) y2=x2 -2xy dx (2009)",
   "year": 2009,
@@ -5912,7 +6218,13 @@
    "w": 711,
    "h": 377
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0159-q005-s.png",
+    "w": 709,
+    "h": 735
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5921,7 +6233,7 @@
   "chapter": "Differential Equations",
   "number": 6,
   "page": 159,
-  "seq": 619,
+  "seq": 621,
   "answer": "D",
   "stemText": "6. A population grows at the rate of 10% of the population per year. How long does it take for the population to double ? (a) 5 log 2 years (b) 2 log 10 years (c) 20 log 2 years (d) 10 log 2 years (2009)",
   "year": 2009,
@@ -5930,7 +6242,13 @@
    "w": 703,
    "h": 242
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0159-q006-s.png",
+    "w": 709,
+    "h": 636
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5939,7 +6257,7 @@
   "chapter": "Differential Equations",
   "number": 7,
   "page": 159,
-  "seq": 620,
+  "seq": 622,
   "answer": "B",
   "stemText": "The order and degree of the differential 7. dp D equation y = √a2p2+b2where b dx (here a and b are arbitrary constants) respectively are (a) 1, 1 (b) 2,2 (c) 2, 1 (d) 1, 2 (2010)",
   "year": 2010,
@@ -5948,7 +6266,13 @@
    "w": 703,
    "h": 284
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0159-q007-s.png",
+    "w": 735,
+    "h": 384
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5957,7 +6281,7 @@
   "chapter": "Differential Equations",
   "number": 8,
   "page": 159,
-  "seq": 621,
+  "seq": 623,
   "answer": "D",
   "stemText": "The general solution of the differential 8. dy - y = 3 is a family of equation2x- dx (a) parabolas (b) hyperbolas (c) circles (d) straight lines (2010)",
   "year": 2010,
@@ -5966,7 +6290,13 @@
    "w": 703,
    "h": 245
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0159-q008-s.png",
+    "w": 735,
+    "h": 320
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5975,7 +6305,7 @@
   "chapter": "Differential Equations",
   "number": 9,
   "page": 159,
-  "seq": 622,
+  "seq": 624,
   "answer": "C",
   "stemText": "9. If m and n are degree and order of $! u+u Joane u uoy ezh = /z(a + I) m-n (a) 3 (b) 4 (c) 5 (d) 2 (2011)",
   "year": 2011,
@@ -5984,7 +6314,13 @@
    "w": 703,
    "h": 212
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0159-q009-s.png",
+    "w": 735,
+    "h": 197
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -5993,7 +6329,7 @@
   "chapter": "Differential Equations",
   "number": 10,
   "page": 159,
-  "seq": 623,
+  "seq": 625,
   "answer": "A",
   "stemText": "10. The general solution of dy is dx (a) 2sin-y=x√1-x2+sin-x+c (b) cos-ly = xcos-x + c 1 =sin-lx+c (c) sin 2 (d) 2sin- y=x√1-y2 +c (2011) dy",
   "year": 2011,
@@ -6017,7 +6353,7 @@
   "chapter": "Differential Equations",
   "number": 11,
   "page": 159,
-  "seq": 624,
+  "seq": 626,
   "answer": "A",
   "stemText": "11. Solution of edx = x when x = 1 and y = 0 is (a) y = x(logx - 1) + 1 (b) y = x(logx - 1) + 4 (c) y = x(logx - 1) + 3 (2012) (d) y = x(logx + 1) + 1",
   "year": 2012,
@@ -6041,7 +6377,7 @@
   "chapter": "Differential Equations",
   "number": 13,
   "page": 160,
-  "seq": 625,
+  "seq": 627,
   "answer": "D",
   "stemText": "are the order and 13. If ‘m' and 'n' degree of the differential equation (y\")5 + 4 + y\"= sinx, then y\" (b) m = 3, n = 1 m=3,n=5 (a) 1 (d) m =3,n = 2 (c) m = 3, n = 3 (2013)",
   "year": 2013,
@@ -6065,7 +6401,7 @@
   "chapter": "Differential Equations",
   "number": 14,
   "page": 160,
-  "seq": 626,
+  "seq": 628,
   "answer": "A",
   "stemText": "14. A gardener is digging a plot of land. As he gets tired, he works more slowly. After ^t minutes 2 he is digging at a rate of . square metres per minute. How long will it take him to dig an area of 40 square metres? (b)10 minutes (a) 100 minutes (d) 40 minutes (2014) (c)30 minutes",
   "year": 2014,
@@ -6089,7 +6425,7 @@
   "chapter": "Differential Equations",
   "number": 15,
   "page": 160,
-  "seq": 627,
+  "seq": 629,
   "answer": "A",
   "stemText": "15. The order and degree of the differential dy 2 equation y = x- is dy dx dx (c) 2, 1 (a) 1, 2 (d) 1, 1 (b) 1, 3 (2014)",
   "year": 2014,
@@ -6113,7 +6449,7 @@
   "chapter": "Differential Equations",
   "number": 17,
   "page": 160,
-  "seq": 628,
+  "seq": 630,
   "answer": "A",
   "stemText": "17. The order of differential equation of all circles of given radius ^a’ is (b) 3 (a) 2 (d) 1 (2015) (c) 4",
   "year": 2015,
@@ -6137,7 +6473,7 @@
   "chapter": "Differential Equations",
   "number": 18,
   "page": 160,
-  "seq": 629,
+  "seq": 631,
   "answer": "B",
   "stemText": "18. The solution of differential equation dy dx x2 x4+C -+C (a) 4x2 4 x2+C x4+C (d)y (c)y= x2 4x2 (2015)",
   "year": 2015,
@@ -6161,7 +6497,7 @@
   "chapter": "Differential Equations",
   "number": 20,
   "page": 160,
-  "seq": 630,
+  "seq": 632,
   "answer": "D",
   "stemText": "20. Find the order and degree of the differential equation order = 2, degree = 3 (a) order = 2, degree = 4 (b) 3 order = 2, degree = 4 order = 2, degree = not defined (2016) (d) dy",
   "year": 2016,
@@ -6179,7 +6515,7 @@
   "chapter": "Differential Equations",
   "number": 21,
   "page": 160,
-  "seq": 631,
+  "seq": 633,
   "answer": "C",
   "stemText": "y=x4 -3x is 21. Integrating factor of x- xp 1 (b) log x (c) (d) -x (a) x x (2016)",
   "year": 2016,
@@ -6203,7 +6539,7 @@
   "chapter": "Differential Equations",
   "number": 22,
   "page": 160,
-  "seq": 632,
+  "seq": 634,
   "answer": "A",
   "stemText": "22. General solution of differential equation dy + y=1(y ≠1) is dx 1 (a) log =x+C 1-y (b) logl1 -y = x + C (c) logl1 +yl = x + C 1 (2017) log -x+C (d) 1-y",
   "year": 2017,
@@ -6227,7 +6563,7 @@
   "chapter": "Differential Equations",
   "number": 23,
   "page": 160,
-  "seq": 633,
+  "seq": 635,
   "answer": "D",
   "stemText": "g factorof thedifferential 23. The integrating equation x. xp (a) elogx (b) log |xl (d) x2 (2017) (c) x",
   "year": 2017,
@@ -6236,7 +6572,13 @@
    "w": 720,
    "h": 228
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c19-p0160-q023-s.png",
+    "w": 720,
+    "h": 215
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -6245,7 +6587,7 @@
   "chapter": "Differential Equations",
   "number": 24,
   "page": 160,
-  "seq": 634,
+  "seq": 636,
   "answer": "A",
   "stemText": "24. The degree of the differential equation dy is dx2 (b) 4 (a) 1 (2017) (d) 3 (c) 2",
   "year": 2017,
@@ -6263,7 +6605,7 @@
   "chapter": "Differential Equations",
   "number": 26,
   "page": 161,
-  "seq": 635,
+  "seq": 637,
   "answer": "A",
   "stemText": "26. The solution of the differential equation dy - y = 3 represents a family of x xp (a) straight lines (b) circles (c)parabolas (2018) (d) ellipses",
   "year": 2018,
@@ -6287,7 +6629,7 @@
   "chapter": "Differential Equations",
   "number": 27,
   "page": 161,
-  "seq": 636,
+  "seq": 638,
   "answer": "C",
   "stemText": "27. The integrating factor of dy 1+y is xp x x (b) xel/x (a) xet (d) (c) ex x (2018)",
   "year": 2018,
@@ -6311,7 +6653,7 @@
   "chapter": "Differential Equations",
   "number": 28,
   "page": 161,
-  "seq": 637,
+  "seq": 639,
   "answer": "D",
   "stemText": "28. The integrating factor of the differential s! (0 <) xp K = Kp (e + xz) uoenba 1 1一 1 1 (a) ey (b) (c) (d) x y (2019)",
   "year": 2019,
@@ -6335,7 +6677,7 @@
   "chapter": "Differential Equations",
   "number": 30,
   "page": 161,
-  "seq": 638,
+  "seq": 640,
   "answer": "A",
   "stemText": "30. The order of the differential equation y= CeC2+x +C3eC4+x is (a) 1 (b) 3 (c) 2 (d) 4 (2019)",
   "year": 2019,
@@ -6353,7 +6695,7 @@
   "chapter": "Differential Equations",
   "number": 31,
   "page": 161,
-  "seq": 639,
+  "seq": 641,
   "answer": "D",
   "stemText": "31. The general solution of the differential equation x2dy - 2xydx = x4 cosx dx is (a) y = x2 sinx + c (b) y = sinx + cx2 (c) y = cosx + cx2 (d) y = x2 sinx + cx2 (2020)",
   "year": 2020,
@@ -6371,7 +6713,7 @@
   "chapter": "Differential Equations",
   "number": 32,
   "page": 161,
-  "seq": 640,
+  "seq": 642,
   "answer": "D",
   "stemText": "32. The order of the differential equation obtained by eliminating arbitrary constants in the family of curves Ciy = (C2 + c3)ex+c4 is (a) 2 (b) 3 (c) 4 (d) 1 (2020)",
   "year": 2020,
@@ -6395,7 +6737,7 @@
   "chapter": "Differential Equations",
   "number": 33,
   "page": 161,
-  "seq": 641,
+  "seq": 643,
   "answer": "C",
   "stemText": "33. The curve passing through the point (1, 2) given that the slope of the tangent at any point (x, y) is 2x/y represents (b)Ellipse (a)Parabola (c) Hyperbola (d) Circle (2020)",
   "year": 2020,
@@ -6413,7 +6755,7 @@
   "chapter": "Integrals",
   "number": 2,
   "page": 140,
-  "seq": 531,
+  "seq": 533,
   "answer": "B",
   "stemText": "dx= 2. x 1+ log tan COS 2 x 1+log tan (a) 2 x (b) tan] 1+logtan 2 x +logtan sed 2 x (2006) (d) -tan| 1+ logtan- 2 dx",
   "year": 2006,
@@ -6431,7 +6773,7 @@
   "chapter": "Integrals",
   "number": 3,
   "page": 140,
-  "seq": 532,
+  "seq": 534,
   "answer": "A",
   "stemText": "3. x√x-16 1 x cosh (a) (b) +c sec 3 1 (c) +c (d) +c. sec sec 12 (2006) π/2 π/2",
   "year": 2006,
@@ -6449,7 +6791,7 @@
   "chapter": "Integrals",
   "number": 4,
   "page": 140,
-  "seq": 533,
+  "seq": 535,
   "answer": "A",
   "stemText": "xsinx dx and I2 =| 4.If I = xcosx dx, 0 0 then which one of the following is true? (a)I+I2 (b) I 2 2 (c) I + I2 = 0 (d) I = I2. (2006, 2013)",
   "year": 0,
@@ -6458,7 +6800,13 @@
    "w": 714,
    "h": 356
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c17-p0140-q004-s.png",
+    "w": 708,
+    "h": 450
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -6467,7 +6815,7 @@
   "chapter": "Integrals",
   "number": 5,
   "page": 140,
-  "seq": 534,
+  "seq": 536,
   "answer": "C",
   "stemText": "5. Iff(x) is defined on [-2, 2] by f(x) = 4x2 - 3x + 1 and g(x)=f(-x)-f(x) J-2g(x) dx = 2 then (x2+ 3) (b) -48 (a) 64 (c) 0 (d) 24 (2006)",
   "year": 2006,
@@ -6485,7 +6833,7 @@
   "chapter": "Integrals",
   "number": 6,
   "page": 140,
-  "seq": 535,
+  "seq": 537,
   "answer": "D",
   "stemText": "The value of the integral 6. T/2 (sin100 $100 x)dx is x-cOS 0 100! 1 (b) (a) (100)100 100 π (d)o (2007) (c) 100 3 1",
   "year": 2007,
@@ -6494,7 +6842,13 @@
    "w": 716,
    "h": 346
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c17-p0140-q006-s.png",
+    "w": 727,
+    "h": 507
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -6503,7 +6857,7 @@
   "chapter": "Integrals",
   "number": 7,
   "page": 140,
-  "seq": 536,
+  "seq": 538,
   "answer": "A",
   "stemText": "7. If k ∫ x.f(3x)dx = ↓t· f(t)dt, then the value of 0 0 k is (c)1/9 (a) 9 (b) 3 (d) 1/3 (2007) 1",
   "year": 2007,
@@ -6512,7 +6866,13 @@
    "w": 716,
    "h": 220
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c17-p0140-q007-s.png",
+    "w": 727,
+    "h": 428
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -6521,7 +6881,7 @@
   "chapter": "Integrals",
   "number": 8,
   "page": 140,
-  "seq": 537,
+  "seq": 539,
   "answer": "D",
   "stemText": "dx is 8. The value of 1+cos8x tan8x tan2x (b) (a) +C +C 8 8 tan4x tan4x +C (c) +C (d) 8 4 (2007)",
   "year": 2007,
@@ -6530,7 +6890,13 @@
    "w": 716,
    "h": 277
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c17-p0140-q008-s.png",
+    "w": 727,
+    "h": 287
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -6539,7 +6905,7 @@
   "chapter": "Integrals",
   "number": 9,
   "page": 140,
-  "seq": 538,
+  "seq": 540,
   "answer": "B",
   "stemText": "9. The value of ↑e*(x5 + 5x + 1)dx is (a) e*.x + C (b) ex.xs + e* + C (c) ex+1. x + C (d) 5x4.e*+C (2007) +1",
   "year": 2007,
@@ -6557,7 +6923,7 @@
   "chapter": "Integrals",
   "number": 10,
   "page": 140,
-  "seq": 539,
+  "seq": 541,
   "answer": "C",
   "stemText": "10. The value of dxis -1 x+1 log (a) (b) log C x+1 x-1 (c) x+log +C(d) log(x2 - 1) + C x+1 (2007)",
   "year": 2007,
@@ -6581,7 +6947,7 @@
   "chapter": "Integrals",
   "number": 12,
   "page": 141,
-  "seq": 540,
+  "seq": 542,
   "answer": "C",
   "stemText": "12. √1-sinx (a) tan-(sin2x)+C (b) tan-(2sinx)+C 1 1 =cos-(sin2x)+C sin-(sin2x)+C(d) (c) 2 2 (2008) secx",
   "year": 2008,
@@ -6599,7 +6965,7 @@
   "chapter": "Integrals",
   "number": 13,
   "page": 141,
-  "seq": 541,
+  "seq": 543,
   "answer": "C",
   "stemText": "=xp 13. secx+tanx (a) sec x + tan x + C (b) log sin x + log cos x + C (c) tan x - sec x + C (d) log(1 + sin x) + C (2008)",
   "year": 2008,
@@ -6617,7 +6983,7 @@
   "chapter": "Integrals",
   "number": 14,
   "page": 141,
-  "seq": 542,
+  "seq": 544,
   "answer": "D",
   "stemText": "14. If J f(x)dx = g(x), then J f(x) g(x)dx = [g'(x)]2 (b) f'(x)g(x) (a) 2 1 1 f2(x) (d) (c) 2 (2008)",
   "year": 2008,
@@ -6641,7 +7007,7 @@
   "chapter": "Integrals",
   "number": 17,
   "page": 141,
-  "seq": 543,
+  "seq": 545,
   "answer": "A",
   "stemText": "17. 「cosec (x-a)cosec x dx = -log[sin(x - a)cosecx]+C (a) sina 1 -log[sin(x -a)sinx]+ C (b) sina -1 -log | sin xcosec(x-a)|+C (c) sina",
   "year": 0,
@@ -6665,7 +7031,7 @@
   "chapter": "Integrals",
   "number": 18,
   "page": 141,
-  "seq": 544,
+  "seq": 546,
   "answer": "D",
   "stemText": "18. If f(x)= ↓ |t |dt,then for any x ≥0, f(x) = -1 (a) 1 + x2 (b) 2 1 (1+x2) (2009) (c) 1 -x2 (d) 2 3 4-x C",
   "year": 2009,
@@ -6689,7 +7055,7 @@
   "chapter": "Integrals",
   "number": 19,
   "page": 141,
-  "seq": 545,
+  "seq": 547,
   "answer": "C",
   "stemText": "dx= 19. √x+ /4-x (b) 0 (c) 1 (d) 3 (a) 2 (2009) A B 1",
   "year": 2009,
@@ -6707,7 +7073,7 @@
   "chapter": "Integrals",
   "number": 20,
   "page": 141,
-  "seq": 546,
+  "seq": 548,
   "answer": "A",
   "stemText": "20.If ,then + 3-5x 2+3x (3-5x)(2+3x) A:Bis (a) 5:3 (c) 3:2 (d) 3:5 (b) 2 :3 (2010) 1",
   "year": 2010,
@@ -6731,7 +7097,7 @@
   "chapter": "Integrals",
   "number": 21,
   "page": 141,
-  "seq": 547,
+  "seq": 549,
   "answer": "B",
   "stemText": "21. If f(x)sin x.cos xdx = logf(x) + C, 2(b2-a2) where c is the constant of integration, then f(x)= 2 2 (a) (b) (b2 -a2)cos2x abcos2.x 2 2 (c) (d) (2010) (b2 -a2)sin2x absin2x √x",
   "year": 2010,
@@ -6755,7 +7121,7 @@
   "chapter": "Integrals",
   "number": 22,
   "page": 141,
-  "seq": 548,
+  "seq": 550,
   "answer": "C",
   "stemText": "dx = ktan-~ m, then (k, m) is 22. If x(x+ 1) (a) (1,x) (b) (2, x) (c) (2, √x) (d) (1, √x) (2010) π/4 sinx+cosx",
   "year": 2010,
@@ -6773,7 +7139,7 @@
   "chapter": "Integrals",
   "number": 23,
   "page": 141,
-  "seq": 549,
+  "seq": 551,
   "answer": "B",
   "stemText": "23. =xp 3+ sin2x 0 (a) log 3 -log3 (b) 4 1 -log3 (c) 2 log 3 (d) (2010) 2 3 fx(1-x)3/2dx =",
   "year": 2010,
@@ -6797,7 +7163,7 @@
   "chapter": "Integrals",
   "number": 24,
   "page": 141,
-  "seq": 550,
+  "seq": 552,
   "answer": "A",
   "stemText": "24. 0 -2 4 24 -8 (c) (a) (b) (d) 35 35 35 35 (2010)",
   "year": 2010,
@@ -6821,7 +7187,7 @@
   "chapter": "Integrals",
   "number": 25,
   "page": 142,
-  "seq": 551,
+  "seq": 553,
   "answer": "B",
   "stemText": "25. The value of Jlx -1ldx is 0 5 (c) 4 (a) (b) 5 (d) 1 2 (2011) πT/4",
   "year": 2011,
@@ -6845,7 +7211,7 @@
   "chapter": "Integrals",
   "number": 28,
   "page": 142,
-  "seq": 552,
+  "seq": 554,
   "answer": "D",
   "stemText": "28. When x> 0, then ∫cos dx is 1+x (a) 2[xtan-x - log(1 + x2)] + c (b) 2[xtan-x + log (1 + x2)] + c (c) 2xtan-x + log(1 + x2) + c (2011) (d) 2xtan-x - log(1 + x2) + c",
   "year": 2011,
@@ -6869,7 +7235,7 @@
   "chapter": "Integrals",
   "number": 29,
   "page": 142,
-  "seq": 553,
+  "seq": 555,
   "answer": "A",
   "stemText": "29. If [x] is the greatest integer function not 11 ∫[x]dx = greater than x, then 0 (c) 66 (a) 55 (b) 45 (d) 35 (2012)",
   "year": 2012,
@@ -6893,7 +7259,7 @@
   "chapter": "Integrals",
   "number": 30,
   "page": 142,
-  "seq": 554,
+  "seq": 556,
   "answer": "C",
   "stemText": "30. If n∈ Nand I, = ∫(logx)ndx, then In + nIn-1 = (logx)n+1 (logx)\" (a) (b) n+1 n (d)(logx)n - 1 x(logx)n (c): (2012) π/3 sinx",
   "year": 2012,
@@ -6917,7 +7283,7 @@
   "chapter": "Integrals",
   "number": 31,
   "page": 142,
-  "seq": 555,
+  "seq": 557,
   "answer": "D",
   "stemText": "= xp- 31. π 元 π (a) (b) (d) (c) 12 3 6 2 (2012)",
   "year": 2012,
@@ -6941,7 +7307,7 @@
   "chapter": "Integrals",
   "number": 32,
   "page": 142,
-  "seq": 556,
+  "seq": 558,
   "answer": "C",
   "stemText": "dx, n≠0 is 32. =cot\"-x cotn x +C (b) (a) +C n-1 n cot\"-x -cotn x (d) (c) +C +C n-1 n (2013)",
   "year": 2013,
@@ -6965,7 +7331,7 @@
   "chapter": "Integrals",
   "number": 33,
   "page": 142,
-  "seq": 557,
+  "seq": 559,
   "answer": "B",
   "stemText": "33. dx (x+1)2 et (b) (a) +C + (x+1)2 x+1 x-er ex +C +C (d) (c) (x+1) (x+1)3 (2013) dx is",
   "year": 2013,
@@ -6989,7 +7355,7 @@
   "chapter": "Integrals",
   "number": 34,
   "page": 142,
-  "seq": 558,
+  "seq": 560,
   "answer": "B",
   "stemText": "34. The value of (b) 1 (a) 0 (c) 2 (d) 3 (2013) 4 cOSx",
   "year": 2013,
@@ -7013,7 +7379,7 @@
   "chapter": "Integrals",
   "number": 35,
   "page": 142,
-  "seq": 559,
+  "seq": 561,
   "answer": "B",
   "stemText": "C 35. dx= cos*x+sin 4 X 元 元 π (c) (a) (b) (d) π 4 2 8 (2013) 元 2",
   "year": 2013,
@@ -7031,7 +7397,7 @@
   "chapter": "Integrals",
   "number": 36,
   "page": 142,
-  "seq": 560,
+  "seq": 562,
   "answer": "C",
   "stemText": "36. If f(x) = f(π + e - x) and 1f(x)dx = e+π π e Jxf(x)dx is equal to then e π+e (b) (a) π-e 2 π-e (2014) (c) 1 (d) 2",
   "year": 2014,
@@ -7055,7 +7421,7 @@
   "chapter": "Integrals",
   "number": 37,
   "page": 142,
-  "seq": 561,
+  "seq": 563,
   "answer": "C",
   "stemText": "37. If linear function f(x) and g(x) satisfy {[(3x -1)cosx+(1-2x)sinx]dx = f(x)cosx+ g(x)sinx+ C, then (a) f(x) = 3(x - 1) (b) f(x) = 3x - 5 (c) g(x) = 3(x - 1) (d) g(x) =3 + x (2014)",
   "year": 2014,
@@ -7079,7 +7445,7 @@
   "chapter": "Integrals",
   "number": 38,
   "page": 142,
-  "seq": 562,
+  "seq": 564,
   "answer": "A",
   "stemText": "38. The value of the integral T/4 log(sec0-tan0)d0 is -T/4 匹 匹 (d) (c) π (b) (a) 0 4 2 (2014) sin2x",
   "year": 2014,
@@ -7103,7 +7469,7 @@
   "chapter": "Integrals",
   "number": 39,
   "page": 142,
-  "seq": 563,
+  "seq": 565,
   "answer": "C",
   "stemText": "=xp 39. sin2x+2cos2x (a) - log (1 + sin2x) + C (b) log(1 + cos2x) + C (c) - log(1 + cos2x) + C (2014) (d) log(1 + tan2x) + C",
   "year": 2014,
@@ -7112,7 +7478,13 @@
    "w": 721,
    "h": 295
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c17-p0142-q039-s.png",
+    "w": 710,
+    "h": 293
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -7121,7 +7493,7 @@
   "chapter": "Integrals",
   "number": 40,
   "page": 143,
-  "seq": 564,
+  "seq": 566,
   "answer": "A",
   "stemText": "40. dx= 1+cosx x (b) e* tan x + C (a) e* tan 1+sinx x +C (d) C - e* cotj (C) 1-cosx 7 (2015) π/4 sinx+cosx",
   "year": 2015,
@@ -7145,7 +7517,7 @@
   "chapter": "Integrals",
   "number": 41,
   "page": 143,
-  "seq": 565,
+  "seq": 567,
   "answer": "D",
   "stemText": "dx is equal to 41. log COS.X 0 log 2 (a) (b) log 2 2 π一 log 2 (2015) (d) (c) log 2 4 8 sinx",
   "year": 2015,
@@ -7169,7 +7541,7 @@
   "chapter": "Integrals",
   "number": 42,
   "page": 143,
-  "seq": 566,
+  "seq": 568,
   "answer": "A",
   "stemText": "厂 dx is equal to 42. 1+cosx (b) cosx + C (a) x - sinx + C (d) (c) x+ sinx + C sinx + C(2015) T/4 dx",
   "year": 2015,
@@ -7193,7 +7565,7 @@
   "chapter": "Integrals",
   "number": 43,
   "page": 143,
-  "seq": 567,
+  "seq": 569,
   "answer": "A",
   "stemText": "is equal to 43. 1+cos2x -Tπ/4 (b) o (c) 2 (a) 1 (d) 4 (2015) 1",
   "year": 2015,
@@ -7217,7 +7589,7 @@
   "chapter": "Integrals",
   "number": 44,
   "page": 143,
-  "seq": 568,
+  "seq": 570,
   "answer": "C",
   "stemText": "dx is equal to 44. x2(x+1)3/4 -(1+x4)/4 -(1+x4)3/4 (a) +C (b) +C x2 x -(1+x4)114 -(1+x4)/4 (c) +C (d) -+C 2x x (2015) e*(1+x)dx",
   "year": 2015,
@@ -7241,7 +7613,7 @@
   "chapter": "Integrals",
   "number": 45,
   "page": 143,
-  "seq": 569,
+  "seq": 571,
   "answer": "B",
   "stemText": "45. The value of is equal to cos2(ex.x) (a) -cot(ex· x) + c (b) tan(e*· x) + c (c) tan(e) + c (d) cot(e) + c (2016)",
   "year": 2016,
@@ -7265,7 +7637,7 @@
   "chapter": "Integrals",
   "number": 46,
   "page": 143,
-  "seq": 570,
+  "seq": 572,
   "answer": "A",
   "stemText": "46. The value of e(x2tan-x+tanx+1) dx is equal to x2+1 e*tan-1 x + c (b) tan-(e) + c (a) 3+xa (d) (c) tan-(x) + c (2016)",
   "year": 2016,
@@ -7289,7 +7661,7 @@
   "chapter": "Integrals",
   "number": 47,
   "page": 143,
-  "seq": 571,
+  "seq": 573,
   "answer": "D",
   "stemText": "47.The value of -π/4 )103 101 π π (b) (a) 4 4 (c) 2 (d) 0 (2016) 6logx e5logx",
   "year": 2016,
@@ -7307,7 +7679,7 @@
   "chapter": "Integrals",
   "number": 48,
   "page": 143,
-  "seq": 572,
+  "seq": 574,
   "answer": "B",
   "stemText": "48. The value of dx is equal to 4logx 3logx 3 1一 (a) 0 (b) (c) (d) 3 3 x x (2016) π/2 1000 sin xdx",
   "year": 2016,
@@ -7325,7 +7697,7 @@
   "chapter": "Integrals",
   "number": 49,
   "page": 143,
-  "seq": 573,
+  "seq": 575,
   "answer": "D",
   "stemText": "is equal to 49. 1000 1000 sin x+cOS X 0 (c) π/2 1000 (b)1 (d) π/4 (a) (2016) 8 √10-x",
   "year": 2016,
@@ -7343,7 +7715,7 @@
   "chapter": "Integrals",
   "number": 50,
   "page": 143,
-  "seq": 574,
+  "seq": 576,
   "answer": "D",
   "stemText": "dxis 50. The value of √x+√10-x 2 (c) 8 (a) 10 (b) 0 (d) 3 (2016) 5",
   "year": 2016,
@@ -7367,7 +7739,7 @@
   "chapter": "Integrals",
   "number": 51,
   "page": 143,
-  "seq": 575,
+  "seq": 577,
   "answer": "B",
   "stemText": "∫x+2|dx is equal to 51. -5 (b) 29 (c) 27 (a) 28 (d) 30 (2017) cos2x-cos20",
   "year": 2017,
@@ -7391,7 +7763,7 @@
   "chapter": "Integrals",
   "number": 52,
   "page": 143,
-  "seq": 576,
+  "seq": 578,
   "answer": "A",
   "stemText": "dx is equal to 52. cosx-cos0 (a) 2(sinx + x cosθ) + C (b) 2(sinx - x cos0) + C (c) 2(sinx + 2x cos0) + C (2017) (d) 2(sinx - 2x cos0) + C (x+3)ex",
   "year": 2017,
@@ -7415,7 +7787,7 @@
   "chapter": "Integrals",
   "number": 53,
   "page": 143,
-  "seq": 577,
+  "seq": 579,
   "answer": "A",
   "stemText": "dx is equal to 53. (x+4)2 et (a) (b) +C +C (x+4)2 (x+4) et 1 (c) (d) +C +C (x+4)2 (x +3) (2017) π/2 1",
   "year": 2017,
@@ -7439,7 +7811,7 @@
   "chapter": "Integrals",
   "number": 54,
   "page": 143,
-  "seq": 578,
+  "seq": 580,
   "answer": "C",
   "stemText": "-dx is equal to 54. 2 sin2 x+b2 cos2 x 0 πb πa πa π (a) (b) (c) (d) 4b 4a 2b 2ab (2017)",
   "year": 2017,
@@ -7463,7 +7835,7 @@
   "chapter": "Integrals",
   "number": 55,
   "page": 144,
-  "seq": 579,
+  "seq": 581,
   "answer": "B",
   "stemText": "55. f√x2 +2x+5 dx is equal to (a)(x+1)√x2+2x+5 -2logx+1+√x2+2x+5|+C (x+1)√x2+2x+5 (b) 2 +2log|x+1+√x2+2x+5|+C (c) (x+1)√x2+2x+5 +2log|x+1+√x2+2x+5|+C (d) (x+1)√x2+2x+5 1 +10gx+1+√x2+2x+5 5+ 2 (2017) π/2 dx",
   "year": 2017,
@@ -7487,7 +7859,7 @@
   "chapter": "Integrals",
   "number": 56,
   "page": 144,
-  "seq": 580,
+  "seq": 582,
   "answer": "C",
   "stemText": "is equal to 56. sinx+1 -π/2e π (c) (b) 0 (a) 1 (d) 2 2 (2017) π/2 tan?x",
   "year": 2017,
@@ -7505,7 +7877,7 @@
   "chapter": "Integrals",
   "number": 57,
   "page": 144,
-  "seq": 581,
+  "seq": 583,
   "answer": "A",
   "stemText": "dx is equal to 57. cotx+tanx 0 元一 π 元 π (a) (b) (c) (d) 13 -6 一 4 2 (2017) 3.5 [ [x]dx is equal to",
   "year": 2017,
@@ -7529,7 +7901,7 @@
   "chapter": "Integrals",
   "number": 58,
   "page": 144,
-  "seq": 582,
+  "seq": 584,
   "answer": "B",
   "stemText": "58. 0.2 (b) 4.5 (a) 3.5 (c) 3 (d) 4 (2017) 1",
   "year": 2017,
@@ -7553,7 +7925,7 @@
   "chapter": "Integrals",
   "number": 59,
   "page": 144,
-  "seq": 583,
+  "seq": 585,
   "answer": "C",
   "stemText": "59. dx is equal to 1+e* (a) loge loge (b +C loge loge (c) (d) +c +C (2018) 1 dx is equal to",
   "year": 2018,
@@ -7577,7 +7949,7 @@
   "chapter": "Integrals",
   "number": 60,
   "page": 144,
-  "seq": 584,
+  "seq": 586,
   "answer": "C",
   "stemText": "60. V3-6x-9x2 3x+1 3x+1 (a) +c (b) sin sin +c 2 6 3x+1 (c) sin 3 2 2x+1 (2018) (d)",
   "year": 2018,
@@ -7595,7 +7967,7 @@
   "chapter": "Integrals",
   "number": 61,
   "page": 144,
-  "seq": 585,
+  "seq": 587,
   "answer": "A",
   "stemText": "sinx dx is equal to 61. secx (a) sinx · esinx + C (b) cosx · esinx + c esinx + C (d)esinx (sinx + 1) + c (c) e (2018) 2",
   "year": 2018,
@@ -7613,7 +7985,7 @@
   "chapter": "Integrals",
   "number": 62,
   "page": 144,
-  "seq": 586,
+  "seq": 588,
   "answer": "A",
   "stemText": "||xcosnx |dx is equal to 62. -2 2 8 4 1 (b) (a) (c) (d) π π π π (2018) dx",
   "year": 2018,
@@ -7637,7 +8009,7 @@
   "chapter": "Integrals",
   "number": 63,
   "page": 144,
-  "seq": 587,
+  "seq": 589,
   "answer": "B",
   "stemText": "is equal to 63. (b) tan-(e)- - tan-1(e) (a) 4 4 tan-(e)+ - (d) tan-(e) (c) (2018) 4 1/2 dx",
   "year": 2018,
@@ -7661,7 +8033,7 @@
   "chapter": "Integrals",
   "number": 64,
   "page": 144,
-  "seq": 588,
+  "seq": 590,
   "answer": "A",
   "stemText": "C 64. is equal to (1+x2)√1-x2 2 1 2 (a) -1 (b) tan tan √3 √2 √2 √2 √2 √3 (c) (d) tan tan 2 2 2 (2018)",
   "year": 2018,
@@ -7685,7 +8057,7 @@
   "chapter": "Integrals",
   "number": 65,
   "page": 144,
-  "seq": 589,
+  "seq": 591,
   "answer": "B",
   "stemText": "x2 sin3x dx = 65. x2 sin3x x2 cos3x 2xcos3x 2sin3x (a) +C 3 27 3 9 x2 sin3x x3cos3x 2xcos3x 2sin3x (b) +C 27 3 3 9 x2cos3x C. x2sin3x 2xcos3x 2sin3x (c) +C 3 9 27 3 xcos3x xsin3x 2xcos3x 2sin3x (d) +C 9 3 27 3 (2019) 3 cot-1 x dx =",
   "year": 2019,
@@ -7709,7 +8081,7 @@
   "chapter": "Integrals",
   "number": 66,
   "page": 144,
-  "seq": 590,
+  "seq": 592,
   "answer": "A",
   "stemText": "66. 3 (a) 3π (b) 6π (c) (d) 3 (2019) 0 1",
   "year": 2019,
@@ -7727,7 +8099,7 @@
   "chapter": "Integrals",
   "number": 68,
   "page": 145,
-  "seq": 591,
+  "seq": 593,
   "answer": "D",
   "stemText": "dx = A loglx - 1| 68. (x-1)(x+2)(x-3) + B log |x + 2| + Clog ↓x - 3} + K, then A, B, C are respectively 1-1 -1 1 1 (a) (b) 6 6 3 3 1 -1 1 1 1 -1 (d) (c) 3'2 3 6 6 5 (2019) 2 ∫[x2]dx =",
   "year": 2019,
@@ -7751,7 +8123,7 @@
   "chapter": "Integrals",
   "number": 69,
   "page": 145,
-  "seq": 592,
+  "seq": 594,
   "answer": "A",
   "stemText": "69. 0 (a) 5-√2 -√3 (b) 5-√2+√3 (c) 5+√2-√3 (d) -5-√2-√3 (2019) 1 1+x C =xp-",
   "year": 2019,
@@ -7775,7 +8147,7 @@
   "chapter": "Integrals",
   "number": 70,
   "page": 145,
-  "seq": 593,
+  "seq": 595,
   "answer": "C",
   "stemText": "70. 1-x 0 元一 π一 1 (c) (a) (b) (d) -1 +1 2 2 2 2 (2019) 4 1+x",
   "year": 2019,
@@ -7799,7 +8171,7 @@
   "chapter": "Integrals",
   "number": 72,
   "page": 145,
-  "seq": 594,
+  "seq": 596,
   "answer": "A",
   "stemText": "72. The value of 1 2 π (b) 1 (c) (a) (d) π 2 2 (2020) 3x+1",
   "year": 2020,
@@ -7823,7 +8195,7 @@
   "chapter": "Integrals",
   "number": 73,
   "page": 145,
-  "seq": 595,
+  "seq": 597,
   "answer": "C",
   "stemText": "dx =A loglx - 1| 73.If (x-1)(x-2)(x -3) + B loglx - 2| + Clog]x - 3| + c, then the values of A, B and C are respectively, (b) 5, -7,5 (a) 2,-7,-5 (c) 2, -7,5 (d) 5,-7,-5( (2020)",
   "year": 2020,
@@ -7847,7 +8219,7 @@
   "chapter": "Integrals",
   "number": 74,
   "page": 145,
-  "seq": 596,
+  "seq": 598,
   "answer": "D",
   "stemText": "74. The value of ∫esinx sin2x dx is (a) 2esinx(sinx + 1) + C (b) 2esinx(cosx + 1) + C (c) 2esinx(cosx - 1) + C (d) 2esinx(sinx - 1) + C (2020) π 2 cOS x",
   "year": 2020,
@@ -7871,7 +8243,7 @@
   "chapter": "Integrals",
   "number": 75,
   "page": 145,
-  "seq": 597,
+  "seq": 599,
   "answer": "B",
   "stemText": "dx is 75. The value of π1+ex 2 (a) 0 (c) -2 (b) 1 (d) 2 (2020) 1log(1 + x)",
   "year": 2020,
@@ -7889,7 +8261,7 @@
   "chapter": "Integrals",
   "number": 76,
   "page": 145,
-  "seq": 598,
+  "seq": 600,
   "answer": "C",
   "stemText": "dx is 76. The value of 1+x2 0 10og2 1 (b) (a) 2 4 元一 匹 log 2 log2 (c) (d) (2020) 2 8",
   "year": 2020,
@@ -7922,7 +8294,13 @@
    "w": 709,
    "h": 304
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0030-q007-s.png",
+    "w": 770,
+    "h": 383
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -7964,7 +8342,13 @@
    "w": 715,
    "h": 221
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0032-q037-s.png",
+    "w": 745,
+    "h": 284
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8000,7 +8384,13 @@
    "w": 709,
    "h": 276
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0033-q048-s.png",
+    "w": 688,
+    "h": 230
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8099,7 +8489,7 @@
   "chapter": "Limits and Derivatives",
   "number": 1,
   "page": 111,
-  "seq": 403,
+  "seq": 404,
   "answer": "A",
   "stemText": "1.The value of lim 2x x→0 (d) 2 log5 (c) 1 5 (b) 0 (a) log5 (2006) tan(x2-1) is equal to",
   "year": 2006,
@@ -8108,7 +8498,13 @@
    "w": 711,
    "h": 211
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c14-p0111-q001-s.png",
+    "w": 717,
+    "h": 237
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8117,7 +8513,7 @@
   "chapter": "Limits and Derivatives",
   "number": 2,
   "page": 111,
-  "seq": 404,
+  "seq": 405,
   "answer": "A",
   "stemText": "lim 2. x-1 x→→1 -1 1 (d) (b) (c) -2 (a) 2 2 2 (2007) 2 is equal to",
   "year": 2007,
@@ -8126,7 +8522,13 @@
    "w": 711,
    "h": 228
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c14-p0111-q002-s.png",
+    "w": 717,
+    "h": 120
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8135,7 +8537,7 @@
   "chapter": "Limits and Derivatives",
   "number": 3,
   "page": 111,
-  "seq": 405,
+  "seq": 406,
   "answer": "A",
   "stemText": "lim xsin 3. →→∞ 1 (d) 0 (a) 2 (c) (b) 8 -2 (2008) 3.2n+1-4.5n+1",
   "year": 2008,
@@ -8144,7 +8546,13 @@
    "w": 711,
    "h": 194
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c14-p0111-q003-s.png",
+    "w": 726,
+    "h": 155
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8153,7 +8561,7 @@
   "chapter": "Limits and Derivatives",
   "number": 4,
   "page": 111,
-  "seq": 406,
+  "seq": 407,
   "answer": "A",
   "stemText": "4. lim 5.2n+7.5n n→8 -20 3 (c) (d) (b) 0 (a) -5 7 7 (2009) 2π 2π",
   "year": 2009,
@@ -8162,7 +8570,13 @@
    "w": 711,
    "h": 238
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c14-p0111-q004-s.png",
+    "w": 708,
+    "h": 550
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8171,7 +8585,7 @@
   "chapter": "Limits and Derivatives",
   "number": 5,
   "page": 111,
-  "seq": 407,
+  "seq": 408,
   "answer": "A",
   "stemText": "5. lim nsin COS 3n 3n n→∞o 2π (c) (d) 1 (b) (a) 6 3 3 (2010) x-x+",
   "year": 2010,
@@ -8180,7 +8594,13 @@
    "w": 711,
    "h": 227
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c14-p0111-q005-s.png",
+    "w": 708,
+    "h": 292
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8189,7 +8609,7 @@
   "chapter": "Limits and Derivatives",
   "number": 6,
   "page": 111,
-  "seq": 408,
+  "seq": 409,
   "answer": "D",
   "stemText": "lim 6. x→a√3a+x-2√x 3√3 2 2 2 (d) 3√3 (c) (b) (a) -3 √3 2 (2011) cos2x sinx",
   "year": 2011,
@@ -8207,7 +8627,7 @@
   "chapter": "Limits and Derivatives",
   "number": 7,
   "page": 111,
-  "seq": 409,
+  "seq": 410,
   "answer": "C",
   "stemText": ",then 7. f(x)= 十 1+cotx1+tanx 1 (d) -√3 (a) √3 (c) 0 (b) √3 (2011)",
   "year": 2011,
@@ -8216,7 +8636,13 @@
    "w": 711,
    "h": 193
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c14-p0111-q007-s.png",
+    "w": 708,
+    "h": 453
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8225,7 +8651,7 @@
   "chapter": "Limits and Derivatives",
   "number": 8,
   "page": 111,
-  "seq": 410,
+  "seq": 411,
   "answer": "B",
   "stemText": "8. Lt x→01-cosx 1 (b) 2log2 (a) 2 1 -log2 (d) (2012) (c)log2 2 If f(x) = sin[π2]x + cos[-π2]x then f'(x)",
   "year": 2012,
@@ -8243,7 +8669,7 @@
   "chapter": "Limits and Derivatives",
   "number": 9,
   "page": 111,
-  "seq": 411,
+  "seq": 412,
   "answer": "C",
   "stemText": "9. is, here [πt?] and [-π2] are greatest integer function not greater than its value (a) -1 (b) sin 9x + cos 9x (c) 9cos 9x - 10 sin10x (2012) (d) 0 log(1+x)",
   "year": 2012,
@@ -8252,7 +8678,13 @@
    "w": 706,
    "h": 313
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c14-p0111-q009-s.png",
+    "w": 720,
+    "h": 176
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8261,7 +8693,7 @@
   "chapter": "Limits and Derivatives",
   "number": 10,
   "page": 111,
-  "seq": 412,
+  "seq": 413,
   "answer": "C",
   "stemText": "10. 1 lim 3-1 x→0 (c) log3e (d) 1 (a) log.3 (b) 0 (2013) dy",
   "year": 2013,
@@ -8285,7 +8717,7 @@
   "chapter": "Limits and Derivatives",
   "number": 11,
   "page": 111,
-  "seq": 413,
+  "seq": 414,
   "answer": "B",
   "stemText": "at x =1 11. If y = (1 + x)(1 + x2)(1 + x4), then dx is (d) 0 (c) 1 (b) 28 (a) 20 (2014) f(x)-2",
   "year": 2014,
@@ -8309,7 +8741,7 @@
   "chapter": "Limits and Derivatives",
   "number": 12,
   "page": 111,
-  "seq": 414,
+  "seq": 415,
   "answer": "B",
   "stemText": "12. If the function f(x) satisfies lim 三π, x2-1 x→1 then lim f(x)= x--→1 (d) 3 (b) 2 (c) (a) 1 0 (2014)",
   "year": 2014,
@@ -8333,7 +8765,7 @@
   "chapter": "Limits and Derivatives",
   "number": 13,
   "page": 111,
-  "seq": 415,
+  "seq": 416,
   "answer": "C",
   "stemText": "13. If the function f(x) defined by .99 x f(x)= ....+-+x+1, + 99 100 2 then f'(0) = (b) 100 (a) 100 f'(0) (2014) (d) -1 (c) 1 1-cosx",
   "year": 2014,
@@ -8357,7 +8789,7 @@
   "chapter": "Limits and Derivatives",
   "number": 15,
   "page": 112,
-  "seq": 416,
+  "seq": 417,
   "answer": "B",
   "stemText": "at x =1 15. If y = f(x2 + 2) and f'(3) = 5, then dx is (a) 25 (b) 10 (c) 5 (d) 15 (2015)",
   "year": 2015,
@@ -8375,7 +8807,7 @@
   "chapter": "Limits and Derivatives",
   "number": 16,
   "page": 112,
-  "seq": 417,
+  "seq": 418,
   "answer": "C",
   "stemText": "16. If the function g(x) is defined by 199 198 x x g(x)= +x+5, 十 200 199 198 2 then g’(0) = (a) 200 (b) 5 (c) 1 (2015) (d) 100 xe*-sinx",
   "year": 2015,
@@ -8399,7 +8831,7 @@
   "chapter": "Limits and Derivatives",
   "number": 17,
   "page": 112,
-  "seq": 418,
+  "seq": 419,
   "answer": "C",
   "stemText": "is equal to 17. lim x→0 x (a) 3 (c) 0 (b) 1 (d) 2 (2016) 1-cos40",
   "year": 2016,
@@ -8417,7 +8849,7 @@
   "chapter": "Limits and Derivatives",
   "number": 18,
   "page": 112,
-  "seq": 419,
+  "seq": 420,
   "answer": "B",
   "stemText": "18. The value of lim is 0→01-cos60 3 9- 9一 4一 (b) (c) (a) (d) 4 4 9 3 (2017) [x]",
   "year": 2017,
@@ -8441,7 +8873,7 @@
   "chapter": "Limits and Derivatives",
   "number": 19,
   "page": 112,
-  "seq": 420,
+  "seq": 421,
   "answer": "D",
   "stemText": "19. The value of lim - is x→0x (a) 1 (b) -1 (c) ( (d) Does not exist 0 (2018)",
   "year": 2018,
@@ -8459,7 +8891,7 @@
   "chapter": "Limits and Derivatives",
   "number": 21,
   "page": 112,
-  "seq": 421,
+  "seq": 422,
   "answer": "C",
   "stemText": "∑(2r -1)=x then 21. r=1 n lim n-→ 1 1 (b) 1 (c) (a) (d) 4 -2 4 (2019) tanx lim",
   "year": 2019,
@@ -8492,7 +8924,13 @@
    "w": 708,
    "h": 264
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c04-p0052-q001-s.png",
+    "w": 704,
+    "h": 416
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8510,7 +8948,13 @@
    "w": 708,
    "h": 732
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c04-p0052-q002-s.png",
+    "w": 704,
+    "h": 1464
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8528,7 +8972,13 @@
    "w": 715,
    "h": 173
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c04-p0052-q004-s.png",
+    "w": 696,
+    "h": 89
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8564,7 +9014,13 @@
    "w": 715,
    "h": 596
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c04-p0052-q006-s.png",
+    "w": 696,
+    "h": 341
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8582,7 +9038,13 @@
    "w": 715,
    "h": 288
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c04-p0052-q007-s.png",
+    "w": 696,
+    "h": 907
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8591,7 +9053,7 @@
   "chapter": "Linear Programming",
   "number": 1,
   "page": 178,
-  "seq": 710,
+  "seq": 712,
   "answer": "C",
   "stemText": "1. If x + y ≤ 2, x ≥ 0, y ≥ 0 the point at which maximum value of 3x + 2y attained will be (a) (0, 2) (b) (0, 0) 11 (c) (2, 0) (d) (2014)",
   "year": 2014,
@@ -8609,7 +9071,7 @@
   "chapter": "Linear Programming",
   "number": 2,
   "page": 178,
-  "seq": 711,
+  "seq": 713,
   "answer": "B",
   "stemText": "2. If an LPP admits optimal solution at two consecutive vertices of a feasible region, then (a) the required optimal solution is at the midpoint of the line joining two points. (b) the optimal solution occurs at every point on the line joining these two points. (c) the LPP under consideration is not solvable. (d) the LPP under consideration must be reconstructed. (2017)",
   "year": 2017,
@@ -8618,7 +9080,13 @@
    "w": 707,
    "h": 460
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c22-p0178-q002-s.png",
+    "w": 704,
+    "h": 84
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8627,7 +9095,7 @@
   "chapter": "Linear Programming",
   "number": 3,
   "page": 178,
-  "seq": 712,
+  "seq": 714,
   "answer": "D",
   "stemText": "For the LPP, maximise z = x + 4y subject to the 3. constraints x + 2y ≤ 2, x + 2y ≥ 8, x, y ≥ 0. (b) Zmax = 8 (a) Zmax = 4 Zmax = 16 (c) (d) Has no feasible solution (2018)",
   "year": 2018,
@@ -8651,7 +9119,7 @@
   "chapter": "Linear Programming",
   "number": 5,
   "page": 178,
-  "seq": 713,
+  "seq": 715,
   "answer": "C",
   "stemText": "The feasible region of an LPP is shown in the 5. figure. If Z = 1lx + 7y, then the maximum value of Z occurs at Y x+y=5 x+3y= 9 (a) (3, 3) (b) (5, 0) (c) (3, 2) (d) (0, 5) (2020)",
   "year": 2020,
@@ -8660,7 +9128,13 @@
    "w": 712,
    "h": 774
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c22-p0178-q005-s.png",
+    "w": 668,
+    "h": 695
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8669,7 +9143,7 @@
   "chapter": "Linear Programming",
   "number": 6,
   "page": 178,
-  "seq": 714,
+  "seq": 716,
   "answer": "A",
   "stemText": "Corner points of the feasible region 6. determined by the system linear nof constraints are (0, 3), (1, 1) and (3, 0). Let z = px + qy, where p, q > 0. Condition on p and q so that the minimum of z occurs at (3, 0) and (1, 1) is (b) p = 3q 2 (c) p=q (d) p = 2q (2020)",
   "year": 2020,
@@ -8678,7 +9152,13 @@
    "w": 712,
    "h": 552
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c22-p0178-q006-s.png",
+    "w": 668,
+    "h": 687
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8687,7 +9167,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 1,
   "page": 86,
-  "seq": 301,
+  "seq": 302,
   "answer": "A",
   "stemText": "If (p^ ~ r) →(~ pvq) is false, then the truth 1.1 values of p, q and r are respectively (a) T, F and F (b) F F and T (c) F T and T (d) T, F and T (2006)",
   "year": 2006,
@@ -8696,7 +9176,13 @@
    "w": 724,
    "h": 174
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c10-p0086-q001-s.png",
+    "w": 715,
+    "h": 395
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8705,7 +9191,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 2,
   "page": 86,
-  "seq": 302,
+  "seq": 303,
   "answer": "B",
   "stemText": "The negation of the proposition “If 2 is prime, 2. then 3 is odd\" is (a) if 2 is not prime then 3 is not odd (b) 2 is prime and 3 is not odd (c) 2 is not prime and 3 is odd (d) if 2 is not prime then 3 is odd (2007)",
   "year": 2007,
@@ -8729,7 +9215,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 3,
   "page": 86,
-  "seq": 303,
+  "seq": 304,
   "answer": "B",
   "stemText": "The converse of the contrapositive of the 3. conditional p → ~ q is (a) ~q→p (b) ~p-→q (c) p→q (d) ~p→~q (2008)",
   "year": 2008,
@@ -8753,7 +9239,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 4,
   "page": 86,
-  "seq": 304,
+  "seq": 305,
   "answer": "B",
   "stemText": "The negation of p ^ (q -→ ~r) is 4. (a) pv(qr) (b) ~pv(qr) (μvb)v d (0) (d) pv(qvr) (2009)",
   "year": 2009,
@@ -8771,7 +9257,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 5,
   "page": 86,
-  "seq": 305,
+  "seq": 306,
   "answer": "C",
   "stemText": "Which of the following is NOT true ? 5. (a) {(p → q) ^ (q →r)} →(p →r) is a tautology (b) (p ^ ~ q) →(p -→> q) is a tautology (c) ~(p<>q)=(p~q)v(~pq) (d) p→(q ^r)=(p→q)^(p→r) (2010)",
   "year": 2010,
@@ -8780,7 +9266,13 @@
    "w": 724,
    "h": 255
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c10-p0086-q005-s.png",
+    "w": 715,
+    "h": 608
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8789,7 +9281,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 7,
   "page": 86,
-  "seq": 306,
+  "seq": 307,
   "answer": "C",
   "stemText": "p →> ~q can also be written as 7. (a) ~q→~p (b) p→q (c) ~pv ~q (d) q→p (2012)",
   "year": 2012,
@@ -8807,7 +9299,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 8,
   "page": 86,
-  "seq": 307,
+  "seq": 308,
   "answer": "B",
   "stemText": "The inverse of the proposition (p ^ ~ q) →r is 8. (a) (~r)→(~p)vq (b) (~p)vq→(~r) (c) r→p(~q) (d) (~p)v(~q)→r (2013)",
   "year": 2013,
@@ -8825,7 +9317,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 10,
   "page": 86,
-  "seq": 308,
+  "seq": 309,
   "answer": "C",
   "stemText": "10. ~[(~p) ^ q] is logically equivalent to (a) p(~q) (b) ~(p vq) (c) pv (~q) (d) ~[p^(~q)] (2015)",
   "year": 2015,
@@ -8843,7 +9335,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 11,
   "page": 86,
-  "seq": 309,
+  "seq": 310,
   "answer": "D",
   "stemText": "11. The contrapositive of the converse of the statement \"If x is a prime number then x is odd\" is (a) If x is not a prime number then x is odd. (b) If x is not an odd number then x is not a prime number. (c) If x is a prime number then it is not odd. (d) If x is not a prime number then x is not odd. (2016)",
   "year": 2016,
@@ -8867,7 +9359,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 12,
   "page": 86,
-  "seq": 310,
+  "seq": 311,
   "answer": "D",
   "stemText": "12. The contrapositive statement of the statement \"If x is prime number, then x is odd\" is (a) If x is not a prime number, then x is odd. (b) If x is not a prime number, then x is not odd. (c) If x is a prime number, then x is not odd. (d) If x is not odd, then x is not a prime number. (2017)",
   "year": 2017,
@@ -8885,7 +9377,7 @@
   "chapter": "Mathematical Reasoning",
   "number": 13,
   "page": 86,
-  "seq": 311,
+  "seq": 312,
   "answer": "A",
   "stemText": "13. The negation of the statement \"72 is divisible by 2 and 3\" is (a) 72 is not divisible by 2 or 72 is not divisible by 3 (b) 72 is divisible by 2 or 72 is divisible by 3 (c) 72 is divisible by 2 and 72 is divisible by 3 (d) 72 is not divisible by 2 and 3 (2018)",
   "year": 2018,
@@ -8909,7 +9401,7 @@
   "chapter": "Matrices",
   "number": 3,
   "page": 95,
-  "seq": 339,
+  "seq": 340,
   "answer": "D",
   "stemText": "IfA: and A2 - 4A + 10I = A, then 3. 2 k k = (a) 0 (b) -4 (c) 4 and not 1 (d) 1 or 4 (2006) x+y y+z z+xl",
   "year": 2006,
@@ -8918,7 +9410,13 @@
    "w": 711,
    "h": 271
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0095-q003-s.png",
+    "w": 717,
+    "h": 746
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8927,7 +9425,7 @@
   "chapter": "Matrices",
   "number": 6,
   "page": 95,
-  "seq": 340,
+  "seq": 341,
   "answer": "A",
   "stemText": "IfA= 6. is singular, then the 5 7 x 0 9 x possible values of x are (a) 0, 12, -12 (b) 0, 1, -1 (c) 0, 4, - 4 (d) 0, 5, -5 (2007) -2 1 2",
   "year": 2007,
@@ -8936,7 +9434,13 @@
    "w": 711,
    "h": 312
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0095-q006-s.png",
+    "w": 767,
+    "h": 382
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8945,7 +9449,7 @@
   "chapter": "Matrices",
   "number": 8,
   "page": 95,
-  "seq": 342,
+  "seq": 343,
   "answer": "B",
   "stemText": "The value of 8. p x b 1S P 9 x (a) x(x-p)(x-q) (b) (x-p) (x-q) (x+p+ q) (c) (p-q)(x-q)(x-p) (d) pq (x-p) (x-q) (2007)",
   "year": 2007,
@@ -8954,7 +9458,13 @@
    "w": 711,
    "h": 313
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0095-q008-s.png",
+    "w": 718,
+    "h": 518
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8963,7 +9473,7 @@
   "chapter": "Matrices",
   "number": 9,
   "page": 95,
-  "seq": 343,
+  "seq": 344,
   "answer": "C",
   "stemText": "The characteristic roots of the matrix 9. [1 07 0 2 3 0 are 4 5 6 (a) 4, 5, 6 (b) 2, 4, 6 (c) 1,3, 6 (2008) (d) 1, 2, 4",
   "year": 2008,
@@ -8972,7 +9482,13 @@
    "w": 711,
    "h": 328
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0095-q009-s.png",
+    "w": 718,
+    "h": 884
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -8981,7 +9497,7 @@
   "chapter": "Matrices",
   "number": 10,
   "page": 96,
-  "seq": 344,
+  "seq": 345,
   "answer": "D",
   "stemText": "a2 a3 b2 10.IfA= C2 [a2 b3 b b2 b3 C3 a3 then (b) B = A2 (a) B =0 (2008) (d) A =B (c) A = -B 2 [1 then A-'=",
   "year": 2008,
@@ -8999,7 +9515,7 @@
   "chapter": "Matrices",
   "number": 12,
   "page": 96,
-  "seq": 345,
+  "seq": 346,
   "answer": "D",
   "stemText": "12. If A(adj A) = 5I where I is the identity matrix of order 3, then |adj A| is equal to (b) 10 (a) 5 (2008) (d) 25 (c) 125 D+x x+2 x+1",
   "year": 2008,
@@ -9023,7 +9539,7 @@
   "chapter": "Matrices",
   "number": 13,
   "page": 96,
-  "seq": 346,
+  "seq": 347,
   "answer": "B",
   "stemText": "x + b = 0, then a, b, c are x+3 13. If x+2 x+3 x+4 x+c (b) in A.P. equal (a) (d) in H.P. (2009) (c) in G.P. l0gx 2 logx y 1",
   "year": 2009,
@@ -9047,7 +9563,7 @@
   "chapter": "Matrices",
   "number": 15,
   "page": 96,
-  "seq": 348,
+  "seq": 349,
   "answer": "B",
   "stemText": "2 15. If 0 1 0 2 1 (b) 81 (a) 1/9 (2009) (d) 9 (c) 0",
   "year": 2009,
@@ -9071,7 +9587,7 @@
   "chapter": "Matrices",
   "number": 16,
   "page": 96,
-  "seq": 349,
+  "seq": 350,
   "answer": "C",
   "stemText": "16. If A and B are square matrices of the same order such that (A + B)(A - B) = A2 - B2, then (ABA-')2= (b) A2 (a) A2B2 (c) B2 (2009) (d) I cos2 θ 1+sin2 0 4sin20 1+cos^ θ sin2 θ",
   "year": 2009,
@@ -9089,7 +9605,7 @@
   "chapter": "Matrices",
   "number": 18,
   "page": 96,
-  "seq": 350,
+  "seq": 351,
   "answer": "A",
   "stemText": "18. If A and B are two square matrices of the same order such that AB = B and BA = A, then A2 + B2 is always equal to (b) I (a) A + B (2010) (d) 2AB (c) 2BA",
   "year": 2010,
@@ -9113,7 +9629,7 @@
   "chapter": "Matrices",
   "number": 19,
   "page": 96,
-  "seq": 351,
+  "seq": 352,
   "answer": "C",
   "stemText": "19. If A is a 3 × 3 nonsingular matrix and if [A| = 3, then {(2A)-]= 1 1 (d) (b) 24 (c) (a) 3 3 24 (2010) 2",
   "year": 2010,
@@ -9131,7 +9647,7 @@
   "chapter": "Matrices",
   "number": 20,
   "page": 96,
-  "seq": 352,
+  "seq": 353,
   "answer": "B",
   "stemText": "then A2 + xA + yI = 0 for 20. If A = (x, y) = (b) (-4, 1) (a) (-1, 3) (2010) (d) (4, 1) (c) (1, 3)",
   "year": 2010,
@@ -9155,7 +9671,7 @@
   "chapter": "Matrices",
   "number": 21,
   "page": 96,
-  "seq": 353,
+  "seq": 354,
   "answer": "D",
   "stemText": "21. The constant term of the polynomial x+2 x+3 x x-1 x+1 is x 3x +1 x+2 2x (b) 0 (a) 2 (d) -1 (2010) (c) 1 sinθ cosθ , then A·A'is",
   "year": 2010,
@@ -9173,7 +9689,7 @@
   "chapter": "Matrices",
   "number": 22,
   "page": 96,
-  "seq": 354,
+  "seq": 355,
   "answer": "A",
   "stemText": "22.If A= cosθ -sinθ (b) A (a) I (d) A2 (2011) (c) -A [1 -1 2",
   "year": 2011,
@@ -9197,7 +9713,7 @@
   "chapter": "Matrices",
   "number": 23,
   "page": 96,
-  "seq": 355,
+  "seq": 356,
   "answer": "A",
   "stemText": "is singular, then the value x-2 23. If 1 1 1 x 1 of x is (b) 3 (a) 2 (2011) (d) 0 (c) 1",
   "year": 2011,
@@ -9221,7 +9737,7 @@
   "chapter": "Matrices",
   "number": 24,
   "page": 96,
-  "seq": 356,
+  "seq": 357,
   "answer": "D",
   "stemText": "24. If A and B are symmetric matrices of the same order, then which one of the following is NOT true ? (a) A + B is symmetric (b) A - B is symmetric (c) AB + BA is symmetric (2011) (d) AB - BA is symmetric",
   "year": 2011,
@@ -9230,7 +9746,13 @@
    "w": 728,
    "h": 337
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0096-q024-s.png",
+    "w": 701,
+    "h": 420
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -9239,7 +9761,7 @@
   "chapter": "Matrices",
   "number": 26,
   "page": 97,
-  "seq": 357,
+  "seq": 358,
   "answer": "B",
   "stemText": "26. , x is a non-zero real number is G: x x a group with respect to matrix multiplication. [1/3 1/37 In this group, the inverse of is 1/3 1/3 4/3 4/3 3/4 3/4 (a) (b) 4/34/3 3/43/4 37 1 1 (c) (d) (2011) 3 3 sinα sin(α+ 8) cOSO",
   "year": 2011,
@@ -9263,7 +9785,7 @@
   "chapter": "Matrices",
   "number": 27,
   "page": 97,
-  "seq": 358,
+  "seq": 359,
   "answer": "A",
   "stemText": "27. sinβ cosβ sin(β + 8) cosYsin(+8) siny (a) 0 (b) 1 (c) 1 + sinα sinβ siny (d) 1 - (sinα - sinβ) (sinβ - siny) (siny - sinoa) (2011) sinx cosx tanxf , then Lt f(x)",
   "year": 2011,
@@ -9287,7 +9809,7 @@
   "chapter": "Matrices",
   "number": 28,
   "page": 97,
-  "seq": 359,
+  "seq": 360,
   "answer": "B",
   "stemText": "x2 28.Iff(x)= x3 x x→0 x2 2x 1 x (a) 1 (b) 0 (c) 3 (d) 2 (2012)",
   "year": 2012,
@@ -9305,7 +9827,7 @@
   "chapter": "Matrices",
   "number": 29,
   "page": 97,
-  "seq": 360,
+  "seq": 361,
   "answer": "A",
   "stemText": "29. Inverse of a diagonal non-singular matrix is (a)diagonal matrix (b) scalar matrix (c) skew symmetric matrix (d) zero matrix (2012)",
   "year": 2012,
@@ -9323,7 +9845,7 @@
   "chapter": "Matrices",
   "number": 30,
   "page": 97,
-  "seq": 361,
+  "seq": 362,
   "answer": "C",
   "stemText": "30. If ax* + bx3 + cx2 + dx + e = x2 + 3x x-1 x+3 x+1 -2x x- 4],then e = x-3 3x x+4 (a) -1 (b) 1 (c) 0 (d) 2 (2012)",
   "year": 2012,
@@ -9341,7 +9863,7 @@
   "chapter": "Matrices",
   "number": 32,
   "page": 97,
-  "seq": 362,
+  "seq": 363,
   "answer": "C",
   "stemText": "32. If A and B are square matrices of order ‘n' such that A2 - B2 = (A - B)(A + B), then which of the following will be true? (a) Either of A or B is zero matrix. (b) A = B (c) AB = BA (d) Either of A or B is an identity matrix. (2013) 2 α",
   "year": 2013,
@@ -9365,7 +9887,7 @@
   "chapter": "Matrices",
   "number": 33,
   "page": 97,
-  "seq": 363,
+  "seq": 364,
   "answer": "C",
   "stemText": "and |A3| = 125,then α = 33. If A = 2 α (a) ±1 (b) ±2 (c) ±3 (d) ±5 (2013) 1 1 x 1 x",
   "year": 2013,
@@ -9389,7 +9911,7 @@
   "chapter": "Matrices",
   "number": 34,
   "page": 97,
-  "seq": 364,
+  "seq": 365,
   "answer": "B",
   "stemText": "dA 34.If A=1 and B= x 1 then 1 x dx 1 1 x (a) 3B + 1 (b) 3B (c) -3B (d) 1 -3B (2013)",
   "year": 2013,
@@ -9413,7 +9935,7 @@
   "chapter": "Matrices",
   "number": 36,
   "page": 97,
-  "seq": 366,
+  "seq": 367,
   "answer": "D",
   "stemText": "36. If the matrix A + B, where A is symmetric and B is skew symmetric, then B = 4 0 -2 (a) (b) 4 2 0 0 1 (c) (2013) 0",
   "year": 2013,
@@ -9437,7 +9959,7 @@
   "chapter": "Matrices",
   "number": 37,
   "page": 97,
-  "seq": 367,
+  "seq": 368,
   "answer": "B",
   "stemText": "37. IfA is 3 × 4 matrix and B is a matrix such that A'B and BA' are both defined, then B is of the type (a) 4 x 4 (b) 3 × 4 (c) 4 x 3 (d) 3 × 3 (2014)",
   "year": 2014,
@@ -9461,7 +9983,7 @@
   "chapter": "Matrices",
   "number": 39,
   "page": 98,
-  "seq": 368,
+  "seq": 369,
   "answer": "C",
   "stemText": "39. If A is a matrix of order 3, such that A (adj A) = 10 I, then ladj A| = (b) 10 (a) 1 (2014) (d) 10 I (c) 100",
   "year": 2014,
@@ -9485,7 +10007,7 @@
   "chapter": "Matrices",
   "number": 44,
   "page": 98,
-  "seq": 372,
+  "seq": 373,
   "answer": "D",
   "stemText": "then A2 is equal to 44.If A= 0 1 0 0 1 (b) a 0 0 1 0 (2015) (d) (c) 0 1 0 α 2",
   "year": 2015,
@@ -9509,7 +10031,7 @@
   "chapter": "Matrices",
   "number": 45,
   "page": 98,
-  "seq": 373,
+  "seq": 374,
   "answer": "D",
   "stemText": "and [A’| = 27, then 45.If A 2 α= (P) (b)± √5 (c) ±1 (a) ± 2 (2015) 2a y1 x abc",
   "year": 2015,
@@ -9533,7 +10055,7 @@
   "chapter": "Matrices",
   "number": 46,
   "page": 98,
-  "seq": 374,
+  "seq": 375,
   "answer": "B",
   "stemText": "46.If then the area ≠0, 2b x2 y2 2 2c y3 x3 whose the triangle vertices are of x3 y3 and is 1- 1 (b) abc (a) 8 8 1 1 (2015) (d) abc (c) 一 一 4 4 sin150 cos15°",
   "year": 2015,
@@ -9542,7 +10064,13 @@
    "w": 717,
    "h": 497
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0098-q046-s.png",
+    "w": 717,
+    "h": 975
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -9551,7 +10079,7 @@
   "chapter": "Matrices",
   "number": 47,
   "page": 98,
-  "seq": 375,
+  "seq": 376,
   "answer": "A",
   "stemText": "47. Evaluate sin75° cos75° (d) 2 (b) 3 (c) 1 (a) 0 (2015)",
   "year": 2015,
@@ -9575,7 +10103,7 @@
   "chapter": "Matrices",
   "number": 49,
   "page": 99,
-  "seq": 376,
+  "seq": 377,
   "answer": "C",
   "stemText": "If A is any square matrix of order 3 × 3 then 49. [3A| is equal to (a) 3|A1 (b) |A| 3 (c) 27 JA] (d) 9 [AI (2016) sin-(πx) x tan 1",
   "year": 2016,
@@ -9584,7 +10112,13 @@
    "w": 713,
    "h": 291
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c13-p0099-q049-s.png",
+    "w": 680,
+    "h": 234
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -9593,7 +10127,7 @@
   "chapter": "Matrices",
   "number": 50,
   "page": 99,
-  "seq": 377,
+  "seq": 378,
   "answer": "D",
   "stemText": "π 50.If A = cot-(πx) sin π -cos-(πx) tan 1 B= π -tan-(πx) sin then A - B is equal to (a) I (b) 0 (d) (c) 21 2 (2016)",
   "year": 2016,
@@ -9617,7 +10151,7 @@
   "chapter": "Matrices",
   "number": 51,
   "page": 99,
-  "seq": 378,
+  "seq": 379,
   "answer": "D",
   "stemText": "51. If A is a matrix of order m x n and B is a matrix such that AB' and B'A are both defined, the order of the matrix B is (a) m xm (b) n x n (c) n × m (d) mx n (2016)",
   "year": 2016,
@@ -9641,7 +10175,7 @@
   "chapter": "Matrices",
   "number": 52,
   "page": 99,
-  "seq": 379,
+  "seq": 380,
   "answer": "C",
   "stemText": "52. If xyz are not equal and ≠ 0, ≠ 1 the value of logx logy logz log2x log2y log2z| is equal to log3x log3ylog3z (a) log(xyz) (b) log (6xyz) (c) 0 (d) log(x + y + z) (2016) cos20 -sin20]",
   "year": 2016,
@@ -9665,7 +10199,7 @@
   "chapter": "Matrices",
   "number": 53,
   "page": 99,
-  "seq": 380,
+  "seq": 381,
   "answer": "A",
   "stemText": "53. If A= and A + AT = I, sin20 cos20 where Iis the unit matrix of 2 × 2 & AT is the transpose of A, then the value of 0 is equal to 元一 匹 3π (b) (a) (c) π (d) 3 6 2 (2016)",
   "year": 2016,
@@ -9689,7 +10223,7 @@
   "chapter": "Matrices",
   "number": 54,
   "page": 99,
-  "seq": 381,
+  "seq": 382,
   "answer": "D",
   "stemText": "54. If A = then A2 - 5A is equal to -1 2 (a) I (b) -I (c) 7I (d) -71 (2016)",
   "year": 2016,
@@ -9713,7 +10247,7 @@
   "chapter": "Matrices",
   "number": 55,
   "page": 99,
-  "seq": 382,
+  "seq": 383,
   "answer": "D",
   "stemText": "55. If A is a square matrix of order 3 × 3, then [KA| is equal to (a) K]Al (b) K2|A] (c) 3K|A] (d) K*|A] (2017)",
   "year": 2017,
@@ -9737,7 +10271,7 @@
   "chapter": "Matrices",
   "number": 56,
   "page": 99,
-  "seq": 383,
+  "seq": 384,
   "answer": "B",
   "stemText": "56. If a matrix A is both symmetric and skew symmetric, then (a) A is diagonal matrix (b) A is a zero matrix (c) A is scalar matrix (d) A is square matrix (2017) 3 2 3 x",
   "year": 2017,
@@ -9761,7 +10295,7 @@
   "chapter": "Matrices",
   "number": 57,
   "page": 99,
-  "seq": 384,
+  "seq": 385,
   "answer": "C",
   "stemText": "57.If then x is equal to x (a) 8 (b) 4 (c) ±2√2 (d) 2 (2017) 6",
   "year": 2017,
@@ -9785,7 +10319,7 @@
   "chapter": "Matrices",
   "number": 58,
   "page": 99,
-  "seq": 385,
+  "seq": 386,
   "answer": "A",
   "stemText": "58.If then the 8 value of x and y are (a) x = 3, y = 3 (b) x = -3, y = 3 (c) x = 3, y = -3 (d) x = -3, y = -3 (2017)",
   "year": 2017,
@@ -9809,7 +10343,7 @@
   "chapter": "Matrices",
   "number": 59,
   "page": 99,
-  "seq": 386,
+  "seq": 387,
   "answer": "D",
   "stemText": "59. The area of triangle with vertices (K, 0), (4, 0), (0, 2) is 4 square units, then value of Kis (a) 8 (b) 0 or -8 (c) 0 (2017) (d) 0 or 8 sin-(πx) tan 1",
   "year": 2017,
@@ -9833,7 +10367,7 @@
   "chapter": "Matrices",
   "number": 61,
   "page": 100,
-  "seq": 387,
+  "seq": 388,
   "answer": "B",
   "stemText": "By y2 1and △ = 61. Let △= x y Z Cz z2 zy zx xy then (a) △, = -△ (b) = (d) △≠ (c) , = 2△ (2017) 2",
   "year": 2017,
@@ -9857,7 +10391,7 @@
   "chapter": "Matrices",
   "number": 62,
   "page": 100,
-  "seq": 388,
+  "seq": 389,
   "answer": "D",
   "stemText": "then An = 2*A, where k = 62. If A= -2 2 (a) 2n-1 (b) n + 1 (d) 2(n - 1) (2018) (c) n - 1",
   "year": 2018,
@@ -9881,7 +10415,7 @@
   "chapter": "Matrices",
   "number": 63,
   "page": 100,
-  "seq": 389,
+  "seq": 390,
   "answer": "D",
   "stemText": "then the values of x 63. If and y respectively are (b) 1, 3 (a) -3, -1 (2018) (c) 3, 1 (d) -1,3 sinα cosα",
   "year": 2018,
@@ -9905,7 +10439,7 @@
   "chapter": "Matrices",
   "number": 64,
   "page": 100,
-  "seq": 390,
+  "seq": 391,
   "answer": "D",
   "stemText": ", then AA'= 64. If A = -sinα cOSa (b)zero matrix (a) A (d) I (2018) (c) A'",
   "year": 2018,
@@ -9929,7 +10463,7 @@
   "chapter": "Matrices",
   "number": 67,
   "page": 100,
-  "seq": 392,
+  "seq": 393,
   "answer": "C",
   "stemText": "67. If (x, y1), (x2, y2) and (x3, y) are the vertices of a triangle whose area is k square units, 2 4 x1 Y1 then is 4 x2 y2 4 x3 y3 (a) 32k2 (b) 16k2(c) 64k2(d) 48k2 (2018)",
   "year": 2018,
@@ -9953,7 +10487,7 @@
   "chapter": "Matrices",
   "number": 70,
   "page": 100,
-  "seq": 394,
+  "seq": 395,
   "answer": "D",
   "stemText": "70. If P and Q are symmetric matrices of the same order then PQ - QP is (a) identity matrix (b) zero matrix (c) symmetric matrix (2019) (d) skew symmetric matrix [7 17 -10",
   "year": 2019,
@@ -9977,7 +10511,7 @@
   "chapter": "Matrices",
   "number": 71,
   "page": 100,
-  "seq": 395,
+  "seq": 396,
   "answer": "A",
   "stemText": "and 2B - 3A' 71. If3A + 4B' 31 0 6 [-1 18 4 0 then B = -5 -7 1 -18 3 -1 -1 (b) (a) 4 -16 1 -5 -7 2 4 3 -3 1 1 (d) -1 -1 1 1 (c) 2 4 2 -4 (2019) 3 1",
   "year": 2019,
@@ -9995,7 +10529,7 @@
   "chapter": "Matrices",
   "number": 72,
   "page": 100,
-  "seq": 396,
+  "seq": 397,
   "answer": "C",
   "stemText": "then |ABB= 72.IfA= 4 (c) -250 (d) 250 (b) 100 (a) 50 (2019)",
   "year": 2019,
@@ -10019,7 +10553,7 @@
   "chapter": "Matrices",
   "number": 74,
   "page": 101,
-  "seq": 397,
+  "seq": 398,
   "answer": "D",
   "stemText": "The constant term in the expansion of 74. 3x+1 x+2 2x-1 5x-1 3x+2 x+1 is 7x-2 4x-1 3x+1 (a) 0 (b) -10 (c) 2 (d) 6 (2019) (0 0",
   "year": 2019,
@@ -10043,7 +10577,7 @@
   "chapter": "Matrices",
   "number": 75,
   "page": 101,
-  "seq": 398,
+  "seq": 399,
   "answer": "B",
   "stemText": "75.If A= then A* is equal to 0 0 1 1 0 0 (a) 2A (b) I (c) 4A (d) A (2020) 3 b+ x x2-x x+D",
   "year": 2020,
@@ -10067,7 +10601,7 @@
   "chapter": "Matrices",
   "number": 76,
   "page": 101,
-  "seq": 399,
+  "seq": 400,
   "answer": "B",
   "stemText": "76. If f(x)= x-a c+x,then x-b 0 x-C (a) f(2) = 0 (b) f(0) = 0 (c) f(-1) = 0 (d) f(1) = 0 (2020)",
   "year": 2020,
@@ -10091,7 +10625,7 @@
   "chapter": "Matrices",
   "number": 78,
   "page": 101,
-  "seq": 400,
+  "seq": 401,
   "answer": "A",
   "stemText": "78. If then the matrix A is A -2 2 (a) (b) -3 3 2 (2 -1 1 (c) (d) 3 2 3 2 (2020)",
   "year": 2020,
@@ -10115,7 +10649,7 @@
   "chapter": "Matrices",
   "number": 79,
   "page": 101,
-  "seq": 401,
+  "seq": 402,
   "answer": "B",
   "stemText": "79. If a, a2, a3, a, are in A.P., then the a3 a a2 value of a4 a5 is a6 a7 ag a9 (a) a, + ag loge(loge e) (b) 9 (c) 1 (d) (a +ag) 一 2 (2020)",
   "year": 2020,
@@ -10139,7 +10673,7 @@
   "chapter": "Matrices",
   "number": 80,
   "page": 101,
-  "seq": 402,
+  "seq": 403,
   "answer": "A",
   "stemText": "80. If A is a square matrix of order 3 and [A| = 5, then [A adj A| is (a) 125 (b) 25 (c) 625 (d) 5 (2020)",
   "year": 2020,
@@ -10172,7 +10706,13 @@
    "w": 710,
    "h": 142
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c05-p0054-q001-s.png",
+    "w": 713,
+    "h": 334
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10190,7 +10730,13 @@
    "w": 710,
    "h": 180
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c05-p0054-q002-s.png",
+    "w": 713,
+    "h": 54
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10226,7 +10772,13 @@
    "w": 732,
    "h": 217
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c05-p0054-q007-s.png",
+    "w": 708,
+    "h": 1586
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10244,7 +10796,13 @@
    "w": 732,
    "h": 284
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c05-p0054-q008-s.png",
+    "w": 674,
+    "h": 1735
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10253,7 +10811,7 @@
   "chapter": "Probability",
   "number": 1,
   "page": 90,
-  "seq": 315,
+  "seq": 316,
   "answer": "D",
   "stemText": "1.A and B are two events such that P(A) ≠ 0, P(B/A) if (i)A is a subset of B (ii) A B = Φ are respectively (a) 1, 1 (b) 0, 1 (2014) (d) 1, 0 (c) 0, 0",
   "year": 2014,
@@ -10271,7 +10829,7 @@
   "chapter": "Probability",
   "number": 2,
   "page": 90,
-  "seq": 316,
+  "seq": 317,
   "answer": "A",
   "stemText": "Two dice are thrown simultaneously. The 2. probability of obtaining a total score of 5 is 1 1 1 1 (b) (c) (d) (a) 36 9 18 12 (2014)",
   "year": 2014,
@@ -10289,7 +10847,7 @@
   "chapter": "Probability",
   "number": 3,
   "page": 90,
-  "seq": 317,
+  "seq": 318,
   "answer": "B",
   "stemText": "3. If the events A and B are independent if 2 and P(B’)= then P(A B) is 7 3 equal to 3 5 1 4 (d) (c) (b) (a) 21 21 21 21 (2014)",
   "year": 2014,
@@ -10298,7 +10856,13 @@
    "w": 718,
    "h": 293
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c12-p0090-q003-s.png",
+    "w": 713,
+    "h": 267
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10307,7 +10871,7 @@
   "chapter": "Probability",
   "number": 4,
   "page": 90,
-  "seq": 318,
+  "seq": 319,
   "answer": "C",
   "stemText": "4. A box contains 100 bulbs, out of which 10 are defective. A sample of 5 bulbs is drawn. The probability that none is defective is ()(d) 9 (b) (a) 10 (2014)",
   "year": 2014,
@@ -10325,7 +10889,7 @@
   "chapter": "Probability",
   "number": 5,
   "page": 90,
-  "seq": 319,
+  "seq": 320,
   "answer": "A",
   "stemText": "5. A man takes a step forward with probability 0.4 and one step backward with probability 0.6, then the probability that at the end of eleven steps he is one step away from the starting point, is (a) 11Cs ×(0.24)5 (b) 11C x (0.72)6 (c) 11Cs × (0.48)5 (d) 11Cs × (0.12)5 (2015)",
   "year": 2015,
@@ -10343,7 +10907,7 @@
   "chapter": "Probability",
   "number": 8,
   "page": 90,
-  "seq": 320,
+  "seq": 321,
   "answer": "B",
   "stemText": "If two dice are thrown simultaneously, then 8. the probability that the suin of the numbers which come up on the dice to be more than 5 is 13 5 5 1 (d) (b) (c) (a) -6 18 36 18 (2015) 17 7",
   "year": 2015,
@@ -10352,7 +10916,13 @@
    "w": 759,
    "h": 320
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c12-p0090-q008-s.png",
+    "w": 713,
+    "h": 428
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10361,7 +10931,7 @@
   "chapter": "Probability",
   "number": 9,
   "page": 90,
-  "seq": 321,
+  "seq": 322,
   "answer": "C",
   "stemText": "whereP 9. If P(AB)= and P(B): 20 10 stands for probability then P (A/B) is equal to 17 14 7 1 (b) (c) (d) (a) 17 20 8 8 (2016)",
   "year": 2016,
@@ -10370,7 +10940,13 @@
    "w": 759,
    "h": 253
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c12-p0090-q009-s.png",
+    "w": 713,
+    "h": 180
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10379,7 +10955,7 @@
   "chapter": "Probability",
   "number": 10,
   "page": 90,
-  "seq": 322,
+  "seq": 323,
   "answer": "B",
   "stemText": "10. Two cards are drawn at random from a pack of 52 cards. The probability of these two being “Aces\" is 1 1 1 (d) (c) (b) (a) 26 2 13 221 (2016)",
   "year": 2016,
@@ -10403,7 +10979,7 @@
   "chapter": "Probability",
   "number": 11,
   "page": 90,
-  "seq": 323,
+  "seq": 324,
   "answer": "C",
   "stemText": "11. Two dice are thrown simultaneously, the probability of obtaining a total score of 5 is 1 1 1 1 (b) (d) (a) (c) 6 12 9 18 (2016)",
   "year": 2016,
@@ -10427,7 +11003,7 @@
   "chapter": "Probability",
   "number": 13,
   "page": 91,
-  "seq": 324,
+  "seq": 325,
   "answer": "D",
   "stemText": "13. The probability distribution of X is X 0 1 2 3 P(X) 0.3 k 2k 2k The value of k is (a) 0.7 (b) 0.3 (c) 1 (d) 0.14 (2017)",
   "year": 2017,
@@ -10451,7 +11027,7 @@
   "chapter": "Probability",
   "number": 14,
   "page": 91,
-  "seq": 325,
+  "seq": 326,
   "answer": "A",
   "stemText": "14. Two events A and B will be independent if (a) P(A' B′) = (1 - P(A)) (1 - P(B)) (b) A and B are mutually exclusive (c) P(A) + P(B) = 1 (d) P(A) = P(B) (2017)",
   "year": 2017,
@@ -10475,7 +11051,7 @@
   "chapter": "Probability",
   "number": 15,
   "page": 91,
-  "seq": 326,
+  "seq": 327,
   "answer": "B",
   "stemText": "15. For the probability distribution given by X=x 0 1 2 25 5 1 P 36 18 36 the standard deviation (o) is 1 (a) (b) 3 3 2 5 (d) None of the above (c) √36 (2018)",
   "year": 2018,
@@ -10493,7 +11069,7 @@
   "chapter": "Probability",
   "number": 16,
   "page": 91,
-  "seq": 327,
+  "seq": 328,
   "answer": "A",
   "stemText": "16. A bag contains 17 tickets numbered from 1 to 17. A ticket is drawn at random, then another ticket is drawn without replacing the first one. The probability that both the tickets may show even numbers is 8 7 7 7 (b) (d) (a) (c) 34 17 17 16 (2018)",
   "year": 2018,
@@ -10517,7 +11093,7 @@
   "chapter": "Probability",
   "number": 17,
   "page": 91,
-  "seq": 328,
+  "seq": 329,
   "answer": "A",
   "stemText": "17. A flashlight has 10 batteries out of which 4 are dead. If 3 batteries are selected without replacement and tested, then the probability that all 3 are dead is (a) 1/30 (b) 2/8 (c) 1/15 (d) 1/10 (2018)",
   "year": 2018,
@@ -10541,7 +11117,7 @@
   "chapter": "Probability",
   "number": 19,
   "page": 91,
-  "seq": 329,
+  "seq": 330,
   "answer": "C",
   "stemText": "19. In a simultaneous throw of a pair of dice, the probability of getting a total more than 7 is 7 5 7 5 (a) (b) (c) (d) 12 36 36 12 (2018)",
   "year": 2018,
@@ -10565,7 +11141,7 @@
   "chapter": "Probability",
   "number": 20,
   "page": 91,
-  "seq": 330,
+  "seq": 331,
   "answer": "A",
   "stemText": "20. If A and B are mutually exclusive events, given 3 1 that P(A)= then P(A or B) is P(B)= 5 5 (a) 0.8 (b) 0.6 (c) 0.4 (d) (2018) 0.2",
   "year": 2018,
@@ -10589,7 +11165,7 @@
   "chapter": "Probability",
   "number": 21,
   "page": 91,
-  "seq": 331,
+  "seq": 332,
   "answer": "D",
   "stemText": "21. Two letters are chosen from the letters of the word ‘EQUATIONS: The probability that one is vowel and the other is consonant is 3 4 5 8 (a) (b) (c) (d) -9 9 9 9 (2019)",
   "year": 2019,
@@ -10607,7 +11183,7 @@
   "chapter": "Probability",
   "number": 22,
   "page": 91,
-  "seq": 332,
+  "seq": 333,
   "answer": "A",
   "stemText": "22. A random variable ‘X' has the following probability distribution : X 3 1 2 4 5 6 7 k-1 k2+k P(X) 3k k 3k2 K2 3k Then the value of k is 1 1 (b) (a) (d) (c) - 2 5 7 10 (2019)",
   "year": 2019,
@@ -10616,7 +11192,13 @@
    "w": 686,
    "h": 376
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c12-p0091-q022-s.png",
+    "w": 718,
+    "h": 210
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10625,7 +11207,7 @@
   "chapter": "Probability",
   "number": 23,
   "page": 91,
-  "seq": 333,
+  "seq": 334,
   "answer": "B",
   "stemText": "23. If A and B are two events of a sample space S such that P(A) = 0.2, P(B) = 0.6 and P(A|B) = 0.5, then P(A'|B) = (a) 3/10 (b) 1/2 (c) 2/3 (d) (2019) 1/3",
   "year": 2019,
@@ -10649,7 +11231,7 @@
   "chapter": "Probability",
   "number": 25,
   "page": 91,
-  "seq": 334,
+  "seq": 335,
   "answer": "D",
   "stemText": "25. A man speaks truth 2 out of 3 times. He picks one of the natural numbers in the set S = {1, 2, 3, 4, 5, 6, 7} and reports that it is even. The probability that it is actually even is 1 1 (a) 2 3 (b) (c) (d) 10 5 5 5 (2019)",
   "year": 2019,
@@ -10673,7 +11255,7 @@
   "chapter": "Probability",
   "number": 26,
   "page": 92,
-  "seq": 335,
+  "seq": 336,
   "answer": "D",
   "stemText": "26. If A and B are two events such that P(A) = 1 1 P(B)= and P(A B)= then P 6 2 2 1 1 1 (d) (c) (b) (a) 二 3 12 2 3 (2020)",
   "year": 2020,
@@ -10682,7 +11264,13 @@
    "w": 712,
    "h": 327
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c12-p0092-q026-s.png",
+    "w": 718,
+    "h": 311
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10691,7 +11279,7 @@
   "chapter": "Probability",
   "number": 27,
   "page": 92,
-  "seq": 336,
+  "seq": 337,
   "answer": "A",
   "stemText": "27. A die is thrown 10 times, the probability that an odd number will come up atleast one time is 11 1013 1 1023 (d) (b) (c) (a) 1024 1024 1024 1024 (2020)",
   "year": 2020,
@@ -10715,7 +11303,7 @@
   "chapter": "Probability",
   "number": 29,
   "page": 92,
-  "seq": 337,
+  "seq": 338,
   "answer": "D",
   "stemText": "29. Events E, and E, form a partition of the sample space S. A is any event such that 1 1 P(E2 IA)=~ and P(E)=P(E2)= 2 2 2 P(A|E2)=, then P(E,↓A) is 3 1 1 2 (d) (c) (b) 1 (a) 2 4 3 (2020)",
   "year": 2020,
@@ -10739,7 +11327,7 @@
   "chapter": "Probability",
   "number": 30,
   "page": 92,
-  "seq": 338,
+  "seq": 339,
   "answer": "B",
   "stemText": "30. If A, B, C are three mutually exclusive and exhaustive events of an experiment such that P(A) = 2P(B) = 3P(C), then P(B) is equal to 1 3 4 2 (d) (c) (b) (a) 11 11 11 11 (2020)",
   "year": 2020,
@@ -10808,7 +11396,13 @@
    "w": 704,
    "h": 280
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c01-p0023-q004-s.png",
+    "w": 722,
+    "h": 165
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10826,7 +11420,13 @@
    "w": 704,
    "h": 192
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c01-p0023-q005-s.png",
+    "w": 722,
+    "h": 149
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10892,7 +11492,13 @@
    "w": 690,
    "h": 225
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c01-p0023-q008-s.png",
+    "w": 706,
+    "h": 130
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -10910,7 +11516,13 @@
    "w": 690,
    "h": 271
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c01-p0023-q009-s.png",
+    "w": 706,
+    "h": 471
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11630,7 +12242,13 @@
    "w": 709,
    "h": 226
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c01-p0026-q045-s.png",
+    "w": 714,
+    "h": 231
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11648,7 +12266,13 @@
    "w": 735,
    "h": 172
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c01-p0026-q047-s.png",
+    "w": 714,
+    "h": 227
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11732,7 +12356,13 @@
    "w": 709,
    "h": 300
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c07-p0061-q002-s.png",
+    "w": 710,
+    "h": 495
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11750,7 +12380,13 @@
    "w": 709,
    "h": 258
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c07-p0061-q003-s.png",
+    "w": 710,
+    "h": 256
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11792,7 +12428,37 @@
    "w": 709,
    "h": 348
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c07-p0061-q005-s.png",
+    "w": 721,
+    "h": 451
+   }
+  ],
+  "chapterConfidence": "high"
+ },
+ {
+  "subject": "Mathematics",
+  "source": "mtg-maths",
+  "chapter": "Sequences and Series",
+  "number": 7,
+  "page": 61,
+  "seq": 194,
+  "answer": "D",
+  "stemText": "Consider an infinite geometric series with 7. first term ^a' and common ratio 'r. If the sum 3 is 4 and the second term is then 二 4 3 4 3 (a) a=2,r: (b) D 8 7 7 3 1 1 (c) (d) α=3,r= 2 2 4 (2014)",
+  "year": 2014,
+  "image": {
+   "src": "mtg-maths/mtg-maths-c07-p0061-q007.png",
+   "w": 687,
+   "h": 380
+  },
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c07-p0061-q007-s.png",
+    "w": 721,
+    "h": 458
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11801,7 +12467,7 @@
   "chapter": "Sequences and Series",
   "number": 8,
   "page": 61,
-  "seq": 194,
+  "seq": 195,
   "answer": "C",
   "stemText": "If the 2nd and 5th terms of a G.P. are 24 and 3 8. respectively, then the sum of 1st six terms is 189 189 2 179 (a) (b) (c) (d) 189 5 2 2 (2015)",
   "year": 2015,
@@ -11819,7 +12485,7 @@
   "chapter": "Sequences and Series",
   "number": 9,
   "page": 61,
-  "seq": 195,
+  "seq": 196,
   "answer": "C",
   "stemText": "9. 3 + 5 + 7 + ... to n terms is (a) n2 (b) n(n -2) (c) n(n + 2) (d) (n + 1)2 (2017)",
   "year": 2017,
@@ -11828,7 +12494,13 @@
    "w": 687,
    "h": 132
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c07-p0061-q009-s.png",
+    "w": 711,
+    "h": 176
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11837,7 +12509,7 @@
   "chapter": "Sequences and Series",
   "number": 10,
   "page": 61,
-  "seq": 196,
+  "seq": 197,
   "answer": "D",
   "stemText": "10. If a, b, c are three consecutive terms of an A.P. and x, y, z are three consecutive terms of a G.P., then the value of xb -c . y-a . za -b is (a) 0 (b)xyz (c) -1 (d) 1 (2018)",
   "year": 2018,
@@ -11861,7 +12533,7 @@
   "chapter": "Sequences and Series",
   "number": 11,
   "page": 61,
-  "seq": 197,
+  "seq": 198,
   "answer": "B",
   "stemText": "11. The third term of a G.P. is 9. The product of its first five terms is (b) 310 (a) 35 (c) 39 (d) 312 (2019)",
   "year": 2019,
@@ -11885,7 +12557,7 @@
   "chapter": "Sequences and Series",
   "number": 12,
   "page": 61,
-  "seq": 198,
+  "seq": 199,
   "answer": "B",
   "stemText": "12. If the sum of n terms of an A.P. is given by S, = n? + n, then the common difference of the A.P. is (a) 1 (b) 2 (c) 6 (2020) (d) 4",
   "year": 2020,
@@ -11894,7 +12566,13 @@
    "w": 687,
    "h": 260
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c07-p0061-q012-s.png",
+    "w": 690,
+    "h": 1404
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11912,7 +12590,13 @@
    "w": 707,
    "h": 251
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c00-p0022-q001-s.png",
+    "w": 708,
+    "h": 358
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11930,7 +12614,13 @@
    "w": 707,
    "h": 210
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c00-p0022-q002-s.png",
+    "w": 708,
+    "h": 125
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11948,7 +12638,13 @@
    "w": 707,
    "h": 224
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c00-p0022-q003-s.png",
+    "w": 708,
+    "h": 253
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11966,7 +12662,13 @@
    "w": 746,
    "h": 168
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c00-p0022-q004-s.png",
+    "w": 745,
+    "h": 127
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -11984,7 +12686,13 @@
    "w": 746,
    "h": 202
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c00-p0022-q005-s.png",
+    "w": 745,
+    "h": 243
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12002,7 +12710,13 @@
    "w": 746,
    "h": 228
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c00-p0022-q006-s.png",
+    "w": 745,
+    "h": 323
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12011,7 +12725,7 @@
   "chapter": "Statistics",
   "number": 1,
   "page": 88,
-  "seq": 312,
+  "seq": 313,
   "answer": "C",
   "stemText": "1. If the coefficient of variation and standard deviation are 60 and 21 respectively, the arithmetic mean of distribution is (b) 30 (a) 60 (2014) (d) 21 (c) 35",
   "year": 2014,
@@ -12020,7 +12734,13 @@
    "w": 707,
    "h": 241
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c11-p0088-q001-s.png",
+    "w": 714,
+    "h": 156
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12029,7 +12749,7 @@
   "chapter": "Statistics",
   "number": 2,
   "page": 88,
-  "seq": 313,
+  "seq": 314,
   "answer": "B",
   "stemText": "The mean deviation from the data 3, 10, 10, 4, 2. 7,10, 5 is (b)2.57 (a) 2 (2015) (c) 3 (d)3.75",
   "year": 2015,
@@ -12038,7 +12758,13 @@
    "w": 707,
    "h": 188
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c11-p0088-q002-s.png",
+    "w": 714,
+    "h": 455
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12047,7 +12773,7 @@
   "chapter": "Statistics",
   "number": 6,
   "page": 88,
-  "seq": 314,
+  "seq": 315,
   "answer": "D",
   "stemText": "The standard deviation of the data 6, 7,8, 9, 10 6. is (a) √1o (b) 2 (d) √2 (2020) (c) 10",
   "year": 2020,
@@ -12056,7 +12782,13 @@
    "w": 745,
    "h": 238
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c11-p0088-q006-s.png",
+    "w": 677,
+    "h": 1862
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12065,7 +12797,7 @@
   "chapter": "Straight Lines",
   "number": 1,
   "page": 64,
-  "seq": 199,
+  "seq": 200,
   "answer": "A",
   "stemText": "1. If the lines x + 3y - 9 = 0, 4x + by - 2 = 0 and 2x - y - 4 = 0 are concurrent, then b equals (b) 5 (a) -5 (d) 0 (2006) (c) 1 The lines represented by ax2 + 2hxy + by2 = 0",
   "year": 2006,
@@ -12089,7 +12821,7 @@
   "chapter": "Straight Lines",
   "number": 2,
   "page": 64,
-  "seq": 200,
+  "seq": 201,
   "answer": "B",
   "stemText": "2. are perpendicular to each other if (a) h2 =a+b (b) a+b=0 (c) h2 = ab (d) h =0 (2006) ABC is a triangle. G is the centroid. D is the",
   "year": 2006,
@@ -12098,7 +12830,13 @@
    "w": 705,
    "h": 166
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c08-p0064-q002-s.png",
+    "w": 714,
+    "h": 89
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12107,7 +12845,7 @@
   "chapter": "Straight Lines",
   "number": 3,
   "page": 64,
-  "seq": 201,
+  "seq": 202,
   "answer": "B",
   "stemText": "3. mid point of BC. If A = (2, 3) and G = (7, 5), then the point D is 9 (b) (a) (2007) (d) 8,",
   "year": 2007,
@@ -12116,7 +12854,13 @@
    "w": 705,
    "h": 304
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c08-p0064-q003-s.png",
+    "w": 714,
+    "h": 1292
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12125,7 +12869,7 @@
   "chapter": "Straight Lines",
   "number": 5,
   "page": 64,
-  "seq": 202,
+  "seq": 203,
   "answer": "A",
   "stemText": "5. perpendicular drawn from the point (3, 4) on the line 2x + y - 7 = 0 is 9 17 (b) (1, 5) (a) (2007) (d) (1, -5) (c) (-5, 1)",
   "year": 2007,
@@ -12149,7 +12893,7 @@
   "chapter": "Straight Lines",
   "number": 6,
   "page": 64,
-  "seq": 203,
+  "seq": 204,
   "answer": "A",
   "stemText": "The area enclosed by the pair of lines xy = 0, 6. the line x - 4 = 0 and y + 5 = 0 is (b)10 sq. units (a) 20 sq. units 5 (d) 0 sq. units (2007) (c) -sq. units 4",
   "year": 2007,
@@ -12167,7 +12911,7 @@
   "chapter": "Straight Lines",
   "number": 7,
   "page": 64,
-  "seq": 204,
+  "seq": 205,
   "answer": "C",
   "stemText": "The centroid of the triangle ABC where 7. A = (2, 3), B = (8, 10) and C= (5, 5) is (a) (6, 6) (b) (15, 18) (d) (6, 5) (2008) (c) (5, 6)",
   "year": 2008,
@@ -12176,7 +12920,13 @@
    "w": 705,
    "h": 193
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c08-p0064-q007-s.png",
+    "w": 749,
+    "h": 241
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12185,7 +12935,7 @@
   "chapter": "Straight Lines",
   "number": 8,
   "page": 64,
-  "seq": 205,
+  "seq": 206,
   "answer": "B",
   "stemText": "8. If 3x2 + xy - y2 - 3x + 6y + k = 0 represents a pair of lines, then k = (b) - 9 (a) 1 (2008) 6 (P) (c) 0 =1 is such that a + b = 4.",
   "year": 2008,
@@ -12194,7 +12944,13 @@
    "w": 748,
    "h": 176
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c08-p0064-q008-s.png",
+    "w": 749,
+    "h": 537
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12203,7 +12959,7 @@
   "chapter": "Straight Lines",
   "number": 9,
   "page": 64,
-  "seq": 206,
+  "seq": 207,
   "answer": "B",
   "stemText": "A variableline 9. D The locus of the midpoint of the portion of the line intercepted between the axes is (b) x+y=2 (a) x+y=1 (d) x + y = 8 (2008) (c) x+y=4",
   "year": 2008,
@@ -12212,7 +12968,13 @@
    "w": 748,
    "h": 212
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c08-p0064-q009-s.png",
+    "w": 711,
+    "h": 360
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12221,7 +12983,7 @@
   "chapter": "Straight Lines",
   "number": 10,
   "page": 64,
-  "seq": 207,
+  "seq": 208,
   "answer": "D",
   "stemText": "10. If ax + by = 1, where a, b, x and y are integers, then which one of the following is not true ? (b) (a, b) = 1 (a) (b, y) = 1 (d) (x, y) = 1 (2009) (c) (a, y) = 1",
   "year": 2009,
@@ -12239,7 +13001,7 @@
   "chapter": "Straight Lines",
   "number": 11,
   "page": 64,
-  "seq": 208,
+  "seq": 209,
   "answer": "A",
   "stemText": "11. The foot of the perpendicular from the point (2, 4) upon x + y = 4 is (b) (3, -1) (a) (1, 3) (2009) (d) (4, 0) (c) (2, 2)",
   "year": 2009,
@@ -12263,7 +13025,7 @@
   "chapter": "Straight Lines",
   "number": 12,
   "page": 64,
-  "seq": 209,
+  "seq": 210,
   "answer": "D",
   "stemText": "12. The vertices of triangle are (6, 0), (0, 6) and (6, 6). The distance between its circumcentre and centroid is (b) 2√2 (a) 1 (d) √2 (2009) (c) 2",
   "year": 2009,
@@ -12287,7 +13049,7 @@
   "chapter": "Straight Lines",
   "number": 13,
   "page": 64,
-  "seq": 210,
+  "seq": 211,
   "answer": "D",
   "stemText": "13. The angle between the pair of lines x2 + 2xy - y2 = 0 is (b) π/3 (a) 0 (2009) (c) π/6 (d) π/2",
   "year": 2009,
@@ -12311,7 +13073,7 @@
   "chapter": "Straight Lines",
   "number": 14,
   "page": 64,
-  "seq": 211,
+  "seq": 212,
   "answer": "D",
   "stemText": "14. The line joining A(2, -7) and B(6, 5) is divided into 4 equal parts by the points P, Q and R such that AQ = RP = QB. The midpoint of PR is (b) (4, 12) (a) (-8, 1) (2010) (d) (4, -1) (c) (8, -2)",
   "year": 2010,
@@ -12335,7 +13097,7 @@
   "chapter": "Straight Lines",
   "number": 15,
   "page": 64,
-  "seq": 212,
+  "seq": 213,
   "answer": "C",
   "stemText": "15. Let P= (-1, 0), Q=(0, 0) and R = (3,3√3) be three points. The equation of the bisector of the angle PQR is (b) x-√3y=0 (a) √3x-y=0 (c) √3x+ y=0 (d) x+ √3y =0 (2010)",
   "year": 2010,
@@ -12359,7 +13121,7 @@
   "chapter": "Straight Lines",
   "number": 17,
   "page": 65,
-  "seq": 213,
+  "seq": 214,
   "answer": "C",
   "stemText": "17. The points A(1, 2), B(2, 4) and C(4, 8) form a/an (a) isosceles triangle (b) equilateral triangle (c) straight line (d) right angled triangle (2011)",
   "year": 2011,
@@ -12383,7 +13145,7 @@
   "chapter": "Straight Lines",
   "number": 18,
   "page": 65,
-  "seq": 214,
+  "seq": 215,
   "answer": "B",
   "stemText": "18. If lines represented by x + 3y - 6 = 0, 2x + y - 4 = 0 and kx - 3y + 1 = 0 are concurrent, then the value of k is (a) 6/19 (b) 19/6 (c) -19/6 (d) -6/19 (2011)",
   "year": 2011,
@@ -12401,7 +13163,7 @@
   "chapter": "Straight Lines",
   "number": 19,
   "page": 65,
-  "seq": 215,
+  "seq": 216,
   "answer": "D",
   "stemText": "19. If one of the slopes of the pair of the lines ax2 + 2hxy + by2 = 0 is n times the other, then (a) 4ab =(n + 1)2h (b) 4(n + 1)2ab = nab (c) 4h2=(n + 1)2ab (d) 4nh2=(n + 1)2ab (2012)",
   "year": 2012,
@@ -12419,7 +13181,7 @@
   "chapter": "Straight Lines",
   "number": 20,
   "page": 65,
-  "seq": 216,
+  "seq": 217,
   "answer": "A",
   "stemText": "20. The points (11,9), (2, 1) and (2, -1) are the midpoints of the sides of the triangle. Then the centroid is (a) (5, 3) (b) (-5, -3) (c) (5, -3) (d) (3, 5) (2012)",
   "year": 2012,
@@ -12437,7 +13199,7 @@
   "chapter": "Straight Lines",
   "number": 21,
   "page": 65,
-  "seq": 217,
+  "seq": 218,
   "answer": "D",
   "stemText": "21. The reflection of the point (1, 1) along the line y=-xis (a) (1, -1) (b) (0, 0) (c) (-1, 1) (d) (-1, -1) (2012)",
   "year": 2012,
@@ -12455,7 +13217,7 @@
   "chapter": "Straight Lines",
   "number": 22,
   "page": 65,
-  "seq": 218,
+  "seq": 219,
   "answer": "B",
   "stemText": "22. A = (cos0, sin0), B = (sin0, -cosθ) are two points. The locus of the centroid of △OAB, where 'O' is the origin is (a)x2+y2=3 (b) 9x2 + 9y2 = 2 (c)2x2+2y2=9 (d) 3x2 + 3y2 = 2 (2013)",
   "year": 2013,
@@ -12473,7 +13235,7 @@
   "chapter": "Straight Lines",
   "number": 23,
   "page": 65,
-  "seq": 219,
+  "seq": 220,
   "answer": "A",
   "stemText": "23. If the line 6x - 7y + 8 + A(3x - y + 5) = 0 is parallel to y-axis, then 入 = (a) -7 (b) -2 (c) 7 (2013) (d) 2",
   "year": 2013,
@@ -12491,7 +13253,7 @@
   "chapter": "Straight Lines",
   "number": 24,
   "page": 65,
-  "seq": 220,
+  "seq": 221,
   "answer": "A",
   "stemText": "24. The angle between the lines sin2α y2 - 2xy · cos^α + (cos^α - 1)x2 = 0 is (a) 90° (b) α (c) α/2 (d) 2α (2013)",
   "year": 2013,
@@ -12509,7 +13271,7 @@
   "chapter": "Straight Lines",
   "number": 26,
   "page": 65,
-  "seq": 221,
+  "seq": 222,
   "answer": "D",
   "stemText": "26. A straight line passes through the points (5, 0) and (0, 3). The length of perpendicular from the point (4, 4) on the line is √17 17 15 17 (a) (b) (c) (d) √34 V2 2 2 (2014)",
   "year": 2014,
@@ -12533,7 +13295,7 @@
   "chapter": "Straight Lines",
   "number": 27,
   "page": 65,
-  "seq": 222,
+  "seq": 223,
   "answer": "D",
   "stemText": "27. A line passes through (2, 2) and is perpendicular to the line 3x + y = 3. Its y-intercept is (a) 2/3 (b) 1 (c) 1/3 (d) 4/3 (2015)",
   "year": 2015,
@@ -12557,7 +13319,7 @@
   "chapter": "Straight Lines",
   "number": 28,
   "page": 65,
-  "seq": 223,
+  "seq": 224,
   "answer": "C",
   "stemText": "28. If the straight lincs 2x 1 3y 3 = 0 and x + ky + 7 = 0 are perpendicular, then the value of k is (b) 3/2 (a) 2/3 (c) -2/3 (d) -3/2 (2016)",
   "year": 2016,
@@ -12575,7 +13337,7 @@
   "chapter": "Straight Lines",
   "number": 29,
   "page": 65,
-  "seq": 224,
+  "seq": 225,
   "answer": "C",
   "stemText": "29. Equation of line passing through the point (1, 2) and perpendicular to the line y = 3x - 1 is (a) x - 3y = 0 (b) x + 3y = 0 (c) x + 3y - 7 = 0 (d) x+ 3y + 7 = 0 (2017)",
   "year": 2017,
@@ -12599,7 +13361,7 @@
   "chapter": "Straight Lines",
   "number": 31,
   "page": 65,
-  "seq": 225,
+  "seq": 226,
   "answer": "D",
   "stemText": "31. A line cuts off equal intercepts on the co-ordinate axes. The angle made by this line with the positive direction of X-axis is (a) 45° (b) 120° (c) 90° (d) 135° (2019)",
   "year": 2019,
@@ -12623,7 +13385,7 @@
   "chapter": "Straight Lines",
   "number": 32,
   "page": 65,
-  "seq": 226,
+  "seq": 227,
   "answer": "D",
   "stemText": "32. The two lines lx + my = n and Ix + m'y = n' are perpendicular if (a) lm' = ml (b) lm + l'm' = 0 (c) lm' + ml = 0 (d) ll + mm' = 0 (2020)",
   "year": 2020,
@@ -12641,7 +13403,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 1,
   "page": 173,
-  "seq": 690,
+  "seq": 692,
   "answer": "B",
   "stemText": "1. The distance of the point P(a, b, c) from the x-axis is (a) √a2+b2 (b) √b2 +c2 (d) √a2+c2 (c) a (2014)",
   "year": 2014,
@@ -12659,7 +13421,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 3,
   "page": 173,
-  "seq": 691,
+  "seq": 693,
   "answer": "C",
   "stemText": "3. The line ×-2 Z-4 is parallel to the plane 3 4 5 (a)2x + 3y + 4z = 0 (b) 3x + 4y + 5z = 7 (c) 2x+y- 2z= 0 (d) x+y+ z=2 (2014)",
   "year": 2014,
@@ -12668,7 +13430,13 @@
    "w": 705,
    "h": 224
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c21-p0173-q003-s.png",
+    "w": 705,
+    "h": 303
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12677,7 +13445,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 4,
   "page": 173,
-  "seq": 692,
+  "seq": 694,
   "answer": "A",
   "stemText": "4. The angle between two diagonals of a cube is (a) cos (b)30° () (d) 45° (2014) x-2_y-3",
   "year": 2014,
@@ -12695,7 +13463,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 5,
   "page": 173,
-  "seq": 693,
+  "seq": 695,
   "answer": "B",
   "stemText": "Z-4 5.Lines and 1 1 -K y-4 x-1 z-5 are coplanar if K 2 1 (a) K= 2 (b) K = 0 (c) K= 3 (d) K= -1 (2014) Let a=i+2j+k, b=i-j+k and c=i+j-k,",
   "year": 2014,
@@ -12704,7 +13472,13 @@
    "w": 705,
    "h": 265
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c21-p0173-q005-s.png",
+    "w": 705,
+    "h": 637
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -12713,7 +13487,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 6,
   "page": 173,
-  "seq": 694,
+  "seq": 696,
   "answer": "B",
   "stemText": "6. a vector in the plane of a and b whose 1 projection on ? is is √3 (a)4i+j-4k (b)4i-j+4k (c)3i+j-3k (d) i+j-2k (2015)",
   "year": 2015,
@@ -12731,7 +13505,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 9,
   "page": 173,
-  "seq": 695,
+  "seq": 697,
   "answer": "A",
   "stemText": "The vector equation of the plane which is 9. 3 at a distance from the origin and the √14 normal from the origin is 2i-3j+k is (a)r.(2i-3j+k)=3 (b) r.(i+j+k)=9 (c) r.(i+2j)=3 (d) r.(2i+k)=3 (2016)",
   "year": 2016,
@@ -12749,7 +13523,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 10,
   "page": 173,
-  "seq": 696,
+  "seq": 698,
   "answer": "D",
   "stemText": "10. Find the co-ordinates of the foot of the perpendicular drawn from the origin to the plane 5y + 8 = 0. 18 (a) (b) (d) (2016)",
   "year": 2016,
@@ -12767,7 +13541,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 11,
   "page": 173,
-  "seq": 697,
+  "seq": 699,
   "answer": "C",
   "stemText": "11. The distance of the point (-2, 4, -5) from the z+8 is 3 5 6 √37 37 37 37 (b) (a) (c) (d) √10 V10 10 10 (2017)",
   "year": 2017,
@@ -12791,7 +13565,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 13,
   "page": 174,
-  "seq": 698,
+  "seq": 700,
   "answer": "B",
   "stemText": "13. The plane 2x - 3y + 6z - 11 = 0 makes an angle sin-1 (o) with X-axis. The value of α is equal to √3 √2 3 2 (d) (b) (c) (a) 17 7 2 3 (2017)",
   "year": 2017,
@@ -12815,7 +13589,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 14,
   "page": 174,
-  "seq": 699,
+  "seq": 701,
   "answer": "B",
   "stemText": "14. Reflection of the point (α, β, Y) in XY plane is (b) (α, β, -v) (a) (0, 0, v) (d) (α,β, 0)(2017) (c) (-α, -β,v)",
   "year": 2017,
@@ -12839,7 +13613,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 15,
   "page": 174,
-  "seq": 700,
+  "seq": 702,
   "answer": "A",
   "stemText": "15. The image of the point (1, 6, 3) in the line _y-1 z-2 x is 1 3 2 (b) (7, 0, 1) (a) (1, 0, 7) (c) (2, 7, 0) (d) (-1, -6, -3) (2018)",
   "year": 2018,
@@ -12857,7 +13631,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 16,
   "page": 174,
-  "seq": 701,
+  "seq": 703,
   "answer": "C",
   "stemText": "16. The angle between the lines 2x = 3y = -z and 6x = -y = -4z is (b) 45° (a) 0° (d) 30° (2018) (c) 90°",
   "year": 2018,
@@ -12881,7 +13655,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 17,
   "page": 174,
-  "seq": 702,
+  "seq": 704,
   "answer": "D",
   "stemText": "valueofk theline such that 17. The y-2 z-k x-4 lies on the plane 2 1 1 2x - 4y + z = 7 is (b) 4 (a) -7 (2018) (d) 7 (c) -4",
   "year": 2018,
@@ -12899,7 +13673,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 18,
   "page": 174,
-  "seq": 703,
+  "seq": 705,
   "answer": "D",
   "stemText": "18. The locus represented by xy + yz = 0 is (a) a pair of perpendicular lines (b) a pair of parallel lines )a pair of parallel planes (c) (2018) (d) a pair of perpendicular planes",
   "year": 2018,
@@ -12923,7 +13697,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 19,
   "page": 174,
-  "seq": 704,
+  "seq": 706,
   "answer": "A",
   "stemText": "19. Foot of the perpendicular drawn from the point (1, 3, 4) to the plane 2x - y + z + 3 = 0 is (b) (1, 2, - 3) (a) (- 1, 4, 3) (d) (- 3, 5, 2) (2019) (c) (0,- 4, - 7)",
   "year": 2019,
@@ -12947,7 +13721,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 21,
   "page": 174,
-  "seq": 705,
+  "seq": 707,
   "answer": "C",
   "stemText": "21. The distance ofthe point (1, 2, 1) from the line z-3 y-2 x-1 is 2 2 1 2√3 √5 2√5 20 (d) (c) (b) (a) 5 3 3 3 (2019)",
   "year": 2019,
@@ -12965,7 +13739,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 22,
   "page": 174,
-  "seq": 706,
+  "seq": 708,
   "answer": "D",
   "stemText": "22. XY-plane divides the line joining the points A(2, 3, -5) and B(- 1, - 2, - 3) in the ratio (b) 5 : 3 internally (a) 2 : 1 internally (d) 5 : 3 externally (c) 3 : 2 externally (2019)",
   "year": 2019,
@@ -12989,7 +13763,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 25,
   "page": 174,
-  "seq": 707,
+  "seq": 709,
   "answer": "A",
   "stemText": "25. The distance of the point (1, 2, -4) from the y-3 z+5 x-3 line is 3 6 2 √293 293 (b) (a) 49 7 √293 293 (2020) (d) (c) 7 49",
   "year": 2020,
@@ -13013,7 +13787,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 26,
   "page": 174,
-  "seq": 708,
+  "seq": 710,
   "answer": "B",
   "stemText": "26. The point (1, -3, 4) lies in the octant (b) Fourth (a) Third (d) Second (2020) Eighth (c)",
   "year": 2020,
@@ -13037,7 +13811,7 @@
   "chapter": "Three Dimensional Geometry",
   "number": 27,
   "page": 174,
-  "seq": 709,
+  "seq": 711,
   "answer": "D",
   "stemText": "27. Ifthe vectors 2-3j+ 4k,2+ -kand +2 are coplanar, then the value of 入 is (b) -6 (a) -5 (2020) (d) 6 (c) 5",
   "year": 2020,
@@ -13046,7 +13820,13 @@
    "w": 731,
    "h": 319
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c21-p0174-q027-s.png",
+    "w": 689,
+    "h": 387
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13082,7 +13862,13 @@
    "w": 709,
    "h": 166
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0030-q002-s.png",
+    "w": 704,
+    "h": 341
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13100,7 +13886,13 @@
    "w": 709,
    "h": 366
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0030-q003-s.png",
+    "w": 704,
+    "h": 872
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13160,7 +13952,13 @@
    "w": 709,
    "h": 352
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0030-q006-s.png",
+    "w": 770,
+    "h": 504
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13196,7 +13994,13 @@
    "w": 709,
    "h": 128
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0030-q009-s.png",
+    "w": 716,
+    "h": 121
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13400,7 +14204,13 @@
    "w": 711,
    "h": 305
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0031-q023-s.png",
+    "w": 705,
+    "h": 251
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13634,7 +14444,13 @@
    "w": 715,
    "h": 270
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0032-q038-s.png",
+    "w": 724,
+    "h": 353
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13862,7 +14678,13 @@
    "w": 714,
    "h": 304
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0033-q052-s.png",
+    "w": 688,
+    "h": 775
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -13994,7 +14816,13 @@
    "w": 705,
    "h": 275
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0034-q060-s.png",
+    "w": 759,
+    "h": 522
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -14240,7 +15068,13 @@
    "w": 703,
    "h": 362
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c02-p0035-q077-s.png",
+    "w": 710,
+    "h": 822
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -14297,7 +15131,7 @@
   "chapter": "Vector Algebra",
   "number": 1,
   "page": 165,
-  "seq": 642,
+  "seq": 644,
   "answer": "A",
   "stemText": "1. If p=i+j, q=4k-jand ≠=i+k then the unit vector in the direction of 3p+q-2r is (i+2j+2k) (i+2j+2k) (a) (b) 3 3 (d)+2j+2k (2006) (C) j+2k 3",
   "year": 2006,
@@ -14315,7 +15149,7 @@
   "chapter": "Vector Algebra",
   "number": 2,
   "page": 165,
-  "seq": 643,
+  "seq": 645,
   "answer": "A",
   "stemText": "2. If a and bare the two vectors such that [a]=3√3, ↓6| = 4 and [a+6|=√7, then the angle between a and b is (a) 120 (b) 60 (c) 30 (d) 150 (2006)",
   "year": 2006,
@@ -14333,7 +15167,7 @@
   "chapter": "Vector Algebra",
   "number": 3,
   "page": 165,
-  "seq": 644,
+  "seq": 646,
   "answer": "C",
   "stemText": "If a is vector perpendicular to both b and , 3. then (a) a+(b+c)=0 (b) ax(b+) =0 (c) ax(bxc) =0 (d) a·(bxe)=0 (2006, 2013)",
   "year": 0,
@@ -14351,7 +15185,7 @@
   "chapter": "Vector Algebra",
   "number": 4,
   "page": 165,
-  "seq": 645,
+  "seq": 647,
   "answer": "B",
   "stemText": "If the area of the parallelogram with a and b as 4. two adjacent sides is15 sq.units,then the areaof the parallelogram having 3a + 2b and a + 36 as two adjacent sides in sq. units is (a) 120 (b) 105 (c) 75 (d) 45 (2006) If a=2i+3j-k,b=+2j-5k,c=3i+5j-k,",
   "year": 2006,
@@ -14369,7 +15203,7 @@
   "chapter": "Vector Algebra",
   "number": 5,
   "page": 165,
-  "seq": 646,
+  "seq": 648,
   "answer": "D",
   "stemText": "5. then a vector perpendicular to a and in the plane containing b and is (a)-17i+21j-97k (b) 17i+21j-123k (c)-17i-21j+97k (d) -17i-21j-97k (2007)",
   "year": 2007,
@@ -14387,7 +15221,7 @@
   "chapter": "Vector Algebra",
   "number": 6,
   "page": 165,
-  "seq": 647,
+  "seq": 649,
   "answer": "B",
   "stemText": "OA and BO are two vectors of magnitudes 6. 5 and 6 respectively. If ZBOA = 60° then OA·OB is equal to (a) 0 (b) 15 (c) -15 (d)15√3 (2007)",
   "year": 2007,
@@ -14405,7 +15239,7 @@
   "chapter": "Vector Algebra",
   "number": 8,
   "page": 165,
-  "seq": 648,
+  "seq": 650,
   "answer": "C",
   "stemText": "Ifa and b arevectorssuchthat |a+b|=|a-b|, 8. then the angle between aand b is (a) 120° (b) 60° (c) 90% (d) 30° (2007)",
   "year": 2007,
@@ -14414,7 +15248,13 @@
    "w": 666,
    "h": 168
   },
-  "solutionImages": [],
+  "solutionImages": [
+   {
+    "src": "mtg-maths/mtg-maths-c20-p0165-q008-s.png",
+    "w": 703,
+    "h": 468
+   }
+  ],
   "chapterConfidence": "high"
  },
  {
@@ -14423,7 +15263,7 @@
   "chapter": "Vector Algebra",
   "number": 9,
   "page": 165,
-  "seq": 649,
+  "seq": 651,
   "answer": "A",
   "stemText": "9. If a·i=a·(i+j)=a.(i+ j+k)=1 then a= (a) (b)i+j-k (c) i+j (d) -k (2008)",
   "year": 2008,
@@ -14447,7 +15287,7 @@
   "chapter": "Vector Algebra",
   "number": 10,
   "page": 165,
-  "seq": 650,
+  "seq": 652,
   "answer": "B",
   "stemText": "10. If a andb are unit vectors and |a+b|=1 then |a-b| is equal to (a) √5 (b) √3 (c) √2 (d) 1 (2008)",
   "year": 2008,
@@ -14471,7 +15311,7 @@
   "chapter": "Vector Algebra",
   "number": 11,
   "page": 165,
-  "seq": 651,
+  "seq": 653,
   "answer": "A",
   "stemText": "11. The of a=3i-j+5k projection b=2i+3j+k is 8 8 8 (b) V14 (a) (c) (d) √14 √35 √39 (2008)",
   "year": 2008,
@@ -14489,7 +15329,7 @@
   "chapter": "Vector Algebra",
   "number": 12,
   "page": 165,
-  "seq": 652,
+  "seq": 654,
   "answer": "B",
   "stemText": "12. A unit vector perpendicular to both the vectors i+ jand j+k is +j+k -j+k (a) (b) √3 √3 +j-k -i-j+k (c) (d) (2008) √3 3",
   "year": 2008,
@@ -14513,7 +15353,7 @@
   "chapter": "Vector Algebra",
   "number": 13,
   "page": 165,
-  "seq": 653,
+  "seq": 655,
   "answer": "D",
   "stemText": "13. Ifa.b=-|alb], then the angle between aand b is (a) 90° (b) 60° (c) 45 (d) 180° (2009)",
   "year": 2009,
@@ -14537,7 +15377,7 @@
   "chapter": "Vector Algebra",
   "number": 14,
   "page": 165,
-  "seq": 654,
+  "seq": 656,
   "answer": "B",
   "stemText": "14. Ifa+ 2b + 3 =0, then axb+bx+xa = (a) 0 (b) 6(b×) (c) 2(b×c) (d) 3(cxa) (2009)",
   "year": 2009,
@@ -14561,7 +15401,7 @@
   "chapter": "Vector Algebra",
   "number": 15,
   "page": 166,
-  "seq": 655,
+  "seq": 657,
   "answer": "C",
   "stemText": "15. If the volume of the parallelopiped with a, b and? as coterminous edges is 40 cubic units, then the volume of the parallelopiped having b+, +a and a+b as coterminous edges in cubic units is (d) 120 (a)160(b) 40 (c) 80 (2009)",
   "year": 2009,
@@ -14585,7 +15425,7 @@
   "chapter": "Vector Algebra",
   "number": 16,
   "page": 166,
-  "seq": 656,
+  "seq": 658,
   "answer": "A",
   "stemText": "16. If a,b and 7 are nonzero coplanar vectors, then [2a-b 36- 4c-a] (d) 27 (c) 9 (b) 25 (a) 0 (2010)",
   "year": 2010,
@@ -14609,7 +15449,7 @@
   "chapter": "Vector Algebra",
   "number": 17,
   "page": 166,
-  "seq": 657,
+  "seq": 659,
   "answer": "B",
   "stemText": "17.A space vector makes the angles 150°and 60° with thepositivedirection of Xand Y-axes. Theanglemade by thevector with thepositive direction of Z-axis is (c)120° (d) 180° (a) 60° (b) 90° (2010)",
   "year": 2010,
@@ -14633,7 +15473,7 @@
   "chapter": "Vector Algebra",
   "number": 18,
   "page": 166,
-  "seq": 658,
+  "seq": 660,
   "answer": "D",
   "stemText": "18. If a,b and? are unit vectors, such that a+b+e =0, then 3a.b+2b.c+?.a = (c) 3 (d) -3 (a) 1 (b) -1 (2010)",
   "year": 2010,
@@ -14657,7 +15497,7 @@
   "chapter": "Vector Algebra",
   "number": 19,
   "page": 166,
-  "seq": 659,
+  "seq": 661,
   "answer": "D",
   "stemText": "19. If i,j,k are unit vectors along the positive direction of X, Y and Z- axes, then a FALSE statement in the following is (a) ∑ix(jxk)=0 (b) ∑ix(j+k)=0 (c) ∑i(j+k)=0 (d ∑i(xk)=0 (2010)",
   "year": 2010,
@@ -14681,7 +15521,7 @@
   "chapter": "Vector Algebra",
   "number": 20,
   "page": 166,
-  "seq": 660,
+  "seq": 662,
   "answer": "C",
   "stemText": "20. If a,band are unit vectors such that a+ b+? =0 then angle between a and b is 2π (d) π (b) (c) (a) 3 3 2 (2011)",
   "year": 2011,
@@ -14705,7 +15545,7 @@
   "chapter": "Vector Algebra",
   "number": 21,
   "page": 166,
-  "seq": 661,
+  "seq": 663,
   "answer": "C",
   "stemText": "21. If a, band ? are non-coplanar, then the value DX2 bxc h is 2c.(axb) [3b·(cxa) -1 (q) 1 -1 (d) (c) (a) 6 6 3 2 (2011)",
   "year": 2011,
@@ -14723,7 +15563,7 @@
   "chapter": "Vector Algebra",
   "number": 22,
   "page": 166,
-  "seq": 662,
+  "seq": 664,
   "answer": "D",
   "stemText": "22.If2i+3j,i+j+k and Ai+4j+2k taken in an order are coterminous edges of a parallelopiped of volume 2 cu units, then value of 入 is (d) 4 (c) 3 (a) -4(b)2 (2011) vector perpendicular to both",
   "year": 2011,
@@ -14747,7 +15587,7 @@
   "chapter": "Vector Algebra",
   "number": 24,
   "page": 166,
-  "seq": 663,
+  "seq": 665,
   "answer": "A",
   "stemText": "24. If a, b and ? are three non-coplanar vectors and p, ? and 7 are vectors defined by axb bxc 2X2 and= then 29! 29 thevalueof (a +b)·p+(b +)·q+(c +a)· = (d) 2 (c) 1 (b) 0 (a) 3 (2012)",
   "year": 2012,
@@ -14771,7 +15611,7 @@
   "chapter": "Vector Algebra",
   "number": 25,
   "page": 166,
-  "seq": 664,
+  "seq": 666,
   "answer": "D",
   "stemText": "25. If(a ×b)2 +(a·b)2 =144 and |a |= 4,then |b |= (d) 3 (c) 8 (b) 16 (a) 12 (2012, 2018)",
   "year": 0,
@@ -14795,7 +15635,7 @@
   "chapter": "Vector Algebra",
   "number": 26,
   "page": 166,
-  "seq": 665,
+  "seq": 667,
   "answer": "A",
   "stemText": "26. If i+ j-k and 2i -- 3j+k are adjacent sides of a parallelogram, then the lengths of its diagonals are (a)√21,√13 (b) √3,v14 (d) √21,√3 (2012) (c)√13,√14",
   "year": 2012,
@@ -14819,7 +15659,7 @@
   "chapter": "Vector Algebra",
   "number": 27,
   "page": 166,
-  "seq": 666,
+  "seq": 668,
   "answer": "C",
   "stemText": "27. If the volume of the parallelepiped formed by three non-coplanar vector a,b and is 4 cubicunits, then [axb bx xa]= (d) 4 (c) 16 (b) 64 (a) 8 (2012)",
   "year": 2012,
@@ -14837,7 +15677,7 @@
   "chapter": "Vector Algebra",
   "number": 28,
   "page": 166,
-  "seq": 667,
+  "seq": 669,
   "answer": "B",
   "stemText": "28. If a =(1,2,3), b = (2, -1, 1), °C =(3,2, 1) and ax(bxc)=αa+βb +yc,then (a) α = 1,β= 10, = 3 α=0,β=10,= -3 (b) ( α+β+=8 (c) (2013) (d) α=β==0",
   "year": 2013,
@@ -14861,7 +15701,7 @@
   "chapter": "Vector Algebra",
   "number": 29,
   "page": 166,
-  "seq": 668,
+  "seq": 670,
   "answer": "C",
   "stemText": "29. If a 1b and (a+b) ⊥(a+ mb), then m = (c) -la2 (d) 0 (b) 1 (a) -1 (2013)",
   "year": 2013,
@@ -14879,7 +15719,7 @@
   "chapter": "Vector Algebra",
   "number": 30,
   "page": 166,
-  "seq": 669,
+  "seq": 671,
   "answer": "B",
   "stemText": "30. If a,b,c are unit vectors such that a+b+c=0, then a.b+b.c+c.a = 1 2- 3 3 (d) (c) (b) (a) 2 2 3 2 (2013, 2017)",
   "year": 0,
@@ -14897,7 +15737,7 @@
   "chapter": "Vector Algebra",
   "number": 32,
   "page": 167,
-  "seq": 670,
+  "seq": 672,
   "answer": "B",
   "stemText": "32. If a and b are two unit vectors inclined at an then the value of ↓a+b| is angle 3 equal to 1 (a) (b) greater than 1 (c) equal to 0 (d) less than 1 (2014)",
   "year": 2014,
@@ -14921,7 +15761,7 @@
   "chapter": "Vector Algebra",
   "number": 33,
   "page": 167,
-  "seq": 671,
+  "seq": 673,
   "answer": "A",
   "stemText": "33. The value of 「a-b b- -a is equal to (a) 0 (b) 1 (c) 2[a b] (d) 2 (2014)",
   "year": 2014,
@@ -14945,7 +15785,7 @@
   "chapter": "Vector Algebra",
   "number": 34,
   "page": 167,
-  "seq": 672,
+  "seq": 674,
   "answer": "D",
   "stemText": "34. If a=+2j+2k, []=5 and the angle between a and b is then the area of the triangle 6 formed by these two vectors as two sides is 15√3 15 15 (a) 15 (b) (c) (d) 2 2 4 (2015)",
   "year": 2015,
@@ -14969,7 +15809,7 @@
   "chapter": "Vector Algebra",
   "number": 35,
   "page": 167,
-  "seq": 673,
+  "seq": 675,
   "answer": "D",
   "stemText": "35. Let a=i-2j+3k. If b is a vector such that a.b = 162 and |a- 6|= √7, then |6|= (a) 14 (d) √ (b) 21 (c) 7 (2015)",
   "year": 2015,
@@ -14993,7 +15833,7 @@
   "chapter": "Vector Algebra",
   "number": 36,
   "page": 167,
-  "seq": 674,
+  "seq": 676,
   "answer": "A",
   "stemText": "36. If direction cosines of a vector of magnitude 2 3 are and a > 0, then vector is 3’ 3” 3 (a) 2i-j+2k (b)i+2j+2k (c)2i+j+2k (d)-2j+2k (2015)",
   "year": 2015,
@@ -15017,7 +15857,7 @@
   "chapter": "Vector Algebra",
   "number": 37,
   "page": 167,
-  "seq": 675,
+  "seq": 677,
   "answer": "D",
   "stemText": "37. If 2a.b =|a↓:]b| then the angle between a & b is (a) 30 (b) 0° (c) 90° (d) 60° (2016)",
   "year": 2016,
@@ -15041,7 +15881,7 @@
   "chapter": "Vector Algebra",
   "number": 38,
   "page": 167,
-  "seq": 676,
+  "seq": 678,
   "answer": "A",
   "stemText": "38. If a and b are unit vectors then what is the angle between aandb for √3a-6 to be unit vector? (a) 30° (b)45° (c) 60% (d) 90° (2016, 2017)",
   "year": 0,
@@ -15065,7 +15905,7 @@
   "chapter": "Vector Algebra",
   "number": 39,
   "page": 167,
-  "seq": 677,
+  "seq": 679,
   "answer": "C",
   "stemText": "39. Suppose a+b+ =0,|a|=3,↓b1=5,||= 7, then the angle between a & b is 元一 π一 (a) π (b) (c) (d) 2 3 4 (2016)",
   "year": 2016,
@@ -15089,7 +15929,7 @@
   "chapter": "Vector Algebra",
   "number": 40,
   "page": 167,
-  "seq": 678,
+  "seq": 680,
   "answer": "C",
   "stemText": "40. If a = 3, b = 4, c = 5 each one of a,b &°C is perpendicular to the sum of the remaining then |a+ b+| is equal to 5 2 (a) (b) (c) 5√2 (d) √5 √2 √5 (2016)",
   "year": 2016,
@@ -15113,7 +15953,7 @@
   "chapter": "Vector Algebra",
   "number": 41,
   "page": 167,
-  "seq": 679,
+  "seq": 681,
   "answer": "A",
   "stemText": "41. The value of x if x(i+ j+k) is a unit vector is 1 (b) ±√3 (c) ±3 1 (a) ± (d) ± √3 3 (2016)",
   "year": 2016,
@@ -15137,7 +15977,7 @@
   "chapter": "Vector Algebra",
   "number": 42,
   "page": 167,
-  "seq": 680,
+  "seq": 682,
   "answer": "C",
   "stemText": "42. If cos Q, cos β, cos Y are the direction cosines of a vector a ,then cos 2α + cos 2β + cos 2y is equal to (a) 2 (b) 3 (c) -1 (d) 0 (2016)",
   "year": 2016,
@@ -15161,7 +16001,7 @@
   "chapter": "Vector Algebra",
   "number": 43,
   "page": 167,
-  "seq": 681,
+  "seq": 683,
   "answer": "C",
   "stemText": "43. If a=2i+入j+ kandb=i+2j+ 3k are orthogonal, then value of 入 is 31 (a) (b) 1 (c) (d) 0 2 2 (2017)",
   "year": 2017,
@@ -15185,7 +16025,7 @@
   "chapter": "Vector Algebra",
   "number": 44,
   "page": 167,
-  "seq": 682,
+  "seq": 684,
   "answer": "B",
   "stemText": "44. If a and b are mutually perpendicular unit vectors, then (3a +2b)·(5a -6b) = (a) 5 (b) 3 (c) 6 (d) 12 (2018)",
   "year": 2018,
@@ -15209,7 +16049,7 @@
   "chapter": "Vector Algebra",
   "number": 45,
   "page": 167,
-  "seq": 683,
+  "seq": 685,
   "answer": "B",
   "stemText": "45. If the vectors a++k, +bj+k and the value of abc - (a + b + c) = (a) 2 (b) -2 (c) 0 (d) -1 (2018)",
   "year": 2018,
@@ -15233,7 +16073,7 @@
   "chapter": "Vector Algebra",
   "number": 46,
   "page": 167,
-  "seq": 684,
+  "seq": 686,
   "answer": "A",
   "stemText": "46. If a=+j+2k; b=μ+j-k are orthogonal and |a| =↓b|,then (,μ) = (a) (b) 4 9 (c) (d) (2018)",
   "year": 2018,
@@ -15251,7 +16091,7 @@
   "chapter": "Vector Algebra",
   "number": 47,
   "page": 167,
-  "seq": 685,
+  "seq": 687,
   "answer": "D",
   "stemText": "47. f|a|=16,161=4,then √/a×6 +1a.bβ = (a) 4 (b) 16 (c) 8 (d) 64 (2019)",
   "year": 2019,
@@ -15275,7 +16115,7 @@
   "chapter": "Vector Algebra",
   "number": 48,
   "page": 167,
-  "seq": 686,
+  "seq": 688,
   "answer": "A",
   "stemText": "2π 48. If the angle between a and b is and the 3 projection of a in the direction of b is - 2, then |a| = (a) 4 (b) 2 (c) 3 (d) 1 (2019)",
   "year": 2019,
@@ -15299,7 +16139,7 @@
   "chapter": "Vector Algebra",
   "number": 50,
   "page": 168,
-  "seq": 687,
+  "seq": 689,
   "answer": "D",
   "stemText": "50. [a+2b-,a-b,a-b-] = 2[a, b, ] (b) (a) 0 3[a, b, ] (2019) (c) [a, b,] (d)",
   "year": 2019,
@@ -15323,7 +16163,7 @@
   "chapter": "Vector Algebra",
   "number": 52,
   "page": 168,
-  "seq": 688,
+  "seq": 690,
   "answer": "C",
   "stemText": "52. The two vectors s the two sides ABandAC represents respectively of a △ABC. The length of the median though A is √14 (c) √14 (d) (b) 7 (a) 14 2 (2020)",
   "year": 2020,
@@ -15347,7 +16187,7 @@
   "chapter": "Vector Algebra",
   "number": 53,
   "page": 168,
-  "seq": 689,
+  "seq": 691,
   "answer": "B",
   "stemText": "53. If laxb +la·b2 =144 and a|=6, then|b| is equal to (b) 2 (a) 3 (2020) (d) 6 (c) 4",
   "year": 2020,

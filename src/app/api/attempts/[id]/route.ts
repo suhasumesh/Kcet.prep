@@ -28,7 +28,7 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
   // bank/book/optionStyle are what the card and the answer buttons are
   // labelled from, so they ship whether or not the test has been submitted.
   const common = 'subject chapter year number bank book optionStyle stemText stemImages options';
-  const fields = submitted ? `${common} answer solutionText solutionImages` : common;
+  const fields = submitted ? `${common} answer solutionText solutionImages solutionSource` : common;
 
   const docs = await Question.find({ _id: { $in: attempt.questions } }).select(fields).lean<any[]>();
   const byId = new Map(docs.map((d) => [String(d._id), d]));
@@ -50,7 +50,8 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
       stemImages: q.stemImages,
       options: (q.options || []).map((o: any) => ({ letter: o.letter, text: o.text, img: o.img })),
       ...(submitted
-        ? { answer: q.answer, solutionText: q.solutionText, solutionImages: q.solutionImages }
+        ? { answer: q.answer, solutionText: q.solutionText,
+           solutionImages: q.solutionImages, solutionSource: q.solutionSource ?? '' }
         : {}),
     };
   }).filter(Boolean);

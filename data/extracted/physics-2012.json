@@ -438,55 +438,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "Two thin plano-convex lenses each of focal length f are placed as shown in the figure. The \nratio of their effective focal lengths in the three cases is \n \n \n \n \n \n \n \n \n \n(i) \n(ii) \n(iii)",
+  "stemText": "Two thin plano-convex lenses each of focal length f are placed as shown in the figure. The \nratio of their effective focal lengths in the three cases is \n \n \n \n \n \n \n \n \n \n \na) 1 : 2 : 1 \nb) 1 : 1 : 1 \nc) 3 : 2 : 1 \nd) 1 : 2 : 3 \n(i) \n(ii) \n(iii)",
   "stemImages": [
    {
     "src": "physics-2012/q008-stem0.png",
     "w": 1254,
-    "h": 356
+    "h": 392
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "1 : 2 : 1",
-    "img": {
-     "src": "physics-2012/q008-optA.png",
-     "w": 232,
-     "h": 40
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "1 : 1 : 1",
-    "img": {
-     "src": "physics-2012/q008-optB.png",
-     "w": 260,
-     "h": 40
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "3 : 2 : 1",
-    "img": {
-     "src": "physics-2012/q008-optC.png",
-     "w": 248,
-     "h": 40
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "D",
-    "text": "1 : 2 : 3",
-    "img": {
-     "src": "physics-2012/q008-optD.png",
-     "w": 296,
-     "h": 40
-    }
+    "text": "",
+    "img": null
    }
   ],
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Ray Optics and Optical Instruments",
   "chapterScore": 5,
   "chapterMargin": 5,
@@ -501,55 +487,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "If the two slits in Young’s double slit experiment are of unequal width, then",
+  "stemText": "If the two slits in Young’s double slit experiment are of unequal width, then \n \na) the bright fringes will have unequal brightness \n \nb) the fringes do not appear \n \nc) the dark fringes are not perfectly dark \n \nd) the bright fringes will have unequal spacing",
   "stemImages": [
    {
     "src": "physics-2012/q009-stem0.png",
     "w": 1254,
-    "h": 39
+    "h": 182
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "g\np\nq\nthe bright fringes will have unequal brightness",
-    "img": {
-     "src": "physics-2012/q009-optA.png",
-     "w": 1147,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "g\ng\nq\ng\nthe fringes do not appear",
-    "img": {
-     "src": "physics-2012/q009-optB.png",
-     "w": 1147,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "g\npp\nthe dark fringes are not perfectly dark",
-    "img": {
-     "src": "physics-2012/q009-optC.png",
-     "w": 1149,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "D",
-    "text": "g\np\ny\nthe bright fringes will have unequal spacing",
-    "img": {
-     "src": "physics-2012/q009-optD.png",
-     "w": 1147,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    }
   ],
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Wave Optics",
   "chapterScore": 1,
   "chapterMargin": 1,
@@ -563,55 +535,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "The phenomenon of polarization shows that light has ............ nature",
+  "stemText": "The phenomenon of polarization shows that light has ............ nature \n \na) transverse \nb) longitudinal \nc) dual \nd) particle",
   "stemImages": [
    {
     "src": "physics-2012/q010-stem0.png",
     "w": 1254,
-    "h": 40
+    "h": 75
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "p\np\ntransverse",
-    "img": {
-     "src": "physics-2012/q010-optA.png",
-     "w": 232,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "longitudinal",
-    "img": {
-     "src": "physics-2012/q010-optB.png",
-     "w": 260,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "dual",
-    "img": {
-     "src": "physics-2012/q010-optC.png",
-     "w": 248,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "D",
-    "text": "particle",
-    "img": {
-     "src": "physics-2012/q010-optD.png",
-     "w": 296,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    }
   ],
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Wave Optics",
   "chapterScore": 4,
   "chapterMargin": 4,
@@ -625,55 +583,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "( )\n11. \nAcceleration of a charged particle of charge ‘q’ and mass ‘m’ moving in a uniform electric \nfield of strength ‘E’ is \nE",
+  "stemText": "( )\n11. \nAcceleration of a charged particle of charge ‘q’ and mass ‘m’ moving in a uniform electric \nfield of strength ‘E’ is \n \na) qE\nm \nb) mqE \nc) mE\nq \nd) m\nqE",
   "stemImages": [
    {
     "src": "physics-2012/q011-stem0.png",
     "w": 1254,
-    "h": 85
+    "h": 144
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "qE\nm",
-    "img": {
-     "src": "physics-2012/q011-optA.png",
-     "w": 232,
-     "h": 63
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "mqE",
-    "img": {
-     "src": "physics-2012/q011-optB.png",
-     "w": 260,
-     "h": 63
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "mE\nq",
-    "img": {
-     "src": "physics-2012/q011-optC.png",
-     "w": 248,
-     "h": 63
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "D",
-    "text": "m\nqE",
-    "img": {
-     "src": "physics-2012/q011-optD.png",
-     "w": 297,
-     "h": 63
-    }
+    "text": "",
+    "img": null
    }
   ],
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Electric Charges and Fields",
   "chapterScore": 2,
   "chapterMargin": 1,
@@ -688,55 +632,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "( )\n12. \nTwo fixed charges A and B of 5 μ C each are separated by a distance of 6 m. C is the mid \npoint of the line joining A and B. A charge ‘Q’ of -5 μ C is shot perpendicular to the line \njoining A and B through C with a kinetic energy of 0.06 J. The charge ‘Q’ comes to rest at a \npoint D. The distance CD is",
+  "stemText": "( )\n12. \nTwo fixed charges A and B of 5 μ C each are separated by a distance of 6 m. C is the mid \npoint of the line joining A and B. A charge ‘Q’ of -5 μ C is shot perpendicular to the line \njoining A and B through C with a kinetic energy of 0.06 J. The charge ‘Q’ comes to rest at a \npoint D. The distance CD is \n \na) \n3 m \nb) 3\n3 m \nc) 4 m \nd) 3 m",
   "stemImages": [
    {
     "src": "physics-2012/q012-stem0.png",
     "w": 1254,
-    "h": 136
+    "h": 181
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "3 m",
-    "img": {
-     "src": "physics-2012/q012-optA.png",
-     "w": 232,
-     "h": 48
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "3\n3 m",
-    "img": {
-     "src": "physics-2012/q012-optB.png",
-     "w": 260,
-     "h": 48
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "4 m",
-    "img": {
-     "src": "physics-2012/q012-optC.png",
-     "w": 248,
-     "h": 48
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "D",
-    "text": "3 m",
-    "img": {
-     "src": "physics-2012/q012-optD.png",
-     "w": 297,
-     "h": 48
-    }
+    "text": "",
+    "img": null
    }
   ],
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Work, Energy and Power",
   "chapterScore": 5,
   "chapterMargin": 3,
@@ -751,46 +681,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "( )\n13. \nA capacitor of capacitance 10 μ F is charged to 10 V. The energy stored in it is",
+  "stemText": "( )\n13. \nA capacitor of capacitance 10 μ F is charged to 10 V. The energy stored in it is \n \na) 500 μ J \nb) 1000 μ J \nc) 1 μ J \nf) 100 μ J",
   "stemImages": [
    {
     "src": "physics-2012/q013-stem0.png",
     "w": 1254,
-    "h": 40
+    "h": 76
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "p\np\n500 μ J",
-    "img": {
-     "src": "physics-2012/q013-optA.png",
-     "w": 232,
-     "h": 40
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "μ\ng\n1000 μ J",
-    "img": {
-     "src": "physics-2012/q013-optB.png",
-     "w": 260,
-     "h": 40
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "gy\n1 μ J \nf) 100 μ J",
-    "img": {
-     "src": "physics-2012/q013-optC.png",
-     "w": 582,
-     "h": 40
-    }
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
    }
   ],
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Electrostatic Potential and Capacitance",
   "chapterScore": 5,
   "chapterMargin": 4,
@@ -2114,55 +2039,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "One mole of an ideal gas is taken from A to B, from B to C and then back to A. The variation \nof its volume with temperature for that change is as shown. Its pressure at A is P0, volume \nis V0. Then, the internal energy \n \nA",
+  "stemText": "One mole of an ideal gas is taken from A to B, from B to C and then back to A. The variation \nof its volume with temperature for that change is as shown. Its pressure at A is P0, volume \nis V0. Then, the internal energy \n \nV \nA \nB \nC\n \na) at C is less than at B \n \nb) at B is more than at A \n \nc) at A and B are equal \n \nd) at A is more than at B",
   "stemImages": [
    {
     "src": "physics-2012/q035-stem0.png",
     "w": 1254,
-    "h": 135
+    "h": 281
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "V\nA \nat C is less than at B",
-    "img": {
-     "src": "physics-2012/q035-optA.png",
-     "w": 1147,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "V \nat B is more than at A",
-    "img": {
-     "src": "physics-2012/q035-optB.png",
-     "w": 1147,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "at A and B are equal",
-    "img": {
-     "src": "physics-2012/q035-optC.png",
-     "w": 1149,
-     "h": 40
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "D",
-    "text": "B \nC\nq\nat A is more than at B",
-    "img": {
-     "src": "physics-2012/q035-optD.png",
-     "w": 1147,
-     "h": 42
-    }
+    "text": "",
+    "img": null
    }
   ],
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Kinetic Theory",
   "chapterScore": 2,
   "chapterMargin": 1,
@@ -2800,55 +2711,41 @@
   "subject": "Physics",
   "year": 2012,
   "source": "Physics-2012.pdf",
-  "stemText": "In this circuit, the value of I2 is \n \n \n \nI2 \nI1 \n1.2 A\n10 Ω \n15 Ω",
+  "stemText": "In this circuit, the value of I2 is \n \n \n \n \na) 0.3 A \nb) 0.4 A \n \n \nc) 0.6 A \nd) 0.2 A \n \nI2 \nI1 \nI3\n1.2 A \n10 Ω \n15 Ω \n30 Ω",
   "stemImages": [
    {
     "src": "physics-2012/q046-stem0.png",
     "w": 1254,
-    "h": 111
+    "h": 221
    }
   ],
   "options": [
    {
     "letter": "A",
-    "text": "0.3 A",
-    "img": {
-     "src": "physics-2012/q046-optA.png",
-     "w": 232,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "B",
-    "text": "0.4 A \n \n1.2 A",
-    "img": {
-     "src": "physics-2012/q046-optB.png",
-     "w": 877,
-     "h": 39
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "C",
-    "text": "0.6 A",
-    "img": {
-     "src": "physics-2012/q046-optC.png",
-     "w": 234,
-     "h": 77
-    }
+    "text": "",
+    "img": null
    },
    {
     "letter": "D",
-    "text": "0.2 A \nI3\n30 Ω",
-    "img": {
-     "src": "physics-2012/q046-optD.png",
-     "w": 877,
-     "h": 77
-    }
+    "text": "",
+    "img": null
    }
   ],
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
+  "optionsInImage": true,
+  "optionStyle": "letter",
   "chapter": "Unclassified",
   "chapterScore": 0,
   "chapterMargin": 0,

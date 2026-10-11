@@ -20,6 +20,8 @@ export type QData = {
   answer?: 'A' | 'B' | 'C' | 'D' | null;
   solutionText?: string;
   solutionImages?: QImage[];
+  /** 'generated' when the working was written for us, not printed in a book */
+  solutionSource?: string;
 };
 
 /**
@@ -134,5 +136,18 @@ export function Solution({ q }: { q: QData }) {
       </div>
     );
   }
-  return <p className="whitespace-pre-wrap text-[15px] leading-relaxed text-ink-800">{q.solutionText}</p>;
+  return (
+    <div className="space-y-2">
+      <p className="whitespace-pre-wrap text-[15px] leading-relaxed text-ink-800">{q.solutionText}</p>
+      {/* The answer above it is the official key either way. This says only
+          that the working was written for us rather than printed in a book,
+          which a student is entitled to know before trusting a step. */}
+      {q.solutionSource === 'generated' && (
+        <p className="text-xs text-ink-400">
+          Worked out for this app, not reproduced from the examiner. The marked
+          answer is from the official key.
+        </p>
+      )}
+    </div>
+  );
 }

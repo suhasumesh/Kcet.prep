@@ -59,6 +59,7 @@ export default async function ResultsPage({
           options: (d.options ?? []).map((o: any) => ({ letter: o.letter, text: o.text, img: o.img ?? null })),
           answer: d.answer,
           solutionText: d.solutionText,
+          solutionSource: d.solutionSource ?? '',
           solutionImages: d.solutionImages ?? [],
         },
         selected: r.selected ?? null,

@@ -45,6 +45,12 @@ ANSWER_PAIR = re.compile(r'(?<!\d)(\d{1,3})\s*[.,)]?\s*\(\s*([a-d])\s*\)', re.I)
 MULTI_PAIR = re.compile(r'(?<!\d)(\d{1,3})\s*[.,)]?\s*\(\s*[a-d]\s*[,&]')
 YEAR_TAG = re.compile(r'\(\s*(19|20)(\d{2})\s*\)')
 SOLUTION_OPEN = re.compile(r'^\s*(\d{1,3})\s*[.,)]\s*\(?\s*([a-d])\s*[).:]', re.I)
+# The number of an explanation is printed in the margin and OCR often returns
+# that box out of order, so the band reads "(c) : Total number of students"
+# rather than "1. (c) : ...". The band already knows its own number from the
+# margin mark, so the opening only has to yield the letter -- and that letter
+# still has to agree with the answer key before anything is attached.
+LETTER_OPEN = re.compile(r'^\s*\(?\s*([a-d])\s*\)\s*[:.]', re.I)
 PAGE_NUMBER = re.compile(r'^\d{1,3}[-.]?$')
 # one cell of the answer-key grid, as OCR hands it over: the number and the
 # letter arrive as two boxes, and the letter is often clipped to "(c" or "c)"
@@ -442,8 +448,12 @@ def emit(doc, book, crop_dir, subject, label, compiled, dpi):
         explained = {}
         for p, s in [(p, b) for p, bs in data['solutions'] for b in bs]:
             m = SOLUTION_OPEN.match(s['text'])
-            if m and int(m.group(1)) == s['number']:
-                explained.setdefault(s['number'], (m.group(2).lower(), p, s))
+            letter = m.group(2) if m and int(m.group(1)) == s['number'] else None
+            if letter is None:
+                m = LETTER_OPEN.match(s['text'])
+                letter = m.group(1) if m else None
+            if letter:
+                explained.setdefault(s['number'], (letter.lower(), p, s))
 
         answers = {n: v[0] for n, v in explained.items()}
         for n, letter in data['answers'].items():

@@ -34,6 +34,39 @@ def page_words(page):
     return [w[:5] for w in page.get_text('words')]
 
 
+def figure_rects(page):
+    """Where the drawn things are: vector paths and placed images."""
+    out = [d['rect'] for d in page.get_drawings()]
+    for b in page.get_text('dict')['blocks']:
+        if b.get('type') == 1:
+            out.append(pymupdf.Rect(b['bbox']))
+    return out
+
+
+def figure_straddles(page, boundaries, left, right):
+    """
+    True when something drawn crosses a line between two option rows.
+
+    These papers set a graph or a circuit to the *right* of the options, so a
+    figure often occupies the same vertical space as all four of them. Cropped
+    row by row, it comes out as four meaningless slices -- one strip of a
+    graph sitting beside each choice. When that is what the page looks like,
+    the question has to be cropped whole instead.
+    """
+    for r in figure_rects(page):
+        # A real figure is a block, not a hairline: the equation fields in
+        # these papers leave thin boxes behind that cross a row boundary
+        # without being anything a reader would see.
+        if r.width < 12 or r.height < 20:
+            continue
+        if r.x1 < left or r.x0 > right:
+            continue
+        for y in boundaries:
+            if r.y0 < y - 2 and r.y1 > y + 2:
+                return True
+    return False
+
+
 def rows(words, tol=5.0):
     """Group words into horizontal rows keyed by rounded baseline."""
     out = []
@@ -150,6 +183,37 @@ def extract(pdf_path, out_dir, subject, year, dpi=170):
         row_keys = sorted(by_row)
         # bottom of the final option row = the "Ans:" line, or next question
         tail = q['ans']['y'] - 2 if q['ans'] else box[3]
+
+        # A figure drawn across the option rows cannot be cut into rows. Crop
+        # the question whole -- stem, options and figure together -- and let
+        # the interface show bare a-d buttons beside it, exactly as it does
+        # for the scanned booklets.
+        inner = [min(o['y'] for o in by_row[k]) - 2 for k in row_keys[1:]
+                 if k[0] == q['page']]
+        if inner and figure_straddles(page, inner, left, right):
+            whole = (stem_left, q['y0'] - 3, right, tail)
+            fn = 'q%03d-stem0.png' % n
+            whole_img = render(page, whole, os.path.join(crop_dir, fn), dpi)
+            whole_text = clean(page.get_text('text', clip=pymupdf.Rect(*whole)))
+            whole_text = re.sub(r'^\s*%d\s*\.\s*' % n, '', whole_text)
+            answer = None
+            if q['ans']:
+                line = doc[q['ans']['page']].get_text(
+                    'text', clip=pymupdf.Rect(left, q['ans']['y'] - 3,
+                                              right, q['ans']['y1'] + 3))
+                m = ANSLET.search(line)
+                if m:
+                    answer = m.group(1).upper()
+            out.append(dict(
+                number=n, subject=subject, year=year,
+                source=os.path.basename(pdf_path),
+                stemText=whole_text,
+                stemImages=[dict(src='%s/%s' % (slug, fn), **whole_img)] if whole_img else [],
+                options=[dict(letter=L, text='', img=None) for L in 'ABCD'],
+                answer=answer, solutionText='', solutionImages=[],
+                optionsInImage=True, optionStyle='letter',
+            ))
+            continue
 
         options = []
         for ri, key in enumerate(row_keys):

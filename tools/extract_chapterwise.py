@@ -63,6 +63,12 @@ CHAPTER_HEAD = re.compile(r'^\s*CHAPTER\b', re.I)
 YEAR_TAG = re.compile(r'\((19|20)\d{2}\)')
 # "3. (d): because ..." -- the letter an explanation opens with
 SOLUTION_OPEN = re.compile(r'^\s*(\d{1,3})\s*[.)]\s*\(?\s*([a-d])\s*[).:]', re.I)
+# The number of an explanation is printed in the margin and OCR often returns
+# that box out of order, so the band reads "(c) : Total number of students"
+# rather than "1. (c) : ...". The band already knows its own number from the
+# margin mark, so the opening only has to yield the letter -- and that letter
+# still has to agree with the answer key before anything is attached.
+LETTER_OPEN = re.compile(r'^\s*\(?\s*([a-d])\s*\)\s*[:.]', re.I)
 
 TITLE_PT = 26          # display type; body text in these scans tops out ~22pt
 CROP_DPI = 200
@@ -366,8 +372,12 @@ def extract(pdf_path, out_dir, subject, label, dpi=CROP_DPI, solutions=True):
         explained = {}
         for s in data['solutions']:
             m = SOLUTION_OPEN.match(s['text'])
-            if m and int(m.group(1)) == s['number']:
-                explained.setdefault(s['number'], (m.group(2).lower(), s))
+            letter = m.group(2) if m and int(m.group(1)) == s['number'] else None
+            if letter is None:
+                m = LETTER_OPEN.match(s['text'])
+                letter = m.group(1) if m else None
+            if letter:
+                explained.setdefault(s['number'], (letter.lower(), s))
 
         answers = {n: v[0] for n, v in explained.items()}
         for n, letter in data['answers'].items():
