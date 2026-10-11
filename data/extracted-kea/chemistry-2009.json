@@ -8,7 +8,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q001-stem0.png",
-    "w": 1897,
+    "w": 1956,
     "h": 372
    }
   ],
@@ -37,15 +37,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Isolation of Elements (Metallurgy)",
-  "chapterScore": 2,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "ore",
-   "bauxite"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 2,
@@ -56,7 +48,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q002-stem0.png",
-    "w": 1778,
+    "w": 1968,
     "h": 491
    }
   ],
@@ -85,14 +77,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Structure of Atom",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "de broglie"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 6,
@@ -103,7 +88,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q006-stem0.png",
-    "w": 1773,
+    "w": 1966,
     "h": 1010
    }
   ],
@@ -132,14 +117,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Structure of Atom",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "electronic configuration"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 7,
@@ -179,12 +157,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 8,
@@ -195,7 +168,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q008-stem0.png",
-    "w": 1865,
+    "w": 1964,
     "h": 469
    }
   ],
@@ -224,14 +197,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Chemical Bonding and Molecular Structure",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "covalent"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 9,
@@ -242,7 +208,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q009-stem0.png",
-    "w": 1769,
+    "w": 1961,
     "h": 461
    }
   ],
@@ -271,14 +237,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Equilibrium",
-  "chapterScore": 2,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "acid"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 10,
@@ -289,7 +248,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q010-stem0.png",
-    "w": 1770,
+    "w": 1955,
     "h": 331
    }
   ],
@@ -318,12 +277,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 11,
@@ -334,7 +288,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q011-stem0.png",
-    "w": 1765,
+    "w": 1958,
     "h": 328
    }
   ],
@@ -363,12 +317,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 12,
@@ -379,7 +328,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q012-stem0.png",
-    "w": 1866,
+    "w": 1962,
     "h": 427
    }
   ],
@@ -408,14 +357,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Equilibrium",
-  "chapterScore": 2,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "ph"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 13,
@@ -426,7 +368,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q013-stem0.png",
-    "w": 1871,
+    "w": 1965,
     "h": 436
    }
   ],
@@ -455,15 +397,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Thermodynamics",
-  "chapterScore": 6,
-  "chapterMargin": 6,
-  "chapterHits": [
-   "enthalpy of formation",
-   "enthalpy"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 14,
@@ -474,7 +408,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q014-stem0.png",
-    "w": 1875,
+    "w": 1967,
     "h": 412
    }
   ],
@@ -503,14 +437,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Equilibrium",
-  "chapterScore": 2,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "equilibrium"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 15,
@@ -521,7 +448,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q015-stem0.png",
-    "w": 1887,
+    "w": 1978,
     "h": 530
    }
   ],
@@ -550,15 +477,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Equilibrium",
-  "chapterScore": 6,
-  "chapterMargin": 5,
-  "chapterHits": [
-   "equilibrium constant",
-   "equilibrium"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 16,
@@ -569,7 +488,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q016-stem0.png",
-    "w": 1786,
+    "w": 1975,
     "h": 345
    }
   ],
@@ -598,14 +517,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Surface Chemistry",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "surface"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 17,
@@ -645,14 +557,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 2,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "chloride"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 18,
@@ -663,7 +568,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q018-stem0.png",
-    "w": 1772,
+    "w": 1970,
     "h": 346
    }
   ],
@@ -692,14 +597,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 4,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "carboxylic acid"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 19,
@@ -739,15 +637,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 5,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "chloroform",
-   "iodide"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 20,
@@ -758,7 +648,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q020-stem0.png",
-    "w": 1514,
+    "w": 1707,
     "h": 359
    }
   ],
@@ -787,15 +677,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Polymers",
-  "chapterScore": 5,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "pvc",
-   "rubber"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 21,
@@ -806,7 +688,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q021-stem0.png",
-    "w": 1513,
+    "w": 1707,
     "h": 569
    }
   ],
@@ -835,14 +717,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Organic Chemistry - Basic Principles",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "stability of"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 22,
@@ -853,7 +728,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q022-stem0.png",
-    "w": 1519,
+    "w": 1714,
     "h": 555
    }
   ],
@@ -882,12 +757,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 23,
@@ -898,7 +768,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q023-stem0.png",
-    "w": 1519,
+    "w": 1718,
     "h": 453
    }
   ],
@@ -927,12 +797,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 24,
@@ -943,7 +808,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q024-stem0.png",
-    "w": 1758,
+    "w": 1956,
     "h": 536
    }
   ],
@@ -972,12 +837,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 25,
@@ -988,7 +848,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q025-stem0.png",
-    "w": 1765,
+    "w": 1959,
     "h": 520
    }
   ],
@@ -1017,14 +877,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "p-Block Elements (Group 15-18)",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "argon"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 26,
@@ -1035,7 +888,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q026-stem0.png",
-    "w": 1765,
+    "w": 1961,
     "h": 528
    }
   ],
@@ -1064,14 +917,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "p-Block Elements (Group 15-18)",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "chlorine"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 28,
@@ -1082,7 +928,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q028-stem0.png",
-    "w": 1457,
+    "w": 1652,
     "h": 511
    }
   ],
@@ -1111,15 +957,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Redox Reactions",
-  "chapterScore": 5,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "oxidation state",
-   "oxidation"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 32,
@@ -1130,7 +968,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q032-stem0.png",
-    "w": 1868,
+    "w": 2007,
     "h": 463
    }
   ],
@@ -1159,12 +997,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 33,
@@ -1175,7 +1008,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q033-stem0.png",
-    "w": 1868,
+    "w": 1961,
     "h": 318
    }
   ],
@@ -1204,14 +1037,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 2,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "concentration"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 35,
@@ -1222,7 +1048,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q035-stem0.png",
-    "w": 1905,
+    "w": 1998,
     "h": 525
    }
   ],
@@ -1251,14 +1077,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "concentration"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 36,
@@ -1269,7 +1088,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q036-stem0.png",
-    "w": 1900,
+    "w": 1997,
     "h": 243
    }
   ],
@@ -1298,12 +1117,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 39,
@@ -1314,7 +1128,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q039-stem0.png",
-    "w": 1764,
+    "w": 1965,
     "h": 368
    }
   ],
@@ -1343,12 +1157,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 40,
@@ -1359,7 +1168,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q040-stem0.png",
-    "w": 1862,
+    "w": 1959,
     "h": 429
    }
   ],
@@ -1388,14 +1197,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Hydrogen",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "hydrogen"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 41,
@@ -1406,7 +1208,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q041-stem0.png",
-    "w": 1791,
+    "w": 1959,
     "h": 374
    }
   ],
@@ -1435,14 +1237,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electrochemistry",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "specific conductance"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 42,
@@ -1453,7 +1248,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q042-stem0.png",
-    "w": 1874,
+    "w": 1966,
     "h": 464
    }
   ],
@@ -1482,17 +1277,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Solutions",
-  "chapterScore": 9,
-  "chapterMargin": 7,
-  "chapterHits": [
-   "mole fraction",
-   "solution",
-   "ideal solution",
-   "vapour pressure"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 43,
@@ -1503,7 +1288,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q043-stem0.png",
-    "w": 1769,
+    "w": 1966,
     "h": 288
    }
   ],
@@ -1532,14 +1317,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Biomolecules",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "glucose"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 45,
@@ -1550,7 +1328,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q045-stem0.png",
-    "w": 1765,
+    "w": 1960,
     "h": 386
    }
   ],
@@ -1579,12 +1357,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 46,
@@ -1595,7 +1368,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q046-stem0.png",
-    "w": 1865,
+    "w": 1960,
     "h": 515
    }
   ],
@@ -1624,14 +1397,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Solid State",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "lattice"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 47,
@@ -1642,7 +1408,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q047-stem0.png",
-    "w": 1765,
+    "w": 1963,
     "h": 472
    }
   ],
@@ -1671,14 +1437,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Structure of Atom",
-  "chapterScore": 2,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "electron"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 48,
@@ -1718,14 +1477,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "aldol"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 49,
@@ -1736,7 +1488,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q049-stem0.png",
-    "w": 1864,
+    "w": 1962,
     "h": 551
    }
   ],
@@ -1765,14 +1517,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 2,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "alcohol"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 50,
@@ -1783,7 +1528,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q050-stem0.png",
-    "w": 1765,
+    "w": 1961,
     "h": 354
    }
   ],
@@ -1812,12 +1557,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 51,
@@ -1828,7 +1568,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q051-stem0.png",
-    "w": 1773,
+    "w": 1962,
     "h": 300
    }
   ],
@@ -1857,14 +1597,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "p-Block Elements (Group 13-14)",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "carbon"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 52,
@@ -1875,7 +1608,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q052-stem0.png",
-    "w": 1867,
+    "w": 1964,
     "h": 302
    }
   ],
@@ -1904,12 +1637,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 53,
@@ -1920,7 +1648,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q053-stem0.png",
-    "w": 1877,
+    "w": 1964,
     "h": 551
    }
   ],
@@ -1949,14 +1677,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Redox Reactions",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "oxidised"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 54,
@@ -1967,7 +1688,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q054-stem0.png",
-    "w": 1879,
+    "w": 1966,
     "h": 489
    }
   ],
@@ -1996,16 +1717,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 12,
-  "chapterMargin": 11,
-  "chapterHits": [
-   "phenol",
-   "ethanol",
-   "methanol"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 55,
@@ -2016,7 +1728,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q055-stem0.png",
-    "w": 1777,
+    "w": 1966,
     "h": 321
    }
   ],
@@ -2045,12 +1757,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 56,
@@ -2061,7 +1768,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q056-stem0.png",
-    "w": 1875,
+    "w": 1968,
     "h": 578
    }
   ],
@@ -2090,12 +1797,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 57,
@@ -2106,7 +1808,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q057-stem0.png",
-    "w": 1768,
+    "w": 1962,
     "h": 376
    }
   ],
@@ -2135,12 +1837,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 58,
@@ -2151,7 +1848,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q058-stem0.png",
-    "w": 1768,
+    "w": 1959,
     "h": 570
    }
   ],
@@ -2180,14 +1877,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Biomolecules",
-  "chapterScore": 12,
-  "chapterMargin": 12,
-  "chapterHits": [
-   "glucose"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 59,
@@ -2198,7 +1888,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q059-stem0.png",
-    "w": 1872,
+    "w": 1965,
     "h": 436
    }
   ],
@@ -2227,14 +1917,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Amines",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "amino"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 60,
@@ -2245,7 +1928,7 @@
   "stemImages": [
    {
     "src": "chemistry-2009-kea/q060-stem0.png",
-    "w": 1770,
+    "w": 1964,
     "h": 554
    }
   ],
@@ -2274,11 +1957,6 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  }
 ]

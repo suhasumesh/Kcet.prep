@@ -14,6 +14,25 @@ import mongoose from 'mongoose';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const EXTRACTED = path.join(ROOT, 'data', 'extracted');
+const SOLUTIONS = path.join(ROOT, 'data', 'solutions');
+
+/** The batch files, in the order they are applied. Leading "_" marks a note. */
+function solutionFiles() {
+  if (!fs.existsSync(SOLUTIONS)) return [];
+  return fs.readdirSync(SOLUTIONS).sort()
+    .filter((f) => f.endsWith('.json') && !f.startsWith('_'));
+}
+
+/** Just the keys, needed before the batches themselves are read. */
+function solutionKeys() {
+  const out = new Set();
+  for (const f of solutionFiles()) {
+    for (const k of Object.keys(JSON.parse(fs.readFileSync(path.join(SOLUTIONS, f), 'utf8')))) {
+      out.add(k);
+    }
+  }
+  return out;
+}
 const PRADEEP = path.join(ROOT, 'data', 'pradeep');
 const CHAPTERWISE = path.join(ROOT, 'data', 'chapterwise');
 const KEA = path.join(ROOT, 'data', 'extracted-kea');
@@ -103,7 +122,7 @@ async function main() {
     if (!existing || rows.length > existing.length) papers.set(file, rows);
   }
 
-  const ops = [];
+  let ops = [];
   let skipped = 0;
   // A question that reached the bank twice -- once from the paper it was set
   // in, once from a chapterwise book that reprints it -- would come up twice
@@ -180,8 +199,16 @@ async function main() {
   // and a student meeting one of those mid-test has been handed something
   // unanswerable. Three of the four markers is the test, which tolerates one
   // the OCR missed while still excluding prose.
+  //
+  // The test is on the OCR text, which is not perfect, so a crop I have
+  // already read and written working for is kept whatever the text looks
+  // like: having been solved by hand is better evidence than three bracketed
+  // letters. Two real questions were lost to the gate before this exception
+  // was added.
   const OPTION_MARK = /\(\s*([a-d])\s*\)/g;
-  function looksLikeQuestion(text) {
+  const solvedByHand = solutionKeys();
+  function looksLikeQuestion(text, key) {
+    if (key && solvedByHand.has(key)) return true;
     const seen = new Set();
     for (const m of String(text || '').matchAll(OPTION_MARK)) seen.add(m[1]);
     return seen.size >= 3;
@@ -206,11 +233,12 @@ async function main() {
           skipped++;
           continue;
         }
-        if (!looksLikeQuestion(q.stemText)) {
+        const label = BOOK_LABEL[q.source] || q.source;
+        const bankKey = ['pradeep', q.subject, 0, q.number, label, q.page || 0, q.seq || 0].join('|');
+        if (!looksLikeQuestion(q.stemText, bankKey)) {
           notQuestions++;
           continue;
         }
-        const label = BOOK_LABEL[q.source] || q.source;
         const chapter = canonicalChapter(q.subject, q.chapter);
         const doc = {
           subject: q.subject,
@@ -325,11 +353,9 @@ async function main() {
   // boundaries, so it cannot be trusted to say which question is which --
   // and kept here, keyed the same way the bank is, so a re-extract or a
   // reseed never loses them.
-  const SOLUTIONS = path.join(ROOT, 'data', 'solutions');
   const handWritten = new Map();
   if (fs.existsSync(SOLUTIONS)) {
-    for (const file of fs.readdirSync(SOLUTIONS).sort()) {
-      if (!file.endsWith('.json') || file.startsWith('_')) continue;
+    for (const file of solutionFiles()) {
       let parsed;
       try {
         parsed = JSON.parse(fs.readFileSync(path.join(SOLUTIONS, file), 'utf8'));
@@ -382,6 +408,35 @@ async function main() {
   if (handWritten.size) {
     console.log(`applied ${applied} hand-written solution(s) of ${handWritten.size} on file`);
   }
+
+  // ---- questions withdrawn after being read ------------------------------
+  // Reading every crop to write solutions turned up two kinds of row that
+  // must not reach a student: a crop that is not a complete question (prose,
+  // revision notes, options cut off at the foot of the band) and a question
+  // whose printed key is wrong or undecidable. Both were noted by hand in
+  // _broken.json and _suspect.json, which until now only kept them out of my
+  // own work queue -- they still shipped. They are dropped here instead.
+  //
+  // A flag is overridden by a hand-written solution for the same key: where
+  // the working got written, the question was understood and the key settled,
+  // so the note is stale.
+  const withdrawn = new Set();
+  for (const file of ['_broken.json', '_suspect.json']) {
+    const p = path.join(SOLUTIONS, file);
+    if (!fs.existsSync(p)) continue;
+    for (const k of Object.keys(JSON.parse(fs.readFileSync(p, 'utf8')))) {
+      if (k.startsWith('_')) continue;          // free-text notes, not keys
+      if (!handWritten.has(k)) withdrawn.add(k);
+    }
+  }
+  const kept = ops.filter((op) => {
+    const f = op.updateOne.filter;
+    return !withdrawn.has([f.bank, f.subject, f.year, f.number, f.book, f.page, f.seq].join('|'));
+  });
+  if (kept.length !== ops.length) {
+    console.log(`withdrew ${ops.length - kept.length} question(s) flagged unusable by hand`);
+  }
+  ops = kept;
 
   console.log(`upserting ${ops.length} questions (${skipped} skipped for missing answer key)...`);
   for (let i = 0; i < ops.length; i += 500) {
