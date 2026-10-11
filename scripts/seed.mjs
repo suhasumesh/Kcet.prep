@@ -324,6 +324,7 @@ async function main() {
   }
   let applied = 0;
   let retagged = 0;
+  let regraded = 0;
   for (const op of ops) {
     const f = op.updateOne.filter;
     const doc = op.updateOne.update.$set;
@@ -339,6 +340,17 @@ async function main() {
       doc.solutionSource = 'written';
       applied++;
     }
+    // A key that is demonstrably wrong is corrected rather than shipped: a
+    // question that marks a student down for the right answer is worse than
+    // no question at all. Only used where the chemistry is unambiguous, and
+    // always alongside a solution that shows the working.
+    if (typeof entry === 'object' && entry.answer
+        && ['A', 'B', 'C', 'D'].includes(entry.answer)) {
+      if (doc.answer !== entry.answer) {
+        doc.answer = entry.answer;
+        regraded++;
+      }
+    }
     if (typeof entry === 'object' && entry.ch) {
       doc.chapter = canonicalChapter(doc.subject, entry.ch);
       doc.puc = pucOf.get(`${doc.subject}|${doc.chapter}`) ?? doc.puc;
@@ -347,6 +359,7 @@ async function main() {
     }
   }
   if (retagged) console.log(`re-tagged ${retagged} question(s) read by hand`);
+  if (regraded) console.log(`corrected the answer key on ${regraded} question(s)`);
   if (handWritten.size) {
     console.log(`applied ${applied} hand-written solution(s) of ${handWritten.size} on file`);
   }

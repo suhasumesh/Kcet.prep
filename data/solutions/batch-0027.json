@@ -1,0 +1,42 @@
+{
+  "kcet|Chemistry|2015|58||0|0": "Work out the hybridisation and shape on each side of every conversion.\n(1) CH₄ ⇒ C₂H₆ : carbon is sp³ and tetrahedral in both. Neither changes.\n(2) NH₃ ⇒ NH₄⁺ : nitrogen is sp³ in both (3 bonds + 1 lone pair, then 4 bonds). The lone pair\nbecomes a bond, so the **shape** changes pyramidal ⇒ tetrahedral, but the hybridisation does not.\n(4) H₂O ⇒ H₃O⁺ : oxygen is sp³ in both (2 bonds + 2 lone pairs, then 3 bonds + 1 lone pair).\nShape changes bent ⇒ pyramidal; hybridisation unchanged.\n(3) BF₃ ⇒ BF₄⁻ : boron in BF₃ has 3 bond pairs and no lone pair, so sp² and trigonal planar.\nAccepting a fluoride ion gives 4 bond pairs, so sp³ and tetrahedral.\nHere **both** the hybridisation (sp² ⇒ sp³) and the geometry (planar ⇒ tetrahedral) change.\n∴ BF₃ to BF₄⁻.",
+
+  "kcet|Chemistry|2015|59||0|0": {
+    "ch": "s-Block Elements",
+    "s": "Clark's process removes **temporary** hardness, which is caused by the dissolved\nhydrogencarbonates of calcium and magnesium.\nIt works by adding a calculated quantity of slaked lime, Ca(OH)₂:\nCa(HCO₃)₂ + Ca(OH)₂ ⇒ 2CaCO₃↓ + 2H₂O\nMg(HCO₃)₂ + 2Ca(OH)₂ ⇒ Mg(OH)₂↓ + 2CaCO₃↓ + 2H₂O\nThe insoluble carbonate and hydroxide are filtered off and the water is soft.\nThe quantity matters: too much lime would leave the water alkaline and hard again, which is\nwhy the dose is calculated rather than simply added in excess.\nThe hydrogencarbonates in options (1) and (2) are the cause of the hardness, not the cure, and\nNa₂CO₃ is used in the washing soda method, a different process.\n∴ Ca(OH)₂."
+  },
+
+  "kcet|Chemistry|2014|11||0|0": {
+    "ch": "Solutions",
+    "s": "In an ideal binary liquid mixture the A–B interactions are identical in strength to the A–A and\nB–B interactions it replaces. Work through each quantity.\nΔHmix = 0 — no energy is gained or lost, because the new interactions match the old ones exactly.\nΔVmix = 0 — the molecules pack the same way, so the volumes are simply additive.\nΔSmix > 0 — mixing always increases disorder. There are far more ways to arrange two kinds\nof molecule at random than to keep them apart, so entropy rises.\nΔGmix = ΔHmix − TΔSmix = 0 − T(positive) = negative ⇒ ΔGmix < 0\nThat negative ΔG is why ideal liquids mix spontaneously in all proportions, and it is driven\nentirely by entropy, not by enthalpy.\nSo of the options only (2) has both signs right.\n∴ ΔSmix > 0 and ΔGmix < 0."
+  },
+
+  "kcet|Chemistry|2014|12||0|0": "Link free energy to cell potential through\nΔG° = −nFE°cell\nFirst find n, the moles of electrons for the equation as written:\nH₂ + ½O₂ ⇒ H₂O\nHydrogen goes from 0 to +1, and there are two hydrogen atoms, so n = 2.\nRearrange and substitute:\nE° = −ΔG°/(nF)\nE° = −(−240000 J)/(2 × 96500 C)\nE° = 240000/193000\nE° = 1.2435 V\nWork in joules, not kilojoules, so that the units give volts (J C⁻¹).\nThe trap is taking n = 1 from the ½O₂, which would double the answer to 2.48 V — option (3).\n∴ about 1.24 V.",
+
+  "kcet|Chemistry|2014|13||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "CuBr₂, CuCl₂ and CuF₂ are all well known copper(II) halides. The question is why the iodide\nis the exception.\nCu²⁺ is a mild oxidising agent and iodide is a good reducing agent, so if you try to bring them\ntogether they react rather than coexist:\n2Cu²⁺ + 4I⁻ ⇒ 2CuI↓ + I₂\nThe copper is reduced to Cu(I) and the iodide is oxidised to iodine.\nTwo things drive this. Iodide is the most easily oxidised of the halides, with the lowest\nelectrode potential; and Cu⁺ with the small iodide ion gives a very insoluble, highly lattice-stable\nCuI, which pulls the reaction over.\nThe same instability does not arise with Br⁻, Cl⁻ or F⁻, which are harder to oxidise.\nThis reaction is the basis of the iodometric estimation of copper.\n∴ CuI₂ is not known."
+  },
+
+  "kcet|Chemistry|2014|14||0|0": "Take the statements one at a time.\n(1) False — the actinoid contraction is **greater** than the lanthanoid contraction, because\n5f electrons shield the nuclear charge even more poorly than 4f electrons do.\n(2) False — Ce⁴⁺ in aqueous solution is well known and is a standard oxidising agent; ceric\nammonium sulphate is used in volumetric analysis. Ce reaches +4 because that empties its 4f\nshell to give the stable xenon configuration.\n(4) False — this is wrong for the actinoids in particular, which show a wide range of oxidation\nstates: uranium alone shows +3, +4, +5 and +6, because its 5f, 6d and 7s levels lie close in energy.\n(3) True — the early lanthanoids are large, strongly electropositive and form basic oxides and\nionic salts, so they behave much like calcium and the other alkaline earth metals.\n∴ statement (3) is correct.",
+
+  "kcet|Chemistry|2014|18||0|0": {
+    "ch": "Alcohols, Phenols and Ethers",
+    "s": "A Grignard reagent adds its alkyl group to the carbonyl carbon, and the acid work-up then\nputs an H on the oxygen.\nThe starting carbonyl here is 2-methylpropanal, (CH₃)₂CH–CHO.\nCH₃MgBr delivers CH₃⁻ to the carbonyl carbon:\n(CH₃)₂CH–CHO + CH₃MgBr ⇒ (CH₃)₂CH–CH(OMgBr)–CH₃\nH₃O⁺ then protonates the alkoxide:\nB = (CH₃)₂CH–CH(OH)–CH₃\nNow name it. The longest chain through the carbon bearing the OH is four carbons, so butane.\nNumber to give the OH the lower locant: OH at C2, with a methyl branch at C3.\nAn aldehyde plus a Grignard always gives a **secondary** alcohol, which is a useful check — the\ncarbinol carbon here carries two carbon groups and one H ✓\n∴ 3-methylbutan-2-ol."
+  },
+
+  "kcet|Chemistry|2014|19||0|0": {
+    "ch": "Surface Chemistry",
+    "s": "The Freundlich adsorption isotherm is\nx/m = k·P^(1/n)\nTake logarithms of both sides to turn the power law into a straight line:\nlog(x/m) = log k + (1/n)·log P\nNow compare with the equation of a straight line, y = mx + c, where y = log(x/m) and x = log P:\nthe gradient is the coefficient of log P, which is **1/n**\nthe y-intercept is the constant term, which is **log k**\nNote the intercept is log k and not k itself, because it is the logarithmic form that is linear;\nand the slope is 1/n, not log(1/n), since 1/n multiplies log P directly.\nSince n > 1, the slope lies between 0 and 1, which is why the line is always less steep than 45°.\n∴ slope = 1/n and intercept = log k."
+  },
+
+  "kcet|Chemistry|2014|23||0|0": {
+    "ch": "Alcohols, Phenols and Ethers",
+    "s": "Two steps.\nPhenol + benzoyl chloride with base — this is the Schotten–Baumann reaction, which\nbenzoylates the phenolic –OH:\nC₆H₅OH + C₆H₅COCl ⇒ C₆H₅COO–C₆H₅ + HCl\nX = phenyl benzoate.\nNow nitrate it, and the question is which of the two rings is attacked.\nThe ring on the **acyl** side carries –COO–, which withdraws electrons and deactivates it,\ndirecting meta.\nThe ring on the **phenoxy** side is attached through oxygen, –O–CO–. The oxygen's lone pair is\ndonated into that ring, activating it and directing ortho and para.\nSo nitration occurs on the phenoxy ring, and para is favoured over ortho because it is less\nhindered.\nY = 4-nitrophenyl benzoate, that is, a plain phenyl on the carbonyl side and the nitro group\npara on the other ring.\n∴ option (3)."
+  },
+
+  "kcet|Chemistry|2014|24||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "One mole of gas becomes three, so the pressure rises as the reaction proceeds.\nFirst the rate constant:\nk = 0.693 / t½ = 0.693 / 69.3 = 0.01 s⁻¹\nPressure of A remaining after 230 s, using p = p₀e^(−kt):\nkt = 0.01 × 230 = 2.3\np_A = 0.4 × e^(−2.3) = 0.4 × 0.1 = 0.04 atm\nSo the pressure of A that has decomposed is\n0.4 − 0.04 = 0.36 atm\nEach unit of A gives three units of product (P + Q + R), so the products contribute\n3 × 0.36 = 1.08 atm\nTotal pressure = unreacted A + products\n= 0.04 + 1.08 = 1.12 atm\n(Note e^(−2.3) ≈ 0.1 exactly, since 2.3 ≈ ln 10 — the numbers are chosen to make this clean.)\n∴ 1.12 atm."
+  }
+}

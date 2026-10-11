@@ -1,0 +1,13 @@
+{
+  "kcet|Chemistry|2017|10||0|0": {
+    "ch": "Redox Reactions",
+    "answer": "C",
+    "s": "Assign the oxidation number of chlorine on each side.\nLeft: in ClO⁻ the oxygen is −2 and the ion carries −1, so Cl is +1.\nRight: in ClO₃⁻ the three oxygens total −6 and the ion is −1, so Cl is +5.\nAlso on the right: in Cl⁻ the chlorine is −1.\nSo the same element, starting at +1, ends up both higher (+5) and lower (−1):\n3ClO⁻ ⇒ ClO₃⁻ + 2Cl⁻\n+1      +5     −1\nOne chlorine is oxidised and two are reduced, in a single reaction, from one starting species.\nThat is the definition of **disproportionation** — a self redox reaction.\nCheck the electrons balance: one Cl loses 4 electrons (+1 to +5), two Cl gain 2 each (+1 to −1),\ntotal 4 gained ✓\nIt is not simply oxidation or reduction, since both happen; and it is not decomposition, because\nthe oxidation states change.\n(Note: the official key for this paper records B. The oxidation numbers above are unambiguous,\nso the key has been corrected to C here.)\n∴ a disproportionation reaction."
+  },
+
+  "kcet|Chemistry|2015|13||0|0": {
+    "ch": "Isolation of Elements (Metallurgy)",
+    "answer": "C",
+    "s": "In the Bessemer converter the copper matte, Cu₂S with some FeS, is given a blast of hot air.\nFirst the remaining iron is removed. Iron has a strong affinity for oxygen, so FeS is oxidised\nto FeO and taken off as a silicate slag:\n2FeS + 3O₂ ⇒ 2FeO + 2SO₂, then FeO + SiO₂ ⇒ FeSiO₃\nPart of the copper sulphide is then oxidised:\n2Cu₂S + 3O₂ ⇒ 2Cu₂O + 2SO₂\nThe final step is the self-reduction, and this is the principle the question is after:\n2Cu₂O + Cu₂S ⇒ 6Cu + SO₂\nHere the **sulphur** takes the oxygen and leaves as SO₂, while the copper is set free as metal.\nSulphur wins the oxygen because at that temperature copper's affinity for oxygen is the weaker\nof the two — which is exactly why copper needs no external reducing agent such as coke.\n(Note: the official key for this paper records A, the opposite statement. The self-reduction only\nworks if copper's affinity for oxygen is the lower one, so the key has been corrected to C here.)\n∴ copper has less affinity for oxygen than sulphur at high temperature."
+  }
+}
