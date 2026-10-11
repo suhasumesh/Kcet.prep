@@ -1,0 +1,10 @@
+{
+ "_note": "bank key -> crops whose first line was clipped off the top; tools/uncrop_top.py re-renders them from the PDF with extra headroom.",
+ "kcet|Mathematics|2013|35|MTG Karnataka-CET Chapterwise · Mathematics|142|561": true,
+ "kcet|Mathematics|2009|19|MTG Karnataka-CET Chapterwise · Mathematics|141|547": true,
+ "kcet|Mathematics|2008|12|MTG Karnataka-CET Chapterwise · Mathematics|141|542": true,
+ "kcet|Mathematics|2011|6|MTG Karnataka-CET Chapterwise · Mathematics|111|409": true,
+ "kcet|Mathematics|2012|8|MTG Karnataka-CET Chapterwise · Mathematics|111|411": true,
+ "kcet|Mathematics|2008|10|MTG Karnataka-CET Chapterwise · Mathematics|96|345": true,
+ "kcet|Mathematics|2012|28|MTG Karnataka-CET Chapterwise · Mathematics|97|360": true
+}

@@ -99,12 +99,5 @@
  "kcet|Chemistry|2006|5||0|0": "option (4) cut off at the foot of the band; only three of the four reasons are visible",
  "kcet|Chemistry|2006|9||0|0": "options cut off: only the first two formulae are partly visible, so the gas cannot be identified from the crop",
  "kcet|Chemistry|2006|12||0|0": "options (3) and (4) cut off at the foot of the band",
- "kcet|Chemistry|2014|3||0|0": "options (3) and (4) cut off; only '50' and '20' are visible, and the answer (60 %) is not among them",
- "kcet|Mathematics|2008|12|MTG Karnataka-CET Chapterwise · Mathematics|141|542": "clipped at the top of the band: the numerator of the integrand is cut away, leaving only the denominator sqrt(1 - sin^4 x)",
- "kcet|Mathematics|2009|19|MTG Karnataka-CET Chapterwise · Mathematics|141|547": "clipped at the top: the upper limit of the definite integral and the top of the numerator sqrt(4 - x) are both cut off",
- "kcet|Mathematics|2013|35|MTG Karnataka-CET Chapterwise · Mathematics|142|561": "clipped at the top: the upper limit of the integral and the exponent on cos x in the numerator are cut off",
- "kcet|Mathematics|2011|6|MTG Karnataka-CET Chapterwise · Mathematics|111|409": "clipped at the top: the whole numerator of the limit is cut away, leaving only the denominator",
- "kcet|Mathematics|2012|8|MTG Karnataka-CET Chapterwise · Mathematics|111|411": "clipped at the top: the exponent in the numerator is cut off, and it is the exponent that determines the limit",
- "kcet|Mathematics|2008|10|MTG Karnataka-CET Chapterwise · Mathematics|96|345": "clipped at the top: the first row of each of the two determinants is cut off, so neither can be compared with the other",
- "kcet|Mathematics|2012|28|MTG Karnataka-CET Chapterwise · Mathematics|97|360": "clipped at the top: the first row of the determinant defining f(x) is cut away, so the limit cannot be evaluated"
+ "kcet|Chemistry|2014|3||0|0": "options (3) and (4) cut off; only '50' and '20' are visible, and the answer (60 %) is not among them"
 }
