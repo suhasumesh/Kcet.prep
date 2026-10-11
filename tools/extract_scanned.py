@@ -389,11 +389,20 @@ def extract(pdf_path, out_dir, subject, year, answer_key=None, dpi=RENDER_DPI,
             continue
         pg = b['pg']
         cx0, cy0, cx1, cy1 = pg['box']
-        # start past the printed number; the app supplies its own
+        # Start past the printed number; the app supplies its own.
         cut = b['body_from'] or cx0
-        body = [t['x0'] for t in pg['tokens']
-                if b['top'] <= t['y0'] < b['bottom'] and t['x0'] > cut]
+        in_band = [t for t in pg['tokens'] if b['top'] <= t['y0'] < b['bottom']]
+        body = [t['x0'] for t in in_band if t['x0'] > cut]
         left = (min(body) - 10) if body else cx0
+        # ... but never through the middle of a word. Where OCR overstates how
+        # far the question number reaches, the first word of the stem falls to
+        # the left of `cut` and the crop sliced it in half -- whole papers came
+        # out reading "ttky defect" and "ur sol contains". Any token the edge
+        # would cut pulls it back to that token's own left edge.
+        for t in in_band:
+            if t['x0'] < left < t['x1']:
+                left = t['x0'] - 6
+        left = max(left, cx0 - 4)
 
         got = crop(pg['img'], (left, b['top'], cx1 + 10, b['bottom']),
                    os.path.join(crop_dir, 'q%03d-stem0.png' % n))
