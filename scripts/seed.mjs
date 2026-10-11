@@ -407,6 +407,21 @@ async function main() {
   if (regraded) console.log(`corrected the answer key on ${regraded} question(s)`);
   if (handWritten.size) {
     console.log(`applied ${applied} hand-written solution(s) of ${handWritten.size} on file`);
+    // A solution whose key matches nothing is almost always a typo in the key
+    // -- a page number copied from the wrong line -- and the symptom is that
+    // the question quietly reappears in the queue to be written a second time.
+    // Silence made that cost an hour, so the orphans are named here.
+    const matched = new Set(ops.map((op) => {
+      const f = op.updateOne.filter;
+      return [f.bank, f.subject, f.year, f.number, f.book, f.page, f.seq].join('|');
+    }));
+    const orphans = [...handWritten.keys()].filter((k) => !matched.has(k));
+    if (orphans.length) {
+      console.log(`\n${orphans.length} hand-written solution(s) match no question:`);
+      for (const k of orphans.slice(0, 20)) console.log(`  ${k}`);
+      if (orphans.length > 20) console.log(`  ... and ${orphans.length - 20} more`);
+      console.log('');
+    }
   }
 
   // ---- questions withdrawn after being read ------------------------------

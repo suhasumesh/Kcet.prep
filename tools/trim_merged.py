@@ -108,7 +108,10 @@ def find_cut(img, marker):
             continue
         if min(xs) > img.width * 0.30:        # not in the left margin
             continue
-        if min(ys) < img.height * 0.12:       # the first question's own number
+        # A number could be the first question's own, so it is only believed
+        # below the top of the band. A text marker cannot be mistaken that
+        # way, so it is accepted almost anywhere.
+        if min(ys) < img.height * (0.04 if head else 0.12):
             continue
         if best is None or min(ys) < best:
             best = min(ys)
