@@ -1,0 +1,40 @@
+{
+  "kcet|Chemistry|2015|30||0|0": "An essential amino acid is one the human body cannot synthesise, so it has to come from food.\nThere are ten: arginine, valine, histidine, isoleucine, leucine, lysine, methionine,\nphenylalanine, threonine and tryptophan.\nIsoleucine is on that list ✓\nThe other three are non-essential — the body makes them from intermediates it already has:\nTyrosine is made by hydroxylating phenylalanine.\nCysteine is made from methionine and serine.\nSerine is made from 3-phosphoglycerate, an intermediate of glycolysis.\nNote that tyrosine and cysteine are only non-essential so long as their precursors are supplied,\nwhich is why they are sometimes called conditionally essential.\n∴ isoleucine.",
+
+  "kcet|Chemistry|2015|31||0|0": {
+    "ch": "Equilibrium",
+    "s": "All four are sodium salts of an oxoacid of chlorine, so each is the salt of a strong base with\nan acid of varying strength. The anion hydrolyses:\nClO⁻ + H₂O ⇌ HClO + OH⁻\nThe more hydrolysis, the more OH⁻ and the higher the pH. So the lowest pH belongs to the\nanion that hydrolyses least — the conjugate base of the **strongest** acid.\nAcid strength rises with the oxidation state of chlorine, because more oxygens pull electron\ndensity away and stabilise the anion:\nHClO (+1) < HClO₂ (+3) < HClO₃ (+5) < HClO₄ (+7)\nHClO₄ is the strongest acid of the four — indeed one of the strongest known — so ClO₄⁻ is an\nextremely weak base and barely hydrolyses at all.\nIts solution is therefore closest to neutral, with the lowest pH of the set.\n∴ NaClO₄."
+  },
+
+  "kcet|Chemistry|2015|34||0|0": {
+    "ch": "Amines",
+    "s": "The Hoffmann bromamide degradation converts an amide to a primary amine with one carbon fewer:\nRCONH₂ + Br₂ + 4NaOH ⇒ RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O\nLook at the mechanism to see what it requires. The first step is removal of a proton **from the\namide nitrogen** by the alkali, and then bromination of that nitrogen. A second N–H is then\nremoved to form the isocyanate intermediate.\nSo the nitrogen must carry at least two hydrogens — the amide has to be unsubstituted, RCONH₂.\n(1) CH₃CONH₂, (3) C₆H₅CONH₂ and (4) CH₃CH₂CONH₂ all have –CONH₂ ✓\n(2) CH₃CONHCH₃ is an N-substituted amide. Its nitrogen holds only one hydrogen, so the\nnecessary second deprotonation is impossible and the reaction cannot proceed.\n∴ CH₃CONHCH₃ will not undergo it."
+  },
+
+  "kcet|Chemistry|2015|35||0|0": {
+    "ch": "Biomolecules",
+    "s": "Match the symptoms to the vitamin.\nCheilosis is the cracking and inflammation at the corners of the mouth, and it is the classic sign\nof **riboflavin** (vitamin B₂) deficiency, usually with digestive disorders and a sore tongue.\nThe others each have their own deficiency disease:\nThiamine (B₁) — beri-beri, affecting the nerves and heart.\nAscorbic acid (C) — scurvy, with bleeding gums.\nPyridoxine (B₆) — convulsions and anaemia.\nRiboflavin is found in milk, eggs, liver and green vegetables; it is water soluble, so it is not\nstored and must be taken regularly.\n∴ riboflavin."
+  },
+
+  "kcet|Chemistry|2015|36||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Write the oxidation half reaction for water going to dioxygen:\n2H₂O ⇒ O₂ + 4H⁺ + 4e⁻\nRead the stoichiometry carefully: 4 electrons are released for every **2** moles of water, so\nper mole of water it is 2 moles of electrons.\nCharge = moles of electrons × Faraday constant\n= 2 × 96500\n= 193000 C\n= 1.93 × 10⁵ C\nThe trap is option (2), 1.93 × 10⁴ C, which is simply a factor of ten out, and option (1), which\nis the charge for one mole of electrons.\n∴ 1.93 × 10⁵ C."
+  },
+
+  "kcet|Chemistry|2015|37||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "Esterification is second order overall, first order in the acid and first order in the alcohol:\nrate = k[CH₃COOH][CH₃OH]\nNow see what the dilution does. Each solution is diluted with an equal volume of water, so the\nvolume of each doubles and each concentration is halved.\n[CH₃COOH] ⇒ ½[CH₃COOH]\n[CH₃OH] ⇒ ½[CH₃OH]\nNew rate = k × (½[acid]) × (½[alcohol]) = ¼ × k[acid][alcohol]\nrate(new)/rate(old) = ¼ = 0.25\nThe 1 M and 2 M figures never need to be used — only the *factor* by which each concentration\nchanges matters.\n∴ 0.25 times."
+  },
+
+  "kcet|Chemistry|2015|39||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "Δ₀ is set mainly by the ligand, through the spectrochemical series:\nI⁻ < Br⁻ < SCN⁻ < Cl⁻ < F⁻ < OH⁻ < H₂O < NH₃ < en < NO₂⁻ < CN⁻ < CO\nRank the four complexes by their ligand:\n[Cr(CN)₆]³⁻ — CN⁻, a strong field π acceptor, large Δ₀\n[Co(NH₃)₆]³⁺ — NH₃, moderately strong\n[Cr(H₂O)₆]³⁺ — H₂O, weaker than ammonia\n[CoCl₆]³⁻ — Cl⁻, near the weak end of the series, and a π donor, which pushes the t₂g level up\nand narrows the gap further\nChloride is the weakest field ligand of the four, so it produces the smallest splitting.\n(Charge also matters — a higher oxidation state increases Δ₀ — but all four metals here are +3,\nso the ligand alone decides it.)\n∴ [CoCl₆]³⁻."
+  },
+
+  "kcet|Chemistry|2015|40||0|0": {
+    "ch": "Haloalkanes and Haloarenes",
+    "s": "Boiling point here is governed by van der Waals forces, which strengthen as the molecule gets\nheavier and more polarisable. So order by molar mass.\niii. chloromethane CH₃Cl, M = 50.5, bp −24 °C\ni.  bromomethane CH₃Br, M = 95, bp 4 °C\niv. dibromomethane CH₂Br₂, M = 174, bp 97 °C\nii. bromoform CHBr₃, M = 253, bp 149 °C\nBromine is both heavier and more polarisable than chlorine, so CH₃Br boils above CH₃Cl even\nthough the two are otherwise identical.\nAdding each further bromine raises the mass sharply and with it the dispersion forces.\nIncreasing order: iii < i < iv < ii\n∴ chloromethane < bromomethane < dibromomethane < bromoform."
+  },
+
+  "kcet|Chemistry|2015|41||0|0": "The iodoform reaction needs either a methyl ketone, CH₃–CO–, or a secondary alcohol of the\nform CH₃–CH(OH)–, which I₂/NaOH first oxidises to the methyl ketone.\nCheck each compound for that fragment.\n(1) Propan-2-ol, CH₃CH(OH)CH₃ — has CH₃–CH(OH)–, oxidised to propanone ✓\n(2) Butan-2-one, CH₃COCH₂CH₃ — a methyl ketone ✓\n(4) Acetophenone, C₆H₅COCH₃ — a methyl ketone ✓\n(3) Propan-1-ol, CH₃CH₂CH₂OH — a **primary** alcohol. The carbon bearing the OH holds two\nhydrogens and no methyl group next to it in the required arrangement; oxidation gives\npropanal and then propanoic acid, neither of which is a methyl ketone.\n∴ iodoform cannot be prepared from propan-1-ol."
+}

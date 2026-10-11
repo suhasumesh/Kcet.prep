@@ -1,0 +1,30 @@
+{
+  "kcet|Chemistry|2015|18||0|0": {
+    "ch": "Aldehydes, Ketones and Carboxylic Acids",
+    "s": "Look at the two structures and find what one has that the other has not.\nMethanoic acid is H–COOH. Its carboxyl carbon carries a hydrogen, so the molecule contains\nboth an acid group **and** an aldehyde group, –CHO.\nEthanoic acid is CH₃–COOH, where that position is taken by a methyl group and no aldehyde\nfunction exists.\nSo use a test for an aldehyde. Tollens' reagent, ammoniacal AgNO₃, is reduced by methanoic\nacid and a silver mirror is deposited:\nHCOOH + 2[Ag(NH₃)₂]⁺ + 2OH⁻ ⇒ 2Ag↓ + CO₂ + 2H₂O + 4NH₃\nEthanoic acid gives no mirror.\nThe other three tests fail to distinguish them, because both are carboxylic acids: both turn\nblue litmus red, both esterify with an alcohol, and both give CO₂ with sodium bicarbonate.\n∴ Tollens' test."
+  },
+
+  "kcet|Chemistry|2015|19||0|0": "In the hydrogen–oxygen fuel cell with an alkaline electrolyte, oxygen is the species reduced,\nand reduction always happens at the cathode.\nAt the cathode, oxygen takes up electrons and, with water, produces hydroxide:\nO₂(g) + 2H₂O(l) + 4e⁻ ⇒ 4OH⁻(aq)\nCheck it balances. Atoms: 2 O from O₂ plus 2 O from water = 4 O on the left, 4 O in 4OH⁻ ✓;\nhydrogen 4 on each side ✓. Charge: −4 on the left from the electrons, −4 on the right ✓\nAt the anode, hydrogen is oxidised by those hydroxide ions:\n2H₂ + 4OH⁻ ⇒ 4H₂O + 4e⁻\nAdding the two half reactions gives option (1), 2H₂ + O₂ ⇒ 2H₂O — that is the **overall** cell\nreaction, not the cathode half reaction, which is why (1) is the tempting wrong answer.\n∴ O₂ + 2H₂O + 4e⁻ ⇒ 4OH⁻.",
+
+  "kcet|Chemistry|2015|20||0|0": {
+    "ch": "Surface Chemistry",
+    "s": "The Freundlich isotherm relates the amount adsorbed per gram of adsorbent to the pressure:\nx/m = k·p^(1/n), with n > 1\nThat is a power law, so take logarithms of both sides to straighten it:\nlog(x/m) = log k + (1/n)·log p\nCompare with y = c + mx. Plotting log(x/m) on the y axis against **log p** on the x axis gives\na straight line, of slope 1/n and intercept log k.\nSo the correct graph must have log p along the horizontal axis, which rules out (1) and (2) —\nthose plot against p itself and are curves.\nBetween (3) and (4), the line must cut the y axis at a positive intercept log k, not pass through\nthe origin, because k is not 1.\n∴ graph (3)."
+  },
+
+  "kcet|Chemistry|2015|24||0|0": {
+    "ch": "Solutions",
+    "s": "Depression of freezing point is ΔTf = i·Kf·m, so the **highest** freezing point goes with the\nsmallest number of particles — the smallest product i × concentration.\nWork out i × C for each:\n(1) 0.1 M sucrose — does not dissociate, i = 1 ⇒ 0.1 × 1 = 0.1\n(2) 0.01 M NaCl — gives Na⁺ + Cl⁻, i = 2 ⇒ 0.01 × 2 = 0.02 ← smallest\n(3) 0.1 M NaCl — i = 2 ⇒ 0.1 × 2 = 0.2\n(4) 0.01 M Na₂SO₄ — gives 2Na⁺ + SO₄²⁻, i = 3 ⇒ 0.01 × 3 = 0.03\nThe smallest is 0.02, so that solution freezes closest to 0 °C.\nNote you cannot judge by concentration alone, nor by i alone — it is the product that counts.\n∴ 0.01 M NaCl."
+  },
+
+  "kcet|Chemistry|2015|25||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "Two things are needed: the rate constant, and the concentration at 20 minutes.\nRate constant from the half-life:\nk = 0.693 / t½ = 0.693 / 10 = 0.0693 min⁻¹\nConcentration after 20 min. That is two half-lives:\n12 M ⇒ 6 M at 10 min ⇒ 3 M at 20 min\nNow apply the first order rate law:\nrate = k[A] = 0.0693 × 3 M min⁻¹\nThe common slip is to use the initial 12 M and answer 0.0693 × 12; the rate is instantaneous\nand must use the concentration *at that moment*.\n∴ rate = 0.0693 × 3 M min⁻¹."
+  },
+
+  "kcet|Chemistry|2015|26||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "The salt must give a visible result with dilute H₂SO₄ **and** a further one with the concentrated acid.\nBa(NO₃)₂ does both.\nWith dilute H₂SO₄ the barium ion is precipitated at once as the sulphate, which is insoluble:\nBa(NO₃)₂ + H₂SO₄ ⇒ BaSO₄↓ (white) + 2HNO₃\nWith concentrated H₂SO₄ the nitrate ion reacts as well, displacing the more volatile acid and\ngiving the characteristic brown fumes:\n2NO₃⁻ + H₂SO₄ ⇒ 2HNO₃ + SO₄²⁻, and the HNO₃ decomposes to brown NO₂\nThe others respond to one reagent at most: CaF₂ needs concentrated acid to give HF and does\nnothing with dilute; Na₂SO₄ and Na₃PO₄ give no visible change with either.\n∴ Ba(NO₃)₂."
+  },
+
+  "kcet|Chemistry|2015|29||0|0": "A cyanohydrin is formed when HCN adds across the carbonyl of a ketone:\n>C=O + HCN ⇒ >C(OH)–CN\nLook at what attacks what. The C=O bond is polarised Cδ⁺=Oδ⁻, because oxygen is far more\nelectronegative, so the carbonyl carbon is electron deficient.\nThe attacking species is CN⁻, which has a lone pair and a negative charge — a nucleophile.\nIt attacks the carbonyl carbon, the π electrons shift onto oxygen to give an alkoxide, and that\nalkoxide then picks up H⁺ to give the –OH.\nNothing is displaced — the π bond simply opens and both fragments of HCN are retained — so\nthis is an **addition**, not a substitution.\nThat is the hallmark of carbonyl chemistry: aldehydes and ketones undergo nucleophilic addition,\nwhile the electron-rich benzene ring undergoes electrophilic substitution.\n∴ nucleophilic addition."
+}

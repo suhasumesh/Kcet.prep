@@ -1,0 +1,30 @@
+{
+  "kcet|Chemistry|2015|42||0|0": {
+    "ch": "Hydrocarbons",
+    "s": "The starting material is a methyl ketone on a cyclohexane ring, C₆H₁₁–CO–CH₃.\nStep 1 — PCl₅ replaces the carbonyl oxygen by two chlorines on the same carbon:\nC₆H₁₁–CO–CH₃ + PCl₅ ⇒ C₆H₁₁–CCl₂–CH₃ + POCl₃\nP is the gem-dichloride, with both chlorines on one carbon.\nStep 2 — sodamide in **excess** is a very strong base and eliminates HCl twice over.\nThe first elimination gives a vinyl chloride, C₆H₁₁–CCl=CH₂; the second removes the remaining\nHCl to leave a carbon–carbon triple bond:\nQ = C₆H₁₁–C≡CH\nThe word 'excess' is the clue: one equivalent would stop at the alkene, two gives the alkyne.\n∴ Q is the cyclohexyl alkyne, option (3)."
+  },
+
+  "kcet|Chemistry|2015|43||0|0": {
+    "ch": "Isolation of Elements (Metallurgy)",
+    "s": "Cryolite is Na₃AlF₆, and it is added to the Hall–Héroult cell for two reasons at once.\nPure alumina melts at about 2323 K, far too hot to electrolyse economically. Dissolving it in\nmolten cryolite brings the working temperature down to roughly 1223 K — the melting point is\nlowered.\nMolten alumina on its own is also a poor conductor. Cryolite dissociates into ions and makes\nthe melt far more conducting, so the cell can be run at a workable voltage.\nFluorspar, CaF₂, is usually added as well to lower the temperature further.\nSo the answer must mention **both** effects, which is what rules out (2), mentioning only the\nmelting point, and (1), which says conductivity is *decreased* — the opposite.\n∴ it lowers the melting point and increases the conductivity."
+  },
+
+  "kcet|Chemistry|2015|44||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "Apply VSEPR to each, counting bond pairs and lone pairs on xenon.\nXeF₂ — 2 bond pairs, 3 lone pairs, 5 domains ⇒ linear.\nXeF₄ — 4 bond pairs, 2 lone pairs, 6 domains ⇒ square planar.\nXeOF₄ — 5 bond pairs, 1 lone pair, 6 domains ⇒ square pyramidal.\nXeO₃ — xenon has 8 valence electrons; three double bonds to oxygen use six of them, leaving\none lone pair. So 3 bond pairs + 1 lone pair = 4 domains.\nFour domains give a tetrahedral arrangement, and with one position occupied by the lone pair\nthe three oxygens form a **pyramid** below the xenon.\nThis is the same shape as ammonia, and for the same reason: the lone pair pushes the bonds\ndown, giving O–Xe–O angles of about 103°.\n∴ XeO₃."
+  },
+
+  "kcet|Chemistry|2015|45||0|0": "Both elevation of boiling point and depression of freezing point depend on the same molality,\nso find the molality from one and use it in the other.\nThe freezing point falls from 0 °C to −0.186 °C, so ΔTf = 0.186 K.\nΔTf = Kf · m\n0.186 = 1.86 × m\nm = 0.186 / 1.86 = 0.1 mol kg⁻¹\nNow use that molality with the ebullioscopic constant:\nΔTb = Kb · m\nΔTb = 0.521 × 0.1 = 0.0521 K\nThe solute is non-volatile and does not dissociate, so i = 1 throughout and no correction is needed.\nNotice ΔTb is much the smaller of the two — Kb for water is about a quarter of Kf, which is why\nfreezing point depression is the more sensitive measurement.\n∴ ΔTb = 0.0521 K.",
+
+  "kcet|Chemistry|2015|47||0|0": {
+    "ch": "s-Block Elements",
+    "s": "Two substances cannot coexist in solution if they react with each other.\nSodium hydrogencarbonate still has an acidic hydrogen on the HCO₃⁻ ion, and sodium hydroxide\nis a strong base, so they neutralise one another at once:\nNaHCO₃ + NaOH ⇒ Na₂CO₃ + H₂O\nWhichever is in deficit is consumed completely, so the two can never be present together.\nThe others are all compatible:\n(2) NaHCO₃ simply dissolves in water.\n(3) NaHCO₃ and Na₂CO₃ together are the standard carbonate–bicarbonate buffer, widely used.\n(4) Na₂CO₃ and NaOH are both basic and do not react with each other.\n∴ NaHCO₃ and NaOH cannot exist together."
+  },
+
+  "kcet|Chemistry|2015|48||0|0": {
+    "ch": "Some Basic Concepts of Chemistry",
+    "s": "Convert molecules to moles, then moles to mass.\nmoles = number of molecules / Avogadro's number\n= 1.8 × 10²² / 6.022 × 10²³\n= 0.0299 ≈ 0.03 mol\nDioxygen is O₂, so its molar mass is 2 × 16 = 32 g mol⁻¹ (not 16 — that is the atom).\nmass = moles × molar mass\n= 0.03 × 32\n= 0.96 g\nThe usual error is using 16 g mol⁻¹, which halves the answer to 0.48 g, or slipping a factor of\nten and reaching 9.60 g.\n∴ 0.960 g."
+  },
+
+  "kcet|Chemistry|2015|49||0|0": "Fill the molecular orbitals and read off bond order and magnetism.\nNeutral O₂ has 16 electrons, with two unpaired in the π* orbitals, giving bond order 2.\nO₂⁺ — one electron removed, 15 electrons. The electron comes out of a π* antibonding orbital.\nBond order = (10 − 5)/2 = 2.5, and one unpaired electron remains in π* ⇒ paramagnetic.\nO₂⁻ — one electron added, 17 electrons, going into π*.\nBond order = (10 − 7)/2 = 1.5, and again one unpaired electron in π* ⇒ paramagnetic.\nNow test the statements.\n(1) True — 2.5 > 1.5.\n(2) True — the lower bond order makes O₂⁻ the less stable.\n(4) True — both have exactly one unpaired electron.\n(3) False — O₂⁺ is **not** diamagnetic. Removing one electron from the two in π* leaves one\nbehind, still unpaired, so O₂⁺ is paramagnetic just like O₂⁻.\n∴ statement (3) is incorrect."
+}
