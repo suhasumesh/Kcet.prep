@@ -1,0 +1,26 @@
+{
+  "kcet|Chemistry|2017|18||0|0": "The conditions a ≠ b ≠ c together with α ≠ β ≠ γ ≠ 90° define the triclinic system —\nthe least symmetric of the seven, where all three edges and all three angles differ.\nMatch each salt to its system:\nK₂Cr₂O₇ — triclinic ✓\nNaNO₃ — rhombohedral (a = b = c, α = β = γ ≠ 90°)\nKNO₃ — orthorhombic (a ≠ b ≠ c, α = β = γ = 90°)\nK₂SO₄ — orthorhombic\nOnly the triclinic one has no right angle anywhere and no two edges equal.\n∴ K₂Cr₂O₇.",
+
+  "kcet|Chemistry|2017|19||0|0": "Check each statement against the definitions.\n(A) False — Frenkel defect needs a *large* difference in ion sizes. A small cation can squeeze\ninto an interstitial site; that is why ZnS and AgBr show it and NaCl does not.\n(C) False — an F-centre is an *electron* trapped in an anion vacancy, not a proton. The trapped\nelectron absorbs visible light, which is why the crystal becomes coloured.\n(D) False — Schottky defect removes equal numbers of cations and anions from the lattice, so\nthe mass falls while the volume does not: the density decreases.\n(B) True — in a Frenkel defect an ion leaves its lattice site and lodges in an interstitial site.\nIt is dislocated rather than lost, so the defect is a dislocation defect and the density is unchanged.\n∴ Frenkel defect is a dislocation defect.",
+
+  "kcet|Chemistry|2017|20||0|0": "Count the share of each atom that belongs to one unit cell.\nA at the corners: a corner is shared by 8 cells, so each contributes ⅛.\nB at the face centres: a face is shared by 2 cells, so each contributes ½.\nWith all corners occupied: A = 8 × ⅛ = 1 and B = 6 × ½ = 3, giving AB₃.\nNow remove one corner A, leaving 7 corners:\nA = 7 × ⅛ = ⅞\nB = 6 × ½ = 3 (unchanged)\nRatio A : B = ⅞ : 3. Multiply both by 8 to clear the fraction:\nA : B = 7 : 24\n∴ the simplest formula is A₇B₂₄.",
+
+  "kcet|Chemistry|2017|21||0|0": "Freezing point depression is ΔTf = i·Kf·m, so the highest freezing point belongs to the\nsolution with the *smallest* ΔTf — the fewest particles. All are 0.1 molal, so only i matters.\nCount the ions each formula unit gives:\n(A) Al₂(SO₄)₃ ⇒ 2Al³⁺ + 3SO₄²⁻, i = 5, effective 0.5\n(C) AlCl₃ ⇒ Al³⁺ + 3Cl⁻, i = 4, effective 0.4\n(B) BaCl₂ ⇒ Ba²⁺ + 2Cl⁻, i = 3, effective 0.3\n(D) NH₄Cl ⇒ NH₄⁺ + Cl⁻, i = 2, effective 0.2 ← smallest\nFewest particles ⇒ least depression ⇒ the freezing point stays nearest to 0 °C.\n∴ 0.1 molal NH₄Cl.",
+
+  "kcet|Chemistry|2017|22||0|0": "Colligative properties count particles, so they go wrong whenever the solute does not stay\nas single formula units in solution.\nThe van't Hoff factor is the correction:\ni = (observed colligative property) / (calculated value assuming no change)\n  = (actual number of particles) / (number of formula units dissolved)\nIf the solute dissociates, particles increase and i > 1 — NaCl in water gives i ≈ 2.\nIf the solute associates, particles decrease and i < 1 — benzoic acid dimerises in benzene, i ≈ 0.5.\nIf neither happens, i = 1, as for urea or glucose.\nSo i measures how far the solute has broken up (or joined up), not how much of it dissolves.\n∴ it accounts for the extent of dissociation of the solute.",
+
+  "kcet|Chemistry|2017|23||0|0": {
+    "ch": "Solutions",
+    "s": "In ordinary osmosis the solvent moves the other way: from the pure solvent, or the dilute side,\nthrough the membrane *into* the more concentrated solution, driven by the difference in\nchemical potential. The flow dilutes the solution.\nHere the solvent is described as leaving the solution — the reverse of the natural direction.\nThat only happens if a pressure greater than the osmotic pressure is applied to the solution side.\nThe membrane passes solvent but holds back solute, so pure solvent is squeezed out and the\nsolution left behind becomes more concentrated.\nThis is reverse osmosis, and it is how sea water is desalinated.\n(C) sorption and (D) dialysis are different processes entirely.\n∴ reverse osmosis."
+  },
+
+  "kcet|Chemistry|2017|24||0|0": {
+    "ch": "Electrochemistry",
+    "s": "A reducing agent gives electrons away, so it is itself oxidised.\nThe easier a species is to oxidise, the more negative its standard *reduction* potential.\nSo rank by E° and take the lowest:\nZn²⁺/Zn  E° = −0.762 V ← lowest\nH⁺/H₂   E° = 0.00 V\nCr³⁺/Cr  E° = +0.740 V (as printed here)\nF₂/F⁻   E° = +2.87 V ← highest, so F₂ is the strongest *oxidising* agent, the opposite of what is asked\nThe most negative value belongs to zinc, so Zn metal loses electrons most readily:\nZn ⇒ Zn²⁺ + 2e⁻\n∴ Zn(s) is the strongest reducing agent."
+  },
+
+  "kcet|Chemistry|2017|25||0|0": {
+    "ch": "Electrochemistry",
+    "s": "This is Faraday's first law applied to the oxidation of chlorate to perchlorate.\nFind the oxidation state change first:\nIn NaClO₃, Cl is +5. In NaClO₄, Cl is +7.\nSo each chlorine loses 2 electrons; forming 1 mol NaClO₄ needs 2 mol of electrons.\nOne faraday is one mole of electrons, so 3 F supplies 3 mol of electrons.\nmoles of NaClO₄ = (moles of electrons) / 2 = 3 / 2 = 1.5 mol\nThe H₂ appearing in the equation is the cathode product and does not affect this count.\n∴ 1.5 mol of NaClO₄."
+  }
+}

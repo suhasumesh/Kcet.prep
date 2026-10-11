@@ -1,0 +1,33 @@
+{
+  "kcet|Chemistry|2026|51||0|0": {
+    "ch": "Solutions",
+    "s": "The van't Hoff factor compares what the solution actually does with what one mole of\nundissociated solute would do.\ni = observed ΔTf / calculated ΔTf\ni = 0.0205 / 0.0197 = 1.041\nSo the particles outnumber the formula units slightly — acetic acid is only partly ionised.\nCH₃COOH ⇌ H⁺ + CH₃COO⁻, so one particle becomes two and n = 2.\nDegree of dissociation: α = (i − 1)/(n − 1)\nα = (1.041 − 1)/(2 − 1) = 0.041\nThat is about 4% ionised, which is what you expect of a weak acid.\n∴ i = 1.041 and α = 0.041."
+  },
+
+  "kcet|Chemistry|2026|52||0|0": {
+    "ch": "Solutions",
+    "s": "By Raoult's law the relative lowering of vapour pressure equals the mole fraction of the solute:\n(p° − p)/p° = χsolute\nMoles of urea = mass / molar mass = 18 / 60 = 0.3 mol.\nMoles of water = 100 / 18 = 5.556 mol.\nχurea = 0.3 / (0.3 + 5.556) = 0.3 / 5.856 = 0.0512\nNote the solvent moles must be counted in the total; dividing by 5.556 alone would give 0.054.\n∴ the relative lowering is about 0.05."
+  },
+
+  "kcet|Chemistry|2026|54||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Kohlrausch's law says a limiting molar conductivity is the sum of independent ionic contributions,\nso you can add and subtract whole electrolytes to manufacture the pair of ions you want.\nThe target is Λ°(NH₄OH) = λ°(NH₄⁺) + λ°(OH⁻).\nNH₄OH is a weak base, so this cannot be measured directly — hence the trick.\nTake Λ°(NH₄Cl) + Λ°(NaOH) − Λ°(NaCl):\n= [λ(NH₄⁺) + λ(Cl⁻)] + [λ(Na⁺) + λ(OH⁻)] − [λ(Na⁺) + λ(Cl⁻)]\nThe Na⁺ terms cancel and the Cl⁻ terms cancel.\n= λ(NH₄⁺) + λ(OH⁻)\n∴ Λ°(NH₄OH) = Λ°(NH₄Cl) + Λ°(NaOH) − Λ°(NaCl)."
+  },
+
+  "kcet|Chemistry|2026|55||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Split the target reaction 3Mn²⁺ ⇒ Mn + 2Mn³⁺ into its two halves.\nReduction (cathode): Mn²⁺ + 2e⁻ ⇒ Mn, E° = −1.18 V, used as given.\nOxidation (anode): 2Mn²⁺ ⇒ 2Mn³⁺ + 2e⁻, which is the reverse of Mn³⁺ + e⁻ ⇒ Mn²⁺, E° = +1.51 V.\nE°cell = E°cathode − E°anode, both quoted as reduction potentials:\nE°cell = (−1.18) − (+1.51) = −2.69 V\nDo not multiply either value by 2 — electrode potential is an intensive property and does not\nscale with the number of electrons, even though ΔG° does.\nΔG° = −nFE°cell, so a negative E°cell makes ΔG° positive.\n∴ −2.69 V, and the reaction will not occur: it is non-spontaneous."
+  },
+
+  "kcet|Chemistry|2026|56||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Conductivity and resistance are linked through the cell constant:\nκ = G* / R, where G* = l/A is the cell constant in cm⁻¹.\nRearranging: G* = κ × R\nSubstitute the values given:\nG* = 0.021 Ohm⁻¹ cm⁻¹ × 60 Ohm\nG* = 1.26 cm⁻¹\nThe ohms cancel, leaving cm⁻¹, which is the right unit for a cell constant ✓.\nThe word 'centimolar' only tells you which standard KCl solution was used; it is not needed here.\n∴ G* = 1.26 cm⁻¹."
+  },
+
+  "kcet|Chemistry|2026|57||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "For a first order reaction the integrated rate law is\nln[R] = ln[R]₀ − kt, equivalently log₁₀([R]₀/[R]) = kt/2.303.\nTest each graph against that.\n(2) ln[R] against t — the equation above is a straight line of slope −k ⇒ applicable.\n(3) log₁₀[R] against t — the same line divided by 2.303, slope −k/2.303 ⇒ applicable.\n(4) log₁₀([R]₀/[R]) against t — a straight line through the origin, slope k/2.303 ⇒ applicable.\n(1) [R] against t drawn as a horizontal line would mean the concentration never changes.\nFor first order [R] = [R]₀e^(−kt), a falling exponential, never a constant.\nA horizontal [R] against t is the graph of a zero order reaction's *rate*, not of a first order concentration.\n∴ graph (1) is not applicable."
+  },
+
+  "kcet|Chemistry|2026|58||0|0": "Each rate constant obeys Arrhenius: k = Ae^(−Ea/RT).\nSubstitute into the overall constant K = k₁k₂/k₃:\nK = [A₁e^(−Ea₁/RT) × A₂e^(−Ea₂/RT)] / [A₃e^(−Ea₃/RT)]\nCollect the exponentials, remembering that dividing subtracts the exponent:\nK = (A₁A₂/A₃) · e^(−(Ea₁ + Ea₂ − Ea₃)/RT)\nComparing with K = Ae^(−Ea/RT), the overall activation energy is\nEa = Ea₁ + Ea₂ − Ea₃\nEa = 40 + 50 − 60 = 30 kJ mol⁻¹\nThe step in the denominator subtracts, because a larger k₃ makes K smaller.\n∴ Ea = 30 kJ mol⁻¹."
+}

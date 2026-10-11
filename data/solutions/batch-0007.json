@@ -1,0 +1,27 @@
+{
+  "kcet|Chemistry|2026|59||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "First find k from the data given, then use it at the new concentration.\nThe concentration falls 0.1 ⇒ 0.05 ⇒ 0.025 M, which is two successive halvings.\nTwo half-lives take 40 min, so t½ = 20 min.\nFor a first order reaction the half-life is independent of concentration, and\nk = 0.693 / t½ = 0.693 / 20 = 0.03465 min⁻¹\nThe rate law is rate = k[R], so at [R] = 0.01 M:\nrate = 0.03465 × 0.01 = 3.465 × 10⁻⁴ M min⁻¹\n∴ about 3.47 × 10⁻⁴ M min⁻¹."
+  },
+
+  "kcet|Chemistry|2026|60||0|0": "Draw the energy profile. Both the forward and the backward reaction climb to the same\ntransition state; they just start from different sides.\nFrom the diagram, ΔH = Ea(forward) − Ea(backward).\nRearranging for the backward barrier:\nEa(backward) = Ea(forward) − ΔH\nEa(backward) = 150 − (−135) = 150 + 135 = 285 kJ mol⁻¹\nThe sign matters: ΔH is negative, so subtracting it adds.\nThis makes sense — the reaction is exothermic, so products sit lower than reactants and the\nclimb back up is the steeper one.\n∴ Ea for Y ⇒ X is 285 kJ mol⁻¹.",
+
+  "kcet|Chemistry|2017|5||0|0": {
+    "ch": "Chemical Bonding and Molecular Structure",
+    "s": "N₂O is linear with the atoms in the order N–N–O, and it has 16 valence electrons\n(5 + 5 + 6). Every atom must end up with an octet and the formal charges must sum to zero.\nTest the structure :N ≡ N⁺ – O:⁻\nTerminal N: 1 lone pair + triple bond ⇒ 2 + 3 = 5 electrons counted for formal charge,\nFC = 5 − 2 − 3 = 0 ✓, octet complete.\nCentral N: no lone pair, four bonds ⇒ FC = 5 − 0 − 4 = +1 ✓, octet complete.\nO: 3 lone pairs + single bond ⇒ FC = 6 − 6 − 1 = −1 ✓, octet complete.\nTotal charge = 0 + 1 − 1 = 0 ✓, and the negative charge sits on oxygen, the more electronegative atom.\nThe other options either break an octet or put the charges the wrong way round.\n∴ structure (B)."
+  },
+
+  "kcet|Chemistry|2017|6||0|0": "An ideal gas is assumed to have no forces between its molecules.\nIn a real gas the molecules do attract one another.\nA molecule about to strike the wall is pulled back by its neighbours behind it,\nso it arrives with less momentum than it otherwise would.\nEvery such impact is softened, so the measured pressure is lower than the ideal value.\nVan der Waals corrects for exactly this with the term a/V²: p_ideal = p_real + a/V², so p_real < p_ideal.\n(B) Finite size is the other real-gas correction, but it works the other way — excluded volume\nmakes the pressure higher, not lower.\n∴ because of intermolecular attraction.",
+
+  "kcet|Chemistry|2017|7||0|0": {
+    "ch": "Thermodynamics",
+    "s": "This asks when the reaction is favoured, and the test is the sign of ΔG.\nΔG = ΔH − TΔS\nHere ΔH is negative, which helps, and ΔS is negative, which does not.\nBecause ΔS < 0, the term −TΔS is positive and grows as T rises.\nSo raising T makes ΔG less negative and eventually positive — the reaction stops being feasible.\nLowering T shrinks that positive term, and ΔG stays negative.\nThe crossover is at T = ΔH/ΔS, below which the reaction proceeds.\nA reaction with both ΔH and ΔS negative is therefore favoured at low temperature.\n(Strictly, the Arrhenius rate constant always rises with temperature; what falls with heating here\nis the thermodynamic feasibility, and that is what the question is testing.)\n∴ it is favoured by a decrease in temperature."
+  },
+
+  "kcet|Chemistry|2017|8||0|0": "A catalyst provides an alternative path with a lower activation energy.\nThe crucial point is that it lowers the barrier for the forward and the reverse step by the\nsame amount.\nSo k_forward and k_reverse are both multiplied by the same factor, and since K = k_f / k_r,\nthat factor cancels.\nEquilibrium is reached ten times faster, but it is the same equilibrium.\nThermodynamically: K depends only on ΔG°, and a catalyst changes neither the energy of the\nreactants nor that of the products, so ΔG° is untouched.\n∴ K is still 4 × 10⁻⁴.",
+
+  "kcet|Chemistry|2017|9||0|0": {
+    "ch": "Equilibrium",
+    "s": "Q is built from the same expression as K but with whatever concentrations are present now.\nComparing them tells you which way the system must move.\n(A) Q > K means there is too much product, so the system consumes product: the reverse\nreaction is favoured ✓ correct.\n(B) Q < K means there is too little product, so the forward reaction is favoured ✓ correct.\n(C) Q = K is equilibrium — no net change ✓ correct as stated.\n(D) Q > K, forward reaction favoured — this directly contradicts (A), and it is the wrong way round.\n∴ statement (D) is the incorrect one."
+  }
+}

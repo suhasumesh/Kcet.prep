@@ -1,0 +1,29 @@
+{
+  "kcet|Chemistry|2026|41||0|0": {
+    "ch": "Structure of Atom",
+    "s": "de Broglie's idea was that a particle of momentum p also behaves as a wave of wavelength λ.\nHe reached it by setting the two expressions for a photon's energy equal:\nE = hν = hc/λ  and  E = mc²\nSo hc/λ = mc² ⇒ λ = h/mc, and generalising from c to any speed v gives λ = h/mv.\nThe denominator is the momentum, mass × velocity, not √(mv) and not μ.\nCheck the units: h is J s = kg m² s⁻¹, mv is kg m s⁻¹, so h/mv has units of metres ✓.\n∴ λ = h/mv."
+  },
+
+  "kcet|Chemistry|2026|44||0|0": {
+    "ch": "Thermodynamics",
+    "s": "Take each statement in turn.\n(1) False — in the isothermal expansion of an ideal gas the temperature does not change,\nand U of an ideal gas depends only on T, so ΔU = 0. Internal energy does not change in every process.\n(3) False — work depends on the route taken, not just on the endpoints. Expanding a gas reversibly\nand irreversibly between the same two states gives different w. Work is a path function.\n(4) False — adiabatic means q = 0, so the first law gives ΔU = w. The work is not zero; it is the\nwhole of the energy change, which is why an adiabatic expansion cools the gas.\n(2) True — both U and S are fixed by the state of the system alone. Go round any cycle back to the\nstart and ΔU = 0 and ΔS = 0, whatever path you took.\n∴ internal energy and entropy are state functions."
+  },
+
+  "kcet|Chemistry|2026|45||0|0": "The key is that ΔU is a state function: it depends only on A and B, not on the route.\nUse the first law in the form ΔU = q − w, with w the work done BY the system.\nPath ACB: q = +60 J into the system, w = +30 J done by the system.\nΔU = 60 − 30 = 30 J. This is the change from A to B, so it holds for every path.\nPath ADB: the same ΔU = 30 J, and now w = 10 J done by the system.\nRearrange: q = ΔU + w = 30 + 10 = 40 J.\n∴ 40 J of heat flows into the system along ADB.",
+
+  "kcet|Chemistry|2026|46||0|0": {
+    "ch": "Equilibrium",
+    "s": "The two constants are linked by Kp = Kc(RT)^Δn, where Δn is the change in moles of gas.\nFor N₂(g) + 3H₂(g) ⇌ 2NH₃(g):\nΔn = (moles of gaseous product) − (moles of gaseous reactant) = 2 − (1 + 3) = −2.\nSo Kp = Kc(RT)⁻², and rearranging, Kc = Kp ÷ (RT)⁻² = Kp(RT)².\nPut the numbers in SI-compatible units for Kp in atmospheres:\nR = 0.082 L atm K⁻¹ mol⁻¹ and T = 500 °C = 500 + 273 = 773 K.\nKc = 1.44 × 10⁻⁵ × (0.082 × 773)², which is the same as writing it as a division by (0.082 × 773)⁻².\n∴ Kc = 1.44 × 10⁻⁵ / (0.082 × 773)⁻²."
+  },
+
+  "kcet|Chemistry|2026|47||0|0": {
+    "ch": "Equilibrium",
+    "s": "Apply Le Chatelier's principle to 3A(g) + B(g) ⇌ A₃B(g), ΔrH = −q kJ.\nTemperature: the forward reaction is exothermic, so cooling shifts it forward and heating shifts it\nback. Temperature therefore changes how much A₃B there is.\nPressure: count the gas moles. 4 on the left, 1 on the right, so Δn = −3.\nRaising the pressure drives the system towards the side with fewer moles, which is the product.\nPressure therefore changes it too.\nCatalyst: a catalyst lowers the activation energy of forward and reverse steps by the same amount.\nIt makes equilibrium arrive sooner but does not move its position, so the amount of A₃B is unchanged.\n∴ both temperature and pressure."
+  },
+
+  "kcet|Chemistry|2026|48||0|0": "Pyridine is a weak base and pyridinium chloride is its conjugate acid, so this is a basic buffer.\nWork in moles, since the volume is shared and cancels.\nBase: n(pyridine) = 0.2 mol L⁻¹ × 0.500 L = 0.1 mol.\nSalt: n(pyridinium chloride) = 0.15 mol, given.\nHenderson–Hasselbalch for a basic buffer:\npOH = pKb + log([salt]/[base])\nFor pyridine Kb ≈ 1.7 × 10⁻⁹, so pKb ≈ 8.8.\npOH = 8.8 + log(0.15/0.1) = 8.8 + log 1.5 = 8.8 + 0.18 = 8.98\npH = 14 − pOH = 14 − 8.98 = 5.02\n∴ pH ≈ 5.",
+
+  "kcet|Chemistry|2026|49||0|0": "Every one of these turns on the van't Hoff factor i, the number of particles a formula unit gives.\nUrea does not dissociate, so i = 1. NaCl gives Na⁺ + Cl⁻, so i = 2.\n(1) Osmotic pressure π = iCRT. At the same 0.1 M, NaCl has twice the particles, so\nπ(NaCl) > π(urea) — the statement has it the wrong way round.\n(2) 2 ppm means 2 parts in a million, which is roughly 3 × 10⁻⁵ M. That is far smaller than 2 M, not greater.\n(3) Elevation of boiling point ΔTb = i·Kb·m. At the same 0.02 M, NaCl gives the larger ΔTb,\nso 0.02 M urea > 0.02 M NaCl is false.\n(4) Adding any non-volatile solute lowers the vapour pressure, by Raoult's law p = χsolvent·p°.\nSalt water therefore has a lower vapour pressure than pure water ✓.\n∴ only (4) is correct.",
+
+  "kcet|Chemistry|2026|50||0|0": "Recall each law in its standard algebraic form.\n(a) Henry's law — the solubility of a gas is proportional to its partial pressure: p = KH·χ ⇒ (ii).\n(b) Raoult's law — the partial vapour pressure of a component is its mole fraction times its pure\nvapour pressure: p₁ = χ₁p₁° ⇒ (i).\n(c) First law of thermodynamics — energy is conserved: ΔU = q + w ⇒ (iv).\n(d) Kohlrausch's law — limiting molar conductivity is the sum of the ionic contributions:\nΛ°m = ν₊λ°₊ + ν₋λ°₋ ⇒ (iii).\nNote how (i) and (ii) look alike; the difference is that Henry's constant KH replaces the pure-liquid\nvapour pressure p°, because the solute here is a gas and has no p° in the liquid state.\n∴ a–ii, b–i, c–iv, d–iii."
+}

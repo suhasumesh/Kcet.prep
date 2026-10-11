@@ -1,0 +1,38 @@
+{
+  "kcet|Chemistry|2026|28||0|0": {
+    "ch": "Redox Reactions",
+    "s": "Balance the two half reactions, then combine.\nOxidation: C₂O₄²⁻ ⇒ 2CO₂ + 2e⁻ (each carbon goes +3 ⇒ +4, so 2 electrons per oxalate).\nReduction: MnO₄⁻ + 8H⁺ + 5e⁻ ⇒ Mn²⁺ + 4H₂O (Mn goes +7 ⇒ +2, so 5 electrons).\nElectrons must cancel: LCM of 2 and 5 is 10, so take 5 oxalates and 2 permanganates.\n5C₂O₄²⁻ ⇒ 10CO₂ + 10e⁻\n2MnO₄⁻ + 16H⁺ + 10e⁻ ⇒ 2Mn²⁺ + 8H₂O\nAdding: 5C₂O₄²⁻ + 2MnO₄⁻ + 16H⁺ ⇒ 2Mn²⁺ + 8H₂O + 10CO₂.\nSo a = 5, b = 2, c = 16, x = 2, y = 8, z = 10.\n∴ a and x are 5 and 2."
+  },
+
+  "kcet|Chemistry|2026|29||0|0": "An oxidising agent must be able to come down to a lower oxidation state.\nAll four species have the metal at +6, but chromium and molybdenum behave differently there.\nCr is a 3d metal: +6 is above its most stable state, so Cr(VI) drops readily to Cr(III).\nThat is why CrO₃, CrO₄²⁻ and Cr₂O₇²⁻ are all good oxidising agents.\nMo is a 4d metal, and down a group the higher oxidation state becomes more stable.\nFor molybdenum +6 is the stable state, so MoO₃ has little tendency to be reduced.\n∴ MoO₃ will not act as an oxidising agent.",
+
+  "kcet|Chemistry|2026|30||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Fluorine is the more electronegative of the two, so on that ground alone you might expect it to\nforce the higher oxidation state — yet it does not. The reason is bonding capacity, not electronegativity.\nFluorine has no way to form a double bond: it uses its single unpaired electron and is then satisfied.\nSo each F can take only one of manganese's electrons, and MnF₄ uses up four.\nOxygen has two unpaired electrons and can form M=O double bonds.\nEach oxygen therefore accounts for two of manganese's electrons, and in Mn₂O₇ this reaches +7.\n∴ because in covalent compounds fluorine forms only single bonds while oxygen can form double bonds."
+  },
+
+  "kcet|Chemistry|2026|31||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Write the configuration first. Cr has Z = 24: [Ar] 3d⁵ 4s¹.\nA cation loses the 4s electron before any 3d electron.\nCr²⁺ = [Ar] 3d⁴ — remove the 4s¹ and one 3d electron.\nFour electrons in five d orbitals stay unpaired by Hund's rule, so n = 4.\nSpin-only moment: μ = √(n(n + 2)) BM\nμ = √(4 × 6) = √24 = 4.899 BM.\n∴ about 4.90 BM."
+  },
+
+  "kcet|Chemistry|2026|32||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "Compare the ligands, because the metal is iron in every case.\nH₂O is a neutral monodentate ligand and a weak field one, so [Fe(H₂O)₆]³⁺ is the least stable here.\nCO and CN⁻ are strong field monodentate ligands, giving genuinely stable complexes.\nOxalate, C₂O₄²⁻, is different in kind: it is bidentate, binding through both its oxygens.\nThree oxalates therefore close three five-membered rings around the iron.\nThis is the chelate effect — releasing six water molecules to bind three ligands raises the entropy,\nso ΔG is more negative and a ring complex is far harder to pull apart than the equivalent monodentate one.\n∴ [Fe(C₂O₄)₃]³⁻ is the most stable."
+  },
+
+  "kcet|Chemistry|2026|33||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "Only what lies outside the square brackets dissociates in solution.\nThe six NH₃ are inside the coordination sphere, bonded to cobalt, and stay with it.\nThe two chlorides are written outside, so they are ionisable.\n[Co(NH₃)₆]Cl₂ ⇒ [Co(NH₃)₆]²⁺ + 2Cl⁻\nCount them: one complex cation plus two chloride anions.\n∴ 3 ions per molecule."
+  },
+
+  "kcet|Chemistry|2026|34||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "This describes synergic bonding in a metal carbonyl, and both halves of it are right.\nStatement I — the carbon of CO carries a lone pair, and it donates that pair into an empty\nd orbital on the metal. That is the M ← C σ bond.\nStatement II — the metal now has excess electron density, so it pushes a filled d orbital's pair\nback into the empty π* antibonding orbital of CO. That is the M → C π bond, called back-donation.\nThe two reinforce each other: σ donation makes the metal more electron rich, which drives more\nback-donation, which in turn strengthens the σ bond. Hence 'synergic'.\nBack-donation fills an antibonding orbital of CO, which is why the C–O bond lengthens and its\nstretching frequency falls, exactly as observed.\n∴ both Statement I and Statement II are correct."
+  },
+
+  "kcet|Chemistry|2026|40||0|0": {
+    "ch": "p-Block Elements (Group 15-18)",
+    "s": "Use the two tests together.\nTest 1 — salt + conc. H₂SO₄ gives a reddish brown gas.\nConc. H₂SO₄ oxidises bromide: 2Br⁻ + 2H₂SO₄ ⇒ Br₂ + SO₂ + 2H₂O + SO₄²⁻.\nBr₂ vapour is reddish brown. Chloride would give colourless HCl, iodide violet I₂ vapour,\nand a carbonate would give colourless CO₂.\nTest 2 — aqueous salt + AgNO₃ gives a pale yellow precipitate.\nAgCl is white, AgBr is pale yellow and AgI is bright yellow; Ag₂CO₃ and Ag₂SO₄ are not pale yellow.\nBoth tests point the same way.\n∴ the anion is Br⁻."
+  }
+}
