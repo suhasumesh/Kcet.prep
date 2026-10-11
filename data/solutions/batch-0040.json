@@ -1,0 +1,46 @@
+{
+  "kcet|Chemistry|2012|50||0|0": {
+    "ch": "d- and f-Block Elements",
+    "s": "Work backwards from the magnetic moment to the number of unpaired electrons.\nμ = √(n(n + 2))\n1.75 = √(n(n + 2)) ⇒ n(n + 2) = 3.06\nTry n = 1: 1 × 3 = 3, so μ = √3 = 1.73 BM ✓ — that is the match.\nNow find the ion with exactly one unpaired electron. Remove the 4s electrons first:\nTi³⁺ : Ti is [Ar]3d²4s² ⇒ 3d¹ ⇒ n = 1, μ = 1.73 BM ✓\nV³⁺ : [Ar]3d³4s² ⇒ 3d² ⇒ n = 2, μ = 2.83\nCr³⁺ : [Ar]3d⁵4s¹ ⇒ 3d³ ⇒ n = 3, μ = 3.87\nFe³⁺ : [Ar]3d⁶4s² ⇒ 3d⁵ ⇒ n = 5, μ = 5.92\nOnly titanium(III) gives 1.73 BM, which rounds to the 1.75 quoted.\n∴ Ti³⁺."
+  },
+
+  "kcet|Chemistry|2012|51||0|0": {
+    "ch": "Classification of Elements and Periodicity",
+    "s": "Ionisation energy rises across a period, but nitrogen and oxygen break the trend.\nThe configurations are the reason:\nN : 1s² 2s² 2p³ — a **half-filled** 2p subshell, which is extra stable, so removing an electron\nis unusually hard.\nO : 1s² 2s² 2p⁴ — the fourth p electron has to pair up in an orbital that already holds one.\nThat pairing brings electron–electron repulsion, so it comes out unusually easily.\nThe result is that oxygen's ionisation energy is **lower** than nitrogen's, reversing the\nexpected order.\nActual values in kJ mol⁻¹:\nC 1086 < O 1314 < N 1402 < F 1681\nSo the increasing order is C < O < N < F.\nThe same anomaly appears one period down, between P and S.\n∴ C < O < N < F."
+  },
+
+  "kcet|Chemistry|2012|53||0|0": {
+    "ch": "Isolation of Elements (Metallurgy)",
+    "s": "Froth flotation is used for **sulphide** ores. It works because a sulphide surface is already\nsomewhat non-polar and is easily made water repellent by a collector such as potassium ethyl\nxanthate, so the ore particles cling to air bubbles and rise with the froth while the silicate\ngangue stays wetted and sinks.\nCheck the four ores:\n(1) Chalcopyrites, CuFeS₂ — a sulphide ✓ concentrated by froth flotation\n(3) Cuprite, Cu₂O — an oxide ✗\n(4) Calamine, ZnCO₃ — a carbonate ✗\n(2) Cryolite, Na₃AlF₆ — a fluoride, and not an ore being concentrated at all; it is the solvent\nadded during the electrolysis of alumina ✗\nOxide and carbonate ores are wetted by water and are concentrated by gravity separation or\nmagnetic separation instead.\n∴ chalcopyrites."
+  },
+
+  "kcet|Chemistry|2012|54||0|0": {
+    "ch": "Some Basic Concepts of Chemistry",
+    "s": "Equivalent mass and atomic mass are linked by the valency:\nequivalent mass = atomic mass / valency\nThe metal is bivalent, so valency = 2:\natomic mass = equivalent mass × valency = 20 × 2 = 40\nA bivalent metal forms the chloride MCl₂, so its molecular mass is\nM + 2 × 35.5 = 40 + 71 = 111\n(The metal with atomic mass 40 and valency 2 is calcium, and CaCl₂ indeed has a formula mass\nof 111.)\nThe word 'anhydrous' is there to warn against adding water of crystallisation — CaCl₂·2H₂O\nwould be 147.\nOption (4), 75.5, comes from treating the metal as monovalent and adding only one chlorine.\n∴ 111."
+  },
+
+  "kcet|Chemistry|2012|55||0|0": {
+    "ch": "States of Matter",
+    "s": "Two things change at once — the number of moles and the temperature — and the container is\nclosed, so the volume is fixed.\nFirst the moles. N₂O₄ ⇒ 2NO₂, and 20% of the 2 mol decomposes:\nN₂O₄ decomposed = 0.20 × 2 = 0.4 mol\nNO₂ formed = 2 × 0.4 = 0.8 mol\nN₂O₄ remaining = 2 − 0.4 = 1.6 mol\ntotal moles = 1.6 + 0.8 = 2.4 mol\nNow apply pV = nRT at constant V:\np₂/p₁ = (n₂T₂)/(n₁T₁)\np₂/1 = (2.4 × 596)/(2 × 298)\nThe temperature has exactly doubled, so 596/298 = 2:\np₂ = (2.4/2) × 2 = 2.4 atm\nBoth effects matter — the mole increase alone would give 1.2 atm, the heating alone 2 atm.\n∴ 2.4 atm."
+  },
+
+  "kcet|Chemistry|2012|56||0|0": {
+    "ch": "Biomolecules",
+    "s": "A reducing sugar is one that can open its ring to expose a free aldehyde group, or a keto\ngroup next to a CHOH that can tautomerise to one. That free carbonyl is what reduces\nTollens' and Fehling's reagents.\nIn glucose and fructose one anomeric carbon is left free, so the ring can open and they are\nreducing. The same is true of maltose and lactose.\nSucrose is different. It is glucose joined to fructose through **both** of their anomeric\ncarbons — C-1 of glucose to C-2 of fructose. With both tied up in the glycosidic link, neither\nring can open, so no free aldehyde or keto group can ever appear.\nHence it gives no reaction with Fehling's or Tollens' reagent.\n(1) and (4) are true statements about sucrose but have nothing to do with reducing power,\nand (3) is true of the reducing sugar fructose as well, so it cannot be the reason.\n∴ because it contains no free aldehyde or keto group adjacent to a CHOH group."
+  },
+
+  "kcet|Chemistry|2012|58||0|0": {
+    "ch": "Surface Chemistry",
+    "s": "Dialysis separates a **colloid** from a **crystalloid** using a parchment or cellophane membrane.\nThe pores let small, true-solution particles pass through, but colloidal particles (1–1000 nm)\nare too large and are held back.\nSo the method only works when one component is colloidal and the other is not.\n(3) Glucose is a crystalloid and passes through the membrane; protein is a macromolecular\ncolloid and stays behind ✓ The two separate cleanly.\n(1) Glucose and fructose are both crystalloids — both pass through, no separation.\n(4) Glucose and NaCl are both crystalloids — same problem.\n(2) Protein and starch are both colloids — both are retained, so neither passes.\nThis is how a dialysis machine cleans blood: urea and salts diffuse out while the blood\nproteins and cells are kept.\n∴ glucose and protein."
+  },
+
+  "kcet|Chemistry|2012|59||0|0": {
+    "ch": "Chemical Bonding and Molecular Structure",
+    "s": "The percentage of p-character is the share of p orbitals among the orbitals mixed.\nGraphite — each carbon is bonded to three others in flat sheets, so it is **sp²**. That mixes\none s orbital with two p orbitals, three in total:\np-character = 2/3 = 66.7% ≈ 67%\nDiamond — each carbon is bonded to four others tetrahedrally, so it is **sp³**. One s with\nthree p, four in total:\np-character = 3/4 = 75%\nSo graphite 67%, diamond 75%, in that order.\nThe s-character is the complement, 33% and 25%, which is option (1) — the same numbers with\nthe question read backwards.\nIt is worth remembering that greater s-character means a shorter, stronger bond, which is why\nthe C–C bond in graphite (142 pm) is shorter than in diamond (154 pm).\n∴ 67 and 75."
+  },
+
+  "kcet|Chemistry|2012|60||0|0": {
+    "ch": "Thermodynamics",
+    "s": "This is work done against a **constant** external pressure, so\nw = p(external) × ΔV\nΔV = V₂ − V₁ = 2 − 1 = 1 m³\np = 10⁵ N m⁻²\nw = 10⁵ × 1 = 10⁵ N m = 10⁵ J\nConvert to kilojoules:\n10⁵ J = 100 kJ = 10² kJ\nCheck the units: N m⁻² × m³ = N m = J ✓ — no conversion factor is needed because the data\nare already in SI.\nThe gas is **expanding**, so it does work on the surroundings; by the sign convention the work\ndone *by* the gas is positive, and the internal energy falls by this amount if no heat enters.\nOptions (3) and (4) quote joules but with the wrong exponent.\n∴ 10² kJ."
+  }
+}

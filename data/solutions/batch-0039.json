@@ -1,0 +1,42 @@
+{
+  "kcet|Chemistry|2012|38||0|0": {
+    "ch": "Electrochemistry",
+    "s": "Every option is a hydrogen electrode at 1 atm, so only the acid concentration differs.\nFor H⁺ + e⁻ ⇒ ½H₂ the Nernst equation gives\nE = E° − 0.059 log(1/[H⁺]) = 0 + 0.059 log[H⁺]\nSo the sign of E follows the sign of log[H⁺]:\n[H⁺] > 1 M ⇒ log positive ⇒ E > 0\n[H⁺] = 1 M ⇒ log zero ⇒ E = 0, the standard hydrogen electrode by definition\n[H⁺] < 1 M ⇒ log negative ⇒ E < 0\nCheck each: 1 M gives exactly zero; 0.1 M and 0.5 M are below 1 M and give negative values.\nOnly 2 M HCl has [H⁺] above 1 M.\nE = 0.059 × log 2 = 0.059 × 0.301 = +0.018 V ✓\n∴ Pt, ½H₂ (1 atm) | HCl (2 M)."
+  },
+
+  "kcet|Chemistry|2012|39||0|0": {
+    "ch": "Alcohols, Phenols and Ethers",
+    "s": "Work backwards from ethanol, C₂H₅OH, which has two carbons.\nFormaldehyde, HCHO, has only one. So the reagent must supply the second carbon, and that\npoints to a Grignard reagent.\nCH₃MgI adds its methyl group to the carbonyl carbon:\nHCHO + CH₃MgI ⇒ CH₃–CH₂–OMgI\nAcid hydrolysis then protonates the alkoxide:\nCH₃CH₂OMgI + H₂O/H⁺ ⇒ CH₃CH₂OH + Mg(OH)I\nSo X is CH₃MgI ✓\nNote the general rule this illustrates: a Grignard with **formaldehyde** always gives a primary\nalcohol with one more carbon; with any other aldehyde it gives a secondary alcohol, and with\na ketone a tertiary one.\nThe other reagents add no carbon at all — KOH and KCN would give a different functional\ngroup entirely.\n∴ CH₃MgI."
+  },
+
+  "kcet|Chemistry|2012|40||0|0": "Basicity depends on how available the nitrogen lone pair is to accept a proton.\nIn **aniline**, C₆H₅NH₂, the nitrogen is attached directly to the benzene ring. Its lone pair\noverlaps with the ring's π system and is delocalised into it, spread over the ortho and para\ncarbons. A lone pair that is busy being delocalised is not free to pick up a proton, so aniline\nis a weak base.\nIn **benzylamine**, C₆H₅CH₂NH₂, there is a –CH₂– group between the nitrogen and the ring.\nThat sp³ carbon breaks the conjugation, so the nitrogen lone pair cannot reach the π system\nand stays localised on nitrogen, fully available for protonation.\nSo benzylamine is the stronger base — its Kb is around 2 × 10⁻⁵ against aniline's 4 × 10⁻¹⁰,\na difference of some fifty thousand times.\n(1) states the reverse of the truth and (3) denies the resonance that is the whole explanation.\n∴ because the lone pair on the nitrogen of aniline is delocalised.",
+
+  "kcet|Chemistry|2012|41||0|0": {
+    "ch": "Aldehydes, Ketones and Carboxylic Acids",
+    "s": "A methyl group releases electrons, destabilising the carboxylate anion, so on electronic\ngrounds a toluic acid should be **weaker** than benzoic acid. That holds for the para isomer.\np-Toluic acid < benzoic acid ✓\nBut the ortho isomer breaks the pattern. This is the **ortho effect**: any group next to the\n–COOH, whether electron releasing or withdrawing, twists the carboxyl group out of the plane\nof the ring. Once it is no longer coplanar, the carboxyl can no longer conjugate with the ring,\nand that loss of resonance in the *acid* makes it easier to lose the proton.\nSteric crowding also relieves itself when the planar COOH becomes the smaller COO⁻.\nSo o-toluic acid is **stronger** than benzoic acid despite its methyl group.\nPutting them in decreasing order of acidity:\no-toluic acid > benzoic acid > p-toluic acid\n∴ option (4)."
+  },
+
+  "kcet|Chemistry|2012|42||0|0": "Ethane is CH₃–CH₃. Each carbon forms four σ bonds — one to the other carbon and three to\nhydrogens — and has no lone pair.\nFour electron domains means four hybrid orbitals, so each carbon is **sp³** hybridised,\ntetrahedral, with angles of 109°28′.\nNow identify each overlap:\nThe C–C bond joins the two carbons, so it is an sp³ orbital on one meeting an sp³ orbital on the\nother ⇒ **sp³–sp³**.\nEach C–H bond joins a carbon to a hydrogen. Hydrogen has only its 1s orbital, so this is an sp³\norbital overlapping an s orbital ⇒ **sp³–s**.\nBoth are head-on overlaps along the internuclear axis, so both are σ bonds — which is why\nethane has free rotation about its C–C bond, there being no π bond to lock it.\n∴ sp³–s and sp³–sp³.",
+
+  "kcet|Chemistry|2012|43||0|0": {
+    "ch": "Organic Chemistry - Basic Principles",
+    "s": "The structure is CH₃–CH(OH)–CH₂–CO–CH₃.\nStep 1 — choose the principal functional group. A ketone outranks an alcohol, so the compound\nis named as a **pentanone** and the –OH becomes a 'hydroxy' prefix.\nStep 2 — the chain has five carbons, so the parent is pentane ⇒ pentanone.\nStep 3 — number to give the **ketone** the lower locant. Counting from the CH₃ nearest the\ncarbonyl:\nC1 = CH₃\nC2 = C=O\nC3 = CH₂\nC4 = CH–OH\nC5 = CH₃\nThat puts the ketone at 2 and the hydroxyl at 4. Numbering from the other end would make\nthe ketone 4, which is higher and so not allowed.\nName: 4-hydroxypentan-2-one, written in the older style as 4-hydroxy-2-pentanone.\nOption (3) wrongly names the ketone as 'oxo' while treating the alcohol as the parent, and\n(2) numbers from the wrong end.\n∴ 4-hydroxy-2-pentanone."
+  },
+
+  "kcet|Chemistry|2012|44||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "For a first order reaction,\nk = (2.303/t)·log([A]₀/[A])\nFirst find k from the data given. 60% complete means 40% remains:\nk = (2.303/20)·log(100/40) = (2.303/20)·log 2.5\nlog 2.5 = 0.3979\nk = (2.303 × 0.3979)/20 = 0.0458 min⁻¹\nNow find the time for 84% completion, when 16% remains:\nt = (2.303/k)·log(100/16)\nlog 6.25 = 0.7959\nt = (2.303 × 0.7959)/0.0458 = 1.833/0.0458 = 40 min\nThere is a quicker route: 84% left as 16% is (40%)², so the fraction remaining has been\nsquared, which takes exactly twice the time — 2 × 20 = 40 min ✓\n∴ 40 minutes."
+  },
+
+  "kcet|Chemistry|2012|45||0|0": {
+    "ch": "Chemical Kinetics",
+    "s": "Souring takes 5 hours at 27 °C and ten times longer, 50 hours, at −3 °C. Time is inversely\nproportional to rate, so the rate at the higher temperature is 10 times the rate at the lower.\nk₁/k₂ = 10\nConvert the temperatures: T₁ = 27 + 273 = 300 K, T₂ = −3 + 273 = 270 K.\nUse the two-point Arrhenius equation:\nlog(k₁/k₂) = (Ea/2.303R)·(1/T₂ − 1/T₁)\n1/270 − 1/300 = (300 − 270)/(270 × 300) = 30/81000 = 3.704 × 10⁻⁴\nlog 10 = 1, so\n1 = (Ea/2.303R) × 3.704 × 10⁻⁴\nEa = 2.303R / (3.704 × 10⁻⁴) = 2.303 × R × 2700 J mol⁻¹\nExpressed in kilojoules, 2700 J = 2.7 kJ:\nEa = 2.303 × 2.7 R kJ mol⁻¹\n∴ 2.303 × 2.7 R kJ mol⁻¹."
+  },
+
+  "kcet|Chemistry|2012|48||0|0": "Two conditions must both be met: the ligand must carry a negative charge, and it must bind\nthrough **two** donor atoms.\n(2) Cyano, CN⁻ — negatively charged ✓ but monodentate, donating only through carbon ✗\n(3) Ethylenediamine, H₂N–CH₂CH₂–NH₂ — bidentate ✓ but **neutral**, not charged ✗\n(4) Acetato, CH₃COO⁻ — negatively charged ✓, and usually binds through one oxygen only ✗\n(1) Dimethylglyoximato — dimethylglyoxime loses one proton to give the anion, so it is\nnegatively charged ✓, and it chelates through the two nitrogen atoms of its oxime groups ✓\nThis is the ligand used to detect nickel: two of them close two five-membered rings around\nNi²⁺ to give the bright red, insoluble bis(dimethylglyoximato)nickel(II).\n∴ dimethyl glyoximato.",
+
+  "kcet|Chemistry|2012|49||0|0": {
+    "ch": "Coordination Compounds",
+    "s": "In Werner's language, the **primary** valency is the oxidation state, satisfied by the ions\noutside the coordination sphere, while the **secondary** valency is the coordination number —\nthe number of donor atoms attached directly to the metal.\nWrite the formula of tetraammine dichloroplatinum(IV) chloride:\n[Pt(NH₃)₄Cl₂]Cl₂\nCount the ligands inside the square brackets:\n4 NH₃, each donating through nitrogen = 4\n2 Cl⁻, each donating through chlorine = 2\ntotal = 6\nSo the secondary valency is 6, and the geometry is octahedral.\nThe primary valency is +4, which is what options (1) and (2) are testing — the two chlorides\noutside the bracket satisfy part of it.\nNote the two chlorines *inside* the sphere count towards the coordination number but are not\nionisable.\n∴ 6."
+  }
+}

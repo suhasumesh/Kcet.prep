@@ -36,13 +36,24 @@ def key_of(q):
 
 
 def written():
-    """Every question a solution has already been written for."""
+    """
+    Every question already dealt with: one that has a solution, and one that
+    never can have.
+
+    _broken.json and _suspect.json are counted here too. A crop whose options
+    are cut off cannot be answered, and a question whose key is wrong should
+    not be, so leaving them in the queue only means they reappear at the top
+    of every sheet and crowd out work that can actually be done.
+    """
     out = {}
     if os.path.isdir(STORE):
         for f in sorted(os.listdir(STORE)):
-            if f.endswith('.json') and not f.startswith('_'):
-                with open(os.path.join(STORE, f), encoding='utf-8') as fh:
-                    out.update(json.load(fh))
+            if not f.endswith('.json'):
+                continue
+            if f.startswith('_') and f not in ('_broken.json', '_suspect.json'):
+                continue
+            with open(os.path.join(STORE, f), encoding='utf-8') as fh:
+                out.update(json.load(fh))
     return out
 
 
