@@ -174,6 +174,20 @@ async function main() {
     }
   }
 
+  // A crop from a book is only a question if the four choices are printed in
+  // it. Some bands caught revision notes, a worked answer, a multi-part
+  // exercise or two questions at once -- 34 of them in the Pradeep volumes --
+  // and a student meeting one of those mid-test has been handed something
+  // unanswerable. Three of the four markers is the test, which tolerates one
+  // the OCR missed while still excluding prose.
+  const OPTION_MARK = /\(\s*([a-d])\s*\)/g;
+  function looksLikeQuestion(text) {
+    const seen = new Set();
+    for (const m of String(text || '').matchAll(OPTION_MARK)) seen.add(m[1]);
+    return seen.size >= 3;
+  }
+  let notQuestions = 0;
+
   // ---- reference-book questions, kept in their own bank ------------------
   const BOOK_LABEL = {
     'pradeep-physics-11': 'Pradeep Physics · Class 11',
@@ -190,6 +204,10 @@ async function main() {
         // the crop is the whole question; without it there is nothing to show
         if (!img || !['A', 'B', 'C', 'D'].includes(q.answer)) {
           skipped++;
+          continue;
+        }
+        if (!looksLikeQuestion(q.stemText)) {
+          notQuestions++;
           continue;
         }
         const label = BOOK_LABEL[q.source] || q.source;
@@ -230,7 +248,8 @@ async function main() {
         });
       }
     }
-    console.log(`found ${pradeepCount} reference-book questions`);
+    console.log(`found ${pradeepCount} reference-book questions` +
+                (notQuestions ? ` (${notQuestions} crops dropped: no printed options)` : ''));
   }
 
   // ---- chapterwise books: real past papers, already filed by chapter ------

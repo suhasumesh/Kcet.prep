@@ -37,14 +37,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Motion in a Plane",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "angle"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 2,
@@ -84,14 +77,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "velocity"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 3,
@@ -131,16 +117,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Motion in a Plane",
-  "chapterScore": 3,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "vector",
-   "angle",
-   "component"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 4,
@@ -180,16 +157,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Laws of Motion",
-  "chapterScore": 6,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "static friction",
-   "friction",
-   "momentum"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 5,
@@ -229,15 +197,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 5,
-  "chapterMargin": 5,
-  "chapterHits": [
-   "kinetic energy",
-   "energy"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 6,
@@ -277,12 +237,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 7,
@@ -322,14 +277,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Gravitation",
-  "chapterScore": 4,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "acceleration due to gravity"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 8,
@@ -369,14 +317,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Mechanical Properties of Solids",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "strain"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 9,
@@ -416,12 +357,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 10,
@@ -432,7 +368,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q010-stem0.png",
-    "w": 1848,
+    "w": 1967,
     "h": 484
    }
   ],
@@ -461,14 +397,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Mechanical Properties of Fluids",
-  "chapterScore": 2,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "fluid"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 11,
@@ -479,7 +408,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q011-stem0.png",
-    "w": 1850,
+    "w": 1963,
     "h": 244
    }
   ],
@@ -508,14 +437,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Thermal Properties of Matter",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "temperature"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 12,
@@ -526,7 +448,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q012-stem0.png",
-    "w": 1848,
+    "w": 1963,
     "h": 168
    }
   ],
@@ -555,15 +477,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Thermal Properties of Matter",
-  "chapterScore": 3,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "temperature",
-   "heat"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 16,
@@ -574,7 +488,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q016-stem0.png",
-    "w": 1874,
+    "w": 1989,
     "h": 627
    }
   ],
@@ -603,15 +517,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electric Charges and Fields",
-  "chapterScore": 4,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "charge",
-   "electric field"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 17,
@@ -622,7 +528,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q017-stem0.png",
-    "w": 1871,
+    "w": 1986,
     "h": 501
    }
   ],
@@ -651,15 +557,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electric Charges and Fields",
-  "chapterScore": 2,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "charge",
-   "electric field"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 18,
@@ -670,7 +568,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q018-stem0.png",
-    "w": 1866,
+    "w": 1988,
     "h": 402
    }
   ],
@@ -699,14 +597,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electrostatic Potential and Capacitance",
-  "chapterScore": 4,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "equipotential"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 19,
@@ -746,14 +637,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electric Charges and Fields",
-  "chapterScore": 3,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "charge"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 20,
@@ -764,7 +648,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q020-stem0.png",
-    "w": 1846,
+    "w": 1956,
     "h": 364
    }
   ],
@@ -793,14 +677,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electric Charges and Fields",
-  "chapterScore": 3,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "charge"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 21,
@@ -811,7 +688,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q021-stem0.png",
-    "w": 1846,
+    "w": 1956,
     "h": 788
    }
   ],
@@ -840,15 +717,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electrostatic Potential and Capacitance",
-  "chapterScore": 6,
-  "chapterMargin": 5,
-  "chapterHits": [
-   "capacitance",
-   "capacitor"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 23,
@@ -859,7 +728,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q023-stem0.png",
-    "w": 1756,
+    "w": 1984,
     "h": 344
    }
   ],
@@ -888,14 +757,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electrostatic Potential and Capacitance",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "conductor"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 24,
@@ -906,7 +768,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q024-stem0.png",
-    "w": 1869,
+    "w": 1984,
     "h": 1068
    }
   ],
@@ -935,14 +797,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Thermal Properties of Matter",
-  "chapterScore": 2,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "temperature"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 25,
@@ -953,7 +808,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q025-stem0.png",
-    "w": 1753,
+    "w": 1984,
     "h": 539
    }
   ],
@@ -982,14 +837,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electrostatic Potential and Capacitance",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "potential difference"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 26,
@@ -1000,7 +848,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q026-stem0.png",
-    "w": 1735,
+    "w": 1968,
     "h": 757
    }
   ],
@@ -1029,12 +877,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 27,
@@ -1045,7 +888,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q027-stem0.png",
-    "w": 1728,
+    "w": 1968,
     "h": 705
    }
   ],
@@ -1074,14 +917,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "resistance"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 29,
@@ -1092,7 +928,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q029-stem0.png",
-    "w": 1890,
+    "w": 2005,
     "h": 401
    }
   ],
@@ -1121,14 +957,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 4,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "solenoid"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 30,
@@ -1139,7 +968,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q030-stem0.png",
-    "w": 1885,
+    "w": 2002,
     "h": 420
    }
   ],
@@ -1168,15 +997,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 5,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "cyclotron",
-   "charged particle"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 31,
@@ -1187,7 +1008,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q031-stem0.png",
-    "w": 1760,
+    "w": 1998,
     "h": 594
    }
   ],
@@ -1216,14 +1037,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "current"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 33,
@@ -1234,7 +1048,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q033-stem0.png",
-    "w": 1851,
+    "w": 1958,
     "h": 574
    }
   ],
@@ -1263,17 +1077,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 6,
-  "chapterMargin": 5,
-  "chapterHits": [
-   "current",
-   "resistance",
-   "voltmeter",
-   "galvanometer"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 34,
@@ -1284,7 +1088,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q034-stem0.png",
-    "w": 1851,
+    "w": 1968,
     "h": 417
    }
   ],
@@ -1313,14 +1117,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Magnetism and Matter",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "paramagnetic"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 35,
@@ -1331,7 +1128,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q035-stem0.png",
-    "w": 1856,
+    "w": 1965,
     "h": 350
    }
   ],
@@ -1360,14 +1157,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Magnetism and Matter",
-  "chapterScore": 4,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "earth's magnetic field"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 36,
@@ -1378,7 +1168,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q036-stem0.png",
-    "w": 1735,
+    "w": 1973,
     "h": 306
    }
   ],
@@ -1407,14 +1197,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Waves",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "frequency"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 37,
@@ -1425,7 +1208,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q037-stem0.png",
-    "w": 1858,
+    "w": 1965,
     "h": 309
    }
   ],
@@ -1454,14 +1237,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 4,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "solenoid"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 38,
@@ -1472,7 +1248,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q038-stem0.png",
-    "w": 1891,
+    "w": 2003,
     "h": 446
    }
   ],
@@ -1501,15 +1277,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Alternating Current",
-  "chapterScore": 5,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "rms value",
-   "ac circuit"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 39,
@@ -1520,7 +1288,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q039-stem0.png",
-    "w": 1765,
+    "w": 1887,
     "h": 409
    }
   ],
@@ -1549,15 +1317,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Electrostatic Potential and Capacitance",
-  "chapterScore": 5,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "capacitance",
-   "capacitor"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 40,
@@ -1597,14 +1357,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "ammeter"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 41,
@@ -1615,7 +1368,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q041-stem0.png",
-    "w": 1886,
+    "w": 1995,
     "h": 309
    }
   ],
@@ -1644,14 +1397,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Mechanical Properties of Fluids",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "drop"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 43,
@@ -1662,7 +1408,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q043-stem0.png",
-    "w": 1733,
+    "w": 1962,
     "h": 188
    }
   ],
@@ -1691,14 +1437,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Thermal Properties of Matter",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "radiation"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 44,
@@ -1709,7 +1448,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q044-stem0.png",
-    "w": 1848,
+    "w": 1966,
     "h": 253
    }
   ],
@@ -1738,12 +1477,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 45,
@@ -1754,7 +1488,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q045-stem0.png",
-    "w": 1858,
+    "w": 1973,
     "h": 908
    }
   ],
@@ -1783,14 +1517,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "refractive index"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 48,
@@ -1801,7 +1528,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q048-stem0.png",
-    "w": 1879,
+    "w": 1995,
     "h": 286
    }
   ],
@@ -1830,15 +1557,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Wave Optics",
-  "chapterScore": 5,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "interference",
-   "slit"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 49,
@@ -1878,14 +1597,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Wave Optics",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "diffraction"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 50,
@@ -1896,7 +1608,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q050-stem0.png",
-    "w": 1881,
+    "w": 1996,
     "h": 291
    }
   ],
@@ -1925,14 +1637,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Waves",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "wavelength"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 52,
@@ -1943,7 +1648,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q052-stem0.png",
-    "w": 1860,
+    "w": 1968,
     "h": 323
    }
   ],
@@ -1972,14 +1677,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Dual Nature of Radiation and Matter",
-  "chapterScore": 4,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "de broglie"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 53,
@@ -1990,7 +1688,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q053-stem0.png",
-    "w": 1735,
+    "w": 1847,
     "h": 427
    }
   ],
@@ -2019,15 +1717,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 5,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "potential energy",
-   "energy"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 54,
@@ -2067,12 +1757,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 55,
@@ -2083,7 +1768,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q055-stem0.png",
-    "w": 1848,
+    "w": 1965,
     "h": 323
    }
   ],
@@ -2112,12 +1797,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 57,
@@ -2128,7 +1808,7 @@
   "stemImages": [
    {
     "src": "physics-2016/q057-stem0.png",
-    "w": 1858,
+    "w": 1970,
     "h": 421
    }
   ],
@@ -2157,15 +1837,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 6,
-  "chapterMargin": 3,
-  "chapterHits": [
-   "kinetic energy",
-   "energy"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 58,
@@ -2205,13 +1877,6 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Semiconductor Electronics",
-  "chapterScore": 12,
-  "chapterMargin": 12,
-  "chapterHits": [
-   "rectifier"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  }
 ]

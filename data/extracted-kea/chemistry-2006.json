@@ -1,5 +1,485 @@
 [
  {
+  "number": 1,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "1. 2)Dolomite 1). Carnallite :3) Calamine 4) Sea water The atomic numbers of Ni and Cu.are 28 and 29 respectively. The electron configuration",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q001-stem0.png",
+    "w": 1989,
+    "h": 258
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 2,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "2. 1s2 2s2. 2 p6 3s2:3p6 3d10. represents Cu2+ 2). 1) Cu+ Ni2+ 4) Ni 3) In the following, the element with the highest ionisation energy is.",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q002-stem0.png",
+    "w": 1993,
+    "h": 365
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 3,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "3. 2). [Ne]3s23 [Ne]3s 1). [Ne]3s 3) In the conversion of Br, to BrOg , the oxidation number.of Br changes from",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q003-stem0.png",
+    "w": 1978,
+    "h": 371
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 4,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "2) +1to+5 1) zero to + 5 zero to - 3 4) +2.to + 5 3) 5.. : Among the alkali metals cesium is the most reactive because.",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q004-stem0.png",
+    "w": 2090,
+    "h": 266
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 5,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "1) its incomplete shell is nearest to the nucleus it has a single electron in the valence shell 2) it is the heaviest alkali metal 3). the outermost electron is more loosely bound than the outermost electron of the",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q005-stem0.png",
+    "w": 1850,
+    "h": 312
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 7,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "7. . : Hydrogen bond is strongest in 1)S -H ---- 2). O -H ----- S 3) F--H ---- F 4） O-H -----N",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q007-stem0.png",
+    "w": 2048,
+    "h": 253
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 8,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "8. . The decomposition of a certain mass of CaCO, gave 11.2 dm? of CO, gas at STP. The mass. of KOH required to completely neutralise the gas is 1). 56.g : . 2) 28g. 42g 3) 20 g 4)",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q008-stem0.png",
+    "w": 2068,
+    "h": 312
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 9,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "9. . The density of a gas is 1.964 g dm-3 at 273 k and·76 cm Hg: The gas is 1) CH 2) CH6",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q009-stem0.png",
+    "w": 2070,
+    "h": 153
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 11,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "11. 4 moles each of SO, and O, gases are allowed to react to form SO, in a closed vessel. At equilibrium 25 % of O, is used up. The total number of moles of all the gases present at equilibrium is. --1) 6.5 ' 2) . 7.0 3) . 8.0 4) 2.0 12.An example for autocatalysis is",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q011-stem0.png",
+    "w": 2097,
+    "h": 445
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "B",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 12,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "oxidation of NO to NO 1) 2) oxidation of SO, to SO, decomposition of KClO, to KCl. and O, 3)",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q012-stem0.png",
+    "w": 1862,
+    "h": 297
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "D",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 16,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "16. AGo Vs T plot in the Ellingham's diagram slopes downwards for the reaction 1) Mg +↓O2 → MgO 2) 2Ag + O2 → Ag2O C+↓02 →CO 3) CO + 1O2 →C02 4）",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q016-stem0.png",
+    "w": 2041,
+    "h": 389
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "C",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
+  "number": 17,
+  "subject": "Chemistry",
+  "year": 2006,
+  "source": "kcet-2006-chemistry-question-paper.pdf",
+  "stemText": "17. Which of the following reaction taking place in the Blast furnace is endothermic ? 1) CaCO3 -→CaO +CO2 2) 2 C +02 →2.CO 3) C +O2 -→CO2 Fe2O3 + 3CO →2Fe+ 3CO2 4）",
+  "stemImages": [
+   {
+    "src": "chemistry-2006-kea/q017-stem0.png",
+    "w": 2050,
+    "h": 318
+   }
+  ],
+  "options": [
+   {
+    "letter": "A",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "B",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "C",
+    "text": "",
+    "img": null
+   },
+   {
+    "letter": "D",
+    "text": "",
+    "img": null
+   }
+  ],
+  "answer": "A",
+  "solutionText": "",
+  "solutionImages": [],
+  "optionsInImage": true
+ },
+ {
   "number": 18,
   "subject": "Chemistry",
   "year": 2006,
@@ -8,7 +488,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q018-stem0.png",
-    "w": 1957,
+    "w": 2056,
     "h": 291
    }
   ],
@@ -37,15 +517,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "p-Block Elements (Group 15-18)",
-  "chapterScore": 8,
-  "chapterMargin": 8,
-  "chapterHits": [
-   "xenon",
-   "ammonia"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 19,
@@ -85,12 +557,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 20,
@@ -101,7 +568,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q020-stem0.png",
-    "w": 1844,
+    "w": 2071,
     "h": 216
    }
   ],
@@ -130,14 +597,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "d- and f-Block Elements",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "transition metal"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 21,
@@ -148,7 +608,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q021-stem0.png",
-    "w": 2000,
+    "w": 2104,
     "h": 308
    }
   ],
@@ -177,17 +637,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Redox Reactions",
-  "chapterScore": 13,
-  "chapterMargin": 9,
-  "chapterHits": [
-   "oxidation state",
-   "oxidising agent",
-   "reducing agent",
-   "oxidation"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 22,
@@ -198,7 +648,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q022-stem0.png",
-    "w": 1869,
+    "w": 2101,
     "h": 422
    }
   ],
@@ -227,12 +677,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 24,
@@ -272,12 +717,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 26,
@@ -288,7 +728,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q026-stem0.png",
-    "w": 1931,
+    "w": 2042,
     "h": 464
    }
   ],
@@ -317,14 +757,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 2,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "concentration"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 27,
@@ -335,7 +768,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q027-stem0.png",
-    "w": 1943,
+    "w": 2055,
     "h": 251
    }
   ],
@@ -364,12 +797,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 28,
@@ -409,14 +837,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Solutions",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "solution"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 29,
@@ -456,14 +877,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Equilibrium",
-  "chapterScore": 4,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "solubility product"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 30,
@@ -474,7 +888,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q030-stem0.png",
-    "w": 1966,
+    "w": 2128,
     "h": 1489
    }
   ],
@@ -503,14 +917,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "concentration"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 31,
@@ -550,14 +957,7 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 2,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "concentration"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 36,
@@ -597,14 +997,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Surface Chemistry",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "sol"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 37,
@@ -615,7 +1008,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q037-stem0.png",
-    "w": 1956,
+    "w": 2058,
     "h": 444
    }
   ],
@@ -644,14 +1037,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Equilibrium",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "equilibrium"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 38,
@@ -691,14 +1077,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Solid State",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "unit cell"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 39,
@@ -709,7 +1088,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q039-stem0.png",
-    "w": 1850,
+    "w": 2080,
     "h": 258
    }
   ],
@@ -738,14 +1117,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Organic Chemistry - Basic Principles",
-  "chapterScore": 4,
-  "chapterMargin": 4,
-  "chapterHits": [
-   "inductive effect"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 40,
@@ -756,7 +1128,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q040-stem0.png",
-    "w": 1858,
+    "w": 2081,
     "h": 404
    }
   ],
@@ -785,14 +1157,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Organic Chemistry - Basic Principles",
-  "chapterScore": 4,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "hyperconjugation"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 41,
@@ -803,7 +1168,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q041-stem0.png",
-    "w": 2003,
+    "w": 2120,
     "h": 304
    }
   ],
@@ -832,14 +1197,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 1,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "bromide"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 42,
@@ -879,14 +1237,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Classification of Elements and Periodicity",
-  "chapterScore": 1,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "group"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 46,
@@ -926,14 +1277,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 4,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "phenol"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 47,
@@ -944,7 +1288,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q047-stem0.png",
-    "w": 1945,
+    "w": 2048,
     "h": 286
    }
   ],
@@ -973,14 +1317,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 4,
-  "chapterMargin": 0,
-  "chapterHits": [
-   "chloroform"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 48,
@@ -1020,15 +1357,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 8,
-  "chapterMargin": 8,
-  "chapterHits": [
-   "benzaldehyde",
-   "acetophenone"
-  ],
-  "chapterConfidence": "high"
+  "optionsInImage": true
  },
  {
   "number": 49,
@@ -1068,14 +1397,7 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 2,
-  "chapterMargin": 1,
-  "chapterHits": [
-   "chloride"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 52,
@@ -1086,7 +1408,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q052-stem0.png",
-    "w": 1878,
+    "w": 2114,
     "h": 277
    }
   ],
@@ -1115,14 +1437,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Classification of Elements and Periodicity",
-  "chapterScore": 3,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "group"
-  ],
-  "chapterConfidence": "low"
+  "optionsInImage": true
  },
  {
   "number": 53,
@@ -1162,12 +1477,7 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  },
  {
   "number": 56,
@@ -1178,7 +1488,7 @@
   "stemImages": [
    {
     "src": "chemistry-2006-kea/q056-stem0.png",
-    "w": 1816,
+    "w": 2043,
     "h": 395
    }
   ],
@@ -1207,15 +1517,7 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "p-Block Elements (Group 15-18)",
-  "chapterScore": 5,
-  "chapterMargin": 2,
-  "chapterHits": [
-   "sulphuric acid",
-   "nitrogen"
-  ],
-  "chapterConfidence": "medium"
+  "optionsInImage": true
  },
  {
   "number": 57,
@@ -1255,11 +1557,6 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "optionsInImage": true
  }
 ]
