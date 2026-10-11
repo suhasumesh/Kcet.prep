@@ -36,5 +36,7 @@
  "pradeep|Chemistry|0|130|Pradeep Chemistry · Class 11|620|200": "match-the-column question with Column II missing from the band and the choice list clipped on the right; the band also runs on into question 131",
  "pradeep|Chemistry|0|132|Pradeep Chemistry · Class 11|620|201": "match-the-column question with Column II missing from the band and the choice list clipped on the right; the band also runs on into question 133",
  "pradeep|Chemistry|0|18|Pradeep Chemistry · Class 11|443|131": "not a question: the printed explanations for questions 18 and 19 of the multiple-correct section",
- "pradeep|Chemistry|0|20|Pradeep Chemistry · Class 11|443|132": "not a question: the printed explanation for question 20 of the multiple-correct section"
+ "pradeep|Chemistry|0|20|Pradeep Chemistry · Class 11|443|132": "not a question: the printed explanation for question 20 of the multiple-correct section",
+ "pradeep|Chemistry|0|57|Pradeep Chemistry · Class 11|465|144": "not a question: the printed explanation for question 57, which states the answers to options (a), (b) and (c) outright",
+ "pradeep|Chemistry|0|12|Pradeep Chemistry · Class 11|1004|292": "stem missing: the band asks 'What is the value of equilibrium constant for the given reaction?' but the reaction itself is not in the crop"
 }
