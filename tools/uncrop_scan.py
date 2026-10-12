@@ -141,12 +141,24 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--check', action='store_true')
     ap.add_argument('--extra', type=int, default=EXTRA)
+    ap.add_argument('--only', nargs='*', metavar='KEY',
+                    help='re-cut only these bank keys (or any key containing one '
+                         'of these strings). The list in _clipped_scan.json grows '
+                         'with every repair, and re-cutting all of it costs a '
+                         'template match per page per entry -- minutes, for work '
+                         'already done.')
     a = ap.parse_args()
 
     listed = json.load(open(os.path.join(STORE, '_clipped_scan.json'), encoding='utf-8'))
     rows = index_rows()
     docs = {}
     done = 0
+    if a.only:
+        listed = {k: v for k, v in listed.items()
+                  if any(sub in k for sub in a.only)}
+        if not listed:
+            print('no listed crop matches %s' % ' '.join(a.only))
+            return 1
     for key, want in sorted(listed.items()):
         entry = rows.get(key)
         if not entry:
