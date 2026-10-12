@@ -46,8 +46,18 @@ for (const d of await Question.find({}).project(
     d.seq || 0].join('|'), d.answer);
 }
 
+// Solutions whose marking the heuristic reads wrongly, each checked against
+// the paper by hand and recorded with the reason. Keeping them here rather
+// than loosening the heuristic means a genuine new contradiction still shows
+// up the moment it appears, instead of being absorbed by a rule made vague
+// enough to excuse these.
+const ACK = path.join(SOLUTIONS, '_audit_ok.json');
+const acknowledged = fs.existsSync(ACK)
+  ? JSON.parse(fs.readFileSync(ACK, 'utf8')) : {};
+
 let checked = 0;
 const clashes = [];
+const known = [];
 for (const file of fs.readdirSync(SOLUTIONS).sort()) {
   if (!file.endsWith('.json') || file.startsWith('_')) continue;
   for (const [key, entry] of Object.entries(JSON.parse(fs.readFileSync(path.join(SOLUTIONS, file), 'utf8')))) {
@@ -56,17 +66,23 @@ for (const file of fs.readdirSync(SOLUTIONS).sort()) {
     if (!answer || !text) continue;
     const { good, bad } = verdicts(text);
     checked++;
-    if (good.size === 1 && !good.has(answer)) {
-      clashes.push({ file, key, answer, says: [...good][0] });
+    // Which letter the working actually settles on depends on the shape of
+    // the marking. Normally one option is ticked and that is the answer. But
+    // in a "which of these is false" question the working ticks every true
+    // statement and crosses the one false one -- so several ticks beside a
+    // single cross means the CROSSED letter is the answer, and reading the
+    // ticks would report a clash on every such question.
+    let says = null;
+    if (bad.size === 1 && good.size >= 2) says = [...bad][0];
+    else if (good.size === 1) says = [...good][0];
+    if (says && says !== answer) {
+      (key in acknowledged ? known : clashes).push({ file, key, answer, says });
     }
-    // A cross against the keyed letter is NOT evidence of a clash: in a
-    // "which statement is false" question the working marks the answer with a
-    // cross and everything else with a tick. Flagging those buried the one
-    // real contradiction among ten false alarms.
   }
 }
 
 console.log(`checked ${checked} solution(s) against the shipped key`);
-console.log(`${clashes.length} contradict it:\n`);
+if (known.length) console.log(`${known.length} flagged, verified by hand (_audit_ok.json)`);
+console.log(`${clashes.length} unexplained contradiction(s):\n`);
 for (const c of clashes) console.log(`  ${c.file}  ${c.key}\n    ships ${c.answer}, working says ${c.says}`);
 await mongoose.disconnect();
