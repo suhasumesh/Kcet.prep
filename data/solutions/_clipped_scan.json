@@ -1,0 +1,56 @@
+{
+ "kcet|Mathematics|2006|41||0|0": 110,
+ "kcet|Mathematics|2007|33||0|0": 110,
+ "kcet|Mathematics|2010|31||0|0": 110,
+ "kcet|Mathematics|2007|34||0|0": {
+  "bottom": 110
+ },
+ "kcet|Mathematics|2008|16||0|0": 110,
+ "kcet|Mathematics|2012|6||0|0": {
+  "top": 42,
+  "bottom": 40
+ },
+ "kcet|Mathematics|2026|33||0|0": {
+  "bottom": 140
+ },
+ "kcet|Mathematics|2012|17||0|0": {
+  "top": 42
+ },
+ "kcet|Mathematics|2013|54||0|0": {
+  "left": 140,
+  "top": 60
+ },
+ "kcet|Mathematics|2013|57||0|0": {
+  "left": 140,
+  "top": 95
+ },
+ "kcet|Mathematics|2026|44||0|0": {
+  "top": 70
+ },
+ "kcet|Mathematics|2004|17||0|0": {
+  "left": 150
+ },
+ "kcet|Mathematics|2008|23||0|0": {
+  "left": 170
+ },
+ "kcet|Mathematics|2009|5||0|0": {
+  "top": 80
+ },
+ "kcet|Mathematics|2026|55||0|0": {
+  "top": 90,
+  "left": 60
+ },
+ "kcet|Mathematics|2012|5||0|0": {
+  "top": 45
+ },
+ "kcet|Mathematics|2015|49||0|0": {
+  "top": 70,
+  "left": 120
+ },
+ "kcet|Mathematics|2015|54||0|0": {
+  "left": 130
+ },
+ "kcet|Mathematics|2014|32||0|0": {
+  "left": 150
+ }
+}
