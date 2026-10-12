@@ -126,14 +126,32 @@ def match(page, crop, shrink=4):
     return float(score[y, x]), x * shrink, y * shrink
 
 
-def locate(doc, crop, dpis):
-    """(score, page index, x, y, dpi) of the band, or None."""
+def locate(doc, crop, dpis, cache=None, start=0, good=0.93):
+    """
+    (score, page index, x, y, dpi) of the band, or None.
+
+    Searches from page `start` and stops as soon as a page scores above
+    `good`.  A paper's questions run in page order, so resuming where the
+    last one was found turns a scan of the whole booklet into a scan of one
+    or two pages -- the difference between minutes and seconds per crop when
+    a thousand are being padded in one pass.
+    """
     best = None
     for dpi in dpis:
-        for i, page in enumerate(doc):
-            hit = match(page_gray(page, dpi), crop)
+        order = list(range(start, len(doc))) + list(range(0, start))
+        for i in order:
+            key = (id(doc), i, dpi)
+            if cache is None:
+                img = page_gray(doc[i], dpi)
+            else:
+                if key not in cache:
+                    cache[key] = page_gray(doc[i], dpi)
+                img = cache[key]
+            hit = match(img, crop)
             if hit and (best is None or hit[0] > best[0]):
                 best = (hit[0], i, hit[1], hit[2], dpi)
+                if hit[0] >= good:
+                    return best
     return best
 
 
