@@ -125,5 +125,6 @@
  "pradeep|Physics|0|16|Pradeep Physics · Class 11|134|17": "stem lost above the band split: the crop holds only the four options (10 s, 10⁻² s, 10⁰ s, 10⁻¹ s) with no question text",
  "pradeep|Physics|0|26|Pradeep Physics · Class 11|175|30": "crop is from the book's worked-examples section, not an MCQ bank: the stem is followed by \"give reason for your answer\" and the printed \"Ans.\" paragraph, together with the next two solved examples",
  "pradeep|Physics|0|30|Pradeep Physics · Class 11|175|31": "crop holds three solved examples with their printed \"Ans.\" working (a system of units, examples of dimensionless quantities, and an arc length), not a multiple-choice question",
- "pradeep|Physics|0|6|Pradeep Physics · Class 11|713|157": "crop is from the book's text, not an MCQ: it holds the numbered discussion of the restoring force of a spring with its figure references, and has no stem or options"
+ "pradeep|Physics|0|6|Pradeep Physics · Class 11|713|157": "crop is from the book's text, not an MCQ: it holds the numbered discussion of the restoring force of a spring with its figure references, and has no stem or options",
+ "pradeep|Physics|0|12|Pradeep Physics · Class 11|786|181": "stem lost above the band split: the crop holds only a potential-energy graph with turning points at ±x_m and four options about V and K, with no question text saying what is asked or where"
 }
