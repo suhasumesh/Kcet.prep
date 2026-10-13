@@ -140,5 +140,7 @@
  "kcet|Physics|2009|28||0|0": "crop is cut below the stem: only the first two options are inside the band, and the keyed option is one of the two that fall outside it",
  "kcet|Physics|2005|52||0|0": "crop is cut partway through the options: the third option is truncated mid-line and the fourth is missing entirely, so the question cannot be answered from what is shown",
  "kcet|Physics|2015|18||0|0": "crop is cut after the first two options: the keyed answer, 180°, falls below the band split and is not shown",
- "kcet|Physics|2026|22||0|0": "crop is cut below the figure: the four flux options are truncated at the edge of the band, leaving only fragments of the first two"
+ "kcet|Physics|2026|22||0|0": "crop is cut below the figure: the four flux options are truncated at the edge of the band, leaving only fragments of the first two",
+ "kcet|Physics|2007|17||0|0": "crop is cut partway through the options: only the first two are visible and the keyed fourth option falls below the band split",
+ "kcet|Physics|2008|23||0|0": "crop is cut through the options: only fragments of the first two expressions are visible, with their denominators and the remaining options outside the band"
 }
