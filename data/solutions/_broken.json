@@ -111,5 +111,8 @@
  "pradeep|Physics|0|25|Pradeep Physics · Class 11|447|101": "not an MCQ: a numerical exercise (\"find the resultant force\") whose four lettered lines are the four forces, with the answer printed beneath as [Ans. 20√2 N, 45° south of west]",
  "pradeep|Physics|0|31|Pradeep Physics · Class 11|448|102": "not an MCQ: a three-part numerical exercise on vector components whose lettered lines are the parts (a), (b), (c), with the answers printed beneath",
  "pradeep|Physics|0|26|Pradeep Physics · Class 11|483|109": "not an MCQ: a column I / column II matching exercise on vector triangles, with the printed answers following it in the crop",
- "pradeep|Physics|0|34|Pradeep Physics · Class 11|488|110": "not an MCQ: a multi-part river-crossing numerical exercise whose lettered lines are its parts (a), (b), (c), with the full worked solution printed beneath"
+ "pradeep|Physics|0|34|Pradeep Physics · Class 11|488|110": "not an MCQ: a multi-part river-crossing numerical exercise whose lettered lines are its parts (a), (b), (c), with the full worked solution printed beneath",
+ "pradeep|Physics|0|44|Pradeep Physics · Class 11|253|55": "stem begins \"In the above question\", and the question it refers to is not in the crop, so the data needed to answer it are missing",
+ "pradeep|Physics|0|2|Pradeep Physics · Class 11|261|59": "not an MCQ: a short-answer exercise (\"state whether the motion is one, two or three dimensional\") whose lettered lines are the four cases to classify, not options",
+ "pradeep|Physics|0|2|Pradeep Physics · Class 11|279|60": "stem is only the follow-up line \"when and where will train A catch train B?\"; the question that sets out the two trains is not in the crop"
 }
