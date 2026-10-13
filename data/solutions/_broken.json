@@ -138,5 +138,7 @@
  "pradeep|Physics|0|2|Pradeep Physics · Class 12|38|2": "crop is from the book's answer pages: it holds the printed \"Ans.\" paragraphs for a short-answer question on uses of the electromagnetic spectrum, followed by the next such question",
  "pradeep|Physics|0|102|Pradeep Physics · Class 12|346|25": "crop runs three separate questions together (resolving two dots by eye, two polaroids at 45°, and single-slit diffraction fringes), so it cannot be shown as one question",
  "kcet|Physics|2009|28||0|0": "crop is cut below the stem: only the first two options are inside the band, and the keyed option is one of the two that fall outside it",
- "kcet|Physics|2005|52||0|0": "crop is cut partway through the options: the third option is truncated mid-line and the fourth is missing entirely, so the question cannot be answered from what is shown"
+ "kcet|Physics|2005|52||0|0": "crop is cut partway through the options: the third option is truncated mid-line and the fourth is missing entirely, so the question cannot be answered from what is shown",
+ "kcet|Physics|2015|18||0|0": "crop is cut after the first two options: the keyed answer, 180°, falls below the band split and is not shown",
+ "kcet|Physics|2026|22||0|0": "crop is cut below the figure: the four flux options are truncated at the edge of the band, leaving only fragments of the first two"
 }
