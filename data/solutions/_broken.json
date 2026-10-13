@@ -114,5 +114,8 @@
  "pradeep|Physics|0|34|Pradeep Physics · Class 11|488|110": "not an MCQ: a multi-part river-crossing numerical exercise whose lettered lines are its parts (a), (b), (c), with the full worked solution printed beneath",
  "pradeep|Physics|0|44|Pradeep Physics · Class 11|253|55": "stem begins \"In the above question\", and the question it refers to is not in the crop, so the data needed to answer it are missing",
  "pradeep|Physics|0|2|Pradeep Physics · Class 11|261|59": "not an MCQ: a short-answer exercise (\"state whether the motion is one, two or three dimensional\") whose lettered lines are the four cases to classify, not options",
- "pradeep|Physics|0|2|Pradeep Physics · Class 11|279|60": "stem is only the follow-up line \"when and where will train A catch train B?\"; the question that sets out the two trains is not in the crop"
+ "pradeep|Physics|0|2|Pradeep Physics · Class 11|279|60": "stem is only the follow-up line \"when and where will train A catch train B?\"; the question that sets out the two trains is not in the crop",
+ "pradeep|Physics|0|5|Pradeep Physics · Class 11|280|61": "stem refers to a car and a scooter whose speeds are set out in an earlier passage or graph that is not in the crop, so the question cannot be answered from what is shown",
+ "pradeep|Physics|0|6|Pradeep Physics · Class 11|280|62": "stem refers to a car and a scooter whose speeds are set out in an earlier passage or graph that is not in the crop, so the question cannot be answered from what is shown",
+ "pradeep|Physics|0|12|Pradeep Physics · Class 11|302|64": "not an MCQ: a graph-matching exercise (\"refer to the graphs in Fig. 3(N).15, match the following\") whose lettered lines are the four graphs, with the printed answer and explanation following in the crop"
 }
