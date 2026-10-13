@@ -122,5 +122,7 @@
  "pradeep|Physics|0|4|Pradeep Physics · Class 11|323|89": "crop is from the book's answer pages, not a question: it holds only the printed explanation \"options (a), (c) and (d) show a uniformly accelerated motion ...\"",
  "pradeep|Physics|0|3|Pradeep Physics · Class 11|20|1": "not an MCQ: a boxed statement from the book's mathematical-tools section listing the conic conditions, followed in the crop by the \"problems for practice\" heading",
  "pradeep|Physics|0|7|Pradeep Physics · Class 11|22|2": "not an MCQ: continuous prose from the book's trigonometry section on the signs of sin, cos and tan in the four quadrants, with no stem and no options",
- "pradeep|Physics|0|16|Pradeep Physics · Class 11|134|17": "stem lost above the band split: the crop holds only the four options (10 s, 10⁻² s, 10⁰ s, 10⁻¹ s) with no question text"
+ "pradeep|Physics|0|16|Pradeep Physics · Class 11|134|17": "stem lost above the band split: the crop holds only the four options (10 s, 10⁻² s, 10⁰ s, 10⁻¹ s) with no question text",
+ "pradeep|Physics|0|26|Pradeep Physics · Class 11|175|30": "crop is from the book's worked-examples section, not an MCQ bank: the stem is followed by \"give reason for your answer\" and the printed \"Ans.\" paragraph, together with the next two solved examples",
+ "pradeep|Physics|0|30|Pradeep Physics · Class 11|175|31": "crop holds three solved examples with their printed \"Ans.\" working (a system of units, examples of dimensionless quantities, and an arc length), not a multiple-choice question"
 }
