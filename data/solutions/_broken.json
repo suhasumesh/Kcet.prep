@@ -109,5 +109,7 @@
  "pradeep|Physics|0|59|Pradeep Physics · Class 11|684|156": "crop is from the book's answer pages, not a question: it holds the printed explanations (a)-(d) for a friction problem, with no stem of its own",
  "pradeep|Physics|0|12|Pradeep Physics · Class 11|423|100": "crop is a worked example from the book's text, not an MCQ: it carries the question \"Can you associate vectors with ...\" followed by the printed solution, and has no options",
  "pradeep|Physics|0|25|Pradeep Physics · Class 11|447|101": "not an MCQ: a numerical exercise (\"find the resultant force\") whose four lettered lines are the four forces, with the answer printed beneath as [Ans. 20√2 N, 45° south of west]",
- "pradeep|Physics|0|31|Pradeep Physics · Class 11|448|102": "not an MCQ: a three-part numerical exercise on vector components whose lettered lines are the parts (a), (b), (c), with the answers printed beneath"
+ "pradeep|Physics|0|31|Pradeep Physics · Class 11|448|102": "not an MCQ: a three-part numerical exercise on vector components whose lettered lines are the parts (a), (b), (c), with the answers printed beneath",
+ "pradeep|Physics|0|26|Pradeep Physics · Class 11|483|109": "not an MCQ: a column I / column II matching exercise on vector triangles, with the printed answers following it in the crop",
+ "pradeep|Physics|0|34|Pradeep Physics · Class 11|488|110": "not an MCQ: a multi-part river-crossing numerical exercise whose lettered lines are its parts (a), (b), (c), with the full worked solution printed beneath"
 }
