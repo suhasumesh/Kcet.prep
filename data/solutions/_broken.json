@@ -126,5 +126,8 @@
  "pradeep|Physics|0|26|Pradeep Physics · Class 11|175|30": "crop is from the book's worked-examples section, not an MCQ bank: the stem is followed by \"give reason for your answer\" and the printed \"Ans.\" paragraph, together with the next two solved examples",
  "pradeep|Physics|0|30|Pradeep Physics · Class 11|175|31": "crop holds three solved examples with their printed \"Ans.\" working (a system of units, examples of dimensionless quantities, and an arc length), not a multiple-choice question",
  "pradeep|Physics|0|6|Pradeep Physics · Class 11|713|157": "crop is from the book's text, not an MCQ: it holds the numbered discussion of the restoring force of a spring with its figure references, and has no stem or options",
- "pradeep|Physics|0|12|Pradeep Physics · Class 11|786|181": "stem lost above the band split: the crop holds only a potential-energy graph with turning points at ±x_m and four options about V and K, with no question text saying what is asked or where"
+ "pradeep|Physics|0|12|Pradeep Physics · Class 11|786|181": "stem lost above the band split: the crop holds only a potential-energy graph with turning points at ±x_m and four options about V and K, with no question text saying what is asked or where",
+ "pradeep|Physics|0|4|Pradeep Physics · Class 12|30|1": "not an MCQ: the NCERT long-answer exercise listing the four Maxwell equations with nine lettered sub-parts (a)-(i), followed by the printed solution",
+ "pradeep|Physics|0|51|Pradeep Physics · Class 12|71|8": "stem is clipped: the crop asks for the average energy density due to the magnetic field but the field strength it refers to is set out in an earlier question that is not in the crop",
+ "pradeep|Physics|0|56|Pradeep Physics · Class 12|71|9": "not an MCQ: a column I / column II matching exercise on Maxwell’s equations, with column II and most of the lettered choices cut off at the edge of the crop"
 }
