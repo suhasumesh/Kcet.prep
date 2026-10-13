@@ -103,5 +103,11 @@
  "kcet|Mathematics|2014|34||0|0": "options (3) and (4) cut off at the foot of the band; the options are baked into the stem crop and only two are visible",
  "kcet|Mathematics|2007|58||0|0": "options (3) and (4) cut off at the foot of the band",
  "kcet|Mathematics|2008|47||0|0": "options (3) and (4) cut off at the foot of the band",
- "pradeep|Physics|0|10|Pradeep Physics · Class 11|606|124": "Crop holds only the four options; the question stem was lost above the band split, so the question cannot be answered or even read."
+ "pradeep|Physics|0|10|Pradeep Physics · Class 11|606|124": "Crop holds only the four options; the question stem was lost above the band split, so the question cannot be answered or even read.",
+ "pradeep|Physics|0|55|Pradeep Physics · Class 11|667|153": "stem refers to Fig. 5(CF).61 for the direction of P and of the 3 N force, and the figure is not inside the crop; the geometry cannot be recovered from the text alone",
+ "pradeep|Physics|0|56|Pradeep Physics · Class 11|684|155": "crop is from the book's answer pages, not a question: it holds the worked R = m(g ± a) cases for a lift and ends \"Option (b) and (c) are correct\"",
+ "pradeep|Physics|0|59|Pradeep Physics · Class 11|684|156": "crop is from the book's answer pages, not a question: it holds the printed explanations (a)-(d) for a friction problem, with no stem of its own",
+ "pradeep|Physics|0|12|Pradeep Physics · Class 11|423|100": "crop is a worked example from the book's text, not an MCQ: it carries the question \"Can you associate vectors with ...\" followed by the printed solution, and has no options",
+ "pradeep|Physics|0|25|Pradeep Physics · Class 11|447|101": "not an MCQ: a numerical exercise (\"find the resultant force\") whose four lettered lines are the four forces, with the answer printed beneath as [Ans. 20√2 N, 45° south of west]",
+ "pradeep|Physics|0|31|Pradeep Physics · Class 11|448|102": "not an MCQ: a three-part numerical exercise on vector components whose lettered lines are the parts (a), (b), (c), with the answers printed beneath"
 }
