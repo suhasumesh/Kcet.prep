@@ -746,13 +746,15 @@
    }
   ],
   "chapter": "Coordination Compounds",
-  "chapterScore": 13,
-  "chapterMargin": 13,
+  "chapterScore": 26,
+  "chapterMargin": 14,
   "chapterHits": [
    "ligand",
+   "coordination number",
    "complex",
    "coordination",
-   "central metal"
+   "central metal",
+   "ligands"
   ],
   "chapterConfidence": "high"
  },
@@ -816,11 +818,13 @@
     "h": 556
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Coordination Compounds",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "en"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 13,
@@ -1363,12 +1367,13 @@
    }
   ],
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
-   "aldol"
+   "aldol",
+   "aldol condensation"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 21,
@@ -1432,7 +1437,7 @@
   ],
   "chapter": "Alcohols, Phenols and Ethers",
   "chapterScore": 5,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "alcohol",
    "ether"
@@ -1500,10 +1505,11 @@
    }
   ],
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 15,
-  "chapterMargin": 13,
+  "chapterScore": 27,
+  "chapterMargin": 25,
   "chapterHits": [
    "aldol",
+   "aldol condensation",
    "carbonyl",
    "acetone"
   ],
@@ -1840,8 +1846,8 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 44,
-  "chapterMargin": 44,
+  "chapterScore": 50,
+  "chapterMargin": 50,
   "chapterHits": [
    "glucose",
    "fructose",
@@ -2464,12 +2470,13 @@
    }
   ],
   "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
+   "molar mass",
    "molar mass"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -2601,13 +2608,13 @@
     "h": 479
    }
   ],
-  "chapter": "p-Block Elements (Group 15-18)",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 12,
+  "chapterMargin": 10,
   "chapterHits": [
-   "oxygen"
+   "formal charge"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 39,
@@ -3287,12 +3294,13 @@
    }
   ],
   "chapter": "Solid State",
-  "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapterScore": 14,
+  "chapterMargin": 10,
   "chapterHits": [
    "unit cell",
    "face centred cubic",
-   "fcc"
+   "fcc",
+   "cubic"
   ],
   "chapterConfidence": "high"
  },
@@ -3563,12 +3571,13 @@
    }
   ],
   "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterScore": 10,
+  "chapterMargin": 9,
   "chapterHits": [
+   "molar mass",
    "molar mass"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 53,

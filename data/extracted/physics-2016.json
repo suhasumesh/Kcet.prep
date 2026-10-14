@@ -37,7 +37,15 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "projected at an angle",
+   "angle"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 2,
@@ -77,7 +85,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "velocity"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 3,
@@ -117,7 +132,19 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Motion in a Plane",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "vector",
+   "angle",
+   "component",
+   "x - axis",
+   "y - axis",
+   "component of a vector"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 4,
@@ -157,7 +184,19 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Laws of Motion",
+  "chapterScore": 15,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "static friction",
+   "co-efficient of static friction",
+   "remain stationary",
+   "friction",
+   "momentum",
+   "box lying"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 5,
@@ -197,7 +236,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 6,
@@ -237,7 +284,16 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "solid cylinder",
+   "solid sphere",
+   "cylinder"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 7,
@@ -277,7 +333,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Gravitation",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "acceleration due to gravity"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 8,
@@ -317,7 +380,16 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "strain produced",
+   "strain",
+   "stretched by"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 9,
@@ -357,7 +429,12 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 10,
@@ -397,7 +474,16 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 7,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "ideal fluid flows",
+   "fluid",
+   "pipe of circular cross section"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 11,
@@ -437,7 +523,17 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "cools from",
+   "temperature",
+   "cool",
+   "hot food"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 12,
@@ -477,7 +573,18 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "conduct most heat",
+   "heat reservoirs",
+   "temperature",
+   "heat",
+   "rods"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 16,
@@ -517,7 +624,16 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "area vector",
+   "charge",
+   "electric field"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 17,
@@ -557,7 +673,16 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "uniform electric field",
+   "charge",
+   "electric field"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 18,
@@ -597,7 +722,19 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 13,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "equatorial line",
+   "electric field at a point",
+   "charge",
+   "electric field",
+   "point charge",
+   "dipole"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 19,
@@ -637,7 +774,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 20,
@@ -677,7 +821,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 3,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "charge"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 21,
@@ -717,7 +868,17 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 11,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "capacitance",
+   "charge on the plates",
+   "capacitor",
+   "plates of the capacitor"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 23,
@@ -757,7 +918,15 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 12,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "mobility of free electrons",
+   "relaxation time"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 24,
@@ -797,7 +966,15 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "temperature co-efficient",
+   "resistance"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 25,
@@ -837,7 +1014,15 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "potential difference between a and b",
+   "circuit"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 26,
@@ -877,7 +1062,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "potential at"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 27,
@@ -917,7 +1109,16 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "effective resistance between",
+   "resistance",
+   "circuit"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 29,
@@ -957,7 +1158,18 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 11,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "solenoid",
+   "axis of a current carrying solenoid",
+   "solenoid",
+   "proton is projected",
+   "current carrying"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 30,
@@ -997,7 +1209,17 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 10,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "cyclotron",
+   "radius of the circular path",
+   "charged particle",
+   "cyclotron"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 31,
@@ -1037,7 +1259,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "current"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 33,
@@ -1077,7 +1306,18 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Current Electricity",
+  "chapterScore": 10,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "full scale deflection",
+   "current",
+   "resistance",
+   "voltmeter",
+   "galvanometer"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 34,
@@ -1117,7 +1357,16 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "paramagnetic",
+   "susceptibility of a paramagnetic",
+   "susceptibility"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 35,
@@ -1157,7 +1406,16 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 9,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "earth's magnetic field",
+   "horizontal component of earth's magnetic field",
+   "dip"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 36,
@@ -1197,7 +1455,19 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Communication Systems",
+  "chapterScore": 22,
+  "chapterMargin": 21,
+  "chapterHits": [
+   "carrier wave",
+   "demodulation",
+   "message signal",
+   "super imposing",
+   "high frequency carrier",
+   "signal"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -1237,7 +1507,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "solenoid",
+   "solenoid"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 38,
@@ -1277,7 +1555,17 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 8,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "spokes",
+   "angular velocity",
+   "wheel",
+   "angular"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 39,
@@ -1317,7 +1605,15 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 5,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "capacitance",
+   "capacitor"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 40,
@@ -1357,7 +1653,16 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 9,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "source voltage",
+   "reading of the ammeter",
+   "sin 100t"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 41,
@@ -1397,7 +1702,16 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Alternating Current",
+  "chapterScore": 9,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "potential drop across",
+   "source voltage",
+   "alternating"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 43,
@@ -1437,7 +1751,18 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electromagnetic Waves",
+  "chapterScore": 11,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "sterilise",
+   "electromagnetic radiation used",
+   "uv rays",
+   "radiowaves",
+   "x-ray"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 44,
@@ -1477,7 +1802,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "glass plate"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 45,
@@ -1517,7 +1849,16 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "refractive index",
+   "transparent media",
+   "ray of light"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 48,
@@ -1557,7 +1898,18 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 20,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "interference",
+   "blue filter",
+   "alternate dark",
+   "slit",
+   "fringes"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 49,
@@ -1597,7 +1949,18 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 14,
+  "chapterMargin": 14,
+  "chapterHits": [
+   "diffraction",
+   "central maxima",
+   "width of central maxima",
+   "maxima",
+   "diffraction pattern"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 50,
@@ -1637,7 +2000,15 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Wave Optics",
+  "chapterScore": 8,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "ray optics is good approximation",
+   "aperture"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 52,
@@ -1677,7 +2048,16 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 12,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "de broglie",
+   "accelerated to a potential",
+   "de broglie wavelength of an electron"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 53,
@@ -1717,7 +2097,15 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 5,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "potential energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 54,
@@ -1757,7 +2145,12 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 55,
@@ -1797,7 +2190,18 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Nuclei",
+  "chapterScore": 15,
+  "chapterMargin": 15,
+  "chapterHits": [
+   "half-life",
+   "radio-active sample",
+   "number of original nuclei",
+   "radio-active",
+   "nuclei"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 57,
@@ -1837,7 +2241,15 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 6,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "kinetic energy",
+   "energy"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 58,
@@ -1877,6 +2289,17 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 44,
+  "chapterMargin": 44,
+  "chapterHits": [
+   "rectifier",
+   "constant dc voltage",
+   "order of operation",
+   "regulator",
+   "filter"
+  ],
+  "chapterConfidence": "high"
  }
 ]

@@ -563,10 +563,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
-   "carboxylic acid"
+   "carboxylic acid",
+   "carboxylic"
   ],
   "chapterConfidence": "medium"
  },
@@ -609,11 +610,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "chloro"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 18,
@@ -753,11 +756,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Solid State",
-  "chapterScore": 12,
-  "chapterMargin": 12,
+  "chapterScore": 13,
+  "chapterMargin": 13,
   "chapterHits": [
    "unit cell",
-   "face centred cubic"
+   "face centred cubic",
+   "cubic"
   ],
   "chapterConfidence": "high"
  },
@@ -801,12 +805,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Solutions",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
-   "solution"
+   "solution",
+   "molal"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 22,
@@ -1601,7 +1606,7 @@
   "optionsInImage": true,
   "chapter": "p-Block Elements (Group 15-18)",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 2,
   "chapterHits": [
    "noble gas"
   ],
@@ -1646,11 +1651,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "transition element",
+   "unpaired electron"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 40,
@@ -1691,11 +1699,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "basic"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 41,
@@ -1737,11 +1747,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Coordination Compounds",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 3,
+  "chapterMargin": 3,
   "chapterHits": [
    "complex",
-   "square planar"
+   "square planar",
+   "ligands"
   ],
   "chapterConfidence": "low"
  },
@@ -1834,7 +1845,7 @@
   "optionsInImage": true,
   "chapter": "Redox Reactions",
   "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterMargin": 3,
   "chapterHits": [
    "oxidation state",
    "oxidation"
@@ -1880,13 +1891,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Hydrocarbons",
-  "chapterScore": 6,
-  "chapterMargin": 1,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 9,
+  "chapterMargin": 3,
   "chapterHits": [
-   "electrophilic substitution",
-   "addition reaction",
-   "toluene"
+   "nucleophilic substitution",
+   "elimination reaction",
+   "chloride"
   ],
   "chapterConfidence": "medium"
  },
@@ -1977,9 +1988,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 12,
-  "chapterMargin": 12,
+  "chapterScore": 15,
+  "chapterMargin": 14,
   "chapterHits": [
+   "phenol",
    "phenol"
   ],
   "chapterConfidence": "high"
@@ -2023,11 +2035,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "acidic"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 49,
@@ -2069,10 +2083,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "carboxylic acid"
+   "carboxylic acid",
+   "carboxylic"
   ],
   "chapterConfidence": "medium"
  },
@@ -2115,11 +2130,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "basic"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 51,
@@ -2254,12 +2271,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Amines",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
    "gabriel phthalimide",
    "primary amine",
-   "amine"
+   "amine",
+   "primary amine"
   ],
   "chapterConfidence": "high"
  },
@@ -2303,13 +2321,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Biomolecules",
-  "chapterScore": 28,
-  "chapterMargin": 28,
+  "chapterScore": 34,
+  "chapterMargin": 34,
   "chapterHits": [
    "glucose",
    "fructose",
    "sucrose",
-   "glycosidic"
+   "glycosidic",
+   "glucose",
+   "fructose"
   ],
   "chapterConfidence": "high"
  },
@@ -2447,9 +2467,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
+   "phenol",
    "phenol"
   ],
   "chapterConfidence": "medium"
@@ -2542,10 +2563,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Chemistry in Everyday Life",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "antibiotic"
+  ],
+  "chapterConfidence": "low"
  }
 ]

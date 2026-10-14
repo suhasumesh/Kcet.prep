@@ -39,10 +39,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Units and Measurements",
-  "chapterScore": 10,
-  "chapterMargin": 9,
+  "chapterScore": 14,
+  "chapterMargin": 13,
   "chapterHits": [
    "percentage error",
+   "physical quantity",
    "error"
   ],
   "chapterConfidence": "high"
@@ -229,13 +230,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Laws of Motion",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 9,
+  "chapterMargin": 6,
   "chapterHits": [
    "static friction",
+   "coefficient of static friction",
    "friction"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 10,
@@ -372,12 +374,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 9,
-  "chapterMargin": 8,
+  "chapterScore": 18,
+  "chapterMargin": 17,
   "chapterHits": [
    "harmonics",
    "speed of sound",
-   "sound"
+   "second harmonic",
+   "sound",
+   "pipe",
+   "harmonic"
   ],
   "chapterConfidence": "high"
  },
@@ -420,11 +425,11 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Thermal Properties of Matter",
+  "chapter": "Mechanical Properties of Fluids",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
-   "temperature"
+   "density of"
   ],
   "chapterConfidence": "low"
  },
@@ -610,7 +615,7 @@
   "optionsInImage": true,
   "chapter": "Wave Optics",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 1,
   "chapterHits": [
    "resolving power"
   ],
@@ -751,11 +756,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Atoms",
-  "chapterScore": 9,
-  "chapterMargin": 8,
+  "chapterScore": 13,
+  "chapterMargin": 12,
   "chapterHits": [
    "lyman",
    "paschen",
+   "spectral series",
    "hydrogen atom"
   ],
   "chapterConfidence": "high"
@@ -800,11 +806,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 8,
-  "chapterMargin": 7,
+  "chapterScore": 9,
+  "chapterMargin": 8,
   "chapterHits": [
    "half life",
-   "decay constant"
+   "decay constant",
+   "decay"
   ],
   "chapterConfidence": "high"
  },
@@ -942,13 +949,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 16,
-  "chapterMargin": 16,
+  "chapterScore": 19,
+  "chapterMargin": 18,
   "chapterHits": [
    "logic gate",
    "nand",
    "nor",
-   "truth table"
+   "truth table",
+   "gate"
   ],
   "chapterConfidence": "high"
  },
@@ -992,10 +1000,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterScore": 16,
+  "chapterMargin": 14,
   "chapterHits": [
-   "transistor"
+   "transistor",
+   "current gain"
   ],
   "chapterConfidence": "high"
  },
@@ -1038,13 +1047,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Waves",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Communication Systems",
+  "chapterScore": 9,
+  "chapterMargin": 8,
   "chapterHits": [
-   "frequency"
+   "carrier frequency",
+   "tuned amplifier",
+   "carrier"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -1086,10 +1097,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "charge"
+   "charge",
+   "nc"
   ],
   "chapterConfidence": "low"
  },
@@ -1133,12 +1145,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "uniform electric field",
    "electric field"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 40,
@@ -1179,11 +1192,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "potential at"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 41,
@@ -1274,10 +1289,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "electric field"
+   "electric field",
+   "nc"
   ],
   "chapterConfidence": "low"
  },
@@ -1321,12 +1337,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
+   "colour code",
    "resistor"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 44,
@@ -1368,13 +1385,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "internal resistance",
    "current",
    "resistance",
-   "battery"
+   "battery",
+   "resistances"
   ],
   "chapterConfidence": "high"
  },
@@ -1561,10 +1579,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Magnetism and Matter",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "ferromagnetic"
+   "ferromagnetic",
+   "susceptibility"
   ],
   "chapterConfidence": "medium"
  },
@@ -1608,9 +1627,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
+   "solenoid",
    "solenoid"
   ],
   "chapterConfidence": "medium"
@@ -1702,10 +1722,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Alternating Current",
-  "chapterScore": 12,
-  "chapterMargin": 11,
+  "chapterScore": 18,
+  "chapterMargin": 17,
   "chapterHits": [
-   "transformer"
+   "transformer",
+   "step down transformer",
+   "primary",
+   "secondary"
   ],
   "chapterConfidence": "high"
  },
@@ -1750,7 +1773,7 @@
   "optionsInImage": true,
   "chapter": "Alternating Current",
   "chapterScore": 9,
-  "chapterMargin": 6,
+  "chapterMargin": 5,
   "chapterHits": [
    "power factor",
    "impedance",

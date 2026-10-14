@@ -129,11 +129,11 @@
   ],
   "chapter": "Introduction to Three Dimensional Geometry",
   "chapterScore": 8,
-  "chapterMargin": 5,
+  "chapterMargin": 0,
   "chapterHits": [
    "direction ratios"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 3,
@@ -538,12 +538,14 @@
    }
   ],
   "chapter": "Probability",
-  "chapterScore": 8,
+  "chapterScore": 12,
   "chapterMargin": 8,
   "chapterHits": [
    "total probability",
    "probability",
-   "event"
+   "event",
+   "coin",
+   "bag contains"
   ],
   "chapterConfidence": "high"
  },
@@ -608,10 +610,11 @@
    }
   ],
   "chapter": "Relations and Functions",
-  "chapterScore": 15,
-  "chapterMargin": 12,
+  "chapterScore": 19,
+  "chapterMargin": 16,
   "chapterHits": [
    "onto",
+   "onto function",
    "function"
   ],
   "chapterConfidence": "high"
@@ -950,12 +953,14 @@
    }
   ],
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
+   "complex number",
+   "modulus of the complex number",
    "complex number"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 15,
@@ -1086,13 +1091,14 @@
    }
   ],
   "chapter": "Permutations and Combinations",
-  "chapterScore": 25,
-  "chapterMargin": 25,
+  "chapterScore": 27,
+  "chapterMargin": 27,
   "chapterHits": [
    "permutation",
    "number of ways",
    "chosen",
-   "ways"
+   "ways",
+   "permutation"
   ],
   "chapterConfidence": "high"
  },
@@ -1361,14 +1367,13 @@
     "h": 233
    }
   ],
-  "chapter": "Straight Lines",
-  "chapterScore": 2,
+  "chapter": "Three Dimensional Geometry",
+  "chapterScore": 4,
   "chapterMargin": 2,
   "chapterHits": [
-   "perpendicular to the line",
-   "intercept"
+   "equation of the line"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 21,
@@ -1431,10 +1436,11 @@
    }
   ],
   "chapter": "Conic Sections",
-  "chapterScore": 12,
-  "chapterMargin": 12,
+  "chapterScore": 14,
+  "chapterMargin": 14,
   "chapterHits": [
    "eccentricity",
+   "hyperbola",
    "hyperbola"
   ],
   "chapterConfidence": "high"
@@ -1568,13 +1574,14 @@
    }
   ],
   "chapter": "Binomial Theorem",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 13,
+  "chapterMargin": 13,
   "chapterHits": [
    "middle term in the expansion",
+   "middle term",
    "expansion of"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 24,
@@ -1637,14 +1644,15 @@
    }
   ],
   "chapter": "Sequences and Series",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
+   "nth term of the",
    " ap ",
    " gp ",
    "series"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 25,
@@ -1909,13 +1917,14 @@
    }
   ],
   "chapter": "Relations and Functions",
-  "chapterScore": 3,
-  "chapterMargin": 1,
+  "chapterScore": 4,
+  "chapterMargin": 2,
   "chapterHits": [
    "f(x)",
-   "domain"
+   "domain",
+   "g(x)"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 29,
@@ -1978,10 +1987,11 @@
    }
   ],
   "chapter": "Mathematical Reasoning",
-  "chapterScore": 10,
-  "chapterMargin": 7,
+  "chapterScore": 14,
+  "chapterMargin": 11,
   "chapterHits": [
    "contrapositive",
+   "converse",
    "statement"
   ],
   "chapterConfidence": "high"
@@ -2256,10 +2266,11 @@
    }
   ],
   "chapter": "Determinants",
-  "chapterScore": 13,
+  "chapterScore": 25,
   "chapterMargin": 10,
   "chapterHits": [
    "singular matrix",
+   "singular",
    "|a|"
   ],
   "chapterConfidence": "high"
@@ -2324,11 +2335,13 @@
     "h": 523
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Application of Integrals",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sq units"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 35,
@@ -2664,13 +2677,13 @@
   ],
   "chapter": "Relations and Functions",
   "chapterScore": 10,
-  "chapterMargin": 6,
+  "chapterMargin": 2,
   "chapterHits": [
    "composite function",
    "function",
    "f(x)"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 40,
@@ -3010,13 +3023,14 @@
     "h": 1317
    }
   ],
-  "chapter": "Relations and Functions",
-  "chapterScore": 3,
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 4,
   "chapterMargin": 1,
   "chapterHits": [
-   "function"
+   "derivative",
+   "derivative of"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 45,
@@ -3152,11 +3166,12 @@
    }
   ],
   "chapter": "Application of Derivatives",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 13,
+  "chapterMargin": 13,
   "chapterHits": [
    "maxima",
    "minima",
+   "maxima and minima",
    "is minimum"
   ],
   "chapterConfidence": "high"
@@ -3357,12 +3372,13 @@
    }
   ],
   "chapter": "Relations and Functions",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
-   "f(x)"
+   "f(x)",
+   "g(x)"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 50,

@@ -133,11 +133,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "horizontal"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 4,
@@ -180,7 +182,7 @@
   "optionsInImage": true,
   "chapter": "Motion in a Straight Line",
   "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterMargin": 1,
   "chapterHits": [
    "acceleration",
    "velocity"
@@ -275,7 +277,7 @@
   "optionsInImage": true,
   "chapter": "Work, Energy and Power",
   "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterMargin": 4,
   "chapterHits": [
    "kinetic energy",
    "energy"
@@ -463,11 +465,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Mechanical Properties of Fluids",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 12,
+  "chapterMargin": 12,
   "chapterHits": [
    "bernoulli",
-   "pascal's law"
+   "pascal's law",
+   "archimedes"
   ],
   "chapterConfidence": "high"
  },
@@ -510,11 +513,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "extension"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 15,
@@ -555,11 +560,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "capillary tube"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 16,
@@ -649,11 +656,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 18,
@@ -741,11 +750,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Waves",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "beats/second",
+   "second harmonic",
+   "frequency"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 20,
@@ -786,11 +799,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Thermodynamics",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "free expansion of a gas",
+   "combustion"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 21,
@@ -831,13 +847,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "rest"
+   "uniform electric field",
+   "electric field"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 22,
@@ -925,12 +942,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Electrostatic Potential and Capacitance",
-  "chapterScore": 5,
-  "chapterMargin": 2,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 8,
+  "chapterMargin": 3,
   "chapterHits": [
-   "parallel plate capacitor",
-   "capacitor"
+   "uniform electric field",
+   "electric field",
+   "flux through"
   ],
   "chapterConfidence": "medium"
  },
@@ -975,7 +993,7 @@
   "optionsInImage": true,
   "chapter": "System of Particles and Rotational Motion",
   "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterMargin": 3,
   "chapterHits": [
    "torque"
   ],
@@ -1346,12 +1364,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Magnetism and Matter",
-  "chapterScore": 16,
-  "chapterMargin": 16,
+  "chapterScore": 17,
+  "chapterMargin": 17,
   "chapterHits": [
    "magnetic susceptibility",
    "ferromagnetic",
-   "permeability"
+   "permeability",
+   "susceptibility"
   ],
   "chapterConfidence": "high"
  },
@@ -1394,11 +1413,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Dual Nature of Radiation and Matter",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "work function",
+   "minimum energy required by an electron",
+   "work function"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 40,
@@ -1535,11 +1558,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "velocity"
+   "resistor",
+   "circuit"
   ],
   "chapterConfidence": "low"
  },
@@ -1582,13 +1606,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "current"
+   "rms current"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 44,
@@ -1862,13 +1886,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Plane",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "angle"
+   "angle of incidence"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 50,
@@ -2003,12 +2027,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 5,
-  "chapterMargin": 0,
+  "chapter": "Wave Optics",
+  "chapterScore": 6,
+  "chapterMargin": 1,
   "chapterHits": [
-   "kinetic energy",
-   "energy"
+   "young's double slit",
+   "slit",
+   "maxima"
   ],
   "chapterConfidence": "medium"
  },
@@ -2053,7 +2078,7 @@
   "optionsInImage": true,
   "chapter": "Work, Energy and Power",
   "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterMargin": 1,
   "chapterHits": [
    "energy"
   ],
@@ -2099,9 +2124,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Atoms",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
+   "bohr",
    "bohr"
   ],
   "chapterConfidence": "medium"
@@ -2293,13 +2319,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 11,
+  "chapterScore": 14,
   "chapterMargin": 10,
   "chapterHits": [
    "doping",
    "n-type",
    "p-type",
-   "germanium"
+   "germanium",
+   "junction"
   ],
   "chapterConfidence": "high"
  }

@@ -84,9 +84,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Dual Nature of Radiation and Matter",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
+   "work function",
    "work function"
   ],
   "chapterConfidence": "medium"
@@ -130,11 +131,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 16,
+  "chapterMargin": 16,
+  "chapterHits": [
+   "line absorption spectrum",
+   "emission spectrum",
+   "absorption spectrum"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 21,
@@ -271,9 +276,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 8,
-  "chapterMargin": 7,
+  "chapterScore": 10,
+  "chapterMargin": 9,
   "chapterHits": [
+   "prism",
    "prism"
   ],
   "chapterConfidence": "high"
@@ -459,11 +465,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Oscillations",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 7,
+  "chapterMargin": 6,
   "chapterHits": [
    "simple pendulum",
-   "pendulum"
+   "pendulum",
+   "bob"
   ],
   "chapterConfidence": "medium"
  },
@@ -553,13 +560,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Units and Measurements",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "unit"
+   "gang capacitor",
+   "capacitor"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 35,
@@ -601,13 +609,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Gravitation",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
    "satellite",
-   "planet"
+   "planet",
+   "orbit"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 36,
@@ -743,13 +752,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "internal resistance",
    "current",
    "resistance",
-   "battery"
+   "battery",
+   "circuit"
   ],
   "chapterConfidence": "high"
  },
@@ -793,11 +803,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 10,
-  "chapterMargin": 10,
+  "chapterScore": 25,
+  "chapterMargin": 25,
   "chapterHits": [
    "beats",
-   "frequency"
+   "beats per second",
+   "tuning fork",
+   "frequency",
+   "fork"
   ],
   "chapterConfidence": "high"
  },
@@ -841,10 +854,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterScore": 16,
+  "chapterMargin": 14,
   "chapterHits": [
    "harmonics",
+   "loudness",
+   "pitch",
    "frequency",
    "sound"
   ],
@@ -891,7 +906,7 @@
   "optionsInImage": true,
   "chapter": "Motion in a Straight Line",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "speed"
   ],
@@ -982,14 +997,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Mechanical Properties of Fluids",
-  "chapterScore": 6,
-  "chapterMargin": 5,
+  "chapterScore": 10,
+  "chapterMargin": 9,
   "chapterHits": [
    "viscosity",
+   "archimedes",
    "fluid",
    "pressure"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 50,
@@ -1030,13 +1046,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Electrostatic Potential and Capacitance",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Alternating Current",
+  "chapterScore": 4,
+  "chapterMargin": 2,
   "chapterHits": [
-   "capacitor"
+   "lcr"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 51,
@@ -1125,11 +1141,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 9,
-  "chapterMargin": 8,
+  "chapterScore": 11,
+  "chapterMargin": 10,
   "chapterHits": [
    "solenoid",
-   "magnetic field"
+   "magnetic field",
+   "solenoid"
   ],
   "chapterConfidence": "high"
  },
@@ -1172,13 +1189,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "current"
+   "ampere",
+   "magnetic field"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 54,
@@ -1220,11 +1238,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterScore": 3,
+  "chapterMargin": 2,
   "chapterHits": [
    "current",
-   "resistance"
+   "resistance",
+   "circuit"
   ],
   "chapterConfidence": "low"
  },
@@ -1268,10 +1287,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 2,
+  "chapterScore": 3,
   "chapterMargin": 2,
   "chapterHits": [
-   "current"
+   "current",
+   "resistances"
   ],
   "chapterConfidence": "low"
  },
@@ -1460,11 +1480,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Mechanical Properties of Fluids",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
-   "liquid"
+   "liquid",
+   "immersed"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  }
 ]

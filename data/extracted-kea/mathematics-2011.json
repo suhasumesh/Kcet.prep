@@ -177,11 +177,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "in any triangle abc",
+   "triangle abc"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 11,
@@ -362,11 +365,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Vector Algebra",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "noncoplanar"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 22,
@@ -407,11 +412,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Vector Algebra",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "parallelopiped"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 26,
@@ -497,11 +504,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "latus rectum"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 32,
@@ -724,11 +733,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Application of Derivatives",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "tangent and normal",
+   "normal to the curve",
+   "normal to the curve"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 47,
@@ -771,7 +784,7 @@
   "optionsInImage": true,
   "chapter": "Trigonometric Functions",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 0,
   "chapterHits": [
    "tan",
    "angle"

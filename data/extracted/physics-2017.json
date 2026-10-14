@@ -38,11 +38,11 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 1,
+  "chapter": "Laws of Motion",
+  "chapterScore": 2,
   "chapterMargin": 1,
   "chapterHits": [
-   "rest"
+   "lift"
   ],
   "chapterConfidence": "low"
  },
@@ -86,12 +86,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
-   "power"
+   "power of the pump",
+   "power",
+   "lifts"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 7,
@@ -277,7 +279,7 @@
   "optionsInImage": true,
   "chapter": "Mechanical Properties of Fluids",
   "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterMargin": 3,
   "chapterHits": [
    "bernoulli"
   ],
@@ -323,11 +325,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Thermal Properties of Matter",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 6,
+  "chapterMargin": 5,
   "chapterHits": [
    "specific heat capacity",
-   "heat"
+   "heat",
+   "specific heat"
   ],
   "chapterConfidence": "medium"
  },
@@ -464,11 +467,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Oscillations",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "completes 10 oscillations",
+   "pendulums"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 15,
@@ -509,11 +515,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Waves",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "closed pipe",
+   "pipe"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 16,
@@ -554,11 +563,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "allowed to touch each other",
+   "nc"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 17,
@@ -600,11 +612,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 8,
+  "chapterScore": 9,
   "chapterMargin": 8,
   "chapterHits": [
    "electric dipole",
-   "dipole moment"
+   "dipole moment",
+   "dipole"
   ],
   "chapterConfidence": "high"
  },
@@ -694,11 +707,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 3,
+  "chapterMargin": 2,
   "chapterHits": [
-   "work done"
+   "charge",
+   "nc"
   ],
   "chapterConfidence": "low"
  },
@@ -930,11 +944,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Current Electricity",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ohmic device"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 25,
@@ -1020,11 +1036,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "power"
+   "resistance",
+   "circuit"
   ],
   "chapterConfidence": "low"
  },
@@ -1068,12 +1085,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterScore": 10,
+  "chapterMargin": 9,
   "chapterHits": [
+   "balancing length",
    "resistance"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 28,
@@ -1163,12 +1181,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 7,
+  "chapterMargin": 7,
   "chapterHits": [
    "resistance",
    "galvanometer",
-   "battery"
+   "battery",
+   "ω"
   ],
   "chapterConfidence": "medium"
  },
@@ -1211,11 +1230,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "current"
+   "magnetic field",
+   "current carrying"
   ],
   "chapterConfidence": "low"
  },
@@ -1258,13 +1278,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "current"
+   "wire of length"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 32,
@@ -1355,7 +1375,7 @@
   "optionsInImage": true,
   "chapter": "System of Particles and Rotational Motion",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 2,
   "chapterHits": [
    "moment of inertia"
   ],
@@ -1401,10 +1421,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Magnetism and Matter",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "ferromagnetic"
+   "ferromagnetic",
+   "susceptibility"
   ],
   "chapterConfidence": "medium"
  },
@@ -1589,11 +1610,11 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Electromagnetic Induction",
-  "chapterScore": 1,
+  "chapter": "Current Electricity",
+  "chapterScore": 2,
   "chapterMargin": 1,
   "chapterHits": [
-   "coil"
+   "circuit"
   ],
   "chapterConfidence": "low"
  },
@@ -1637,12 +1658,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Alternating Current",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "transformer"
+   "transformer",
+   "step down transformer"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 40,
@@ -1684,13 +1706,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Alternating Current",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 9,
+  "chapterMargin": 6,
   "chapterHits": [
    "reactance",
+   "inductive reactance",
    "inductive"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 41,
@@ -1778,11 +1801,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "cartesian sign convention",
+   "sign convention"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 43,
@@ -1824,14 +1850,16 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
+   "radius of curvature",
    "mirror",
    "image formed",
-   "concave"
+   "concave",
+   "image"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 44,
@@ -1920,11 +1948,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Wave Optics",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
    "interference",
-   "slit"
+   "slit",
+   "fringes"
   ],
   "chapterConfidence": "medium"
  },
@@ -2156,12 +2185,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Atoms",
-  "chapterScore": 12,
-  "chapterMargin": 11,
+  "chapterScore": 13,
+  "chapterMargin": 12,
   "chapterHits": [
    "bohr",
    "rutherford",
-   "balmer"
+   "balmer",
+   "bohr"
   ],
   "chapterConfidence": "high"
  },
@@ -2251,13 +2281,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Nuclei",
+  "chapterScore": 9,
+  "chapterMargin": 8,
   "chapterHits": [
-   "speed"
+   "nuclear reactor",
+   "moderator",
+   "nuclear"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 53,
@@ -2298,11 +2330,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Nuclei",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "decay"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 54,
@@ -2344,12 +2378,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 9,
-  "chapterMargin": 8,
+  "chapterScore": 14,
+  "chapterMargin": 13,
   "chapterHits": [
    "binding energy",
    "mass defect",
-   "nucleon"
+   "binding energy per nucleon",
+   "nucleon",
+   "mev"
   ],
   "chapterConfidence": "high"
  },
@@ -2392,13 +2428,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "energy"
+   "energy gap",
+   "germanium"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 56,
@@ -2440,13 +2477,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 7,
-  "chapterMargin": 6,
+  "chapterScore": 11,
+  "chapterMargin": 7,
   "chapterHits": [
    "zener",
+   "regulator",
    "diode"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 57,
@@ -2581,11 +2619,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "logic gate"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 60,
@@ -2626,10 +2666,17 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Communication Systems",
+  "chapterScore": 19,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "communication system",
+   "basic communication system",
+   "information source",
+   "user of information",
+   "transmitter",
+   "receiver"
+  ],
+  "chapterConfidence": "high"
  }
 ]

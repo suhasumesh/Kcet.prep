@@ -640,10 +640,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Trigonometric Functions",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 3,
+  "chapterMargin": 3,
   "chapterHits": [
-   "cos"
+   "cos",
+   "triangle abc"
   ],
   "chapterConfidence": "low"
  },
@@ -834,14 +835,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Relations and Functions",
-  "chapterScore": 2,
-  "chapterMargin": 0,
+  "chapter": "Limits and Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 2,
   "chapterHits": [
-   "function",
-   "f(x)"
+   "lim",
+   "x→"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 57,
@@ -929,12 +930,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 4,
+  "chapter": "Relations and Functions",
+  "chapterScore": 5,
   "chapterMargin": 1,
   "chapterHits": [
-   "sin",
-   "cos"
+   "function",
+   "f(x)",
+   "g(x)"
   ],
   "chapterConfidence": "medium"
  },

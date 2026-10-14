@@ -122,7 +122,7 @@ PHYSICS = [
      ["induced", "flux", "inductance", "coil", "rate of change of flux"]),
 
     ("Alternating Current", 2,
-     ["l-c-r", "lcr circuit", "resonant frequency", "quality factor", "power factor",
+     ["l-c-r", "lcr", "l c r", "resonant frequency", "quality factor", "power factor",
       "impedance", "reactance", "rms value", "transformer", "wattless current", "choke coil"],
      ["alternating", "ac circuit", "phasor", "peak value", "capacitive", "inductive", "frequency of ac"]),
 
@@ -537,6 +537,23 @@ MATHEMATICS = [
      ["linear programming", "objective function", "feasible region", "corner point",
       "constraints", "maximise z", "minimise z", "optimal solution", "lpp"],
      ["feasible", "maximize", "minimize", "subject to"]),
+
+    # ---------------------------------------------------------------- legacy
+    # KCET examined these up to about 2012 and does not any more. They are
+    # tagged so the questions file somewhere truthful rather than landing in
+    # "Unclassified", and marked puc 0 so the pattern report can leave them
+    # out: a student revising for the current exam should not be told to
+    # study group theory because it came up nine times in 2009.
+    ("Groups and Modular Arithmetic (old syllabus)", 0,
+     ["under addition modulo", "under multiplication modulo", "identity element in a group",
+      "inverse of an element", "abelian group", "subgroup", "semigroup", "binary structure",
+      "cyclic group", "order of the group"],
+     ["group g", "modulo", "⊗", "⊕"]),
+
+    ("Number Theory (old syllabus)", 0,
+     ["divisible by", "prime numbers", "digit in the unit place", "gcd", "lcm of",
+      "congruent modulo", "mod m", "euclid", "relatively prime", "co-prime"],
+     ["divisibility", "remainder when", "integer"]),
 ]
 
 # ---------------------------------------------------------------- supplements
@@ -603,8 +620,10 @@ EXTRA = {
             ["cools from", "rate of cooling", "heat current", "conduct most heat",
              "thermal resistance", "coefficient of cubical expansion",
              "coefficient of areal expansion", "emissivity", "wien", "heat reservoirs",
-             "triple point", "specific heat"],
-            ["cool", "hot food", "rods", "reservoir", "conductivity"]),
+             "triple point"],
+            # "specific heat" alone is weak on purpose: the *molar* specific
+            # heat of a gas belongs to Thermodynamics, which names it strongly
+            ["cool", "hot food", "rods", "reservoir", "conductivity", "specific heat"]),
         "Thermodynamics": (
             ["free expansion of a gas", "irreversible process", "reversible process",
              "cyclic process", "p-v diagram", "work done in the cycle", "isotherm",
@@ -852,7 +871,9 @@ EXTRA = {
         "Application of Derivatives": (
             ["rate of change", "increasing function", "decreasing function", "tangent to the curve",
              "normal to the curve", "maxima and minima", "local maximum", "local minimum",
-             "absolute maximum", "approximation", "point of inflection"],
+             "absolute maximum", "approximation", "point of inflection",
+             "maximum area", "minimum area", "greatest value", "least value",
+             "greatest height attained", "maximum volume", "errors and approximation"],
             ["slope of the tangent", "strictly increasing", "monotonic"]),
         "Integrals": (
             ["definite integral", "indefinite integral", "integration by parts",
@@ -869,7 +890,9 @@ EXTRA = {
         "Vector Algebra": (
             ["scalar product", "dot product", "vector product", "cross product",
              "scalar triple product", "projection of the vector", "unit vector",
-             "direction cosines", "direction ratios", "coplanar vectors", "collinear vectors"],
+             "direction cosines", "direction ratios", "coplanar vectors", "collinear vectors",
+             "coterminous edges", "parallelopiped", "parallelepiped", "non coplanar",
+             "noncoplanar", "volume of the tetrahedron"],
             ["vector", "î", "ĵ", "k̂", "magnitude of the vector"]),
         "Three Dimensional Geometry": (
             ["shortest distance between the lines", "skew lines", "angle between two planes",
@@ -890,10 +913,20 @@ EXTRA = {
             ["set a", "set b", "n(a)", "a ∪ b", "a ∩ b"]),
         "Trigonometric Functions": (
             ["general solution of the equation", "principal solution", "sine rule", "cosine rule",
-             "compound angle", "multiple angle", "transformation formula", "period of the function"],
-            ["sin", "cos", "tan", "cot", "sec", "cosec", "radian", "degree"]),
+             "compound angle", "multiple angle", "transformation formula", "period of the function",
+             # properties of triangles and heights-and-distances, both heavily
+             # examined by KCET and absent from the NCERT-shaped list
+             "angle of depression", "angles of depression", "angle of elevation",
+             "in any triangle abc", "properties of triangle", "circum radius",
+             "in-radius", "area of the triangle abc", "solution of triangles",
+             "angles of a triangle are in the ratio"],
+            ["sin", "cos", "tan", "cot", "sec", "cosec", "radian", "degree",
+             "triangle abc", "tower", "aeroplane"]),
         "Complex Numbers and Quadratic Equations": (
-            ["modulus of the complex number", "argument of the complex number", "conjugate",
+            # not a bare "conjugate": a hyperbola has a conjugate too, and the
+            # bare term pulled conic-section questions out of their chapter
+            ["modulus of the complex number", "argument of the complex number", "complex conjugate",
+             "amplitude of", "modulus and amplitude", "cube roots of unity",
              "argand", "de moivre", "cube root of unity", "purely imaginary",
              "roots of the equation", "discriminant", "nature of the roots"],
             ["complex number", "iota", "i²", "z =", "real part", "imaginary part"]),
@@ -917,8 +950,14 @@ EXTRA = {
         "Conic Sections": (
             ["eccentricity", "latus rectum", "directrix", "focus of the parabola",
              "equation of the circle", "centre and radius", "asymptote", "conjugate axis",
-             "transverse axis", "auxiliary circle"],
-            ["parabola", "ellipse", "hyperbola", "circle"]),
+             "transverse axis", "auxiliary circle",
+             # circle geometry, which KCET asks heavily and the NCERT-shaped
+             # list above does not name at all
+             "cut orthogonally", "orthogonally", "radical centre", "radical axis",
+             "common chord", "director circle", "circum-radius", "circumcentre",
+             "point of contact", "length of the tangent", "pair of tangents",
+             "touch each other", "concentric circles", "pair of straight lines"],
+            ["parabola", "ellipse", "hyperbola", "circle", "x² + y²", "x2 + y2"]),
         "Limits and Derivatives": (
             ["limit of the function", "left hand limit", "right hand limit",
              "first principle", "l hospital"], ["lim", "x→", "tends to"]),

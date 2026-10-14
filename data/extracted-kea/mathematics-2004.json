@@ -178,11 +178,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Determinants",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "area of the triangle"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 9,
@@ -550,13 +552,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Sets",
-  "chapterScore": 3,
+  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapterScore": 6,
   "chapterMargin": 2,
   "chapterHits": [
-   "set"
+   "subgroup",
+   "group g"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 28,
@@ -645,10 +648,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "circle"
+   "circle",
+   "x² + y²"
   ],
   "chapterConfidence": "low"
  },
@@ -785,13 +789,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 13,
-  "chapterMargin": 13,
+  "chapterScore": 15,
+  "chapterMargin": 15,
   "chapterHits": [
    "eccentricity",
    "parabola",
    "ellipse",
-   "vertex"
+   "vertex",
+   "parabola",
+   "ellipse"
   ],
   "chapterConfidence": "high"
  },
@@ -835,13 +841,16 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 12,
+  "chapterMargin": 12,
   "chapterHits": [
    "hyperbola",
-   "circle"
+   "director circle",
+   "circle",
+   "hyperbola",
+   "x² + y²"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -1259,12 +1268,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Derivatives",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
+   "tangent to the curve",
    "tangent to the curve"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 52,
@@ -1305,14 +1315,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 3,
-  "chapterMargin": 2,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 8,
+  "chapterMargin": 5,
   "chapterHits": [
-   "sin",
-   "tan"
+   "sin-1",
+   "tan-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 53,

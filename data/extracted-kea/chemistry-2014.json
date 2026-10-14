@@ -37,7 +37,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "molarity"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 2,
@@ -77,7 +84,15 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "quantum number",
+   "orbital"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 3,
@@ -117,7 +132,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "equilibrium"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 5,
@@ -157,7 +179,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "carbon"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 6,
@@ -197,7 +226,15 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Hydrogen",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "hydrogen peroxide",
+   "hydrogen"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 9,
@@ -237,7 +274,16 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 17,
+  "chapterMargin": 17,
+  "chapterHits": [
+   "colloid",
+   "lyophobic",
+   "sol"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 11,
@@ -277,7 +323,12 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 12,
@@ -317,7 +368,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "fuel cell"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 13,
@@ -357,7 +415,12 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 14,
@@ -397,7 +460,16 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 16,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "lanthanoid",
+   "actinoid",
+   "lanthanoid contraction"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 18,
@@ -437,7 +509,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "iupac name"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 19,
@@ -477,7 +556,12 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 23,
@@ -517,7 +601,12 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 24,
@@ -557,7 +646,12 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 26,
@@ -597,7 +691,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "acetophenone"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 30,
@@ -637,7 +738,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "s-Block Elements",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sodium"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 32,
@@ -677,7 +785,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "solubility product"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 33,
@@ -717,7 +832,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "nucleophile"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 34,
@@ -757,7 +879,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "toluene"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 35,
@@ -797,7 +926,16 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "copolymer",
+   "terylene",
+   "polymer"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 36,
@@ -837,7 +975,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Hydrocarbons",
+  "chapterScore": 12,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "benzene"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 39,
@@ -877,7 +1022,12 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 40,
@@ -917,7 +1067,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "bond length"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 41,
@@ -957,7 +1114,12 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 44,
@@ -997,7 +1159,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "-cooh"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 45,
@@ -1037,7 +1206,16 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 13,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "ccp",
+   "voids",
+   "crystalline"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 46,
@@ -1077,7 +1255,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "bromo"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 47,
@@ -1117,7 +1302,17 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 18,
+  "chapterMargin": 18,
+  "chapterHits": [
+   "glucose",
+   "lactose",
+   "glycosidic",
+   "glucose"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 49,
@@ -1157,7 +1352,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 8,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "phosphine"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 50,
@@ -1197,7 +1399,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "ammonia"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 51,
@@ -1237,7 +1446,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "crystalline"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 52,
@@ -1277,7 +1493,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "nitrogen"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 53,
@@ -1317,7 +1540,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "d- and f-Block Elements",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "iron",
+   "copper"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 55,
@@ -1357,7 +1588,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "crystal"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 58,
@@ -1397,6 +1635,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 5,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "molar mass",
+   "molar mass"
+  ],
+  "chapterConfidence": "medium"
  }
 ]

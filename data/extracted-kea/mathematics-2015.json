@@ -39,10 +39,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Relations and Functions",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "domain"
+   "domain",
+   "g(x)"
   ],
   "chapterConfidence": "low"
  },
@@ -87,7 +88,7 @@
   "optionsInImage": true,
   "chapter": "Sets",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "set"
   ],
@@ -132,11 +133,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Sequences and Series",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   " g.p"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 6,
@@ -268,13 +271,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 14,
-  "chapterMargin": 14,
+  "chapterScore": 20,
+  "chapterMargin": 20,
   "chapterHits": [
    "eccentricity",
    "hyperbola",
+   "transverse axis",
    "focal",
-   "transverse axis"
+   "transverse axis",
+   "hyperbola"
   ],
   "chapterConfidence": "high"
  },
@@ -411,13 +416,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Straight Lines",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "slope"
+   "normal to the curve",
+   "normal to the curve"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 22,
@@ -597,11 +603,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Probability",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "probability distribution",
+   "probability"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 34,
@@ -878,7 +887,7 @@
   "optionsInImage": true,
   "chapter": "Relations and Functions",
   "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterMargin": 0,
   "chapterHits": [
    "function",
    "f(x)",
@@ -972,13 +981,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 1,
   "chapterHits": [
-   "angle"
+   "touch each other"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 53,
@@ -1158,10 +1167,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "intercept"
+  ],
+  "chapterConfidence": "low"
  }
 ]

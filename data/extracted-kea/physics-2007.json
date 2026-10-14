@@ -84,10 +84,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterScore": 13,
+  "chapterMargin": 11,
   "chapterHits": [
-   "refractive index"
+   "refractive index",
+   "apparent depth",
+   "depth of"
   ],
   "chapterConfidence": "high"
  },
@@ -131,12 +133,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 16,
-  "chapterMargin": 16,
+  "chapterScore": 19,
+  "chapterMargin": 19,
   "chapterHits": [
    "refractive index",
    "prism",
-   "focal length"
+   "focal length",
+   "ray of light",
+   "prism"
   ],
   "chapterConfidence": "high"
  },
@@ -227,9 +231,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterScore": 10,
+  "chapterMargin": 8,
   "chapterHits": [
+   "prism",
    "prism"
   ],
   "chapterConfidence": "high"
@@ -274,12 +279,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Wave Optics",
-  "chapterScore": 12,
-  "chapterMargin": 11,
+  "chapterScore": 13,
+  "chapterMargin": 12,
   "chapterHits": [
    "interference",
    "diffraction",
-   "polarisation"
+   "polarisation",
+   "coherent"
   ],
   "chapterConfidence": "high"
  },
@@ -370,13 +376,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "velocity"
+   "angle of incidence"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 12,
@@ -660,14 +666,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 11,
-  "chapterMargin": 11,
+  "chapterScore": 12,
+  "chapterMargin": 12,
   "chapterHits": [
    "wheatstone",
    "internal resistance",
    "current",
    "resistance",
-   "battery"
+   "battery",
+   "network"
   ],
   "chapterConfidence": "high"
  },
@@ -1043,12 +1050,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "baryon",
    "nucleon"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 43,
@@ -1090,14 +1098,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 6,
-  "chapterMargin": 6,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
    "nor",
+   "minority carriers",
    "semiconductor",
    "p-type"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 44,
@@ -1139,11 +1148,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 6,
-  "chapterMargin": 4,
+  "chapterScore": 7,
+  "chapterMargin": 5,
   "chapterHits": [
    "reverse bias",
-   "diode"
+   "diode",
+   "bias"
   ],
   "chapterConfidence": "medium"
  },
@@ -1234,14 +1244,17 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Motion in a Plane",
-  "chapterScore": 7,
-  "chapterMargin": 7,
+  "chapterScore": 16,
+  "chapterMargin": 16,
   "chapterHits": [
    "projectile",
+   "maximum height attained",
+   "horizontal range",
    "horizontal",
-   "angle"
+   "angle",
+   "projectile"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 48,
@@ -1283,13 +1296,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Work, Energy and Power",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 11,
+  "chapterMargin": 9,
   "chapterHits": [
    "kinetic energy",
-   "energy"
+   "explodes into",
+   "energy",
+   "fragment"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 51,
@@ -1424,11 +1439,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "rods"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 54,

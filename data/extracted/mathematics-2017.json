@@ -223,10 +223,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "eccentricity",
+   "ellipse",
    "ellipse"
   ],
   "chapterConfidence": "high"
@@ -972,11 +973,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "continuous at"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 28,
@@ -1112,9 +1115,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Derivatives",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
+   "strictly increasing",
    "strictly increasing"
   ],
   "chapterConfidence": "medium"
@@ -1296,10 +1300,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Continuity and Differentiability",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "derivative"
+   "derivative",
+   "derivative of"
   ],
   "chapterConfidence": "low"
  },
@@ -1703,10 +1708,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Integrals",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "area of the region"
+   "area of the region",
+   "bounded by the curve"
   ],
   "chapterConfidence": "medium"
  },
@@ -1750,10 +1756,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Integrals",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "area of the region"
+   "area of the region",
+   "bounded by the curve"
   ],
   "chapterConfidence": "medium"
  },
@@ -1844,11 +1851,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapter": "Differential Equations",
+  "chapterScore": 5,
+  "chapterMargin": 1,
   "chapterHits": [
-   "general solution"
+   "general solution",
+   "differential equation"
   ],
   "chapterConfidence": "medium"
  },

@@ -54,13 +54,16 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Sequences and Series",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
    "geometric progression",
-   "progression"
+   "progression",
+   " a.p",
+   " g.p",
+   " h.p"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 2,
@@ -180,7 +183,7 @@
   "solutionImages": [],
   "chapter": "Relations and Functions",
   "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "function",
    "greatest integer"
@@ -242,10 +245,11 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Integrals",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "dx"
+   "dx",
+   "∫"
   ],
   "chapterConfidence": "low"
  },
@@ -366,12 +370,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Continuity and Differentiability",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "continuous at x"
+   "continuous at x",
+   "continuous at"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 7,
@@ -863,10 +868,11 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Conic Sections",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "circle"
+   "circle",
+   "x2 + y2"
   ],
   "chapterConfidence": "low"
  },
@@ -924,11 +930,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 13,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "mod m",
+   "integer"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 16,
@@ -985,13 +994,14 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Matrices",
-  "chapterScore": 19,
+  "chapterScore": 23,
   "chapterMargin": 15,
   "chapterHits": [
    "symmetric matrix",
    "skew symmetric",
    "scalar matrix",
    "diagonal matrix",
+   "singular matrix",
    "matrix"
   ],
   "chapterConfidence": "high"
@@ -1296,14 +1306,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 8,
+  "chapterMargin": 6,
   "chapterHits": [
-   "sin",
-   "cos"
+   "sin-1",
+   "cos-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 22,
@@ -1360,9 +1370,10 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "complex number",
    "complex number"
   ],
   "chapterConfidence": "medium"
@@ -1546,11 +1557,12 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Straight Lines",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Conic Sections",
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "straight line"
+   "circle",
+   "x2 + y2"
   ],
   "chapterConfidence": "low"
  },
@@ -1609,12 +1621,15 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Conic Sections",
-  "chapterScore": 14,
-  "chapterMargin": 9,
+  "chapterScore": 25,
+  "chapterMargin": 20,
   "chapterHits": [
    "ellipse",
    "hyperbola",
-   "circle"
+   "auxiliary circle",
+   "director circle",
+   "circle",
+   "ellipse"
   ],
   "chapterConfidence": "high"
  },
@@ -1982,7 +1997,7 @@
   "solutionImages": [],
   "chapter": "Trigonometric Functions",
   "chapterScore": 3,
-  "chapterMargin": 2,
+  "chapterMargin": 1,
   "chapterHits": [
    "sin",
    "cos"
@@ -2105,13 +2120,13 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "sin"
+   "sin-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 35,
@@ -2168,12 +2183,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "roots of the equation",
    "roots of the equation"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 36,
@@ -3038,12 +3054,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Vector Algebra",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "coplanar vectors"
+   "coplanar vectors",
+   "parallelepiped"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 50,
@@ -3099,11 +3116,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "subgroup",
+   "group g"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 51,
@@ -3159,11 +3179,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "group g",
+   "⊗"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 52,
@@ -3345,11 +3368,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "complex number",
+   "complex number"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 55,
@@ -3406,10 +3432,11 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Conic Sections",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "circle"
+   "circle",
+   "x2 + y2"
   ],
   "chapterConfidence": "low"
  },
@@ -3468,9 +3495,10 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Conic Sections",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "parabola",
    "parabola"
   ],
   "chapterConfidence": "medium"
@@ -3530,12 +3558,14 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Conic Sections",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
+   "hyperbola",
+   "point of contact",
    "hyperbola"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 58,
@@ -3718,12 +3748,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Application of Derivatives",
-  "chapterScore": 2,
+  "chapterScore": 6,
   "chapterMargin": 2,
   "chapterHits": [
    "tangent to the curve",
+   "tangent to the curve",
    "cuts the coordinate axes"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  }
 ]

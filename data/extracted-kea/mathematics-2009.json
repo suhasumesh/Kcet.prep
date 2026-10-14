@@ -83,11 +83,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "digit in the unit place"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 3,
@@ -128,11 +130,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Sequences and Series",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   " a.p",
+   " g.p",
+   " h.p"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 5,
@@ -312,11 +318,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Vector Algebra",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "coterminous edges"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 10,
@@ -357,11 +365,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "under addition modulo"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 11,
@@ -402,11 +412,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "identity element in a group",
+   "inverse of an element",
+   "abelian group"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 12,
@@ -492,11 +506,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "divisible by",
+   "integer"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 15,
@@ -627,13 +644,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 12,
+  "chapterMargin": 9,
   "chapterHits": [
-   "cos"
+   "cos-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 21,
@@ -719,11 +736,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "complex number",
+   "complex number"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 23,
@@ -765,9 +785,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "complex number",
    "complex number"
   ],
   "chapterConfidence": "medium"
@@ -953,9 +974,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
+   "parabola",
    "parabola"
   ],
   "chapterConfidence": "medium"
@@ -1000,11 +1022,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
    "hyperbola",
-   "circle"
+   "circle",
+   "hyperbola"
   ],
   "chapterConfidence": "medium"
  },
@@ -1139,11 +1162,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "circumcentre"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 41,
@@ -1279,11 +1304,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Trigonometric Functions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "tower"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 50,
@@ -1324,11 +1351,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "greatest height attained"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 51,

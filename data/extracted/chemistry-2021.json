@@ -128,12 +128,13 @@
     "h": 600
    }
   ],
-  "chapter": "Redox Reactions",
-  "chapterScore": 5,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 6,
   "chapterMargin": 1,
   "chapterHits": [
-   "oxidising agent",
-   "oxidised"
+   "iodoform",
+   "aldehyde",
+   "ketone"
   ],
   "chapterConfidence": "medium"
  },
@@ -332,11 +333,12 @@
    }
   ],
   "chapter": "Equilibrium",
-  "chapterScore": 11,
-  "chapterMargin": 10,
+  "chapterScore": 12,
+  "chapterMargin": 11,
   "chapterHits": [
    "conjugate base",
-   "base"
+   "base",
+   "acidic"
   ],
   "chapterConfidence": "high"
  },
@@ -471,7 +473,7 @@
   ],
   "chapter": "Alcohols, Phenols and Ethers",
   "chapterScore": 6,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "ethanol",
    "ether"
@@ -676,7 +678,7 @@
   ],
   "chapter": "Haloalkanes and Haloarenes",
   "chapterScore": 4,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "iodoform"
   ],
@@ -810,12 +812,12 @@
     "h": 202
    }
   ],
-  "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 8,
-  "chapterMargin": 0,
+  "chapter": "Amines",
+  "chapterScore": 10,
+  "chapterMargin": 2,
   "chapterHits": [
-   "chlorobenzene",
-   "nucleophilic substitution"
+   "aniline",
+   "aniline"
   ],
   "chapterConfidence": "medium"
  },
@@ -1362,13 +1364,15 @@
    }
   ],
   "chapter": "Solid State",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 18,
+  "chapterMargin": 16,
   "chapterHits": [
    "ccp",
-   "lattice"
+   "voids",
+   "lattice",
+   "cubic"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 21,
@@ -1504,7 +1508,7 @@
   ],
   "chapter": "Solid State",
   "chapterScore": 14,
-  "chapterMargin": 13,
+  "chapterMargin": 9,
   "chapterHits": [
    "unit cell",
    "bcc",
@@ -1574,7 +1578,7 @@
   ],
   "chapter": "Solutions",
   "chapterScore": 16,
-  "chapterMargin": 14,
+  "chapterMargin": 6,
   "chapterHits": [
    "henry's law",
    "mole fraction"
@@ -1858,10 +1862,11 @@
    }
   ],
   "chapter": "Solutions",
-  "chapterScore": 8,
-  "chapterMargin": 5,
+  "chapterScore": 12,
+  "chapterMargin": 9,
   "chapterHits": [
    "raoult",
+   "raoult's law",
    "solution",
    "vapour pressure"
   ],
@@ -2746,12 +2751,13 @@
    }
   ],
   "chapter": "Chemical Bonding and Molecular Structure",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterScore": 6,
+  "chapterMargin": 5,
   "chapterHits": [
+   "hydrogen bonding",
    "bonding"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 41,
@@ -3020,11 +3026,11 @@
   ],
   "chapter": "Classification of Elements and Periodicity",
   "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapterMargin": 0,
   "chapterHits": [
    "electronegativity"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 45,
@@ -3707,11 +3713,12 @@
    }
   ],
   "chapter": "Coordination Compounds",
-  "chapterScore": 6,
-  "chapterMargin": 6,
+  "chapterScore": 7,
+  "chapterMargin": 7,
   "chapterHits": [
    "ligand",
-   "complex"
+   "complex",
+   "ligands"
   ],
   "chapterConfidence": "medium"
  },
@@ -4048,11 +4055,13 @@
     "h": 347
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Coordination Compounds",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "en"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 60,
@@ -4116,7 +4125,7 @@
   ],
   "chapter": "Haloalkanes and Haloarenes",
   "chapterScore": 9,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "sn2",
    "halide"

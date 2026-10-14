@@ -84,11 +84,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Binomial Theorem",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
    "binomial expansion",
-   "expansion of"
+   "expansion of",
+   "binomial"
   ],
   "chapterConfidence": "medium"
  },
@@ -545,11 +546,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "divisible by"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 31,
@@ -778,13 +781,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Conic Sections",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "circle"
+   "maximum area"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 47,
@@ -825,11 +828,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "common chord"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 48,

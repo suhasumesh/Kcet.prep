@@ -37,7 +37,15 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Electrochemistry",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "anode",
+   "cathode"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 7,
@@ -77,7 +85,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 5,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "entropy change",
+   "entropy"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 8,
@@ -117,7 +133,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "States of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "vapour pressure"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 9,
@@ -157,7 +180,12 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 10,
@@ -197,7 +225,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "adsorption"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 11,
@@ -237,7 +272,12 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 12,
@@ -277,7 +317,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "neon"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 13,
@@ -317,7 +364,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "bond angle"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 16,
@@ -357,7 +411,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "period"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 17,
@@ -397,6 +458,13 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "chlorine"
+  ],
+  "chapterConfidence": "low"
  }
 ]

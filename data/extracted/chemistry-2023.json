@@ -265,12 +265,13 @@
    }
   ],
   "chapter": "Coordination Compounds",
-  "chapterScore": 12,
-  "chapterMargin": 4,
+  "chapterScore": 13,
+  "chapterMargin": 5,
   "chapterHits": [
    "ligand",
    "didentate",
-   "ethane-1, 2-diamine"
+   "ethane-1, 2-diamine",
+   "en"
   ],
   "chapterConfidence": "high"
  },
@@ -472,7 +473,7 @@
   ],
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
   "chapterScore": 24,
-  "chapterMargin": 20,
+  "chapterMargin": 16,
   "chapterHits": [
    "cannizzaro",
    "clemmensen",
@@ -610,11 +611,12 @@
    }
   ],
   "chapter": "Amines",
-  "chapterScore": 10,
-  "chapterMargin": 8,
+  "chapterScore": 12,
+  "chapterMargin": 10,
   "chapterHits": [
    "aniline",
-   "amino"
+   "amino",
+   "aniline"
   ],
   "chapterConfidence": "high"
  },
@@ -679,12 +681,13 @@
    }
   ],
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 17,
-  "chapterMargin": 14,
+  "chapterScore": 20,
+  "chapterMargin": 17,
   "chapterHits": [
    "phenol",
    "methanol",
-   "ether"
+   "ether",
+   "phenol"
   ],
   "chapterConfidence": "high"
  },
@@ -817,14 +820,15 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 41,
-  "chapterMargin": 41,
+  "chapterScore": 50,
+  "chapterMargin": 50,
   "chapterHits": [
    "glucose",
    "fructose",
    "sucrose",
    "glycosidic",
-   "reducing sugar"
+   "reducing sugar",
+   "glucose"
   ],
   "chapterConfidence": "high"
  },
@@ -1228,13 +1232,14 @@
    }
   ],
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 8,
-  "chapterMargin": 3,
+  "chapterScore": 9,
+  "chapterMargin": 4,
   "chapterHits": [
    "phenol",
-   "glycol"
+   "glycol",
+   "phenol"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 19,
@@ -1916,11 +1921,14 @@
     "h": 219
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Equilibrium",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "acidic",
+   "basic"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 29,
@@ -2398,11 +2406,12 @@
    }
   ],
   "chapter": "Solid State",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 11,
+  "chapterMargin": 11,
   "chapterHits": [
    "body centred cubic",
-   "face centred cubic"
+   "face centred cubic",
+   "cubic"
   ],
   "chapterConfidence": "high"
  },
@@ -2467,14 +2476,15 @@
    }
   ],
   "chapter": "Chemical Bonding and Molecular Structure",
-  "chapterScore": 6,
-  "chapterMargin": 1,
+  "chapterScore": 10,
+  "chapterMargin": 5,
   "chapterHits": [
    "hydrogen bond",
+   "hydrogen bonding",
    "ionic bond",
    "bonding"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -2748,12 +2758,13 @@
    }
   ],
   "chapter": "Solid State",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
    "unit cell",
    "body centred cubic",
-   "lattice"
+   "lattice",
+   "cubic"
   ],
   "chapterConfidence": "high"
  },
@@ -3782,13 +3793,13 @@
     "h": 496
    }
   ],
-  "chapter": "d- and f-Block Elements",
-  "chapterScore": 7,
-  "chapterMargin": 6,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 10,
+  "chapterMargin": 3,
   "chapterHits": [
-   "transition element",
-   "manganese",
-   "chromium"
+   "effective nuclear charge",
+   "period",
+   "across a period"
   ],
   "chapterConfidence": "medium"
  },
@@ -4057,12 +4068,12 @@
     "h": 273
    }
   ],
-  "chapter": "Classification of Elements and Periodicity",
-  "chapterScore": 4,
-  "chapterMargin": 0,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 5,
+  "chapterMargin": 1,
   "chapterHits": [
-   "group",
-   "down the group"
+   "group 15",
+   "group 15"
   ],
   "chapterConfidence": "medium"
  },

@@ -54,14 +54,16 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Laws of Motion",
-  "chapterScore": 7,
-  "chapterMargin": 6,
+  "chapterScore": 12,
+  "chapterMargin": 11,
   "chapterHits": [
    "static friction",
+   "coefficient of static friction",
    "friction",
-   "block"
+   "block",
+   "rough surface"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 2,
@@ -179,11 +181,13 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Motion in a Plane",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "component"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 4,
@@ -239,11 +243,16 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 10,
+  "chapterMargin": 10,
+  "chapterHits": [
+   "apparent loss of weight",
+   "completely immersed in water",
+   "immersed",
+   "density of"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 5,
@@ -300,12 +309,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Thermal Properties of Matter",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
-   "temperature"
+   "temperature",
+   "cool"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 6,
@@ -523,12 +533,14 @@
   "optionsInImage": true,
   "optionStyle": "letter",
   "chapter": "Wave Optics",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "slit"
+   "slit",
+   "fringes",
+   "slits"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 10,
@@ -619,13 +631,14 @@
   "optionsInImage": true,
   "optionStyle": "letter",
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterScore": 6,
+  "chapterMargin": 5,
   "chapterHits": [
+   "uniform electric field",
    "charge",
    "electric field"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 12,
@@ -966,11 +979,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "magnetic induction at the point",
+   "loop shown"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 18,
@@ -1089,13 +1105,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "current"
+   "ampere",
+   "magnetic field"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 20,
@@ -1338,11 +1355,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "ruby laser",
+   "laser"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 24,
@@ -1461,14 +1481,15 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Nuclei",
-  "chapterScore": 11,
-  "chapterMargin": 11,
+  "chapterScore": 13,
+  "chapterMargin": 13,
   "chapterHits": [
    "radioactive decay",
    "mass number",
    "nucleus",
    "radioactive",
-   "gamma"
+   "gamma",
+   "decay"
   ],
   "chapterConfidence": "high"
  },
@@ -1589,11 +1610,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 13,
+  "chapterMargin": 13,
   "chapterHits": [
    "nor",
-   "truth table"
+   "truth table",
+   "xor",
+   "gate"
   ],
   "chapterConfidence": "high"
  },
@@ -1778,12 +1801,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Units and Measurements",
-  "chapterScore": 4,
-  "chapterMargin": 0,
+  "chapterScore": 12,
+  "chapterMargin": 8,
   "chapterHits": [
-   "dimensional formula"
+   "dimensional formula",
+   "physical quantity"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 31,
@@ -2028,7 +2052,7 @@
   "solutionImages": [],
   "chapter": "Thermal Properties of Matter",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "temperature"
   ],
@@ -2201,12 +2225,13 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Waves",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "intensity level",
    "sound"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 38,
@@ -2262,11 +2287,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "circular bright patch",
+   "depth of"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 39,
@@ -2385,14 +2413,16 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Wave Optics",
-  "chapterScore": 7,
-  "chapterMargin": 6,
+  "chapterScore": 9,
+  "chapterMargin": 8,
   "chapterHits": [
    "fringe width",
    "slit",
-   "fringe"
+   "fringe",
+   "fringes",
+   "slits"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 41,
@@ -2449,10 +2479,12 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Wave Optics",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 3,
+  "chapterMargin": 3,
   "chapterHits": [
-   "slit"
+   "slit",
+   "fringes",
+   "coherent"
   ],
   "chapterConfidence": "low"
  },
@@ -2511,11 +2543,12 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Wave Optics",
-  "chapterScore": 6,
-  "chapterMargin": 6,
+  "chapterScore": 7,
+  "chapterMargin": 7,
   "chapterHits": [
    "single slit",
-   "slit"
+   "slit",
+   "maxima"
   ],
   "chapterConfidence": "medium"
  },
@@ -2573,14 +2606,15 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 6,
+  "chapterMargin": 4,
   "chapterHits": [
-   "velocity",
-   "rest"
+   "uniform electric field",
+   "electric field",
+   "nc"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 44,
@@ -2700,7 +2734,7 @@
   "solutionImages": [],
   "chapter": "Thermal Properties of Matter",
   "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "heat"
   ],
@@ -2746,11 +2780,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "optionStyle": "letter",
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Current Electricity",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "circuit",
+   "ω"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 47,
@@ -2807,10 +2844,11 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
-   "current carrying conductor"
+   "current carrying conductor",
+   "current carrying"
   ],
   "chapterConfidence": "medium"
  },
@@ -2870,7 +2908,7 @@
   "solutionImages": [],
   "chapter": "Alternating Current",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 2,
   "chapterHits": [
    "power factor"
   ],
@@ -3054,11 +3092,17 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 25,
+  "chapterMargin": 25,
+  "chapterHits": [
+   "line absorption spectrum",
+   "continuous emission spectrum",
+   "emission spectrum",
+   "absorption spectrum",
+   "spectrum of sunlight"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 52,
@@ -3116,7 +3160,7 @@
   "solutionImages": [],
   "chapter": "Atoms",
   "chapterScore": 9,
-  "chapterMargin": 7,
+  "chapterMargin": 6,
   "chapterHits": [
    "ground state",
    "hydrogen atom",
@@ -3181,11 +3225,15 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Nuclei",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "radio-active",
+   "nuclei",
+   "decay"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 54,
@@ -3242,10 +3290,11 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "Nuclei",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 7,
+  "chapterMargin": 5,
   "chapterHits": [
-   "binding energy"
+   "binding energy",
+   "mev"
   ],
   "chapterConfidence": "medium"
  },
@@ -3365,11 +3414,13 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Nuclei",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "baryon"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 57,
@@ -3425,11 +3476,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Wave Optics",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "scattering particles",
+   "intensity of scattered light"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 58,
@@ -3486,10 +3540,11 @@
   "solutionText": "",
   "solutionImages": [],
   "chapter": "System of Particles and Rotational Motion",
-  "chapterScore": 4,
+  "chapterScore": 5,
   "chapterMargin": 0,
   "chapterHits": [
-   "angular momentum"
+   "angular momentum",
+   "angular"
   ],
   "chapterConfidence": "medium"
  },
@@ -3547,11 +3602,13 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "elastic"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 60,

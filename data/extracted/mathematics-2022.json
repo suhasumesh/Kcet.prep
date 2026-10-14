@@ -60,12 +60,13 @@
    }
   ],
   "chapter": "Probability",
-  "chapterScore": 9,
-  "chapterMargin": 8,
+  "chapterScore": 10,
+  "chapterMargin": 9,
   "chapterHits": [
    "probability distribution",
    "sample space",
-   "probability"
+   "probability",
+   "coin"
   ],
   "chapterConfidence": "high"
  },
@@ -333,13 +334,15 @@
    }
   ],
   "chapter": "Sets",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
    "set",
-   "a x b"
+   "a x b",
+   "set a",
+   "set b"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 6,
@@ -748,11 +751,12 @@
    }
   ],
   "chapter": "Sets",
-  "chapterScore": 4,
+  "chapterScore": 5,
   "chapterMargin": 0,
   "chapterHits": [
    "set",
-   "number of subsets"
+   "number of subsets",
+   "set a"
   ],
   "chapterConfidence": "medium"
  },
@@ -822,11 +826,12 @@
    }
   ],
   "chapter": "Permutations and Combinations",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 11,
+  "chapterMargin": 11,
   "chapterHits": [
    "permutation",
-   "arranged"
+   "arranged",
+   "permutation"
   ],
   "chapterConfidence": "high"
  },
@@ -1307,12 +1312,13 @@
    }
   ],
   "chapter": "Sets",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
+   "cardinality",
    "set"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 20,
@@ -1711,12 +1717,14 @@
    }
   ],
   "chapter": "Matrices",
-  "chapterScore": 27,
-  "chapterMargin": 15,
+  "chapterScore": 29,
+  "chapterMargin": 17,
   "chapterHits": [
    "symmetric matrix",
    "skew symmetric",
-   "matrix"
+   "matrix",
+   "row",
+   "column"
   ],
   "chapterConfidence": "high"
  },
@@ -1923,9 +1931,10 @@
    }
   ],
   "chapter": "Determinants",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "determinant",
    "determinant"
   ],
   "chapterConfidence": "medium"
@@ -1990,11 +1999,13 @@
     "h": 124
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Determinants",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "area of the triangle"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 30,
@@ -2056,15 +2067,13 @@
     "h": 316
    }
   ],
-  "chapter": "Relations and Functions",
-  "chapterScore": 3,
-  "chapterMargin": 2,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 1,
   "chapterHits": [
-   "function",
-   "greatest integer",
-   "domain"
+   "cos-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 31,
@@ -3150,10 +3159,11 @@
    }
   ],
   "chapter": "Application of Integrals",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "area of the region"
+   "area of the region",
+   "bounded by the curve"
   ],
   "chapterConfidence": "medium"
  },
@@ -3897,7 +3907,7 @@
   ],
   "chapter": "Introduction to Three Dimensional Geometry",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 0,
   "chapterHits": [
    "direction ratios"
   ],

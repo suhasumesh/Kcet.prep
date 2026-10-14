@@ -128,13 +128,15 @@
    }
   ],
   "chapter": "p-Block Elements (Group 15-18)",
-  "chapterScore": 14,
-  "chapterMargin": 8,
+  "chapterScore": 16,
+  "chapterMargin": 9,
   "chapterHits": [
    "group 15",
    "group 17",
    "phosphorus",
-   "chlorine"
+   "chlorine",
+   "group 15",
+   "group 17"
   ],
   "chapterConfidence": "high"
  },
@@ -749,15 +751,17 @@
    }
   ],
   "chapter": "Coordination Compounds",
-  "chapterScore": 7,
-  "chapterMargin": 6,
+  "chapterScore": 12,
+  "chapterMargin": 8,
   "chapterHits": [
    "ligand",
+   "coordination number",
    "complex",
    "coordination",
-   "central metal"
+   "central metal",
+   "ligands"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 12,
@@ -820,9 +824,10 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapterScore": 15,
+  "chapterMargin": 11,
   "chapterHits": [
+   "glucose",
    "glucose"
   ],
   "chapterConfidence": "high"
@@ -888,15 +893,15 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 31,
-  "chapterMargin": 28,
+  "chapterScore": 38,
+  "chapterMargin": 35,
   "chapterHits": [
    "glucose",
    "fructose",
    "amino acid",
    "vitamin",
    "carbohydrate",
-   "hormone"
+   "carbohydrate"
   ],
   "chapterConfidence": "high"
  },
@@ -961,8 +966,8 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 32,
-  "chapterMargin": 32,
+  "chapterScore": 36,
+  "chapterMargin": 36,
   "chapterHits": [
    "glucose",
    "fructose",
@@ -1035,7 +1040,7 @@
   ],
   "chapter": "p-Block Elements (Group 15-18)",
   "chapterScore": 20,
-  "chapterMargin": 16,
+  "chapterMargin": 15,
   "chapterHits": [
    "nitric acid",
    "sulphuric acid"
@@ -1509,12 +1514,13 @@
    }
   ],
   "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 11,
-  "chapterMargin": 11,
+  "chapterScore": 12,
+  "chapterMargin": 12,
   "chapterHits": [
    "alkyl halide",
    "aryl halide",
-   "halide"
+   "halide",
+   "alkyl halide"
   ],
   "chapterConfidence": "high"
  },
@@ -1579,13 +1585,14 @@
    }
   ],
   "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 8,
-  "chapterMargin": 3,
+  "chapterScore": 12,
+  "chapterMargin": 7,
   "chapterHits": [
    "chlorobenzene",
-   "nucleophilic substitution"
+   "nucleophilic substitution",
+   "elimination reaction"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 24,
@@ -1852,11 +1859,12 @@
    }
   ],
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 6,
+  "chapterMargin": 5,
   "chapterHits": [
    "phenol",
-   "alcohol"
+   "alcohol",
+   "phenol"
   ],
   "chapterConfidence": "medium"
  },
@@ -1921,11 +1929,12 @@
    }
   ],
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 6,
+  "chapterMargin": 4,
   "chapterHits": [
    "phenol",
-   "alcohol"
+   "alcohol",
+   "phenol"
   ],
   "chapterConfidence": "medium"
  },
@@ -2266,12 +2275,13 @@
    }
   ],
   "chapter": "Equilibrium",
-  "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterScore": 10,
+  "chapterMargin": 8,
   "chapterHits": [
    "conjugate base",
    "acid",
-   "base"
+   "base",
+   "acidic"
   ],
   "chapterConfidence": "high"
  },
@@ -2336,12 +2346,13 @@
    }
   ],
   "chapter": "Amines",
-  "chapterScore": 21,
-  "chapterMargin": 16,
+  "chapterScore": 24,
+  "chapterMargin": 19,
   "chapterHits": [
    "carbylamine",
    "aniline",
-   "amine"
+   "amine",
+   "aniline"
   ],
   "chapterConfidence": "high"
  },
@@ -2405,11 +2416,11 @@
     "h": 158
    }
   ],
-  "chapter": "Amines",
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
-   "amine"
+   "carboxylic"
   ],
   "chapterConfidence": "low"
  },
@@ -2754,12 +2765,13 @@
    }
   ],
   "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 2,
-  "chapterMargin": 0,
+  "chapterScore": 10,
+  "chapterMargin": 8,
   "chapterHits": [
+   "number of moles",
    "mole"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 41,
@@ -2822,13 +2834,14 @@
    }
   ],
   "chapter": "Thermodynamics",
-  "chapterScore": 7,
-  "chapterMargin": 7,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "state function",
-   "enthalpy"
+   "enthalpy",
+   "δh"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 42,
@@ -3098,11 +3111,12 @@
    }
   ],
   "chapter": "Solutions",
-  "chapterScore": 11,
-  "chapterMargin": 6,
+  "chapterScore": 15,
+  "chapterMargin": 10,
   "chapterHits": [
    "elevation in boiling point",
    "van't hoff factor",
+   "elevation in boiling",
    "solution"
   ],
   "chapterConfidence": "high"
@@ -3233,11 +3247,15 @@
     "h": 817
    }
   ],
-  "chapter": "Biomolecules",
-  "chapterScore": 12,
-  "chapterMargin": 2,
+  "chapter": "Solutions",
+  "chapterScore": 18,
+  "chapterMargin": 3,
   "chapterHits": [
-   "glucose"
+   "ebullioscopic",
+   "molality",
+   "solution",
+   "solvent",
+   "molality"
   ],
   "chapterConfidence": "medium"
  },
@@ -3308,7 +3326,7 @@
   ],
   "chapter": "Solutions",
   "chapterScore": 25,
-  "chapterMargin": 21,
+  "chapterMargin": 13,
   "chapterHits": [
    "henry's law",
    "mole fraction",
@@ -3377,13 +3395,14 @@
    }
   ],
   "chapter": "Electrochemistry",
-  "chapterScore": 14,
-  "chapterMargin": 12,
+  "chapterScore": 15,
+  "chapterMargin": 13,
   "chapterHits": [
    "galvanic cell",
    "cell potential",
    "anode",
-   "cathode"
+   "cathode",
+   "cell potential"
   ],
   "chapterConfidence": "high"
  },
@@ -3517,14 +3536,15 @@
    }
   ],
   "chapter": "Electrochemistry",
-  "chapterScore": 6,
-  "chapterMargin": 5,
+  "chapterScore": 10,
+  "chapterMargin": 9,
   "chapterHits": [
    "nernst",
+   "nernst equation",
    "electrode",
    "half cell"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 52,
@@ -3586,14 +3606,13 @@
     "h": 159
    }
   ],
-  "chapter": "Electrochemistry",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 4,
+  "chapterMargin": 1,
   "chapterHits": [
-   "cathode",
-   "electrolysis"
+   "number of moles"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 53,
@@ -3938,7 +3957,7 @@
   ],
   "chapter": "Some Basic Concepts of Chemistry",
   "chapterScore": 36,
-  "chapterMargin": 19,
+  "chapterMargin": 7,
   "chapterHits": [
    "molarity",
    "molality",
@@ -4074,11 +4093,13 @@
     "h": 124
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "atomic mass"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 60,

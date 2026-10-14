@@ -61,7 +61,7 @@
   ],
   "chapter": "p-Block Elements (Group 13-14)",
   "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapterMargin": 6,
   "chapterHits": [
    "diborane",
    "boron",
@@ -337,11 +337,12 @@
    }
   ],
   "chapter": "Equilibrium",
-  "chapterScore": 2,
-  "chapterMargin": 0,
+  "chapterScore": 3,
+  "chapterMargin": 1,
   "chapterHits": [
    "ph",
-   "acid"
+   "acid",
+   "acidic"
   ],
   "chapterConfidence": "low"
  },
@@ -406,11 +407,13 @@
    }
   ],
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 15,
-  "chapterMargin": 7,
+  "chapterScore": 19,
+  "chapterMargin": 11,
   "chapterHits": [
    "carboxylic acid",
-   "ketone"
+   "ketone",
+   "carboxylic",
+   "-cooh"
   ],
   "chapterConfidence": "high"
  },
@@ -544,12 +547,13 @@
    }
   ],
   "chapter": "Solid State",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
    "unit cell",
    "bcc",
-   "lattice"
+   "lattice",
+   "cubic"
   ],
   "chapterConfidence": "high"
  },
@@ -888,12 +892,13 @@
    }
   ],
   "chapter": "Solutions",
-  "chapterScore": 6,
+  "chapterScore": 7,
   "chapterMargin": 2,
   "chapterHits": [
    "molal elevation",
    "solution",
-   "solvent"
+   "solvent",
+   "molal"
   ],
   "chapterConfidence": "medium"
  },
@@ -957,12 +962,12 @@
     "h": 45
    }
   ],
-  "chapter": "Solutions",
+  "chapter": "Some Basic Concepts of Chemistry",
   "chapterScore": 5,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
-   "osmotic pressure",
-   "solution"
+   "molar mass",
+   "molar mass"
   ],
   "chapterConfidence": "medium"
  },
@@ -1027,7 +1032,7 @@
    }
   ],
   "chapter": "Solutions",
-  "chapterScore": 33,
+  "chapterScore": 41,
   "chapterMargin": 31,
   "chapterHits": [
    "colligative",
@@ -1035,7 +1040,7 @@
    "elevation in boiling point",
    "depression in freezing point",
    "relative lowering of vapour pressure",
-   "vapour pressure"
+   "depression in freezing"
   ],
   "chapterConfidence": "high"
  },
@@ -1238,12 +1243,13 @@
    }
   ],
   "chapter": "Solid State",
-  "chapterScore": 2,
+  "chapterScore": 6,
   "chapterMargin": 1,
   "chapterHits": [
+   "coordination number",
    "defect"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 19,
@@ -1373,13 +1379,13 @@
     "h": 125
    }
   ],
-  "chapter": "Classification of Elements and Periodicity",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 6,
   "chapterHits": [
-   "period"
+   "order of reaction"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 21,
@@ -1446,13 +1452,13 @@
     "h": 350
    }
   ],
-  "chapter": "Some Basic Concepts of Chemistry",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "concentration"
+   "order of reaction"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 22,
@@ -1788,7 +1794,7 @@
   ],
   "chapter": "Classification of Elements and Periodicity",
   "chapterScore": 14,
-  "chapterMargin": 10,
+  "chapterMargin": 9,
   "chapterHits": [
    "electron gain enthalpy",
    "electronegativity",
@@ -2547,7 +2553,7 @@
   ],
   "chapter": "Haloalkanes and Haloarenes",
   "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapterMargin": 7,
   "chapterHits": [
    "sn1"
   ],
@@ -2819,10 +2825,12 @@
    }
   ],
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapterScore": 18,
+  "chapterMargin": 14,
   "chapterHits": [
    "kolbe's reaction",
+   "phenol",
+   "kolbe",
    "phenol"
   ],
   "chapterConfidence": "high"
@@ -2956,11 +2964,12 @@
    }
   ],
   "chapter": "Alcohols, Phenols and Ethers",
-  "chapterScore": 20,
-  "chapterMargin": 16,
+  "chapterScore": 23,
+  "chapterMargin": 19,
   "chapterHits": [
    "phenol",
-   "methanol"
+   "methanol",
+   "phenol"
   ],
   "chapterConfidence": "high"
  },
@@ -3024,11 +3033,13 @@
     "h": 492
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Hydrocarbons",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "hydrocarbon"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 45,
@@ -3227,10 +3238,11 @@
     "h": 452
    }
   ],
-  "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 16,
+  "chapterMargin": 4,
   "chapterHits": [
+   "fehling",
    "iodoform"
   ],
   "chapterConfidence": "high"
@@ -3364,12 +3376,13 @@
    }
   ],
   "chapter": "Equilibrium",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
-   "acid"
+   "acid",
+   "acidic"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 50,
@@ -3433,7 +3446,7 @@
   ],
   "chapter": "Polymers",
   "chapterScore": 29,
-  "chapterMargin": 25,
+  "chapterMargin": 24,
   "chapterHits": [
    "nylon",
    "bakelite",
@@ -3505,9 +3518,10 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 12,
-  "chapterMargin": 9,
+  "chapterScore": 15,
+  "chapterMargin": 12,
   "chapterHits": [
+   "glucose",
    "glucose"
   ],
   "chapterConfidence": "high"
@@ -3644,11 +3658,12 @@
    }
   ],
   "chapter": "Amines",
-  "chapterScore": 10,
-  "chapterMargin": 7,
+  "chapterScore": 12,
+  "chapterMargin": 9,
   "chapterHits": [
    "secondary amine",
-   "amine"
+   "amine",
+   "secondary amine"
   ],
   "chapterConfidence": "high"
  },
@@ -3779,13 +3794,14 @@
    }
   ],
   "chapter": "Classification of Elements and Periodicity",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
    "periodic table",
    "period",
    "group",
-   "down the group"
+   "down the group",
+   "periodic table"
   ],
   "chapterConfidence": "high"
  },
@@ -3850,13 +3866,15 @@
    }
   ],
   "chapter": "Chemical Bonding and Molecular Structure",
-  "chapterScore": 17,
-  "chapterMargin": 16,
+  "chapterScore": 20,
+  "chapterMargin": 19,
   "chapterHits": [
    "bond order",
    "sigma bond",
    "pi bond",
-   "bonding"
+   "bonding",
+   "sigma bond",
+   "pi bond"
   ],
   "chapterConfidence": "high"
  },
@@ -3922,7 +3940,7 @@
   ],
   "chapter": "Alcohols, Phenols and Ethers",
   "chapterScore": 24,
-  "chapterMargin": 22,
+  "chapterMargin": 18,
   "chapterHits": [
    "ethanol",
    "methanol",
@@ -4124,13 +4142,14 @@
     "h": 181
    }
   ],
-  "chapter": "Solutions",
-  "chapterScore": 5,
-  "chapterMargin": 2,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 11,
+  "chapterMargin": 6,
   "chapterHits": [
-   "mole fraction",
-   "solution"
+   "molar mass",
+   "mole",
+   "molar mass"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  }
 ]

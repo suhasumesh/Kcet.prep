@@ -278,13 +278,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Relations and Functions",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Continuity and Differentiability",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "f(x)"
+   "continuous at"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 15,
@@ -558,11 +558,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "integer"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 27,
@@ -742,11 +744,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Straight Lines",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Conic Sections",
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "y-axis"
+   "circle",
+   "x2 + y2"
   ],
   "chapterConfidence": "low"
  },
@@ -838,12 +841,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 17,
-  "chapterMargin": 17,
+  "chapterScore": 20,
+  "chapterMargin": 20,
   "chapterHits": [
    "eccentricity",
    "ellipse",
-   "circle"
+   "circle",
+   "ellipse"
   ],
   "chapterConfidence": "high"
  },
@@ -1023,14 +1027,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 2,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 4,
   "chapterMargin": 2,
   "chapterHits": [
-   "sin",
-   "angle"
+   "sin-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 51,
@@ -1071,13 +1074,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Conic Sections",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Application of Derivatives",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "circle"
+   "maximum area"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 54,

@@ -60,11 +60,13 @@
    }
   ],
   "chapter": "Sets",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 7,
+  "chapterMargin": 7,
   "chapterHits": [
    "set",
-   "number of subsets"
+   "number of subsets",
+   "set a",
+   "set b"
   ],
   "chapterConfidence": "medium"
  },
@@ -130,7 +132,7 @@
   ],
   "chapter": "Relations and Functions",
   "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterMargin": 1,
   "chapterHits": [
    "function",
    "greatest integer"
@@ -737,14 +739,13 @@
     "h": 217
    }
   ],
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 12,
+  "chapterMargin": 7,
   "chapterHits": [
-   "tan",
-   "angle"
+   "tan-1"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 12,
@@ -807,10 +808,11 @@
    }
   ],
   "chapter": "Conic Sections",
-  "chapterScore": 12,
-  "chapterMargin": 12,
+  "chapterScore": 14,
+  "chapterMargin": 14,
   "chapterHits": [
    "directrix",
+   "parabola",
    "parabola"
   ],
   "chapterConfidence": "high"
@@ -1285,9 +1287,10 @@
    }
   ],
   "chapter": "Mathematical Reasoning",
-  "chapterScore": 4,
+  "chapterScore": 5,
   "chapterMargin": 3,
   "chapterHits": [
+   "if and only if",
    "if and only if"
   ],
   "chapterConfidence": "medium"
@@ -2365,10 +2368,11 @@
    }
   ],
   "chapter": "Application of Derivatives",
-  "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterScore": 9,
+  "chapterMargin": 7,
   "chapterHits": [
    "increasing function",
+   "strictly increasing",
    "strictly increasing"
   ],
   "chapterConfidence": "high"
@@ -2433,11 +2437,13 @@
     "h": 613
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Application of Derivatives",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "maximum volume"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -3179,7 +3185,7 @@
   ],
   "chapter": "Straight Lines",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "slope"
   ],
@@ -3247,7 +3253,7 @@
   ],
   "chapter": "Vector Algebra",
   "chapterScore": 15,
-  "chapterMargin": 14,
+  "chapterMargin": 10,
   "chapterHits": [
    "position vector",
    "vector"
@@ -3314,11 +3320,14 @@
     "h": 368
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Vector Algebra",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "coterminous edges",
+   "parallelopiped"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 50,
@@ -3729,13 +3738,13 @@
     "h": 46
    }
   ],
-  "chapter": "Three Dimensional Geometry",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "plane"
+   "pair of straight lines"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 56,
@@ -4076,7 +4085,7 @@
   ],
   "chapter": "Probability",
   "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterMargin": 7,
   "chapterHits": [
    "random variable",
    "binomial distribution"

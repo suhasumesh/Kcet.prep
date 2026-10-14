@@ -192,13 +192,14 @@
    }
   ],
   "chapter": "Limits and Derivatives",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 9,
+  "chapterMargin": 5,
   "chapterHits": [
    "left hand limit",
+   "limit of the function",
    "limit"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 4,
@@ -933,10 +934,11 @@
    }
   ],
   "chapter": "Application of Integrals",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "area of the region"
+   "area of the region",
+   "bounded by the curve"
   ],
   "chapterConfidence": "medium"
  },
@@ -1066,14 +1068,13 @@
     "h": 498
    }
   ],
-  "chapter": "Differential Equations",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapter": "Linear Programming",
+  "chapterScore": 4,
+  "chapterMargin": 2,
   "chapterHits": [
-   "differential equation",
-   "order of the differential"
+   "bounded region"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 17,
@@ -1136,13 +1137,14 @@
    }
   ],
   "chapter": "Differential Equations",
-  "chapterScore": 5,
-  "chapterMargin": 1,
+  "chapterScore": 9,
+  "chapterMargin": 5,
   "chapterHits": [
    "general solution of the differential",
+   "general solution",
    "differential equation"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 18,
@@ -1273,12 +1275,13 @@
    }
   ],
   "chapter": "Statistics",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
+   "median",
    "median"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 20,
@@ -1410,13 +1413,15 @@
    }
   ],
   "chapter": "Conic Sections",
-  "chapterScore": 13,
-  "chapterMargin": 12,
+  "chapterScore": 16,
+  "chapterMargin": 15,
   "chapterHits": [
    "parabola",
    "ellipse",
    "hyperbola",
-   "circle"
+   "circle",
+   "parabola",
+   "ellipse"
   ],
   "chapterConfidence": "high"
  },
@@ -2299,12 +2304,15 @@
    }
   ],
   "chapter": "Sets",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "set"
+   "set",
+   "set a",
+   "set b",
+   "n(a)"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 35,
@@ -2505,13 +2513,14 @@
    }
   ],
   "chapter": "Sets",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
    "set",
-   "number of subsets"
+   "number of subsets",
+   "set a"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 38,
@@ -2574,11 +2583,12 @@
    }
   ],
   "chapter": "Conic Sections",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 6,
+  "chapterMargin": 4,
   "chapterHits": [
    "parabola",
-   "circle"
+   "circle",
+   "parabola"
   ],
   "chapterConfidence": "medium"
  },
@@ -2776,11 +2786,13 @@
     "h": 402
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "integer"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 42,
@@ -2909,10 +2921,11 @@
    }
   ],
   "chapter": "Conic Sections",
-  "chapterScore": 20,
-  "chapterMargin": 20,
+  "chapterScore": 23,
+  "chapterMargin": 23,
   "chapterHits": [
    "latus rectum",
+   "parabola",
    "parabola"
   ],
   "chapterConfidence": "high"
@@ -3664,11 +3677,14 @@
     "h": 204
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Relations and Functions",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "binary operation",
+   "binary operation"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 55,

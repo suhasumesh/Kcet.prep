@@ -87,11 +87,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "radical centre",
+   "x2 + y2"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 22,
@@ -132,11 +135,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "common chord",
+   "x2 + y2"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 26,
@@ -225,9 +231,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "ellipse",
    "ellipse"
   ],
   "chapterConfidence": "medium"
@@ -362,12 +369,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
    "complex number",
    "conjugate of the complex",
-   "conjugate"
+   "conjugate",
+   "complex number"
   ],
   "chapterConfidence": "high"
  },
@@ -505,11 +513,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "amplitude of"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 41,
@@ -831,11 +841,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Integrals",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 9,
+  "chapterMargin": 8,
   "chapterHits": [
-   "area bounded by the curve"
+   "area bounded by the curve",
+   "area bounded by",
+   "bounded by the curve"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  }
 ]

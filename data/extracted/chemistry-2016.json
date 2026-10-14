@@ -37,7 +37,12 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 2,
@@ -77,7 +82,19 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 28,
+  "chapterMargin": 27,
+  "chapterHits": [
+   "colligative",
+   "osmotic pressure",
+   "elevation in boiling point",
+   "depression in freezing point",
+   "colligative property",
+   "depression in freezing"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 6,
@@ -117,7 +134,15 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "osmotic pressure",
+   "solution"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 7,
@@ -157,7 +182,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 8,
@@ -197,7 +229,12 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 9,
@@ -237,7 +274,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "rate law"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 10,
@@ -277,7 +321,17 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solid State",
+  "chapterScore": 9,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "schottky",
+   "crystal",
+   "lattice",
+   "defect"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 11,
@@ -317,7 +371,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "rate of reaction"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 12,
@@ -357,7 +418,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Kinetics",
+  "chapterScore": 8,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "rate constant",
+   "activation energy"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 13,
@@ -397,7 +466,16 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Surface Chemistry",
+  "chapterScore": 6,
+  "chapterMargin": 6,
+  "chapterHits": [
+   "physisorption",
+   "adsorbent",
+   "surface"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 14,
@@ -437,7 +515,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "sulphur"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 15,
@@ -477,7 +562,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 13-14)",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "zeolite"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 16,
@@ -517,7 +609,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "iupac name"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 17,
@@ -557,7 +656,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 8,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "chlorobenzene"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 18,
@@ -597,7 +703,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 19,
@@ -637,7 +750,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Equilibrium",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acidic"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 20,
@@ -677,7 +797,16 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 9,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "phenol",
+   "methanol",
+   "phenol"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 21,
@@ -717,7 +846,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 8,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "kolbe's reaction",
+   "kolbe"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 22,
@@ -757,7 +894,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 23,
@@ -797,7 +941,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "ethanol"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 24,
@@ -837,7 +988,12 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 25,
@@ -877,7 +1033,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "p-Block Elements (Group 15-18)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxygen"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 26,
@@ -917,7 +1080,12 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 27,
@@ -957,7 +1125,14 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "concentration"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 28,
@@ -997,7 +1172,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Thermodynamics",
+  "chapterScore": 3,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "entropy"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 31,
@@ -1037,7 +1219,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Isolation of Elements (Metallurgy)",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "bauxite"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 32,
@@ -1077,7 +1266,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Solutions",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "solution"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 33,
@@ -1117,7 +1313,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "electronegativity"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 34,
@@ -1157,7 +1360,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Classification of Elements and Periodicity",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "ionisation enthalpy"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 35,
@@ -1197,7 +1407,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 1,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "shape of"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 36,
@@ -1237,7 +1454,16 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 3,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "complex",
+   "octahedral complex",
+   "en"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 37,
@@ -1277,7 +1503,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "ligand"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 38,
@@ -1317,7 +1550,12 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 39,
@@ -1357,7 +1595,12 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 40,
@@ -1397,7 +1640,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "oxidation"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 41,
@@ -1437,7 +1687,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "spectrochemical series",
+   "ligands"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 42,
@@ -1477,7 +1735,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Haloalkanes and Haloarenes",
+  "chapterScore": 5,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "chloride",
+   "chloro"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 43,
@@ -1517,7 +1783,14 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Redox Reactions",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "reduction"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 44,
@@ -1557,7 +1830,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "fehling"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 45,
@@ -1597,7 +1877,18 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 11,
+  "chapterMargin": 11,
+  "chapterHits": [
+   "glucose",
+   "sucrose",
+   "protein",
+   "glucose",
+   "sucrose"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 46,
@@ -1637,7 +1928,12 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 47,
@@ -1677,7 +1973,15 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Structure of Atom",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "bohr",
+   "electron"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 51,
@@ -1717,7 +2021,17 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "buna",
+   "vulcanisation",
+   "polymer",
+   "rubber"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 52,
@@ -1757,7 +2071,16 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Polymers",
+  "chapterScore": 12,
+  "chapterMargin": 12,
+  "chapterHits": [
+   "nylon",
+   "buna",
+   "terylene"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 53,
@@ -1797,7 +2120,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Biomolecules",
+  "chapterScore": 4,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "dna"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 54,
@@ -1837,7 +2167,14 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemistry in Everyday Life",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "tranquilizer"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 55,
@@ -1877,7 +2214,12 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 56,
@@ -1917,7 +2259,14 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 12,
+  "chapterMargin": 9,
+  "chapterHits": [
+   "molecular orbital"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 57,
@@ -1957,7 +2306,16 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Chemical Bonding and Molecular Structure",
+  "chapterScore": 24,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "hybridisation",
+   "sp3",
+   "sp2"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 58,
@@ -1997,7 +2355,12 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 59,
@@ -2037,7 +2400,12 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Unclassified",
+  "chapterScore": 0,
+  "chapterMargin": 0,
+  "chapterHits": [],
+  "chapterConfidence": "none"
  },
  {
   "number": 60,
@@ -2077,6 +2445,13 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "optionsInImage": true
+  "optionsInImage": true,
+  "chapter": "Organic Chemistry - Basic Principles",
+  "chapterScore": 4,
+  "chapterMargin": 0,
+  "chapterHits": [
+   "electrophile"
+  ],
+  "chapterConfidence": "medium"
  }
 ]

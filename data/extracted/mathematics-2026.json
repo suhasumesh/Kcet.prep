@@ -128,11 +128,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Sets",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "n(a)"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 4,
@@ -265,11 +267,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Sequences and Series",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   " a.p"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 8,
@@ -357,13 +361,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 12,
+  "chapterMargin": 9,
   "chapterHits": [
-   "tan"
+   "tan-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 14,
@@ -779,11 +783,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Sequences and Series",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   " g.p"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 27,
@@ -1282,10 +1288,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Limits and Derivatives",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "lim"
+   "lim",
+   "x→"
   ],
   "chapterConfidence": "low"
  },
@@ -1328,13 +1335,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Relations and Functions",
-  "chapterScore": 3,
+  "chapter": "Limits and Derivatives",
+  "chapterScore": 4,
   "chapterMargin": 1,
   "chapterHits": [
-   "f(x)"
+   "lim",
+   "x→"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 46,
@@ -1704,10 +1712,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Integrals",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "area of the region"
+   "area of the region",
+   "bounded by the curve"
   ],
   "chapterConfidence": "medium"
  },
@@ -1751,12 +1760,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Integrals",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
-   "area enclosed"
+   "area enclosed",
+   "area enclosed by"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 59,

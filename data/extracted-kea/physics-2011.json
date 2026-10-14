@@ -38,11 +38,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "displacement"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 2,
@@ -130,11 +132,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 2,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "kinetic energy"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 7,
@@ -175,11 +179,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Gravitation",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "satellite"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 8,
@@ -222,7 +228,7 @@
   "optionsInImage": true,
   "chapter": "Laws of Motion",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "tension"
   ],
@@ -357,11 +363,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 16,
@@ -402,11 +410,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Oscillations",
+  "chapterScore": 5,
+  "chapterMargin": 5,
+  "chapterHits": [
+   "simple harmonic motion",
+   "amplitude",
+   "mean position"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 17,
@@ -447,11 +459,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "displacement"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 21,
@@ -492,11 +506,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "critical angle"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 22,
@@ -629,11 +645,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Oscillations",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "phase difference"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 28,
@@ -675,10 +693,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Wave Optics",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
-   "coherent source"
+   "coherent source",
+   "coherent",
+   "slits"
   ],
   "chapterConfidence": "medium"
  },
@@ -721,11 +741,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "dielectric constant",
+   "dielectric"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 32,
@@ -768,7 +791,7 @@
   "optionsInImage": true,
   "chapter": "Motion in a Plane",
   "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterMargin": 0,
   "chapterHits": [
    "angle"
   ],
@@ -814,12 +837,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "colour code",
    "resistance"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 37,

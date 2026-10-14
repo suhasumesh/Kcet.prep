@@ -85,7 +85,7 @@
   "optionsInImage": true,
   "chapter": "Nuclei",
   "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterMargin": 1,
   "chapterHits": [
    "nucleus",
    "radioactive"
@@ -224,13 +224,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Thermal Properties of Matter",
-  "chapterScore": 2,
-  "chapterMargin": 0,
+  "chapter": "Current Electricity",
+  "chapterScore": 6,
+  "chapterMargin": 4,
   "chapterHits": [
-   "temperature"
+   "temperature co-efficient",
+   "resistance"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 16,
@@ -318,11 +319,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "spectral series",
+   "hydrogen atom"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 18,
@@ -459,11 +463,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Gravitation",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "orbit"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 22,
@@ -740,13 +746,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 7,
+  "chapterMargin": 7,
   "chapterHits": [
+   "shunt resistance",
    "current",
    "resistance"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 32,
@@ -882,11 +889,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Wave Optics",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "rayleigh"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 35,
@@ -929,7 +938,7 @@
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "charge"
   ],
@@ -1021,11 +1030,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "continuous emission spectrum",
+   "emission spectrum"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 38,
@@ -1113,11 +1125,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "angle of deviation",
+   "ray of light"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 40,
@@ -1160,7 +1175,7 @@
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "electric field"
   ],
@@ -1206,12 +1221,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Wave Optics",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 10,
+  "chapterMargin": 10,
   "chapterHits": [
    "young's double slit",
    "interference",
-   "slit"
+   "slit",
+   "slits"
   ],
   "chapterConfidence": "high"
  },
@@ -1397,11 +1413,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 8,
+  "chapterMargin": 8,
+  "chapterHits": [
+   "ruby laser",
+   "laser"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 47,
@@ -1444,7 +1463,7 @@
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
   "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterMargin": 8,
   "chapterHits": [
    "focal length",
    "convex"
@@ -1584,11 +1603,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "common emitter"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 52,
@@ -1629,13 +1650,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Plane",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "angle"
+   "angle of refraction",
+   "refraction"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 53,

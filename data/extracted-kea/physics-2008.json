@@ -38,11 +38,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "critical angle"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 2,
@@ -83,11 +85,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "refractive index"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 6,
@@ -176,12 +180,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Wave Optics",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
-   "slit"
+   "slit",
+   "fringes",
+   "slits"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 11,
@@ -314,11 +320,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Electric Charges and Fields",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "electrostatic force",
+   "electrostatic"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 16,
@@ -359,11 +368,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "condenser"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 17,
@@ -404,13 +415,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "energy"
+   "energy stored in the condenser",
+   "condenser"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 18,
@@ -499,11 +511,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 6,
+  "chapterMargin": 5,
   "chapterHits": [
    "current carrying conductor",
-   "magnetic field"
+   "magnetic field",
+   "current carrying"
   ],
   "chapterConfidence": "medium"
  },
@@ -594,13 +607,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
    "current",
-   "galvanometer"
+   "galvanometer",
+   "ohm",
+   "ω"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 27,
@@ -689,10 +704,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Alternating Current",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "transformer"
+   "transformer",
+   "primary"
   ],
   "chapterConfidence": "medium"
  },
@@ -735,11 +751,11 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Alternating Current",
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "power"
+   "secondary"
   ],
   "chapterConfidence": "low"
  },
@@ -829,11 +845,16 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 24,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "line absorption spectrum",
+   "continuous emission spectrum",
+   "emission spectrum",
+   "absorption spectrum"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -923,9 +944,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Dual Nature of Radiation and Matter",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
+   "work function",
    "work function"
   ],
   "chapterConfidence": "medium"
@@ -969,11 +991,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Waves",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "wavelength"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 36,
@@ -1111,7 +1135,7 @@
   "optionsInImage": true,
   "chapter": "Wave Optics",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 2,
   "chapterHits": [
    "interference"
   ],
@@ -1203,11 +1227,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Nuclei",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "baryon"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 43,
@@ -1294,10 +1320,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 2,
   "chapterHits": [
-   "p-n junction"
+   "p-n junction",
+   "junction"
   ],
   "chapterConfidence": "medium"
  },
@@ -1340,11 +1367,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Current Electricity",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "circuit"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 46,
@@ -1530,7 +1559,7 @@
   "optionsInImage": true,
   "chapter": "Thermodynamics",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 2,
   "chapterHits": [
    "molar specific heat"
   ],
@@ -1577,7 +1606,7 @@
   "optionsInImage": true,
   "chapter": "Kinetic Theory",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "ideal gas"
   ],
@@ -1674,11 +1703,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Thermal Properties of Matter",
-  "chapterScore": 5,
+  "chapterScore": 6,
   "chapterMargin": 5,
   "chapterHits": [
    "thermal conductivity",
-   "temperature"
+   "temperature",
+   "conductivity"
   ],
   "chapterConfidence": "medium"
  },
@@ -1723,7 +1753,7 @@
   "optionsInImage": true,
   "chapter": "Oscillations",
   "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterMargin": 3,
   "chapterHits": [
    "phase difference"
   ],
@@ -1769,13 +1799,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 9,
+  "chapterMargin": 7,
   "chapterHits": [
+   "apparent frequency",
    "frequency",
    "sound"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 58,

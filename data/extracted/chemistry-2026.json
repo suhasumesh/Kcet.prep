@@ -272,12 +272,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Haloalkanes and Haloarenes",
-  "chapterScore": 6,
+  "chapterScore": 7,
   "chapterMargin": 2,
   "chapterHits": [
    "alkyl halide",
    "halide",
-   "chloride"
+   "chloride",
+   "alkyl halide"
   ],
   "chapterConfidence": "medium"
  },
@@ -461,11 +462,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Alcohols, Phenols and Ethers",
+  "chapterScore": 4,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "primary alcohol",
+   "secondary alcohol",
+   "tertiary alcohol"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 11,
@@ -552,10 +557,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "chapterScore": 4,
+  "chapterScore": 5,
   "chapterMargin": 4,
   "chapterHits": [
-   "benzaldehyde"
+   "benzaldehyde",
+   "carboxylic"
   ],
   "chapterConfidence": "medium"
  },
@@ -598,12 +604,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Equilibrium",
+  "chapter": "Chemical Bonding and Molecular Structure",
   "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterMargin": 0,
   "chapterHits": [
-   "conjugate base",
-   "base"
+   "hydrogen bonding",
+   "bonding"
   ],
   "chapterConfidence": "medium"
  },
@@ -648,7 +654,7 @@
   "optionsInImage": true,
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
   "chapterScore": 5,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "acetophenone",
    "acetone"
@@ -695,11 +701,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Amines",
-  "chapterScore": 5,
+  "chapterScore": 6,
   "chapterMargin": 1,
   "chapterHits": [
    "aniline",
-   "amino"
+   "amino",
+   "aniline"
   ],
   "chapterConfidence": "medium"
  },
@@ -929,12 +936,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Chemical Bonding and Molecular Structure",
-  "chapterScore": 13,
-  "chapterMargin": 12,
+  "chapterScore": 17,
+  "chapterMargin": 16,
   "chapterHits": [
    "dipole moment",
    "bond angle",
    "bond length",
+   "hydrogen bonding",
    "bonding"
   ],
   "chapterConfidence": "high"
@@ -979,12 +987,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Chemical Bonding and Molecular Structure",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 8,
+  "chapterMargin": 6,
   "chapterHits": [
-   "resonance structure"
+   "resonance structure",
+   "formal charge"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 27,
@@ -1492,11 +1501,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Thermodynamics",
+  "chapterScore": 7,
+  "chapterMargin": 7,
+  "chapterHits": [
+   "internal energy change",
+   "state function",
+   "adiabatic"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 45,
@@ -1774,11 +1787,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Solutions",
-  "chapterScore": 8,
-  "chapterMargin": 4,
+  "chapterScore": 12,
+  "chapterMargin": 8,
   "chapterHits": [
    "raoult",
-   "henry's law"
+   "henry's law",
+   "raoult's law"
   ],
   "chapterConfidence": "high"
  },
@@ -1870,11 +1884,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 3,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "molar mass",
+   "molar mass"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 53,

@@ -38,11 +38,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 13,
+  "chapterMargin": 13,
+  "chapterHits": [
+   "mod m",
+   "integer"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 2,
@@ -224,9 +227,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 1,
   "chapterHits": [
+   "complex number",
    "complex number"
   ],
   "chapterConfidence": "medium"
@@ -595,11 +599,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Limits and Derivatives",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "x→"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 22,
@@ -917,11 +923,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "group g"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 37,
@@ -962,14 +970,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 8,
+  "chapterMargin": 6,
   "chapterHits": [
-   "sin",
-   "tan"
+   "sin-1",
+   "tan-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 41,
@@ -1058,9 +1066,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "parabola",
    "parabola"
   ],
   "chapterConfidence": "medium"
@@ -1153,12 +1162,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Application of Derivatives",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "tangent to the curve",
    "tangent to the curve"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 47,
@@ -1199,11 +1209,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Sequences and Series",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   " a.p",
+   " g.p",
+   " h.p"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 49,
@@ -1337,12 +1351,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Continuity and Differentiability",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
-   "continuous at x"
+   "continuous at x",
+   "continuous at"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 53,

@@ -197,15 +197,15 @@
     "h": 420
    }
   ],
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 8,
-  "chapterMargin": 5,
+  "chapter": "System of Particles and Rotational Motion",
+  "chapterScore": 9,
+  "chapterMargin": 1,
   "chapterHits": [
-   "uniformly accelerated",
-   "velocity",
-   "rest"
+   "angular velocity",
+   "wheel",
+   "angular"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 4,
@@ -267,11 +267,18 @@
     "h": 304
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 21,
+  "chapterMargin": 21,
+  "chapterHits": [
+   "floats in water",
+   "fraction of the volume",
+   "iceberg",
+   "submerged",
+   "density of",
+   "floats"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 5,
@@ -334,13 +341,14 @@
    }
   ],
   "chapter": "Thermal Properties of Matter",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
    "temperature",
-   "heat"
+   "heat",
+   "cool"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 6,
@@ -472,11 +480,12 @@
    }
   ],
   "chapter": "Thermal Properties of Matter",
-  "chapterScore": 7,
-  "chapterMargin": 2,
+  "chapterScore": 8,
+  "chapterMargin": 3,
   "chapterHits": [
    "specific heat capacity",
-   "heat"
+   "heat",
+   "specific heat"
   ],
   "chapterConfidence": "medium"
  },
@@ -540,11 +549,12 @@
     "h": 324
    }
   ],
-  "chapter": "Oscillations",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapter": "Waves",
+  "chapterScore": 5,
+  "chapterMargin": 1,
   "chapterHits": [
-   "shm"
+   "apparent frequency",
+   "frequency"
   ],
   "chapterConfidence": "medium"
  },
@@ -609,10 +619,11 @@
    }
   ],
   "chapter": "Waves",
-  "chapterScore": 9,
-  "chapterMargin": 7,
+  "chapterScore": 13,
+  "chapterMargin": 8,
   "chapterHits": [
    "speed of sound",
+   "apparent frequency",
    "frequency",
    "sound"
   ],
@@ -679,13 +690,15 @@
    }
   ],
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 9,
-  "chapterMargin": 6,
+  "chapterScore": 16,
+  "chapterMargin": 13,
   "chapterHits": [
    "electric flux",
+   "area vector",
    "charge",
    "electric field",
-   "point charge"
+   "point charge",
+   "flux through"
   ],
   "chapterConfidence": "high"
  },
@@ -821,7 +834,7 @@
   ],
   "chapter": "Electric Charges and Fields",
   "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterMargin": 2,
   "chapterHits": [
    "charge",
    "electric field"
@@ -889,12 +902,14 @@
    }
   ],
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 18,
-  "chapterMargin": 6,
+  "chapterScore": 29,
+  "chapterMargin": 16,
   "chapterHits": [
    "electric dipole",
    "dipole moment",
-   "electric field"
+   "uniform electric field",
+   "electric field",
+   "dipole"
   ],
   "chapterConfidence": "high"
  },
@@ -1028,9 +1043,10 @@
    }
   ],
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 6,
-  "chapterMargin": 2,
+  "chapterScore": 10,
+  "chapterMargin": 1,
   "chapterHits": [
+   "uniform electric field",
    "electric field",
    "field lines"
   ],
@@ -1096,14 +1112,14 @@
     "h": 260
    }
   ],
-  "chapter": "Electric Charges and Fields",
-  "chapterScore": 5,
-  "chapterMargin": 2,
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 15,
+  "chapterMargin": 10,
   "chapterHits": [
-   "electrostatic force",
-   "electrostatic"
+   "soap bubble",
+   "bubble"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 17,
@@ -1304,10 +1320,11 @@
    }
   ],
   "chapter": "Current Electricity",
-  "chapterScore": 14,
-  "chapterMargin": 14,
+  "chapterScore": 22,
+  "chapterMargin": 22,
   "chapterHits": [
    "internal resistance",
+   "terminal voltage",
    "current",
    "resistance",
    "battery"
@@ -1375,11 +1392,12 @@
    }
   ],
   "chapter": "Current Electricity",
-  "chapterScore": 22,
-  "chapterMargin": 22,
+  "chapterScore": 32,
+  "chapterMargin": 28,
   "chapterHits": [
    "potentiometer",
    "internal resistance",
+   "balancing length",
    "resistance",
    "battery",
    "cell"
@@ -1447,13 +1465,14 @@
    }
   ],
   "chapter": "Current Electricity",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 17,
+  "chapterMargin": 17,
   "chapterHits": [
+   "colour code",
    "resistance",
    "resistor"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 22,
@@ -1516,10 +1535,12 @@
    }
   ],
   "chapter": "Current Electricity",
-  "chapterScore": 9,
-  "chapterMargin": 9,
+  "chapterScore": 21,
+  "chapterMargin": 21,
   "chapterHits": [
    "kirchhoff",
+   "equivalent resistance between",
+   "current through the",
    "current",
    "resistance",
    "cell"
@@ -1586,13 +1607,13 @@
     "h": 10
    }
   ],
-  "chapter": "Thermal Properties of Matter",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "temperature"
+   "wire of length"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 24,
@@ -1655,11 +1676,12 @@
    }
   ],
   "chapter": "Current Electricity",
-  "chapterScore": 5,
+  "chapterScore": 6,
   "chapterMargin": 2,
   "chapterHits": [
    "ohm's law",
-   "resistance"
+   "resistance",
+   "ohm"
   ],
   "chapterConfidence": "medium"
  },
@@ -1792,12 +1814,13 @@
    }
   ],
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 3,
-  "chapterMargin": 1,
+  "chapterScore": 4,
+  "chapterMargin": 2,
   "chapterHits": [
-   "magnetic field"
+   "magnetic field",
+   "current carrying"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 27,
@@ -1859,12 +1882,13 @@
     "h": 633
    }
   ],
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 5,
-  "chapterMargin": 0,
+  "chapter": "Moving Charges and Magnetism",
+  "chapterScore": 6,
+  "chapterMargin": 1,
   "chapterHits": [
-   "kinetic energy",
-   "energy"
+   "cyclotron",
+   "charged particle",
+   "cyclotron"
   ],
   "chapterConfidence": "medium"
  },
@@ -1929,11 +1953,12 @@
    }
   ],
   "chapter": "Magnetism and Matter",
-  "chapterScore": 12,
-  "chapterMargin": 8,
+  "chapterScore": 16,
+  "chapterMargin": 12,
   "chapterHits": [
    "paramagnetic",
-   "curie"
+   "curie",
+   "curie's law"
   ],
   "chapterConfidence": "high"
  },
@@ -1998,12 +2023,13 @@
    }
   ],
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 12,
-  "chapterMargin": 7,
+  "chapterScore": 14,
+  "chapterMargin": 9,
   "chapterHits": [
    "magnetic field at the centre",
    "magnetic field",
-   "circular coil"
+   "circular coil",
+   "current carrying"
   ],
   "chapterConfidence": "high"
  },
@@ -2138,13 +2164,14 @@
    }
   ],
   "chapter": "Current Electricity",
-  "chapterScore": 3,
-  "chapterMargin": 1,
+  "chapterScore": 7,
+  "chapterMargin": 5,
   "chapterHits": [
+   "current through the",
    "current",
    "resistance"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 32,
@@ -2207,13 +2234,14 @@
    }
   ],
   "chapter": "Electromagnetic Induction",
-  "chapterScore": 13,
-  "chapterMargin": 12,
+  "chapterScore": 15,
+  "chapterMargin": 14,
   "chapterHits": [
    "induced emf",
    "induced",
    "inductance",
-   "coil"
+   "coil",
+   "induced emf"
   ],
   "chapterConfidence": "high"
  },
@@ -2346,11 +2374,12 @@
    }
   ],
   "chapter": "Alternating Current",
-  "chapterScore": 22,
-  "chapterMargin": 19,
+  "chapterScore": 30,
+  "chapterMargin": 27,
   "chapterHits": [
    "power factor",
    "reactance",
+   "inductive reactance",
    "inductive"
   ],
   "chapterConfidence": "high"
@@ -2557,14 +2586,15 @@
    }
   ],
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 8,
-  "chapterMargin": 2,
+  "chapterScore": 11,
+  "chapterMargin": 5,
   "chapterHits": [
    "focal length",
    "lens",
-   "magnification"
+   "magnification",
+   "image"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 38,
@@ -2627,11 +2657,12 @@
    }
   ],
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 32,
-  "chapterMargin": 29,
+  "chapterScore": 35,
+  "chapterMargin": 32,
   "chapterHits": [
    "refractive index",
    "angle of minimum deviation",
+   "prism",
    "prism"
   ],
   "chapterConfidence": "high"
@@ -2904,14 +2935,15 @@
    }
   ],
   "chapter": "Wave Optics",
-  "chapterScore": 7,
-  "chapterMargin": 7,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "young's double slit",
    "slit",
-   "fringe"
+   "fringe",
+   "slits"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 43,
@@ -2973,12 +3005,12 @@
     "h": 564
    }
   ],
-  "chapter": "Atoms",
+  "chapter": "System of Particles and Rotational Motion",
   "chapterScore": 5,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
-   "ground state",
-   "hydrogen atom"
+   "angular momentum",
+   "angular"
   ],
   "chapterConfidence": "medium"
  },
@@ -3048,11 +3080,13 @@
    }
   ],
   "chapter": "Dual Nature of Radiation and Matter",
-  "chapterScore": 8,
-  "chapterMargin": 7,
+  "chapterScore": 13,
+  "chapterMargin": 12,
   "chapterHits": [
    "work function",
-   "stopping potential"
+   "stopping potential",
+   "saturation current",
+   "work function"
   ],
   "chapterConfidence": "high"
  },
@@ -3116,11 +3150,16 @@
     "h": 246
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 19,
+  "chapterMargin": 17,
+  "chapterHits": [
+   "period of revolution of an electron",
+   "nth orbit",
+   "h-atom",
+   "orbit of h"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 46,
@@ -3183,10 +3222,11 @@
    }
   ],
   "chapter": "System of Particles and Rotational Motion",
-  "chapterScore": 12,
-  "chapterMargin": 7,
+  "chapterScore": 15,
+  "chapterMargin": 8,
   "chapterHits": [
-   "angular momentum"
+   "angular momentum",
+   "angular"
   ],
   "chapterConfidence": "high"
  },
@@ -3387,12 +3427,13 @@
    }
   ],
   "chapter": "Nuclei",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 6,
+  "chapterMargin": 4,
   "chapterHits": [
-   "nucleus"
+   "nucleus",
+   "decay"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 50,
@@ -3459,11 +3500,17 @@
     "h": 153
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Nuclei",
+  "chapterScore": 19,
+  "chapterMargin": 19,
+  "chapterHits": [
+   "half-life",
+   "fraction that will decay",
+   "radio-active",
+   "nuclei",
+   "decay"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 51,
@@ -3526,11 +3573,12 @@
    }
   ],
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 5,
-  "chapterMargin": 1,
+  "chapterScore": 6,
+  "chapterMargin": 2,
   "chapterHits": [
    "p-n junction",
-   "diode"
+   "diode",
+   "junction"
   ],
   "chapterConfidence": "medium"
  },
@@ -3596,7 +3644,7 @@
   ],
   "chapter": "Semiconductor Electronics",
   "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterMargin": 6,
   "chapterHits": [
    "truth table"
   ],
@@ -3663,11 +3711,12 @@
    }
   ],
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 11,
-  "chapterMargin": 8,
+  "chapterScore": 15,
+  "chapterMargin": 10,
   "chapterHits": [
    "valence band",
    "conduction band",
+   "energy gap",
    "semiconductor",
    "hole"
   ],
@@ -3734,12 +3783,13 @@
    }
   ],
   "chapter": "Motion in a Straight Line",
-  "chapterScore": 3,
-  "chapterMargin": 0,
+  "chapterScore": 6,
+  "chapterMargin": 3,
   "chapterHits": [
-   "speed"
+   "speed",
+   "escalator"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 55,
@@ -3803,7 +3853,7 @@
   ],
   "chapter": "Units and Measurements",
   "chapterScore": 12,
-  "chapterMargin": 12,
+  "chapterMargin": 11,
   "chapterHits": [
    "percentage error",
    "error",
@@ -3871,11 +3921,13 @@
     "h": 168
    }
   ],
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 3,
+  "chapterMargin": 3,
+  "chapterHits": [
+   "escalator"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 57,
@@ -4006,12 +4058,13 @@
    }
   ],
   "chapter": "System of Particles and Rotational Motion",
-  "chapterScore": 12,
+  "chapterScore": 16,
   "chapterMargin": 7,
   "chapterHits": [
    "moment of inertia",
    "radius of gyration",
-   "perpendicular axis theorem"
+   "perpendicular axis theorem",
+   "about an axis"
   ],
   "chapterConfidence": "high"
  },

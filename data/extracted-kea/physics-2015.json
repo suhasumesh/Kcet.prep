@@ -40,11 +40,11 @@
   "optionsInImage": true,
   "chapter": "Units and Measurements",
   "chapterScore": 8,
-  "chapterMargin": 4,
+  "chapterMargin": 3,
   "chapterHits": [
    "dimensions of"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 4,
@@ -271,12 +271,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "System of Particles and Rotational Motion",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "moment of inertia"
+   "moment of inertia",
+   "about its diameter"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 9,
@@ -318,13 +319,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Mechanical Properties of Solids",
-  "chapterScore": 10,
-  "chapterMargin": 10,
+  "chapterScore": 15,
+  "chapterMargin": 15,
   "chapterHits": [
    "young's modulus",
    "bulk modulus",
+   "compressibility",
    "stress",
-   "strain"
+   "strain",
+   "rigidity"
   ],
   "chapterConfidence": "high"
  },
@@ -367,11 +370,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Thermal Properties of Matter",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "temperature"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 11,
@@ -554,12 +559,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 6,
+  "chapterMargin": 6,
   "chapterHits": [
-   "frequency"
+   "frequency",
+   "beat",
+   "fork"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 15,
@@ -744,11 +751,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 6,
+  "chapterMargin": 5,
   "chapterHits": [
    "dipole moment",
-   "electric field"
+   "electric field",
+   "dipole"
   ],
   "chapterConfidence": "medium"
  },
@@ -791,11 +799,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Electrostatic Potential and Capacitance",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "potential at"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 21,
@@ -936,7 +946,7 @@
   "optionsInImage": true,
   "chapter": "Electrostatic Potential and Capacitance",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "potential difference"
   ],
@@ -1029,10 +1039,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 3,
+  "chapterMargin": 3,
   "chapterHits": [
-   "resistance"
+   "resistance",
+   "network",
+   "ω"
   ],
   "chapterConfidence": "low"
  },
@@ -1075,13 +1087,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Thermal Properties of Matter",
-  "chapterScore": 3,
-  "chapterMargin": 0,
+  "chapter": "Current Electricity",
+  "chapterScore": 7,
+  "chapterMargin": 4,
   "chapterHits": [
-   "temperature"
+   "temperature co-efficient",
+   "resistance"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 30,
@@ -1123,9 +1136,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "cyclotron",
    "cyclotron"
   ],
   "chapterConfidence": "medium"
@@ -1170,14 +1184,16 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 12,
+  "chapterMargin": 12,
   "chapterHits": [
+   "full scale deflection",
    "current",
    "resistance",
-   "galvanometer"
+   "galvanometer",
+   "ω"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -1266,11 +1282,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Magnetism and Matter",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 13,
+  "chapterMargin": 13,
   "chapterHits": [
    "magnetic susceptibility",
-   "paramagnetic"
+   "paramagnetic",
+   "susceptibility of a paramagnetic",
+   "susceptibility"
   ],
   "chapterConfidence": "high"
  },
@@ -1412,9 +1430,9 @@
   "optionsInImage": true,
   "chapter": "Alternating Current",
   "chapterScore": 8,
-  "chapterMargin": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "lcr circuit",
+   "lcr",
    "impedance"
   ],
   "chapterConfidence": "high"
@@ -1504,12 +1522,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "refractive index"
+   "refractive index",
+   "refractive index of the medium"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 45,
@@ -1597,13 +1616,15 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Plane",
-  "chapterScore": 3,
-  "chapterMargin": 2,
+  "chapter": "Ray Optics and Optical Instruments",
+  "chapterScore": 6,
+  "chapterMargin": 3,
   "chapterHits": [
-   "angle"
+   "angle of refraction",
+   "refraction",
+   "ray of light"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 47,
@@ -1737,11 +1758,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Nuclei",
+  "chapterScore": 2,
+  "chapterMargin": 1,
   "chapterHits": [
-   "energy"
+   "nucleus",
+   "mev"
   ],
   "chapterConfidence": "low"
  },
@@ -1786,7 +1808,7 @@
   "optionsInImage": true,
   "chapter": "Atoms",
   "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterMargin": 3,
   "chapterHits": [
    "rydberg",
    "hydrogen atom"
@@ -1929,13 +1951,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterScore": 11,
+  "chapterMargin": 11,
   "chapterHits": [
    "half life",
-   "radioactive"
+   "half life of",
+   "radioactive",
+   "decay"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 54,
@@ -1977,13 +2001,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 10,
-  "chapterMargin": 10,
+  "chapterScore": 11,
+  "chapterMargin": 11,
   "chapterHits": [
    "radioactive decay",
    "isotope",
    "nucleus",
-   "radioactive"
+   "radioactive",
+   "decay"
   ],
   "chapterConfidence": "high"
  },
@@ -2026,13 +2051,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Semiconductor Electronics",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "energy"
+   "energy gap"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 56,
@@ -2073,13 +2098,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Oscillations",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Communication Systems",
+  "chapterScore": 7,
+  "chapterMargin": 6,
   "chapterHits": [
-   "amplitude"
+   "amplitude modulation",
+   "carrier"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 58,

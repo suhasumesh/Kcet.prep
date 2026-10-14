@@ -223,12 +223,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Mathematical Reasoning",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "contrapositive"
+   "contrapositive",
+   "converse"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 11,
@@ -361,11 +362,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Straight Lines",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "intercept"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 23,
@@ -452,10 +455,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 3,
+  "chapterMargin": 3,
   "chapterHits": [
-   "circle"
+   "circle",
+   "x² + y²"
   ],
   "chapterConfidence": "low"
  },
@@ -498,11 +502,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "orthogonally"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 27,
@@ -687,10 +693,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "eccentricity",
+   "hyperbola",
    "hyperbola"
   ],
   "chapterConfidence": "high"
@@ -782,11 +789,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "circum-radius"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 41,
@@ -875,12 +884,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Inverse Trigonometric Functions",
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "tan"
+   "tan-1"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  }
 ]

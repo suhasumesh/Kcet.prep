@@ -39,14 +39,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 7,
-  "chapterMargin": 6,
+  "chapterScore": 11,
+  "chapterMargin": 7,
   "chapterHits": [
    "refractive index",
+   "radius of curvature",
    "lens",
    "convex"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 2,
@@ -87,11 +88,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "System of Particles and Rotational Motion",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapter": "Motion in a Straight Line",
+  "chapterScore": 5,
+  "chapterMargin": 0,
   "chapterHits": [
-   "angular momentum"
+   "stone is dropped",
+   "velocity"
   ],
   "chapterConfidence": "medium"
  },
@@ -322,12 +324,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Units and Measurements",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
+   "si unit",
    "unit"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 11,
@@ -465,11 +468,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Wave Optics",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 7,
+  "chapterMargin": 6,
   "chapterHits": [
    "diffraction",
-   "fringe"
+   "fringe",
+   "fringes",
+   "diffraction pattern"
   ],
   "chapterConfidence": "medium"
  },
@@ -744,12 +749,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
-   "mass number"
+   "mass number",
+   "packing fraction"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 20,
@@ -791,12 +797,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "half-life",
    "radioactive"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 21,
@@ -1177,10 +1184,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Mechanical Properties of Solids",
-  "chapterScore": 4,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
-   "modulus of rigidity"
+   "modulus of rigidity",
+   "rigidity"
   ],
   "chapterConfidence": "medium"
  },
@@ -1224,14 +1232,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Wave Optics",
-  "chapterScore": 6,
-  "chapterMargin": 6,
+  "chapterScore": 8,
+  "chapterMargin": 8,
   "chapterHits": [
    "young's double slit",
    "slit",
-   "monochromatic"
+   "monochromatic",
+   "fringes"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 31,
@@ -1321,12 +1330,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 2,
-  "chapterMargin": 2,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "resistance"
+   "resistance",
+   "ω"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 33,
@@ -1415,11 +1425,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Moving Charges and Magnetism",
-  "chapterScore": 5,
-  "chapterMargin": 0,
+  "chapterScore": 6,
+  "chapterMargin": 1,
   "chapterHits": [
    "solenoid",
-   "circular coil"
+   "circular coil",
+   "solenoid"
   ],
   "chapterConfidence": "medium"
  },
@@ -1462,13 +1473,16 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapter": "Atoms",
+  "chapterScore": 10,
+  "chapterMargin": 8,
   "chapterHits": [
-   "energy"
+   "first excitation",
+   "excitation energy",
+   "ground state",
+   "hydrogen like"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 36,
@@ -1557,10 +1571,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 4,
+  "chapterScore": 6,
   "chapterMargin": 4,
   "chapterHits": [
-   "transistor"
+   "transistor",
+   "junction"
   ],
   "chapterConfidence": "medium"
  },
@@ -1604,12 +1619,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 9,
+  "chapterScore": 10,
   "chapterMargin": 9,
   "chapterHits": [
    "p-n junction",
    "depletion region",
-   "diode"
+   "diode",
+   "junction"
   ],
   "chapterConfidence": "high"
  },
@@ -1792,12 +1808,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 3,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
-   "resistance"
+   "resistance",
+   "ohm",
+   "ω"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 47,
@@ -1839,14 +1857,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "internal resistance",
    "current",
    "resistance",
    "resistor",
-   "cell"
+   "cell",
+   "circuit"
   ],
   "chapterConfidence": "high"
  },
@@ -1890,14 +1909,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Electromagnetic Induction",
-  "chapterScore": 7,
-  "chapterMargin": 6,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
    "induced emf",
    "induced",
-   "coil"
+   "coil",
+   "induced emf"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 49,
@@ -1940,9 +1960,9 @@
   "optionsInImage": true,
   "chapter": "Alternating Current",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 2,
   "chapterHits": [
-   "lcr circuit"
+   "lcr"
   ],
   "chapterConfidence": "medium"
  },
@@ -1985,13 +2005,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Electromagnetic Induction",
-  "chapterScore": 3,
-  "chapterMargin": 1,
+  "chapter": "Magnetism and Matter",
+  "chapterScore": 8,
+  "chapterMargin": 5,
   "chapterHits": [
-   "coil"
+   "magnetic meridian",
+   "neutral point"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 51,
@@ -2032,11 +2053,16 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Atoms",
+  "chapterScore": 24,
+  "chapterMargin": 24,
+  "chapterHits": [
+   "line absorption spectrum",
+   "continuous emission spectrum",
+   "emission spectrum",
+   "absorption spectrum"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 52,
@@ -2122,13 +2148,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapter": "Nuclei",
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
-   "power"
+   "nuclear reactor",
+   "nuclear"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 54,
@@ -2264,10 +2291,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterScore": 16,
+  "chapterMargin": 14,
   "chapterHits": [
    "harmonics",
+   "loudness",
+   "pitch",
    "frequency",
    "sound"
   ],

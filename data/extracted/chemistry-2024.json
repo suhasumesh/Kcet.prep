@@ -61,7 +61,7 @@
   ],
   "chapter": "Polymers",
   "chapterScore": 14,
-  "chapterMargin": 10,
+  "chapterMargin": 9,
   "chapterHits": [
    "teflon",
    "terylene",
@@ -411,9 +411,10 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 8,
-  "chapterMargin": 7,
+  "chapterScore": 10,
+  "chapterMargin": 9,
   "chapterHits": [
+   "glucose",
    "glucose"
   ],
   "chapterConfidence": "high"
@@ -749,9 +750,10 @@
    }
   ],
   "chapter": "Amines",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "aniline",
    "aniline"
   ],
   "chapterConfidence": "medium"
@@ -1232,12 +1234,13 @@
    }
   ],
   "chapter": "Coordination Compounds",
-  "chapterScore": 8,
-  "chapterMargin": 8,
+  "chapterScore": 9,
+  "chapterMargin": 9,
   "chapterHits": [
    "ligand",
    "complex",
-   "coordination"
+   "coordination",
+   "ligands"
   ],
   "chapterConfidence": "high"
  },
@@ -1301,12 +1304,14 @@
     "h": 196
    }
   ],
-  "chapter": "Redox Reactions",
-  "chapterScore": 10,
+  "chapter": "Coordination Compounds",
+  "chapterScore": 14,
   "chapterMargin": 4,
   "chapterHits": [
-   "oxidation state",
-   "oxidation"
+   "coordination number",
+   "complex",
+   "coordination",
+   "high spin"
   ],
   "chapterConfidence": "high"
  },
@@ -1372,7 +1377,7 @@
   ],
   "chapter": "Haloalkanes and Haloarenes",
   "chapterScore": 32,
-  "chapterMargin": 28,
+  "chapterMargin": 27,
   "chapterHits": [
    "sn1",
    "sn2",
@@ -1442,11 +1447,11 @@
   ],
   "chapter": "Hydrocarbons",
   "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterMargin": 0,
   "chapterHits": [
    "wurtz"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 22,
@@ -1509,13 +1514,14 @@
    }
   ],
   "chapter": "Equilibrium",
-  "chapterScore": 6,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 5,
   "chapterHits": [
    "common ion effect",
-   "dissociation"
+   "dissociation",
+   "basic"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 23,
@@ -2258,10 +2264,11 @@
    }
   ],
   "chapter": "Solid State",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "crystal"
+   "crystal",
+   "cubic"
   ],
   "chapterConfidence": "low"
  },
@@ -2326,9 +2333,10 @@
    }
   ],
   "chapter": "Biomolecules",
-  "chapterScore": 4,
-  "chapterMargin": 1,
+  "chapterScore": 5,
+  "chapterMargin": 2,
   "chapterHits": [
+   "glucose",
    "glucose"
   ],
   "chapterConfidence": "medium"
@@ -2394,15 +2402,16 @@
    }
   ],
   "chapter": "Chemical Bonding and Molecular Structure",
-  "chapterScore": 13,
-  "chapterMargin": 5,
+  "chapterScore": 17,
+  "chapterMargin": 1,
   "chapterHits": [
    "hydrogen bond",
+   "hydrogen bonding",
    "covalent",
    "polar",
    "bonding"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 36,
@@ -2465,10 +2474,11 @@
    }
   ],
   "chapter": "Solutions",
-  "chapterScore": 13,
-  "chapterMargin": 5,
+  "chapterScore": 25,
+  "chapterMargin": 17,
   "chapterHits": [
    "raoult",
+   "raoult's law",
    "vapour pressure"
   ],
   "chapterConfidence": "high"
@@ -2601,13 +2611,14 @@
     "h": 45
    }
   ],
-  "chapter": "s-Block Elements",
-  "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapter": "Some Basic Concepts of Chemistry",
+  "chapterScore": 5,
+  "chapterMargin": 3,
   "chapterHits": [
-   "calcium"
+   "molar mass",
+   "molar mass"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 39,
@@ -3302,11 +3313,11 @@
   ],
   "chapter": "Environmental Chemistry",
   "chapterScore": 8,
-  "chapterMargin": 6,
+  "chapterMargin": 3,
   "chapterHits": [
    "acid rain"
   ],
-  "chapterConfidence": "high"
+  "chapterConfidence": "medium"
  },
  {
   "number": 49,

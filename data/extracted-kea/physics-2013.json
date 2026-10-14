@@ -38,11 +38,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Laws of Motion",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "lift"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 3,
@@ -179,11 +181,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Thermal Properties of Matter",
-  "chapterScore": 13,
-  "chapterMargin": 13,
+  "chapterScore": 16,
+  "chapterMargin": 11,
   "chapterHits": [
    "thermal conductivity",
-   "heat"
+   "heat",
+   "conductivity"
   ],
   "chapterConfidence": "high"
  },
@@ -273,11 +276,14 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Mechanical Properties of Fluids",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "immersed",
+   "floats"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 12,
@@ -366,13 +372,17 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 31,
+  "chapterMargin": 31,
   "chapterHits": [
+   "closed pipe",
+   "open pipe",
+   "first overtone",
+   "second overtone",
    "frequency",
    "overtone"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 14,
@@ -414,14 +424,17 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Waves",
-  "chapterScore": 6,
-  "chapterMargin": 4,
+  "chapterScore": 15,
+  "chapterMargin": 13,
   "chapterHits": [
    "beats",
+   "tuning fork",
+   "velocity of sound in air",
    "frequency",
-   "sound"
+   "sound",
+   "fork"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 15,
@@ -463,10 +476,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 8,
-  "chapterMargin": 7,
+  "chapterScore": 20,
+  "chapterMargin": 19,
   "chapterHits": [
-   "refractive index"
+   "refractive index",
+   "normal shift",
+   "angle of incidence"
   ],
   "chapterConfidence": "high"
  },
@@ -510,13 +525,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 5,
-  "chapterMargin": 3,
+  "chapterScore": 13,
+  "chapterMargin": 11,
   "chapterHits": [
    "total internal reflection",
+   "angle of incidence",
    "reflection"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 19,
@@ -797,7 +813,7 @@
   "optionsInImage": true,
   "chapter": "Alternating Current",
   "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterMargin": 2,
   "chapterHits": [
    "transformer"
   ],
@@ -844,7 +860,7 @@
   "optionsInImage": true,
   "chapter": "Electromagnetic Induction",
   "chapterScore": 2,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "coil"
   ],
@@ -985,12 +1001,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Electric Charges and Fields",
-  "chapterScore": 1,
-  "chapterMargin": 0,
+  "chapterScore": 4,
+  "chapterMargin": 3,
   "chapterHits": [
-   "electric field"
+   "electric field",
+   "nc"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 39,
@@ -1032,10 +1049,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Current Electricity",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 2,
+  "chapterMargin": 2,
   "chapterHits": [
-   "resistance"
+   "resistance",
+   "circuit"
   ],
   "chapterConfidence": "low"
  },
@@ -1080,7 +1098,7 @@
   "optionsInImage": true,
   "chapter": "Thermal Properties of Matter",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
    "heat"
   ],
@@ -1126,13 +1144,14 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Alternating Current",
-  "chapterScore": 5,
-  "chapterMargin": 1,
+  "chapterScore": 9,
+  "chapterMargin": 5,
   "chapterHits": [
    "reactance",
+   "capacitive reactance",
    "capacitive"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 44,
@@ -1362,12 +1381,12 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Motion in a Straight Line",
-  "chapterScore": 2,
-  "chapterMargin": 0,
+  "chapter": "Nuclei",
+  "chapterScore": 3,
+  "chapterMargin": 1,
   "chapterHits": [
-   "velocity",
-   "speed"
+   "nucleus",
+   "daughter nucleus"
   ],
   "chapterConfidence": "low"
  },
@@ -1509,14 +1528,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 21,
-  "chapterMargin": 21,
+  "chapterScore": 25,
+  "chapterMargin": 24,
   "chapterHits": [
    "p-n junction",
    "forward bias",
    "reverse bias",
    "depletion region",
-   "diode"
+   "diode",
+   "bias"
   ],
   "chapterConfidence": "high"
  },
@@ -1560,10 +1580,11 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 4,
+  "chapterScore": 7,
   "chapterMargin": 4,
   "chapterHits": [
-   "transistor"
+   "transistor",
+   "junction"
   ],
   "chapterConfidence": "medium"
  },
@@ -1652,11 +1673,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 9,
-  "chapterMargin": 7,
+  "chapterScore": 13,
+  "chapterMargin": 11,
   "chapterHits": [
    "binding energy",
    "mass defect",
+   "packing fraction",
    "radioactive"
   ],
   "chapterConfidence": "high"
@@ -1701,11 +1723,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Semiconductor Electronics",
-  "chapterScore": 12,
-  "chapterMargin": 12,
+  "chapterScore": 27,
+  "chapterMargin": 27,
   "chapterHits": [
    "nand",
-   "nor"
+   "nor",
+   "and gate",
+   "or gate",
+   "not gate",
+   "gate"
   ],
   "chapterConfidence": "high"
  },
@@ -1749,13 +1775,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Nuclei",
-  "chapterScore": 10,
-  "chapterMargin": 9,
+  "chapterScore": 15,
+  "chapterMargin": 14,
   "chapterHits": [
    "binding energy",
    "half life",
+   "half life of",
    "radioactive",
-   "nucleon"
+   "nucleon",
+   "mev"
   ],
   "chapterConfidence": "high"
  },
@@ -1798,11 +1826,11 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Work, Energy and Power",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapter": "Nuclei",
+  "chapterScore": 3,
+  "chapterMargin": 2,
   "chapterHits": [
-   "energy"
+   "mev"
   ],
   "chapterConfidence": "low"
  }

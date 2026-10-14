@@ -55,10 +55,32 @@ def haystack(q):
     return re.sub(r'\s+', ' ', ' '.join(bits))
 
 
-def classify(q, compiled):
-    text = haystack(q)
-    if len(text) < 12:
-        return None, 0, 0, []
+def _score_squashed(squashed, compiled):
+    """
+    Match against space-stripped text, for scans that OCR'd without spaces.
+
+    A squashed keyword can appear inside an unrelated run of letters, so only
+    terms of some length are trusted and the weights are halved: this pass is
+    meant to place a question that would otherwise go nowhere, not to compete
+    with a clean match.
+    """
+    scored = []
+    for name, puc, pats in compiled:
+        score, hits = 0, []
+        for _rx, w, term in pats:
+            key = re.sub(r'\s+', '', term).lower()
+            if len(key) < 9:
+                continue
+            n = squashed.lower().count(key)
+            if n:
+                score += max(1, w // 2) * min(n, 3)
+                hits.append(term)
+        if score:
+            scored.append((score, name, puc, hits))
+    return scored
+
+
+def _score(text, compiled):
     scored = []
     for name, puc, pats in compiled:
         score, hits = 0, []
@@ -69,6 +91,23 @@ def classify(q, compiled):
                 hits.append(term)
         if score:
             scored.append((score, name, puc, hits))
+    return scored
+
+
+def classify(q, compiled):
+    text = haystack(q)
+    if len(text) < 12:
+        return None, 0, 0, []
+    scored = _score(text, compiled)
+    if not scored:
+        # Some scans OCR without spaces at all - "thediameterofsecondwire",
+        # "6beats/secondwhensounded". Word boundaries can never fire on that,
+        # so fall back to comparing with every space removed on both sides.
+        # Only ever used when the ordinary pass found nothing, so it can
+        # rescue a question but never outvote a real match.
+        squashed = re.sub(r'\s+', '', text)
+        if len(squashed) >= 20:
+            scored = _score_squashed(squashed, compiled)
     if not scored:
         return None, 0, 0, []
     scored.sort(key=lambda s: -s[0])

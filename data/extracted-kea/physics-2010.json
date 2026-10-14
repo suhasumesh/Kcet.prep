@@ -86,12 +86,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Motion in a Straight Line",
-  "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterScore": 4,
+  "chapterMargin": 4,
   "chapterHits": [
-   "velocity"
+   "velocity",
+   "train"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "medium"
  },
  {
   "number": 3,
@@ -224,11 +225,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Work, Energy and Power",
+  "chapterScore": 2,
+  "chapterMargin": 2,
+  "chapterHits": [
+   "kinetic energy"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 6,
@@ -316,11 +319,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Gravitation",
+  "chapterScore": 2,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "acceleration due to gravity"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 8,
@@ -361,11 +366,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Mechanical Properties of Solids",
+  "chapterScore": 1,
+  "chapterMargin": 1,
+  "chapterHits": [
+   "elasticity"
+  ],
+  "chapterConfidence": "low"
  },
  {
   "number": 9,
@@ -499,13 +506,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Ray Optics and Optical Instruments",
-  "chapterScore": 10,
-  "chapterMargin": 9,
+  "chapterScore": 17,
+  "chapterMargin": 15,
   "chapterHits": [
    "prism",
    "focal length",
+   "angle of refraction",
    "lens",
-   "refraction"
+   "refraction",
+   "glass plate"
   ],
   "chapterConfidence": "high"
  }

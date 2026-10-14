@@ -85,11 +85,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Conic Sections",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "touch each other"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 6,
@@ -360,9 +362,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "hyperbola",
    "hyperbola"
   ],
   "chapterConfidence": "medium"
@@ -452,12 +455,13 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Mathematical Reasoning",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 8,
+  "chapterMargin": 7,
   "chapterHits": [
-   "contrapositive"
+   "contrapositive",
+   "converse"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 19,
@@ -546,9 +550,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 4,
-  "chapterMargin": 3,
+  "chapterScore": 5,
+  "chapterMargin": 4,
   "chapterHits": [
+   "hyperbola",
    "hyperbola"
   ],
   "chapterConfidence": "medium"
@@ -592,11 +597,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
-  "chapterScore": 0,
-  "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapter": "Number Theory (old syllabus)",
+  "chapterScore": 4,
+  "chapterMargin": 4,
+  "chapterHits": [
+   "prime numbers"
+  ],
+  "chapterConfidence": "medium"
  },
  {
   "number": 23,
@@ -733,9 +740,10 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 4,
-  "chapterMargin": 4,
+  "chapterScore": 5,
+  "chapterMargin": 5,
   "chapterHits": [
+   "complex number",
    "complex number"
   ],
   "chapterConfidence": "medium"
@@ -781,7 +789,7 @@
   "optionsInImage": true,
   "chapter": "Trigonometric Functions",
   "chapterScore": 6,
-  "chapterMargin": 5,
+  "chapterMargin": 4,
   "chapterHits": [
    "sin",
    "cos",
@@ -878,13 +886,15 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Conic Sections",
-  "chapterScore": 13,
-  "chapterMargin": 13,
+  "chapterScore": 16,
+  "chapterMargin": 16,
   "chapterHits": [
    "parabola",
    "ellipse",
    "hyperbola",
-   "circle"
+   "circle",
+   "parabola",
+   "ellipse"
   ],
   "chapterConfidence": "high"
  },
@@ -927,11 +937,11 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Straight Lines",
+  "chapter": "Trigonometric Functions",
   "chapterScore": 1,
-  "chapterMargin": 1,
+  "chapterMargin": 0,
   "chapterHits": [
-   "centroid"
+   "triangle abc"
   ],
   "chapterConfidence": "low"
  },
@@ -1115,7 +1125,7 @@
   "optionsInImage": true,
   "chapter": "Trigonometric Functions",
   "chapterScore": 5,
-  "chapterMargin": 5,
+  "chapterMargin": 1,
   "chapterHits": [
    "general solution",
    "cos"
@@ -1346,11 +1356,12 @@
   "solutionImages": [],
   "optionsInImage": true,
   "chapter": "Complex Numbers and Quadratic Equations",
-  "chapterScore": 5,
-  "chapterMargin": 4,
+  "chapterScore": 6,
+  "chapterMargin": 2,
   "chapterHits": [
    "complex number",
-   "z ="
+   "z =",
+   "complex number"
   ],
   "chapterConfidence": "medium"
  },
