@@ -5,11 +5,13 @@ import { Question } from '@/lib/models/Question';
 import { Attempt } from '@/lib/models/Attempt';
 import { requireUserId } from '@/lib/auth';
 import { SUBJECTS, QUESTIONS_PER_SUBJECT, suggestedSeconds, MODE_LABEL } from '@/lib/exam';
+import { tagTopic } from '@/lib/patterns';
 
 export const dynamic = 'force-dynamic';
 
 const Body = z.object({
-  mode: z.enum(['full', 'subject', 'chapter', 'pyq']),
+  mode: z.enum(['full', 'subject', 'chapter', 'pyq', 'topic']),
+  topic: z.string().optional(),
   bank: z.enum(['kcet', 'pradeep']).default('kcet'),
   book: z.string().optional(),
   subjects: z.array(z.enum(SUBJECTS)).default([]),
@@ -78,6 +80,27 @@ export async function POST(req: Request) {
     title = bank === 'pradeep'
       ? `Pradeep · ${subjects[0]} · ${what}`
       : `${subjects[0]} · ${what}`;
+  } else if (mode === 'topic') {
+    // Drill one formula. The topic is resolved on the server from the same
+    // table the pattern report is built with, so the two can never disagree
+    // about which questions a topic covers.
+    const topic = parsed.data.topic;
+    if (subjects.length !== 1 || chapters.length !== 1 || !topic) {
+      return NextResponse.json(
+        { error: 'Choose a subject, a chapter and a topic.' }, { status: 400 });
+    }
+    const pool = await Question.find(
+      { ...scope, paper: true, subject: subjects[0], chapter: chapters[0] },
+      { _id: 1, subject: 1, chapter: 1, stemText: 1, 'options.text': 1, solutionText: 1 },
+    ).lean();
+    const hit = pool.filter((q) => tagTopic(q as never)?.topic === topic);
+    // Shuffled, so a second attempt at the same topic is not the same order.
+    for (let i = hit.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [hit[i], hit[j]] = [hit[j], hit[i]];
+    }
+    ids = hit.map((g) => String(g._id));
+    title = `${subjects[0]} · ${topic}`;
   } else {
     if (!year || subjects.length !== 1) {
       return NextResponse.json({ error: 'Choose a subject and a year.' }, { status: 400 });

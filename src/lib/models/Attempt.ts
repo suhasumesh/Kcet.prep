@@ -30,7 +30,7 @@ const AttemptSchema = new Schema(
   {
     user: { type: Schema.Types.ObjectId, ref: 'User', required: true, index: true },
 
-    mode: { type: String, enum: ['full', 'subject', 'chapter', 'pyq'], required: true },
+    mode: { type: String, enum: ['full', 'subject', 'chapter', 'pyq', 'topic'], required: true },
     // which bank the questions came from, so history can be filtered by it
     bank: { type: String, enum: ['kcet', 'pradeep'], default: 'kcet', index: true },
     title: { type: String, required: true },

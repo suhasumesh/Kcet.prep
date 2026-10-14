@@ -20,3 +20,5 @@ next-env.d.ts
 tools/tmp/
 tools/tmp_*.py
 tools/_snap_*.json
+
+tools/__pycache__/

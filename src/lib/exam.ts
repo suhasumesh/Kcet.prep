@@ -30,13 +30,14 @@ export const SUBJECT_STYLE: Record<string, { chip: string; dot: string; bar: str
 
 export const NEUTRAL_CHIP = 'bg-ink-100 text-ink-600 ring-line';
 
-export type Mode = 'full' | 'subject' | 'chapter' | 'pyq';
+export type Mode = 'full' | 'subject' | 'chapter' | 'pyq' | 'topic';
 
 export const MODE_LABEL: Record<Mode, string> = {
   full: 'Full mock test',
   subject: 'Subject mock test',
   chapter: 'Chapter practice',
   pyq: 'Previous year paper',
+  topic: 'Topic drill',
 };
 
 /** Suggested duration: the real exam allows 80 minutes for 60 questions. */

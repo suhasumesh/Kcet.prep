@@ -9,6 +9,7 @@ const NAV = [
   { href: '/dashboard', label: 'Overview', icon: 'M3 10.8 12 3.4l9 7.4M5.6 9.4V20.6h12.8V9.4' },
   { href: '/practice', label: 'Practice', icon: 'M12 5.2v13.6M5.2 12h13.6' },
   { href: '/library', label: 'Pradeep', icon: 'M4 4.6h7a2 2 0 0 1 2 2v12.8a1.6 1.6 0 0 0-1.6-1.6H4zM20 4.6h-7a2 2 0 0 0-2 2v12.8a1.6 1.6 0 0 1 1.6-1.6H20z' },
+  { href: '/patterns', label: 'Patterns', icon: 'M4 17.5 9 11l4 3.2L20 6M20 6h-4.6M20 6v4.6' },
   { href: '/tests', label: 'History', icon: 'M4 6.4h16M4 12h16M4 17.6h10' },
   { href: '/analytics', label: 'Analytics', icon: 'M4 19.4V5m5 14.4V9.6m5 9.8v-6.4m5 6.4V7.4' },
   { href: '/plan', label: 'Plan', icon: 'M7.6 3.4v3m8.8-3v3M3.8 8.6h16.4M4.6 5.4h14.8v15.2H4.6z' },
