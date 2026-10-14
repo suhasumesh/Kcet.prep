@@ -151,5 +151,6 @@
  "kcet|Physics|2011|9||0|0": "crop is cut after the first two options, and the keyed answer is one of the two that fall below the band split",
  "kcet|Physics|2016|12||0|0": "crop ends at the stem: the four rod dimensions that the options list fall below the band split, so there is nothing to choose between",
  "kcet|Physics|2016|31||0|0": "crop is cut partway through the first line of options: only fragments of the two expressions survive, with their denominators and the remaining options outside the band",
- "kcet|Physics|2004|29||0|0": "crop is cut after the first two options; the keyed answer is one of the two that fall below the band split"
+ "kcet|Physics|2004|29||0|0": "crop is cut after the first two options; the keyed answer is one of the two that fall below the band split",
+ "kcet|Physics|2008|7||0|0": "crop is cut after the third option; the keyed answer is the fourth, which falls below the band split"
 }
