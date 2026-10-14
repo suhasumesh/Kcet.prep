@@ -247,7 +247,10 @@ export default function PracticeBuilder({ bank = 'kcet' }: { bank?: Bank }) {
         <section>
           <p className="label mb-3">How many questions</p>
           <div className="flex flex-wrap gap-2">
-            {(mode === 'subject' ? [20, 30, 45, 60] : [10, 15, 20, 30, 50]).map((n) => (
+            {(mode === 'subject'
+              ? [20, 30, 45, 60, 100, 150, 180]
+              : [10, 15, 20, 30, 50, 100, 150, 180]
+            ).map((n) => (
               <button key={n} onClick={() => setCount(n)}
                 className={clsx('pill font-mono tabular-nums', count === n && 'pill-on')}>
                 {n}

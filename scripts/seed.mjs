@@ -7,6 +7,7 @@
  * after a re-extract updates in place rather than duplicating.
  */
 import fs from 'node:fs';
+import { tagTopic } from './tagTopic.mjs';
 import path from 'node:path';
 import process from 'node:process';
 import { fileURLToPath } from 'node:url';
@@ -101,6 +102,12 @@ async function main() {
     { unique: true },
   );
   await Question.collection.createIndex({ bank: 1, subject: 1, chapter: 1 });
+  // The pattern report groups whole papers by chapter, topic and year, and a
+  // past-paper replay asks for one subject and year in question order. Both
+  // were scanning the whole collection.
+  await Question.collection.createIndex({ bank: 1, paper: 1, subject: 1, year: 1, number: 1 });
+  // Serving a topic drill: one chapter, one topic.
+  await Question.collection.createIndex({ bank: 1, subject: 1, chapter: 1, topic: 1 });
 
   // Rows written before the bank/seq fields existed cannot be matched by the
   // upsert filter, so they would survive as duplicates beside their rewritten
@@ -188,6 +195,7 @@ async function main() {
         optionStyle: 'number',
       };
       fromPapers.add(fingerprint(doc.subject, doc.year, doc.stemText));
+      stampTopic(doc);
       ops.push({
         updateOne: {
           filter: {
@@ -272,6 +280,7 @@ async function main() {
           optionStyle: 'letter',       // the books print (a) to (d)
         };
         pradeepCount++;
+        stampTopic(doc);
         ops.push({
           updateOne: {
             filter: {
@@ -338,6 +347,7 @@ async function main() {
           optionStyle: 'letter',       // the books print (a) to (d)
         };
         chapterwiseCount++;
+        stampTopic(doc);
         ops.push({
           updateOne: {
             filter: {
@@ -508,3 +518,17 @@ main().catch((e) => {
   console.error(e);
   process.exit(1);
 });
+
+/**
+ * Record which topic inside its chapter a question belongs to, and the
+ * relation that topic tests.
+ *
+ * Done here, once, because the alternative is reading the stem, options and
+ * solution of every question in the bank on each cold start to work out the
+ * same answer again.
+ */
+function stampTopic(doc) {
+  const { topic, formula } = tagTopic(doc);
+  doc.topic = topic;
+  doc.topicFormula = formula;
+}

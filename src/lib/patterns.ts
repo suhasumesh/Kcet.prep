@@ -1,6 +1,5 @@
 import { connectDB } from '@/lib/db';
 import { Question } from '@/lib/models/Question';
-import { TOPICS, type Topic } from '@/lib/topics';
 
 /**
  * What KCET actually asks, chapter by chapter and topic by topic.
@@ -83,63 +82,6 @@ type Row = {
 };
 
 /**
- * Case-insensitive whole-term match, tolerant of runs of whitespace, carrying
- * a weight.
- *
- * The weight is the number of words in the term, and it matters more than it
- * looks. Nearly every mechanics question mentions "kinetic energy", so a topic
- * holding that phrase will swallow its whole chapter if each hit counts one.
- * Scoring "work energy theorem" three and "collision" one lets the specific
- * phrase win when both appear, which is what a reader would conclude too.
- */
-function compile(keywords: string[]): { rx: RegExp; w: number }[] {
-  return keywords.map((term) => {
-    const esc = term.trim().replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+');
-    const lead = /[a-z0-9]/i.test(term[0]) ? '\\b' : '';
-    const tail = /[a-z0-9]/i.test(term[term.length - 1]) ? '\\b' : '';
-    return { rx: new RegExp(lead + esc + tail, 'i'), w: term.trim().split(/\s+/).length };
-  });
-}
-
-const compiled = new Map<string, { topic: Topic; rx: { rx: RegExp; w: number }[] }[]>();
-function topicsFor(subject: string, chapter: string) {
-  const key = `${subject}|${chapter}`;
-  let got = compiled.get(key);
-  if (!got) {
-    const list = TOPICS[subject]?.[chapter] ?? [];
-    got = list.map((t) => ({ topic: t, rx: compile(t.keywords) }));
-    compiled.set(key, got);
-  }
-  return got;
-}
-
-function haystack(q: Row): string {
-  const bits = [q.stemText ?? ''];
-  for (const o of q.options ?? []) bits.push(o.text ?? '');
-  bits.push((q.solutionText ?? '').slice(0, 900));
-  return bits.join(' ').replace(/\s+/g, ' ');
-}
-
-/** Best-scoring topic within the question's own chapter, or null. */
-export function tagTopic(q: Row): Topic | null {
-  const list = topicsFor(q.subject, q.chapter);
-  if (!list.length) return null;
-  const text = haystack(q);
-  if (text.length < 12) return null;
-  let best: Topic | null = null;
-  let bestScore = 0;
-  for (const { topic, rx } of list) {
-    let score = 0;
-    for (const r of rx) if (r.rx.test(text)) score += r.w;
-    if (score > bestScore) {
-      best = topic;
-      bestScore = score;
-    }
-  }
-  return best;
-}
-
-/**
  * Direction over the complete years only, as a plain word.
  *
  * Compares the mean of the three most recent complete years with the three
@@ -163,17 +105,49 @@ export async function buildReport(): Promise<PatternReport> {
   // Only whole papers: the chapterwise books reprint the same questions out of
   // order and carry the original year, so counting them would inflate every
   // chapter they happen to cover.
-  const rows = (await Question.find(
-    { bank: { $ne: 'pradeep' }, paper: true, year: { $gt: 0 } },
-    { subject: 1, chapter: 1, year: 1, puc: 1, stemText: 1, 'options.text': 1, solutionText: 1 },
-  ).lean()) as unknown as (Row & { puc?: number })[];
+  //
+  // Counted in the database rather than pulled across the wire. This used to
+  // fetch all 2,600 documents with their stem, options and solution so each
+  // one could be re-tagged here, which took the better part of two seconds on
+  // every cold start to rebuild something that only changes when the bank is
+  // re-seeded. The topic is now decided once, by the seeder, and this is a
+  // grouped count over an index.
+  const grouped: {
+    _id: { subject: string; chapter: string; year: number; puc: number;
+      topic: string; formula: string };
+    n: number;
+  }[] = await Question.aggregate([
+    // An equality match can use the index; $ne cannot. `bank` is only ever
+    // 'kcet' or 'pradeep' and is never missing, so the two are equivalent.
+    { $match: { bank: 'kcet', paper: true, year: { $gt: 0 } } },
+    {
+      $group: {
+        _id: {
+          subject: '$subject', chapter: '$chapter', year: '$year', puc: '$puc',
+          topic: { $ifNull: ['$topic', ''] },
+          formula: { $ifNull: ['$topicFormula', ''] },
+        },
+        n: { $sum: 1 },
+      },
+    },
+  ]);
+
+  const rows = grouped.map((g) => ({
+    subject: g._id.subject,
+    chapter: g._id.chapter || 'Unclassified',
+    year: g._id.year,
+    puc: g._id.puc ?? 0,
+    topic: g._id.topic,
+    formula: g._id.formula,
+    n: g.n,
+  }));
 
   const subjects: Record<string, SubjectReport> = {};
 
   for (const subject of ['Physics', 'Chemistry', 'Mathematics']) {
     const mine = rows.filter((r) => r.subject === subject);
     const counts = new Map<number, number>();
-    for (const r of mine) counts.set(r.year, (counts.get(r.year) ?? 0) + 1);
+    for (const r of mine) counts.set(r.year, (counts.get(r.year) ?? 0) + r.n);
     const years = [...counts.keys()].sort((a, b) => a - b);
     const complete = years.filter((y) => (counts.get(y) ?? 0) >= PAPER_SIZE * COMPLETE_AT);
     const thin = years.filter((y) => !complete.includes(y));
@@ -193,20 +167,22 @@ export async function buildReport(): Promise<PatternReport> {
         acc = { puc: r.puc ?? 0, perYear: new Map(), untagged: 0, topics: new Map() };
         chapters.set(ch, acc);
       }
-      acc.perYear.set(r.year, (acc.perYear.get(r.year) ?? 0) + 1);
+      acc.perYear.set(r.year, (acc.perYear.get(r.year) ?? 0) + r.n);
 
-      const t = ch === 'Unclassified' ? null : tagTopic(r);
-      if (!t) {
-        acc.untagged++;
+      // No topic stored means the question matched none of its chapter's
+      // topics, or the chapter has no topic list at all. Either way it is
+      // counted in the chapter and reported as untagged, not hidden.
+      if (!r.topic) {
+        acc.untagged += r.n;
         continue;
       }
-      let tr = acc.topics.get(t.topic);
+      let tr = acc.topics.get(r.topic);
       if (!tr) {
-        tr = { formula: t.formula, n: 0, perYear: new Map() };
-        acc.topics.set(t.topic, tr);
+        tr = { formula: r.formula, n: 0, perYear: new Map() };
+        acc.topics.set(r.topic, tr);
       }
-      tr.n++;
-      tr.perYear.set(r.year, (tr.perYear.get(r.year) ?? 0) + 1);
+      tr.n += r.n;
+      tr.perYear.set(r.year, (tr.perYear.get(r.year) ?? 0) + r.n);
     }
 
     const spread = (m: Map<number, number>) =>
@@ -237,6 +213,7 @@ export async function buildReport(): Promise<PatternReport> {
     }));
     out.sort((a, b) => b.perPaper - a.perPaper || b.total - a.total);
 
+    const subjectTotal = mine.reduce((a, r) => a + r.n, 0);
     const unplaced = out.find((c) => c.chapter === 'Unclassified');
     const unclassified = unplaced?.total ?? 0;
     subjects[subject] = {
@@ -246,9 +223,9 @@ export async function buildReport(): Promise<PatternReport> {
       completeYears: complete,
       thinYears: thin,
       counts: Object.fromEntries(years.map((y) => [String(y), counts.get(y) ?? 0])),
-      total: mine.length,
+      total: subjectTotal,
       unclassified,
-      classified: mine.length - unclassified,
+      classified: subjectTotal - unclassified,
       chapters: out,
     };
   }

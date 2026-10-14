@@ -40,6 +40,13 @@ const QuestionSchema = new Schema(
     solutionText: { type: String, default: '' },
     solutionImages: { type: [ImageSchema], default: [] },
     chapterConfidence: { type: String, default: 'none' },
+    // The topic inside the chapter, and the relation it tests, both decided
+    // by the seeder. Computing these at request time meant reading the stem,
+    // options and solution of every question in the bank on each cold start
+    // — about 2,600 full documents and the better part of two seconds — to
+    // answer a question whose answer only changes when the bank is re-seeded.
+    topic: { type: String, default: '' },
+    topicFormula: { type: String, default: '' },
     source: { type: String, default: '' },
     page: { type: Number, default: 0 },
     seq: { type: Number, default: 0 },

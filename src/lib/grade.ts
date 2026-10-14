@@ -1,3 +1,4 @@
+import { connectDB } from '@/lib/db';
 import { Attempt } from '@/lib/models/Attempt';
 import { Question } from '@/lib/models/Question';
 import { MARKS_CORRECT } from '@/lib/exam';
@@ -19,16 +20,11 @@ import { MARKS_CORRECT } from '@/lib/exam';
 
 type Scored = { correct: number; wrong: number; unattempted: number; score: number };
 
-/** Mark the responses against the key. The key never leaves the server. */
-export async function scoreResponses(
-  questionIds: unknown[],
+/** Tally responses against an already-loaded key. */
+function markAgainst(
   responses: { question: unknown; selected?: string | null }[],
-): Promise<Scored> {
-  const keys = await Question.find({ _id: { $in: questionIds } })
-    .select('answer')
-    .lean<{ _id: unknown; answer: string | null }[]>();
-  const answerOf = new Map(keys.map((k) => [String(k._id), k.answer]));
-
+  answerOf: Map<string, string | null>,
+): Scored {
   let correct = 0;
   let wrong = 0;
   let unattempted = 0;
@@ -42,6 +38,18 @@ export async function scoreResponses(
   return { correct, wrong, unattempted, score: correct * MARKS_CORRECT };
 }
 
+/** Mark the responses against the key. The key never leaves the server. */
+export async function scoreResponses(
+  questionIds: unknown[],
+  responses: { question: unknown; selected?: string | null }[],
+): Promise<Scored> {
+  await connectDB();
+  const keys = await Question.find({ _id: { $in: questionIds } })
+    .select('answer')
+    .lean<{ _id: unknown; answer: string | null }[]>();
+  return markAgainst(responses, new Map(keys.map((k) => [String(k._id), k.answer])));
+}
+
 /**
  * Score any of this user's tests whose time ran out without a submission.
  *
@@ -50,24 +58,47 @@ export async function scoreResponses(
  * last week, would be back-dating a fact about their effort.
  */
 export async function closeExpiredAttempts(userId: string): Promise<number> {
+  // Buffering is off, so nothing may query before the connection is up. Cheap
+  // when it already is.
+  await connectDB();
+  // This runs on every page that lists or summarises tests, and almost always
+  // finds nothing, so it has to be cheap when there is nothing to do: one
+  // indexed lookup returning no rows, and no writes.
   const stale = await Attempt.find({
     user: userId,
     submittedAt: null,
     expiresAt: { $lte: new Date() },
-  }).select('questions responses expiresAt');
+  })
+    .select('questions responses expiresAt')
+    .lean<{ _id: unknown; questions: unknown[];
+      responses: { question: unknown; selected?: string | null }[]; expiresAt: Date }[]>();
 
-  let closed = 0;
-  for (const a of stale) {
-    const s = await scoreResponses(a.questions, a.responses);
-    a.correct = s.correct;
-    a.wrong = s.wrong;
-    a.unattempted = s.unattempted;
-    a.score = s.score;
-    // the submission time is when the clock ran out, not when we noticed
-    a.submittedAt = a.expiresAt;
-    a.autoSubmitted = true;
-    await a.save();
-    closed++;
-  }
-  return closed;
+  if (!stale.length) return 0;
+
+  // One key lookup for all of them rather than one per attempt, then a single
+  // round trip to write the scores back.
+  const ids = [...new Set(stale.flatMap((a) => a.questions.map(String)))];
+  const keys = await Question.find({ _id: { $in: ids } })
+    .select('answer')
+    .lean<{ _id: unknown; answer: string | null }[]>();
+  const answerOf = new Map(keys.map((k) => [String(k._id), k.answer]));
+
+  const writes = stale.map((a) => {
+    const s = markAgainst(a.responses, answerOf);
+    return {
+      updateOne: {
+        filter: { _id: a._id },
+        update: {
+          $set: {
+            ...s,
+            // the submission time is when the clock ran out, not when we noticed
+            submittedAt: a.expiresAt,
+            autoSubmitted: true,
+          },
+        },
+      },
+    };
+  });
+  await Attempt.bulkWrite(writes);
+  return writes.length;
 }

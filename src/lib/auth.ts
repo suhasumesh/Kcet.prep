@@ -1,3 +1,4 @@
+import { cache } from 'react';
 import { cookies } from 'next/headers';
 import jwt from 'jsonwebtoken';
 import { connectDB } from './db';
@@ -40,13 +41,20 @@ export function sessionUserId(): string | null {
   }
 }
 
-/** The signed-in user, or null. Safe fields only. */
-export async function currentUser() {
+/**
+ * The signed-in user, or null. Safe fields only.
+ *
+ * Memoised for the lifetime of one request. The app shell in the layout needs
+ * the user, and so does nearly every page inside it, and without this each
+ * page load asked the database for the same row twice. React's `cache` is
+ * per-request, so two users are never confused for one another.
+ */
+export const currentUser = cache(async () => {
   const uid = sessionUserId();
   if (!uid) return null;
   await connectDB();
   return User.findById(uid).select('-passwordHash -verifyTokenHash -resetTokenHash').lean();
-}
+});
 
 /** For API routes: returns the id or throws a 401-shaped error. */
 export async function requireUserId() {

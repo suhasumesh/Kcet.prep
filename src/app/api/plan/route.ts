@@ -18,8 +18,13 @@ export async function GET(req: Request) {
   const days = Number(url.searchParams.get('days') || 14);
 
   await connectDB();
-  const user = await User.findById(userId).select('dailyMinutes targetYear').lean<any>();
-  const analytics = await buildAnalytics(userId);
+  // Neither needs the other, and the analytics build is much the slower of
+  // the two, so waiting for the settings row first simply added its round
+  // trip to the total.
+  const [user, analytics] = await Promise.all([
+    User.findById(userId).select('dailyMinutes targetYear').lean<any>(),
+    buildAnalytics(userId),
+  ]);
   const plan = buildPlan(analytics, { dailyMinutes: user?.dailyMinutes ?? 90, days });
 
   return NextResponse.json({ ...plan, dailyMinutes: user?.dailyMinutes ?? 90 });

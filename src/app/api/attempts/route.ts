@@ -5,7 +5,6 @@ import { Question } from '@/lib/models/Question';
 import { Attempt } from '@/lib/models/Attempt';
 import { requireUserId } from '@/lib/auth';
 import { SUBJECTS, QUESTIONS_PER_SUBJECT, suggestedSeconds, MODE_LABEL } from '@/lib/exam';
-import { tagTopic } from '@/lib/patterns';
 
 export const dynamic = 'force-dynamic';
 
@@ -45,7 +44,9 @@ export async function POST(req: Request) {
   await connectDB();
 
   // A test never mixes the exam papers with the reference book.
-  const inBank = bank === 'pradeep' ? { bank: 'pradeep' } : { bank: { $ne: 'pradeep' } };
+  // Equality rather than $ne so the index is usable; `bank` is always one
+  // of the two values.
+  const inBank = bank === 'pradeep' ? { bank: 'pradeep' } : { bank: 'kcet' };
   const scope = book ? { ...inBank, book } : inBank;
 
   let ids: string[] = [];
@@ -89,11 +90,13 @@ export async function POST(req: Request) {
       return NextResponse.json(
         { error: 'Choose a subject, a chapter and a topic.' }, { status: 400 });
     }
-    const pool = await Question.find(
-      { ...scope, paper: true, subject: subjects[0], chapter: chapters[0] },
-      { _id: 1, subject: 1, chapter: 1, stemText: 1, 'options.text': 1, solutionText: 1 },
+    // The topic is stored on the question by the seeder, so this is one
+    // indexed lookup. It used to read every question in the chapter, with its
+    // stem and solution, and re-derive the topic for each one.
+    const hit = await Question.find(
+      { ...scope, paper: true, subject: subjects[0], chapter: chapters[0], topic },
+      { _id: 1 },
     ).lean();
-    const hit = pool.filter((q) => tagTopic(q as never)?.topic === topic);
     // Shuffled, so a second attempt at the same topic is not the same order.
     for (let i = hit.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));

@@ -3,8 +3,8 @@ import { redirect } from 'next/navigation';
 import { currentUser } from '@/lib/auth';
 import { buildAnalytics } from '@/lib/analytics';
 import { connectDB } from '@/lib/db';
-import { Question } from '@/lib/models/Question';
 import { Attempt } from '@/lib/models/Attempt';
+import { bankTotals } from '@/lib/bankStats';
 import { SUBJECT_STYLE, formatDuration } from '@/lib/exam';
 import ActivityHeatmap from '@/components/ActivityHeatmap';
 import clsx from '@/lib/clsx';
@@ -35,15 +35,16 @@ export default async function DashboardPage() {
   if (!user) redirect('/login');
 
   await connectDB();
-  const [analytics, bankTotal, pradeepTotal, running] = await Promise.all([
+  const [analytics, totalsOfBank, running] = await Promise.all([
     buildAnalytics(String(user._id)),
-    Question.countDocuments({ bank: { $ne: 'pradeep' } }),
-    Question.countDocuments({ bank: 'pradeep' }),
+    bankTotals(),
     Attempt.findOne({ user: user._id, submittedAt: null, expiresAt: { $gt: new Date() } })
       .sort({ createdAt: -1 })
       .select('title expiresAt questions')
       .lean<any>(),
   ]);
+  const bankTotal = totalsOfBank.kcet;
+  const pradeepTotal = totalsOfBank.pradeep;
 
   const { totals, bySubject, weakest } = analytics;
   const firstName = String(user.name).split(/\s+/)[0];
