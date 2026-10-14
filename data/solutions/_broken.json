@@ -144,5 +144,6 @@
  "kcet|Physics|2007|17||0|0": "crop is cut partway through the options: only the first two are visible and the keyed fourth option falls below the band split",
  "kcet|Physics|2008|23||0|0": "crop is cut through the options: only fragments of the first two expressions are visible, with their denominators and the remaining options outside the band",
  "kcet|Physics|2009|25||0|0": "crop is cut partway through the first line of options: only a fragment of the first option and the second option are visible, with the rest outside the band",
- "kcet|Physics|2012|54||0|0": "crop loses the four options: only the fragments \"and\" and \"only in\" survive the band split, so the reactions being compared cannot be identified"
+ "kcet|Physics|2012|54||0|0": "crop loses the four options: only the fragments \"and\" and \"only in\" survive the band split, so the reactions being compared cannot be identified",
+ "kcet|Physics|2010|14||0|0": "crop begins mid-way through the previous question’s options and then runs three further questions together (a diver’s view of green light, minimum deviation for two colours, and a liquid-filled lens), so the keyed question’s own stem is not in the band"
 }
