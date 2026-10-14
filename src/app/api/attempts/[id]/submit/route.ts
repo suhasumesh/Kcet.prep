@@ -1,20 +1,23 @@
 import { NextResponse } from 'next/server';
 import { connectDB } from '@/lib/db';
 import { Attempt } from '@/lib/models/Attempt';
-import { Question } from '@/lib/models/Question';
 import { User } from '@/lib/models/User';
 import { requireUserId } from '@/lib/auth';
-import { MARKS_CORRECT, istDayKey } from '@/lib/exam';
+import { istDayKey } from '@/lib/exam';
+import { scoreResponses } from '@/lib/grade';
 
 export const dynamic = 'force-dynamic';
 
 /**
  * Finish a test and score it.
  *
- * Scoring happens here and only here: the correct answers never reach the
- * browser before submission, so the score cannot be computed or altered
- * client-side. Re-submitting is a no-op rather than an error, which keeps the
- * auto-submit-on-timeout path safe to retry.
+ * Scoring happens on the server and nowhere else: the correct answers never
+ * reach the browser before submission, so the score cannot be computed or
+ * altered client-side. Re-submitting is a no-op rather than an error, which
+ * keeps the auto-submit-on-timeout path safe to retry.
+ *
+ * The marking itself lives in lib/grade, because a test whose clock ran out
+ * with the browser closed is scored by the same code on the next page load.
  */
 export async function POST(_req: Request, { params }: { params: { id: string } }) {
   let userId: string;
@@ -31,25 +34,15 @@ export async function POST(_req: Request, { params }: { params: { id: string } }
     return NextResponse.json({ ok: true, alreadySubmitted: true, id: String(attempt._id) });
   }
 
-  const keys = await Question.find({ _id: { $in: attempt.questions } })
-    .select('answer')
-    .lean<{ _id: unknown; answer: string | null }[]>();
-  const answerOf = new Map(keys.map((k) => [String(k._id), k.answer]));
-
-  let correct = 0;
-  let wrong = 0;
-  let unattempted = 0;
-  for (const r of attempt.responses) {
-    const key = answerOf.get(String(r.question));
-    if (!r.selected) unattempted++;
-    else if (key && r.selected === key) correct++;
-    else wrong++;
-  }
+  const { correct, wrong, unattempted, score } = await scoreResponses(
+    attempt.questions,
+    attempt.responses,
+  );
 
   attempt.correct = correct;
   attempt.wrong = wrong;
   attempt.unattempted = unattempted;
-  attempt.score = correct * MARKS_CORRECT; // KCET has no negative marking
+  attempt.score = score;
   attempt.submittedAt = new Date();
   attempt.autoSubmitted = new Date() > attempt.expiresAt;
   await attempt.save();

@@ -176,5 +176,63 @@ await api('/api/auth/register', { method: 'POST', body: JSON.stringify({ name: '
 r = await api(`/api/attempts/${id}`);
 check("another user cannot read someone else's attempt", r.status === 404, `got ${r.status}`);
 
+// --- 11. the pattern report ---------------------------------------------
+r = await api('/api/patterns');
+check('patterns endpoint responds', r.status === 200, `got ${r.status}`);
+const report = r.body;
+check('all three subjects reported',
+  ['Physics', 'Chemistry', 'Mathematics'].every((s) => report?.subjects?.[s]));
+
+for (const [name, s] of Object.entries(report?.subjects ?? {})) {
+  const chs = s.chapters.filter((c) => c.chapter !== 'Unclassified');
+  check(`${name}: chapter totals match the per-year sums`,
+    chs.every((c) => Object.values(c.perYear).reduce((a, b) => a + b, 0) === c.total));
+  check(`${name}: topics plus untagged account for the chapter`,
+    chs.every((c) => c.topics.reduce((a, t) => a + t.n, 0) + c.untagged === c.total));
+  check(`${name}: marks per paper is the mean over complete years only`,
+    chs.every((c) => {
+      const n = s.completeYears.reduce((a, y) => a + (c.perYear[String(y)] ?? 0), 0);
+      return Math.abs(n / s.completeYears.length - c.perPaper) < 0.011;
+    }));
+  const covered = chs.reduce((a, c) => a + c.perPaper, 0);
+  check(`${name}: chapters account for about a full paper`,
+    covered > 55 && covered < 61, covered.toFixed(1));
+  check(`${name}: nothing unplaced in the papers being averaged`,
+    s.unclassifiedInCompleteYears === 0, String(s.unclassifiedInCompleteYears));
+  check(`${name}: a year is never both complete and partial`,
+    !s.completeYears.some((y) => s.thinYears.includes(y)));
+}
+
+// --- 12. topic drill ------------------------------------------------------
+const chap = report.subjects.Physics.chapters.find((c) => c.topics.length > 2);
+const topic = chap.topics[0];
+r = await api('/api/attempts', {
+  method: 'POST',
+  body: JSON.stringify({ mode: 'topic', bank: 'kcet', secureMode: false,
+    subjects: ['Physics'], chapters: [chap.chapter], topic: topic.topic }),
+});
+check('topic drill starts', r.status === 200, JSON.stringify(r.body).slice(0, 100));
+if (r.status === 200) {
+  const drill = await api(`/api/attempts/${r.body.id}`);
+  check('drill serves exactly the questions the report counted',
+    drill.body?.questions?.length === topic.n,
+    `got ${drill.body?.questions?.length}, report says ${topic.n}`);
+  check('drill stays inside its chapter',
+    (drill.body?.questions ?? []).every((q) => q.chapter === chap.chapter));
+}
+r = await api('/api/attempts', {
+  method: 'POST',
+  body: JSON.stringify({ mode: 'topic', bank: 'kcet', subjects: ['Physics'], chapters: [chap.chapter] }),
+});
+check('topic drill without a topic is rejected', r.status === 400, `got ${r.status}`);
+r = await api('/api/attempts', {
+  method: 'POST',
+  body: JSON.stringify({ mode: 'topic', bank: 'kcet', subjects: ['Physics'],
+    chapters: [chap.chapter], topic: 'No Such Topic' }),
+});
+check('an unknown topic is refused rather than serving an empty test',
+  r.status === 400, `got ${r.status}`);
+
+
 log('\n' + (fails.length ? `${fails.length} FAILING: ${fails.join(', ')}` : 'All checks passed.'));
 process.exit(fails.length ? 1 : 0);

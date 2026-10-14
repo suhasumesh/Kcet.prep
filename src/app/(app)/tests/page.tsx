@@ -3,6 +3,7 @@ import { redirect } from 'next/navigation';
 import { currentUser } from '@/lib/auth';
 import { connectDB } from '@/lib/db';
 import { Attempt } from '@/lib/models/Attempt';
+import { closeExpiredAttempts } from '@/lib/grade';
 import { SUBJECT_STYLE, MODE_LABEL, type Mode } from '@/lib/exam';
 import clsx from '@/lib/clsx';
 
@@ -14,6 +15,8 @@ export default async function TestsPage() {
   if (!user) redirect('/login');
 
   await connectDB();
+  // so an abandoned test shows its score here rather than a blank row
+  await closeExpiredAttempts(String(user._id));
   const rows = await Attempt.find({ user: user._id })
     .sort({ createdAt: -1 })
     .limit(100)

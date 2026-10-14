@@ -2,6 +2,7 @@ import { connectDB } from './db';
 import { Attempt } from './models/Attempt';
 import { Question } from './models/Question';
 import { istDayKey } from './exam';
+import { closeExpiredAttempts } from './grade';
 
 export type ChapterStat = {
   subject: string;
@@ -69,6 +70,9 @@ async function chapterCounts() {
 
 export async function buildAnalytics(userId: string): Promise<Analytics> {
   await connectDB();
+  // A test whose clock ran out with the browser shut is still work the
+  // student did. Score it before reading, or it never appears here.
+  await closeExpiredAttempts(userId);
 
   const attempts = await Attempt.find({ user: userId, submittedAt: { $ne: null } })
     .sort({ submittedAt: 1 })

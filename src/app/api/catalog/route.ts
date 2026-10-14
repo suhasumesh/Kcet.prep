@@ -9,12 +9,21 @@ export const dynamic = 'force-dynamic';
  * live counts. The test builder reads this so it can never offer a chapter
  * that has no questions behind it.
  */
-export async function GET(req: Request) {
-  await connectDB();
+// Four aggregations over the whole bank, on a collection that only changes
+// when it is re-seeded. Every visit to the practice builder was paying for
+// them again, which on a cold start is the slowest thing the app does.
+const cache = new Map<string, { at: number; body: unknown }>();
+const TTL_MS = 10 * 60 * 1000;
 
+export async function GET(req: Request) {
   // 'kcet' is the exam papers; 'pradeep' is the reference-book bank. They are
   // never mixed in a test, so the catalogue is always scoped to one.
   const bank = new URL(req.url).searchParams.get('bank') === 'pradeep' ? 'pradeep' : 'kcet';
+
+  const hit = cache.get(bank);
+  if (hit && Date.now() - hit.at < TTL_MS) return NextResponse.json(hit.body);
+
+  await connectDB();
   const match = { $match: { bank: bank === 'kcet' ? { $ne: 'pradeep' } : 'pradeep' } };
 
   const [chapters, years, totals, books] = await Promise.all([
@@ -57,5 +66,7 @@ export async function GET(req: Request) {
 
   const allYears = [...new Set(years.map((y) => y._id.year))].sort((a, b) => b - a);
 
-  return NextResponse.json({ bank, subjects: bySubject, years: allYears });
+  const body = { bank, subjects: bySubject, years: allYears };
+  cache.set(bank, { at: Date.now(), body });
+  return NextResponse.json(body);
 }
