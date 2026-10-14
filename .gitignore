@@ -15,3 +15,8 @@ next-env.d.ts
 # Reference textbooks: large, and third-party copyright.
 /Ref_Books/
 /KCET Question Papers PY/
+
+# scratch from analysis runs
+tools/tmp/
+tools/tmp_*.py
+tools/_snap_*.json
