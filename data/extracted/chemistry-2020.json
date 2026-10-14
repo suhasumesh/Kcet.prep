@@ -1575,11 +1575,13 @@
     "h": 50
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Amines",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 24,
@@ -3088,11 +3090,13 @@
     "h": 299
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Hydrocarbons",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 46,
@@ -3222,11 +3226,13 @@
     "h": 743
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Solid State",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 48,
@@ -3913,11 +3919,13 @@
     "h": 50
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Chemical Kinetics",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 58,

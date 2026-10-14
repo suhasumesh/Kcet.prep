@@ -134,11 +134,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Vector Algebra",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 6,
@@ -230,10 +232,9 @@
   "chapterScore": 5,
   "chapterMargin": 1,
   "chapterHits": [
-   "complex number",
-   "complex number"
+   "tagged by hand"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 8,
@@ -274,11 +275,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Complex Numbers and Quadratic Equations",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 9,
@@ -460,11 +463,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Application of Derivatives",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 17,
@@ -599,13 +604,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Limits and Derivatives",
+  "chapter": "Vector Algebra",
   "chapterScore": 1,
   "chapterMargin": 1,
   "chapterHits": [
-   "x→"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 22,
@@ -646,11 +651,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Binomial Theorem",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 23,
@@ -833,11 +840,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -878,11 +887,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 36,
@@ -923,13 +934,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapter": "Binomial Theorem",
   "chapterScore": 1,
   "chapterMargin": 1,
   "chapterHits": [
-   "group g"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -1113,14 +1124,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Trigonometric Functions",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 4,
   "chapterMargin": 1,
   "chapterHits": [
-   "sin",
-   "cos"
+   "tagged by hand"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 46,
@@ -1161,14 +1171,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Application of Derivatives",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 5,
   "chapterMargin": 5,
   "chapterHits": [
-   "tangent to the curve",
-   "tangent to the curve"
+   "tagged by hand"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 47,
@@ -1305,11 +1314,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 51,
@@ -1445,11 +1456,13 @@
   "solutionText": "",
   "solutionImages": [],
   "optionsInImage": true,
-  "chapter": "Unclassified",
+  "chapter": "Complex Numbers and Quadratic Equations",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 57,

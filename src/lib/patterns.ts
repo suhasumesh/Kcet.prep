@@ -56,6 +56,14 @@ export type SubjectReport = {
   classified: number;
   unclassified: number;
   total: number;
+  /**
+   * Unplaced questions sitting in the years we actually average over. This,
+   * not the overall figure, is what qualifies the marks-per-paper column: an
+   * unplaced question in a year already excluded as partial costs that column
+   * nothing.
+   */
+  unclassifiedInCompleteYears: number;
+  questionsInCompleteYears: number;
   chapters: ChapterRow[];
 };
 
@@ -229,8 +237,11 @@ export async function buildReport(): Promise<PatternReport> {
     }));
     out.sort((a, b) => b.perPaper - a.perPaper || b.total - a.total);
 
-    const unclassified = out.find((c) => c.chapter === 'Unclassified')?.total ?? 0;
+    const unplaced = out.find((c) => c.chapter === 'Unclassified');
+    const unclassified = unplaced?.total ?? 0;
     subjects[subject] = {
+      unclassifiedInCompleteYears: unplaced?.inCompleteYears ?? 0,
+      questionsInCompleteYears: complete.reduce((a, y) => a + (counts.get(y) ?? 0), 0),
       years,
       completeYears: complete,
       thinYears: thin,

@@ -759,11 +759,13 @@
     "h": 313
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Haloalkanes and Haloarenes",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 12,
@@ -825,11 +827,13 @@
     "h": 124
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Solutions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 13,
@@ -2141,11 +2145,13 @@
     "h": 45
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "d- and f-Block Elements",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -3727,11 +3733,13 @@
     "h": 357
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Structure of Atom",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 55,
@@ -4008,11 +4016,13 @@
     "h": 45
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "States of Matter",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 59,

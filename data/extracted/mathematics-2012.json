@@ -307,13 +307,13 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Integrals",
+  "chapter": "Vector Algebra",
   "chapterScore": 1,
   "chapterMargin": 1,
   "chapterHits": [
-   "dx"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 6,
@@ -432,11 +432,13 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
+  "chapter": "Complex Numbers and Quadratic Equations",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 8,
@@ -496,9 +498,9 @@
   "chapterScore": 1,
   "chapterMargin": 1,
   "chapterHits": [
-   "is a factor of"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 9,
@@ -993,16 +995,11 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Matrices",
+  "chapter": "Application of Derivatives",
   "chapterScore": 23,
   "chapterMargin": 15,
   "chapterHits": [
-   "symmetric matrix",
-   "skew symmetric",
-   "scalar matrix",
-   "diagonal matrix",
-   "singular matrix",
-   "matrix"
+   "tagged by hand"
   ],
   "chapterConfidence": "high"
  },
@@ -1184,11 +1181,13 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
+  "chapter": "Vector Algebra",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 20,
@@ -1369,14 +1368,13 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Complex Numbers and Quadratic Equations",
+  "chapter": "Binomial Theorem",
   "chapterScore": 5,
   "chapterMargin": 5,
   "chapterHits": [
-   "complex number",
-   "complex number"
+   "tagged by hand"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 23,
@@ -1873,11 +1871,13 @@
   "answer": "A",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
+  "chapter": "Application of Derivatives",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 31,
@@ -1933,13 +1933,13 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Application of Derivatives",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 1,
   "chapterMargin": 1,
   "chapterHits": [
-   "is minimum"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -1995,14 +1995,13 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Trigonometric Functions",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 3,
   "chapterMargin": 1,
   "chapterHits": [
-   "sin",
-   "cos"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 33,
@@ -2245,11 +2244,13 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
+  "chapter": "Binomial Theorem",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -2807,11 +2808,13 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 46,
@@ -2867,11 +2870,13 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Unclassified",
+  "chapter": "Number Theory (old syllabus)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 47,
@@ -3116,14 +3121,13 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Groups and Modular Arithmetic (old syllabus)",
+  "chapter": "Integrals",
   "chapterScore": 5,
   "chapterMargin": 5,
   "chapterHits": [
-   "subgroup",
-   "group g"
+   "tagged by hand"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 51,
@@ -3372,10 +3376,9 @@
   "chapterScore": 3,
   "chapterMargin": 3,
   "chapterHits": [
-   "complex number",
-   "complex number"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 55,

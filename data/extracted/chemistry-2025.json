@@ -684,11 +684,13 @@
     "h": 165
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Coordination Compounds",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 11,
@@ -1311,11 +1313,13 @@
     "h": 133
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Hydrocarbons",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 20,
@@ -1998,11 +2002,13 @@
     "h": 154
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Alcohols, Phenols and Ethers",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 30,
@@ -3181,11 +3187,13 @@
     "h": 289
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Solutions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 47,
@@ -4027,11 +4035,13 @@
     "h": 637
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Some Basic Concepts of Chemistry",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 59,

@@ -32,6 +32,19 @@ UNNAMED = re.compile(r'^(chapter\s*\d+|unclassified)$', re.I)
 
 STRONG_W, WEAK_W = 4, 1
 
+# Questions filed by reading the crop. Keywords cannot place a question whose
+# whole content is an image -- an equation, a circuit, a pair of axes, with no
+# text under it -- and those are exactly the ones that were left over. This map
+# is applied last and wins over anything the scoring decided.
+MANUAL_PATH = os.path.join(ROOT, 'data', 'chapters_manual.json')
+
+
+def load_manual():
+    if not os.path.isfile(MANUAL_PATH):
+        return {}
+    with open(MANUAL_PATH, encoding='utf-8') as f:
+        return {k: v for k, v in json.load(f).items() if not k.startswith('_')}
+
 
 def compile_subject(chapters):
     out = []
@@ -117,6 +130,9 @@ def classify(q, compiled):
 
 
 def main():
+    global MANUAL, hand_used
+    MANUAL = load_manual()
+    hand_used = set()
     compiled = {s: compile_subject(c) for s, c in SUBJECTS.items()}
     totals, unclassified, lowconf = Counter(), Counter(), Counter()
     per_chapter = Counter()
@@ -141,11 +157,20 @@ def main():
                 'high' if score >= 8 and margin >= 4 else
                 'medium' if score >= 4 else
                 'low' if score else 'none')
+            # read off the crop by hand, so it outranks the scoring
+            by_hand = MANUAL.get('%s|%s|%s' % (subject, q.get('year'), q.get('number')))
+            if by_hand:
+                q['chapter'] = by_hand
+                q['chapterConfidence'] = 'high'
+                q['chapterHits'] = ['tagged by hand']
+                hand_used.add('%s|%s|%s' % (subject, q.get('year'), q.get('number')))
             totals[subject] += 1
             per_chapter[(subject, q['chapter'])] += 1
-            if not name:
+            # counted on the chapter the question actually ends up with, which
+            # is not the keyword result when a hand tag has overridden it
+            if q['chapter'] == 'Unclassified':
                 unclassified[subject] += 1
-            elif q['chapterConfidence'] in ('low',):
+            elif q['chapterConfidence'] == 'low':
                 lowconf[subject] += 1
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(qs, f, ensure_ascii=False, indent=1)
@@ -153,7 +178,16 @@ def main():
     print('%-13s %6s %8s %8s' % ('SUBJECT', 'TOTAL', 'UNCLASS', 'LOWCONF'))
     for s in sorted(totals):
         print('%-13s %6d %8d %8d' % (s, totals[s], unclassified[s], lowconf[s]))
-    print('\nCoverage: %.1f%% classified'
+    # A hand tag that matches no question is a typo in the key, and would
+    # otherwise fail silently: the question stays unclassified and the map
+    # looks like it did its job.
+    orphans = sorted(set(MANUAL) - hand_used)
+    print('\nby hand: applied %d of %d on file' % (len(hand_used), len(MANUAL)))
+    if orphans:
+        print('  WARNING - these match no question, check the key:')
+        for o in orphans:
+            print('    %s' % o)
+    print('Coverage: %.1f%% classified'
           % (100 * (sum(totals.values()) - sum(unclassified.values())) / max(1, sum(totals.values()))))
 
     for d in (PRADEEP, CHAPTERWISE):

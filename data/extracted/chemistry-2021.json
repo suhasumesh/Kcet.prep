@@ -266,11 +266,13 @@
     "h": 285
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 5,
@@ -2136,11 +2138,13 @@
     "h": 318
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Electrochemistry",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -2889,11 +2893,13 @@
     "h": 300
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "p-Block Elements (Group 15-18)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 43,
@@ -3989,11 +3995,13 @@
     "h": 10
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Haloalkanes and Haloarenes",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 59,

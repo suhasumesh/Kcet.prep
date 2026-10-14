@@ -194,21 +194,33 @@ export default function PatternsView({ report }: { report: PatternReport }) {
         {report.paperSize} marks in a {subject} paper.
       </p>
 
-      {/* A chapter table that silently omits a seventh of the paper would be
-          read as complete. Say so instead, and say why, so the gap is a known
-          gap rather than a wrong picture. */}
-      {r.unclassified > 0 && (
+      {/* What qualifies the marks column is the unplaced count inside the
+          averaged years, not the overall one: a question missing from a year
+          already excluded as partial costs that column nothing. Both are
+          reported, because a reader deserves to know the difference. */}
+      {r.unclassifiedInCompleteYears === 0 ? (
+        <p className="px-1 text-[13px] text-ink-500">
+          Every question in those {r.completeYears.length} complete papers is placed in a chapter,
+          so the marks column accounts for all {report.paperSize} marks.
+          {r.unclassified > 0 && (
+            <>
+              {' '}
+              A further {r.unclassified} question{r.unclassified === 1 ? '' : 's'} from the partial
+              years could not be placed; those years are left out of the average anyway, so the
+              bars show them only as history.
+            </>
+          )}
+        </p>
+      ) : (
         <div className="card border-amber-300/70 bg-amber-50 p-4">
           <p className="label text-amber-700">Where this is incomplete</p>
           <p className="mt-1.5 text-[13px] leading-relaxed text-amber-900">
-            <strong className="font-semibold">{r.unclassified}</strong> of the {r.total}{' '}
-            {subject} questions held ({Math.round((100 * r.unclassified) / r.total)}%) are not
-            placed in any chapter, so they are missing from every count above. Nearly all of them
-            are questions printed as images — an equation or a diagram with almost no text — which
-            the extractor could not read well enough to file.
-            {r.unclassified / r.total > 0.1 && (
-              <> Treat the {subject} figures as a floor rather than a full account.</>
-            )}
+            <strong className="font-semibold">{r.unclassifiedInCompleteYears}</strong> of the{' '}
+            {r.questionsInCompleteYears} questions in the averaged papers (
+            {Math.round((100 * r.unclassifiedInCompleteYears) / r.questionsInCompleteYears)}%) are
+            not placed in any chapter, so the marks column understates by about that much. Nearly
+            all of them are questions printed as images — an equation or a diagram with almost no
+            text — which the extractor could not read well enough to file.
           </p>
         </div>
       )}

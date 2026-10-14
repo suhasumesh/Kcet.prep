@@ -59,11 +59,13 @@
     "h": 601
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Continuity and Differentiability",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 2,
@@ -125,11 +127,13 @@
     "h": 614
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Continuity and Differentiability",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 3,
@@ -261,11 +265,13 @@
     "h": 688
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Continuity and Differentiability",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 5,
@@ -332,11 +338,13 @@
     "h": 892
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Application of Derivatives",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 6,
@@ -398,11 +406,13 @@
     "h": 528
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Continuity and Differentiability",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 7,
@@ -464,11 +474,13 @@
     "h": 46
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Application of Derivatives",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 8,
@@ -530,11 +542,13 @@
     "h": 688
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 9,
@@ -669,11 +683,13 @@
     "h": 514
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 11,
@@ -735,11 +751,13 @@
     "h": 341
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 12,
@@ -801,11 +819,13 @@
     "h": 414
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 13,
@@ -867,11 +887,13 @@
     "h": 46
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 14,
@@ -1002,11 +1024,13 @@
     "h": 341
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 16,
@@ -1621,11 +1645,13 @@
     "h": 259
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Vector Algebra",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 25,
@@ -1687,11 +1713,13 @@
     "h": 46
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Three Dimensional Geometry",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 26,
@@ -2100,11 +2128,13 @@
     "h": 268
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Probability",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -2652,11 +2682,13 @@
     "h": 209
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Permutations and Combinations",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 40,
@@ -2854,11 +2886,13 @@
     "h": 360
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Straight Lines",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 43,
@@ -3199,11 +3233,13 @@
     "h": 381
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Limits and Derivatives",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 48,
@@ -3545,11 +3581,13 @@
     "h": 289
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Inverse Trigonometric Functions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 53,
@@ -3611,11 +3649,13 @@
     "h": 46
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Matrices",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 54,
@@ -3746,11 +3786,13 @@
     "h": 498
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Matrices",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 56,
@@ -3812,11 +3854,13 @@
     "h": 447
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Determinants",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 57,
@@ -4019,11 +4063,13 @@
     "h": 588
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Continuity and Differentiability",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 60,
@@ -4085,10 +4131,12 @@
     "h": 46
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Determinants",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  }
 ]

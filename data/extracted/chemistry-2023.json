@@ -960,11 +960,13 @@
     "h": 412
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Amines",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 15,
@@ -1511,11 +1513,13 @@
     "h": 475
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "States of Matter",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 23,
@@ -1786,11 +1790,13 @@
     "h": 233
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Some Basic Concepts of Chemistry",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 27,
@@ -2127,11 +2133,13 @@
     "h": 315
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Hydrocarbons",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -3448,11 +3456,13 @@
     "h": 93
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "p-Block Elements (Group 15-18)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 51,
@@ -3863,11 +3873,13 @@
     "h": 219
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Redox Reactions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 57,

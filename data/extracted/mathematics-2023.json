@@ -403,11 +403,13 @@
     "h": 339
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Vector Algebra",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 7,
@@ -679,11 +681,13 @@
     "h": 328
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Linear Inequalities",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 11,
@@ -813,11 +817,13 @@
     "h": 700
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Trigonometric Functions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 13,
@@ -1782,11 +1788,13 @@
     "h": 301
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Relations and Functions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 27,
@@ -2131,11 +2139,13 @@
     "h": 160
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Matrices",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 32,
@@ -2408,11 +2418,13 @@
     "h": 51
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Determinants",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 36,
@@ -2474,11 +2486,13 @@
     "h": 413
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Inverse Trigonometric Functions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 37,
@@ -2540,11 +2554,13 @@
     "h": 45
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Inverse Trigonometric Functions",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 38,
@@ -2886,11 +2902,13 @@
     "h": 778
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Matrices",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 43,
@@ -2952,11 +2970,13 @@
     "h": 414
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Continuity and Differentiability",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 44,
@@ -3236,11 +3256,13 @@
     "h": 535
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 48,
@@ -3577,11 +3599,13 @@
     "h": 324
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 53,
@@ -3643,11 +3667,13 @@
     "h": 341
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 54,
@@ -3709,11 +3735,13 @@
     "h": 164
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Integrals",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 55,

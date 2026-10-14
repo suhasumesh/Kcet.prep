@@ -615,11 +615,13 @@
     "h": 596
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Hydrocarbons",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 10,
@@ -1857,11 +1859,13 @@
     "h": 161
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "p-Block Elements (Group 13-14)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 28,
@@ -2197,11 +2201,13 @@
     "h": 228
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Solid State",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 33,
@@ -2680,11 +2686,13 @@
     "h": 230
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Electrochemistry",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 40,
@@ -3793,11 +3801,13 @@
     "h": 217
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "p-Block Elements (Group 15-18)",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 56,
@@ -3927,11 +3937,13 @@
     "h": 209
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "States of Matter",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 58,
@@ -3993,11 +4005,13 @@
     "h": 263
    }
   ],
-  "chapter": "Unclassified",
+  "chapter": "Thermodynamics",
   "chapterScore": 0,
   "chapterMargin": 0,
-  "chapterHits": [],
-  "chapterConfidence": "none"
+  "chapterHits": [
+   "tagged by hand"
+  ],
+  "chapterConfidence": "high"
  },
  {
   "number": 59,

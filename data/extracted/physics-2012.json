@@ -123,9 +123,9 @@
   "chapterScore": 1,
   "chapterMargin": 1,
   "chapterHits": [
-   "rest"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 3,
@@ -243,14 +243,11 @@
   "answer": "C",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Mechanical Properties of Fluids",
+  "chapter": "Gravitation",
   "chapterScore": 10,
   "chapterMargin": 10,
   "chapterHits": [
-   "apparent loss of weight",
-   "completely immersed in water",
-   "immersed",
-   "density of"
+   "tagged by hand"
   ],
   "chapterConfidence": "high"
  },
@@ -1609,14 +1606,11 @@
   "answer": "B",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Semiconductor Electronics",
+  "chapter": "Nuclei",
   "chapterScore": 13,
   "chapterMargin": 13,
   "chapterHits": [
-   "nor",
-   "truth table",
-   "xor",
-   "gate"
+   "tagged by hand"
   ],
   "chapterConfidence": "high"
  },
@@ -2291,10 +2285,9 @@
   "chapterScore": 5,
   "chapterMargin": 5,
   "chapterHits": [
-   "circular bright patch",
-   "depth of"
+   "tagged by hand"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 39,
@@ -2482,11 +2475,9 @@
   "chapterScore": 3,
   "chapterMargin": 3,
   "chapterHits": [
-   "slit",
-   "fringes",
-   "coherent"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 42,
@@ -2674,9 +2665,9 @@
   "chapterScore": 1,
   "chapterMargin": 1,
   "chapterHits": [
-   "capacitor"
+   "tagged by hand"
   ],
-  "chapterConfidence": "low"
+  "chapterConfidence": "high"
  },
  {
   "number": 45,
@@ -2906,13 +2897,13 @@
   "answer": "D",
   "solutionText": "",
   "solutionImages": [],
-  "chapter": "Alternating Current",
+  "chapter": "Moving Charges and Magnetism",
   "chapterScore": 4,
   "chapterMargin": 2,
   "chapterHits": [
-   "power factor"
+   "tagged by hand"
   ],
-  "chapterConfidence": "medium"
+  "chapterConfidence": "high"
  },
  {
   "number": 49,
