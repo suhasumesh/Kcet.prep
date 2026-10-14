@@ -168,6 +168,15 @@ PHYSICS = [
       "extrinsic semiconductor", "valence band", "conduction band", "forbidden energy gap",
       "barrier potential", "light emitting diode", "photodiode", "transistor"],
      ["diode", "semiconductor", "n-type", "p-type", "hole", "band gap", "silicon", "germanium"]),
+
+    # dropped from the NCERT book in 2023 but asked in every KCET paper up to
+    # 2022, so the bank needs it to file those years correctly
+    ("Communication Systems", 2,
+     ["amplitude modulation", "frequency modulation", "modulation index", "carrier wave",
+      "carrier frequency", "demodulation", "sky wave", "ground wave", "space wave",
+      "ionosphere", "transducer", "attenuation", "bandwidth of signal",
+      "communication system", "message signal", "sideband", "repeater"],
+     ["modulat", "transmitter", "receiver", "antenna", "signal", "broadcast"]),
 ]
 
 CHEMISTRY = [
@@ -529,6 +538,423 @@ MATHEMATICS = [
       "constraints", "maximise z", "minimise z", "optimal solution", "lpp"],
      ["feasible", "maximize", "minimize", "subject to"]),
 ]
+
+# ---------------------------------------------------------------- supplements
+#
+# The lists above were written from the syllabus. These were written from the
+# questions that the syllabus lists failed to place: every term below was taken
+# from a real stem in the bank that scored zero or tied. Keeping them separate
+# keeps the curated lists readable and makes it obvious what was added to chase
+# coverage rather than to describe the subject.
+#
+# Scanned papers OCR badly, so several entries are deliberately short or
+# misspelt ("Qsc" for "osc", "radio-active") to match what is actually on the
+# page rather than what should be.
+EXTRA = {
+    "Physics": {
+        "Units and Measurements": (
+            ["order of magnitude", "dimensionally correct", "physical quantity",
+             "si unit", "fundamental unit", "derived unit", "dimensional consistency"],
+            ["error in measurement", "absolute error"]),
+        "Motion in a Straight Line": (
+            ["stone is dropped", "dropped from a balloon", "distance travelled in the nth second",
+             "average velocity", "instantaneous velocity", "uniform velocity",
+             "stopping distance", "reaction time"],
+            ["thrown vertically", "ball is dropped", "escalator", "train", "overtake"]),
+        "Motion in a Plane": (
+            ["angle of projection", "maximum height attained", "horizontal range",
+             "time of flight", "projected at an angle", "components of a vector",
+             "resultant vector", "relative velocity of rain", "river and boat",
+             "uniform circular motion", "angular displacement"],
+            ["projectile", "ranges of", "x - axis", "y - axis", "component of a vector"]),
+        "Laws of Motion": (
+            ["coefficient of static friction", "co-efficient of static friction",
+             "angle of repose", "apparent weight in a lift", "recoil of the gun",
+             "rate of change of momentum", "action and reaction", "limiting friction",
+             "remain stationary", "connected bodies"],
+            ["lift", "pulley", "rough surface", "frictionless", "box lying"]),
+        "Work, Energy and Power": (
+            ["work done by a force", "work done against gravity", "power of the pump",
+             "energy stored in a spring", "loss of kinetic energy", "perfectly inelastic",
+             "head on collision", "kinetic energy of the piece", "explodes into"],
+            ["explosion", "fragment", "lifts", "efficiency of the motor"]),
+        "System of Particles and Rotational Motion": (
+            ["rolls down the inclined plane", "rolling without slipping", "solid cylinder",
+             "solid sphere", "ring and disc", "spokes", "conservation of angular momentum",
+             "rotational kinetic energy", "about its diameter", "about an axis"],
+            ["spoke", "wheel", "cylinder", "rolls", "angular"]),
+        "Gravitation": (
+            ["gravitational field intensity", "variation of g with depth",
+             "variation of g with height", "binding energy of satellite",
+             "time period of satellite", "centroid of the triangle", "gravitational force between"],
+            ["masses are placed at the vertices", "equilateral triangle", "moon", "orbit"]),
+        "Mechanical Properties of Solids": (
+            ["strain produced", "stress produced", "breaking stress", "elastic potential energy",
+             "load is applied", "wire of length", "compressibility"],
+            ["extension", "elastic", "rigidity", "stretched by"]),
+        "Mechanical Properties of Fluids": (
+            ["apparent loss of weight", "completely immersed in water", "archimedes",
+             "floats in water", "fraction of the volume", "equation of continuity",
+             "ideal fluid flows", "venturi", "capillary tube", "soap bubble",
+             "coefficient of viscosity", "upthrust"],
+            ["iceberg", "submerged", "immersed", "pipe of circular cross section",
+             "density of", "floats"]),
+        "Thermal Properties of Matter": (
+            ["cools from", "rate of cooling", "heat current", "conduct most heat",
+             "thermal resistance", "coefficient of cubical expansion",
+             "coefficient of areal expansion", "emissivity", "wien", "heat reservoirs",
+             "triple point", "specific heat"],
+            ["cool", "hot food", "rods", "reservoir", "conductivity"]),
+        "Thermodynamics": (
+            ["free expansion of a gas", "irreversible process", "reversible process",
+             "cyclic process", "p-v diagram", "work done in the cycle", "isotherm",
+             "degree of freedom", "coefficient of performance", "zeroth law"],
+            ["combustion", "spontaneous", "heat absorbed", "heat rejected"]),
+        "Kinetic Theory": (
+            ["mean kinetic energy of a molecule", "average kinetic energy per molecule",
+             "boltzmann constant", "maxwell distribution", "most probable speed",
+             "law of equipartition", "molecular speed"],
+            ["per molecule", "gas molecules"]),
+        "Oscillations": (
+            ["completes 10 oscillations", "oscillates simultaneously", "seconds pendulum",
+             "spring mass system", "force constant", "displacement of a particle executing",
+             "at its mean position", "at the extreme position", "frequency of oscillation",
+             "length of the pendulum"],
+            ["oscillat", "Qscillat", "pendulums", "bob", "to and fro"]),
+        "Waves": (
+            ["closed pipe", "open pipe", "closed organ pipe", "open organ pipe",
+             "beats per second", "beats/second", "second harmonic", "first overtone",
+             "second overtone", "sonometer", "tuning fork", "velocity of sound in air",
+             "progressive wave", "intensity level", "decibel", "loudness", "pitch",
+             "echo", "apparent frequency"],
+            ["beat", "pipe", "fork", "siren", "wave set up", "harmonic", "cliff"]),
+        "Electric Charges and Fields": (
+            ["axial line", "equatorial line", "electric field at a point",
+             "gaussian surface", "area vector", "charge enclosed", "excess electrons",
+             "number of electrons", "allowed to touch each other", "identical spheres",
+             "uniform electric field"],
+            ["nc", "microcoulomb", "charges are placed", "dipole", "flux through"]),
+        "Electrostatic Potential and Capacitance": (
+            ["potential at a point", "work done to move a charge", "charge on the plates",
+             "capacitors in series and parallel", "equipotential surface",
+             "energy stored in the condenser", "condenser", "gang capacitor",
+             "potential energy of the system of charges", "van de graaff"],
+            ["potential at", "volt at", "plates of the capacitor", "microfarad"]),
+        "Current Electricity": (
+            ["effective resistance between", "equivalent resistance between",
+             "potential difference between a and b", "mobility of free electrons",
+             "relaxation time", "temperature co-efficient", "shunt resistance",
+             "converted into an ammeter", "converted into a voltmeter", "full scale deflection",
+             "current through the", "i-v characteristic", "ohmic device", "colour code",
+             "cells in series", "cells in parallel", "balancing length", "terminal voltage"],
+            ["circuit", "network", "ohm", "ω", "resistances", "junction", "node"]),
+        "Moving Charges and Magnetism": (
+            ["magnetic induction at the point", "magnetic field at the point",
+             "axis of a current carrying solenoid", "radius of the circular path",
+             "velocity selector", "magnetic field at the centre of the loop",
+             "force between two parallel", "torque on a current loop", "ampere"],
+            ["solenoid", "cyclotron", "proton is projected", "current carrying", "loop shown"]),
+        "Magnetism and Matter": (
+            ["horizontal component of earth's magnetic field", "angle of dip",
+             "susceptibility of a paramagnetic", "curie's law", "magnetic meridian",
+             "vibration magnetometer", "neutral point", "retentivity", "coercivity"],
+            ["susceptibility", "dip", "gauss", "magnetis"]),
+        "Electromagnetic Induction": (
+            ["magnetic energy stored per unit volume", "energy stored in the inductor",
+             "emf induced in the spoke", "rotated in a plane normal to the magnetic field",
+             "rate of change of current", "ac generator", "back emf"],
+            ["induced emf", "self induct", "mutual induct", "rotated with a uniform angular"]),
+        "Alternating Current": (
+            ["potential drop across", "source voltage", "reading of the ammeter",
+             "virtual value", "average value over a cycle", "series lcr",
+             "resonance in ac circuit", "step up transformer", "step down transformer",
+             "rms current", "rms voltage", "capacitive reactance", "inductive reactance"],
+            ["ac source", "ac ammeter", "sin 100t", "over a cycle", "primary", "secondary"]),
+        "Electromagnetic Waves": (
+            ["sterilise", "ozone layer", "greenhouse", "wavelength range",
+             "electromagnetic radiation used", "velocity of electromagnetic wave",
+             "transverse nature of electromagnetic", "maxwell's equations"],
+            ["uv rays", "radiowaves", "x-ray", "spectrum of electromagnetic"]),
+        "Ray Optics and Optical Instruments": (
+            ["apparent depth", "real depth", "normal shift", "appears to be raised",
+             "refractive index of the medium", "circular bright patch", "angle of incidence",
+             "angle of refraction", "angle of deviation", "cartesian sign convention",
+             "sign convention", "combination of lenses", "two lenses in contact",
+             "radius of curvature", "simple microscope", "refraction at a spherical surface",
+             "transparent media"],
+            ["ray of light", "glass plate", "prism", "telescope", "microscope",
+             "image", "object is placed", "water surface", "depth of"]),
+        "Wave Optics": (
+            ["central maxima", "width of central maxima", "ray optics is good approximation",
+             "fresnel distance", "aperture", "plane wave front", "wave front",
+             "red filter", "blue filter", "alternate dark", "scattering particles",
+             "intensity of scattered light", "angular width", "rayleigh"],
+            ["fringes", "maxima", "minima", "diffraction pattern", "coherent",
+             "wavefront", "slits"]),
+        "Dual Nature of Radiation and Matter": (
+            ["accelerated to a potential", "accelerating potential",
+             "minimum energy required by an electron", "just escape",
+             "de broglie wavelength of an electron", "photoelectric current",
+             "saturation current", "photocell", "davisson", "germer"],
+            ["work function", "escape from the metal", "ejected", "incident radiation"]),
+        "Atoms": (
+            ["period of revolution of an electron", "nth orbit", "angular momentum of the electron",
+             "radius of the nth orbit", "first excitation", "excitation energy",
+             "ionisation potential", "line absorption spectrum", "continuous emission spectrum",
+             "emission spectrum", "absorption spectrum", "spectral series",
+             "potential energy of electron", "kinetic energy of electron in the orbit",
+             "ruby laser", "laser"],
+            ["h-atom", "hydrogen like", "orbit of h", "bohr", "spectrum of sunlight",
+             "energy of the electron"]),
+        "Nuclei": (
+            ["half-life", "half life of", "radio-active sample", "radio-active element",
+             "number of original nuclei", "fraction that will decay", "emits a photon",
+             "recoil energy", "q value", "binding energy per nucleon", "isobar", "isotone",
+             "baryon", "mass energy equivalence", "nuclear reactor", "moderator",
+             "chain reaction", "packing fraction"],
+            ["radio-active", "nuclei", "decay", "u emits", "mev", "atomic number",
+             "daughter nucleus"]),
+        "Semiconductor Electronics": (
+            ["constant dc voltage", "order of operation", "regulator", "filter",
+             "ripple factor", "full wave rectifier", "half wave rectifier",
+             "universal gate", "and gate", "or gate", "not gate", "xor",
+             "common emitter", "current gain", "majority carriers", "minority carriers",
+             "fermi level", "energy gap"],
+            ["gate", "rectif", "bias", "junction"]),
+        "Communication Systems": (
+            ["super imposing", "superimposing message signal", "high frequency carrier",
+             "basic communication system", "information source", "user of information",
+             "line of sight", "tuned amplifier"],
+            ["channel", "carrier", "communicat"]),
+    },
+    "Chemistry": {
+        "Some Basic Concepts of Chemistry": (
+            ["molar mass", "number of moles", "percentage composition", "stoichiometry",
+             "equivalent weight", "molarity of the solution"], ["mole", "grams of"]),
+        "Structure of Atom": (
+            ["quantum number", "aufbau", "hund's rule", "pauli exclusion",
+             "electronic configuration", "orbital angular momentum", "heisenberg",
+             "de broglie", "photoelectric", "bohr model"],
+            ["orbital", "shell", "subshell", "spin"]),
+        "Chemical Bonding and Molecular Structure": (
+            ["hybridisation", "hybridization", "vsepr", "bond order", "molecular orbital",
+             "dipole moment", "resonance structure", "bond angle", "bond length",
+             "hydrogen bonding", "lattice energy", "formal charge"],
+            ["sigma bond", "pi bond", "shape of", "geometry of", "covalent", "ionic bond"]),
+        "Equilibrium": (
+            ["le chatelier", "equilibrium constant", "ionic product", "solubility product",
+             "common ion effect", "buffer solution", "degree of dissociation",
+             "henderson", "ph of the solution", "conjugate acid", "conjugate base"],
+            ["kc", "kp", "ksp", "ph", "acidic", "basic", "dissociation"]),
+        "Thermodynamics": (
+            ["enthalpy of formation", "enthalpy of combustion", "hess's law", "gibbs free energy",
+             "entropy change", "bond enthalpy", "internal energy change", "spontaneity"],
+            ["exothermic", "endothermic", "δh", "δg", "δs"]),
+        "Electrochemistry": (
+            ["nernst equation", "standard electrode potential", "electrochemical cell",
+             "galvanic cell", "electrolytic cell", "faraday's law of electrolysis",
+             "molar conductivity", "kohlrausch", "salt bridge", "emf of the cell",
+             "fuel cell", "corrosion"],
+            ["electrode", "anode", "cathode", "electrolysis", "cell potential"]),
+        "Chemical Kinetics": (
+            ["rate constant", "order of reaction", "molecularity", "half life of the reaction",
+             "arrhenius", "activation energy", "rate law", "zero order", "first order reaction",
+             "pseudo first order", "collision theory"],
+            ["rate of reaction", "catalyst", "temperature coefficient"]),
+        "Solutions": (
+            ["raoult's law", "colligative property", "osmotic pressure", "depression in freezing",
+             "elevation in boiling", "van't hoff factor", "molality", "mole fraction",
+             "azeotrope", "henry's law", "ideal solution"],
+            ["solute", "solvent", "vapour pressure", "molal"]),
+        "Coordination Compounds": (
+            ["crystal field", "ligand", "coordination number", "werner", "chelate",
+             "spectrochemical series", "oxidation state of the metal", "iupac name of the complex",
+             "geometrical isomerism", "optical isomerism", "magnetic moment of the complex"],
+            ["complex", "ligands", "en", "nh3)6", "cn)6"]),
+        "d- and f-Block Elements": (
+            ["lanthanoid contraction", "actinoid", "transition element", "interstitial compound",
+             "variable oxidation state", "potassium dichromate", "potassium permanganate"],
+            ["lanthan", "transition metal", "d-block", "f-block"]),
+        "Biomolecules": (
+            ["amino acid", "peptide bond", "zwitterion", "nucleic acid", "carbohydrate",
+             "monosaccharide", "disaccharide", "glycosidic", "denaturation", "enzyme",
+             "vitamin", "dna", "rna"],
+            ["protein", "glucose", "fructose", "sucrose", "starch", "cellulose"]),
+        "Haloalkanes and Haloarenes": (
+            ["sn1", "sn2", "nucleophilic substitution", "elimination reaction", "saytzeff",
+             "markovnikov", "grignard", "wurtz", "finkelstein", "swarts"],
+            ["alkyl halide", "chloro", "bromo", "iodo"]),
+        "Alcohols, Phenols and Ethers": (
+            ["lucas test", "williamson", "kolbe", "reimer tiemann", "esterification",
+             "dehydration of alcohol", "oxidation of alcohol"],
+            ["alcohol", "phenol", "ether", "-oh group"]),
+        "Aldehydes, Ketones and Carboxylic Acids": (
+            ["aldol condensation", "cannizzaro", "tollens", "fehling", "iodoform",
+             "clemmensen", "wolff kishner", "hvz", "decarboxylation", "nucleophilic addition"],
+            ["aldehyde", "ketone", "carboxylic", "carbonyl", "-cho", "-cooh"]),
+        "Amines": (
+            ["hofmann", "gabriel phthalimide", "carbylamine", "diazonium", "coupling reaction",
+             "sandmeyer", "basicity of amines"],
+            ["amine", "aniline", "-nh2", "primary amine", "secondary amine"]),
+        "Polymers": (
+            ["addition polymerisation", "condensation polymerisation", "copolymer",
+             "nylon", "bakelite", "teflon", "buna", "vulcanisation", "biodegradable polymer"],
+            ["polymer", "monomer", "polymerisation", "plastic"]),
+        "Chemistry in Everyday Life": (
+            ["antibiotic", "analgesic", "antiseptic", "disinfectant", "antacid",
+             "artificial sweetener", "detergent", "tranquilizer", "antihistamine"],
+            ["drug", "medicine", "soap"]),
+        "Surface Chemistry": (
+            ["physisorption", "chemisorption", "freundlich", "colloid", "emulsion",
+             "tyndall", "brownian movement", "peptisation", "coagulation", "micelle",
+             "lyophilic", "lyophobic", "zeta potential"],
+            ["adsorption", "sol", "gel", "milk is an example"]),
+        "Solid State": (
+            ["unit cell", "fcc", "bcc", "hcp", "packing efficiency", "coordination number",
+             "schottky", "frenkel", "bragg", "crystal lattice", "voids", "radius ratio"],
+            ["lattice", "crystal", "cubic", "defect"]),
+        "p-Block Elements (Group 15-18)": (
+            ["inert pair effect", "allotrope", "interhalogen", "noble gas",
+             "oxoacid", "catenation", "xenon"],
+            ["halogen", "nitrogen family", "oxygen family", "group 15", "group 16",
+             "group 17", "group 18"]),
+        "Classification of Elements and Periodicity": (
+            ["ionisation enthalpy", "electron gain enthalpy", "electronegativity",
+             "atomic radius", "ionic radius", "periodic trend", "diagonal relationship",
+             "shielding effect", "effective nuclear charge"],
+            ["periodic table", "period", "group", "across a period", "down the group"]),
+    },
+    "Mathematics": {
+        "Relations and Functions": (
+            ["one one", "onto function", "bijective", "injective", "surjective",
+             "equivalence relation", "reflexive", "symmetric", "transitive",
+             "domain of the function", "range of the function", "composite function",
+             "inverse of the function", "binary operation"],
+            ["f(x)", "g(x)", "fog", "gof", "mapping"]),
+        "Inverse Trigonometric Functions": (
+            ["principal value", "sin inverse", "cos inverse", "tan inverse",
+             "sin-1", "cos-1", "tan-1", "sec-1", "cosec-1", "cot-1"],
+            ["arcsin", "arccos", "arctan"]),
+        "Matrices": (
+            ["symmetric matrix", "skew symmetric", "transpose of the matrix", "idempotent",
+             "nilpotent", "involutory", "order of the matrix", "elementary transformation",
+             "invertible matrix", "singular matrix"],
+            ["matrix", "matrices", "aij", "row", "column"]),
+        "Determinants": (
+            ["adjoint", "cofactor", "minor of the element", "cramer", "area of the triangle",
+             "singular", "value of the determinant", "inverse of a matrix"],
+            ["determinant", "det", "|a|"]),
+        "Continuity and Differentiability": (
+            ["differentiable at", "continuous at", "rolle", "lagrange mean value",
+             "logarithmic differentiation", "parametric form", "second order derivative",
+             "left hand limit", "right hand limit", "chain rule"],
+            ["continuity", "derivative of", "dy/dx", "d2y/dx2"]),
+        "Application of Derivatives": (
+            ["rate of change", "increasing function", "decreasing function", "tangent to the curve",
+             "normal to the curve", "maxima and minima", "local maximum", "local minimum",
+             "absolute maximum", "approximation", "point of inflection"],
+            ["slope of the tangent", "strictly increasing", "monotonic"]),
+        "Integrals": (
+            ["definite integral", "indefinite integral", "integration by parts",
+             "partial fraction", "substitution method", "properties of definite integrals",
+             "integral of"], ["∫", "integrate", "antiderivative", "dx"]),
+        "Application of Integrals": (
+            ["area bounded by", "area enclosed by", "area of the region", "area under the curve"],
+            ["bounded by the curve", "sq units"]),
+        "Differential Equations": (
+            ["order and degree", "variable separable", "homogeneous differential equation",
+             "linear differential equation", "integrating factor", "general solution",
+             "particular solution", "formation of differential equation"],
+            ["differential equation", "dy/dx +", "solution of the equation"]),
+        "Vector Algebra": (
+            ["scalar product", "dot product", "vector product", "cross product",
+             "scalar triple product", "projection of the vector", "unit vector",
+             "direction cosines", "direction ratios", "coplanar vectors", "collinear vectors"],
+            ["vector", "î", "ĵ", "k̂", "magnitude of the vector"]),
+        "Three Dimensional Geometry": (
+            ["shortest distance between the lines", "skew lines", "angle between two planes",
+             "equation of the plane", "equation of the line", "foot of the perpendicular",
+             "distance of the point from the plane", "coplanar lines"],
+            ["plane", "line in space", "direction ratio"]),
+        "Probability": (
+            ["conditional probability", "bayes", "total probability", "independent events",
+             "mutually exclusive", "random variable", "probability distribution",
+             "binomial distribution", "mean and variance", "bernoulli"],
+            ["probability", "dice", "coin", "card", "urn", "bag contains"]),
+        "Linear Programming": (
+            ["feasible region", "objective function", "corner point method", "bounded region",
+             "unbounded region"], ["maximise", "minimise", "constraint"]),
+        "Sets": (
+            ["union of sets", "intersection of sets", "complement of a set", "power set",
+             "cardinality", "de morgan", "subset", "universal set", "venn diagram"],
+            ["set a", "set b", "n(a)", "a ∪ b", "a ∩ b"]),
+        "Trigonometric Functions": (
+            ["general solution of the equation", "principal solution", "sine rule", "cosine rule",
+             "compound angle", "multiple angle", "transformation formula", "period of the function"],
+            ["sin", "cos", "tan", "cot", "sec", "cosec", "radian", "degree"]),
+        "Complex Numbers and Quadratic Equations": (
+            ["modulus of the complex number", "argument of the complex number", "conjugate",
+             "argand", "de moivre", "cube root of unity", "purely imaginary",
+             "roots of the equation", "discriminant", "nature of the roots"],
+            ["complex number", "iota", "i²", "z =", "real part", "imaginary part"]),
+        "Permutations and Combinations": (
+            ["number of ways", "arrangements of the letters", "selected from",
+             "circular permutation", "ncr", "npr", "factorial"],
+            ["permutation", "combination", "arranged", "committee", "seated"]),
+        "Binomial Theorem": (
+            ["general term", "middle term", "coefficient of x", "term independent of x",
+             "binomial expansion", "pascal"], ["expansion of", "binomial"]),
+        "Sequences and Series": (
+            ["arithmetic progression", "geometric progression", "harmonic progression",
+             "arithmetic mean", "geometric mean", "sum to n terms", "sum to infinity",
+             "common difference", "common ratio", "nth term of the"],
+            [" a.p", " g.p", " h.p", "series", "progression"]),
+        "Straight Lines": (
+            ["slope of the line", "equation of the straight line", "angle between the lines",
+             "perpendicular distance from", "point of intersection of lines",
+             "family of lines", "concurrent lines"],
+            ["straight line", "intercept", "collinear"]),
+        "Conic Sections": (
+            ["eccentricity", "latus rectum", "directrix", "focus of the parabola",
+             "equation of the circle", "centre and radius", "asymptote", "conjugate axis",
+             "transverse axis", "auxiliary circle"],
+            ["parabola", "ellipse", "hyperbola", "circle"]),
+        "Limits and Derivatives": (
+            ["limit of the function", "left hand limit", "right hand limit",
+             "first principle", "l hospital"], ["lim", "x→", "tends to"]),
+        "Statistics": (
+            ["mean deviation", "standard deviation", "variance", "coefficient of variation",
+             "median", "mode"], ["frequency distribution", "observations"]),
+        "Mathematical Reasoning": (
+            ["converse", "contrapositive", "negation of the statement", "tautology",
+             "contradiction", "compound statement", "quantifier"],
+            ["statement", "truth value", "if and only if"]),
+    },
+}
+
+
+def _merge(chapters, extra):
+    """Fold the supplement into the curated lists, dropping duplicates."""
+    out = []
+    for name, puc, strong, weak in chapters:
+        es, ew = extra.get(name, ([], []))
+        strong = list(dict.fromkeys(list(strong) + list(es)))
+        weak = list(dict.fromkeys(list(weak) + list(ew)))
+        out.append((name, puc, strong, weak))
+    return out
+
+
+PHYSICS = _merge(PHYSICS, EXTRA["Physics"])
+CHEMISTRY = _merge(CHEMISTRY, EXTRA["Chemistry"])
+MATHEMATICS = _merge(MATHEMATICS, EXTRA["Mathematics"])
+
+# every supplement must name a chapter that exists, or it silently does nothing
+for _subj, _ex in EXTRA.items():
+    _known = {c[0] for c in {"Physics": PHYSICS, "Chemistry": CHEMISTRY,
+                             "Mathematics": MATHEMATICS}[_subj]}
+    _stray = set(_ex) - _known
+    if _stray:
+        raise ValueError("EXTRA[%r] names unknown chapter(s): %s" % (_subj, sorted(_stray)))
 
 SUBJECTS = {"Physics": PHYSICS, "Chemistry": CHEMISTRY, "Mathematics": MATHEMATICS}
 

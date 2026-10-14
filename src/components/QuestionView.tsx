@@ -1,6 +1,7 @@
 'use client';
 
 import clsx from '@/lib/clsx';
+import SolutionText from '@/components/SolutionText';
 
 export type QImage = { src: string; w: number; h: number };
 export type QOption = { letter: 'A' | 'B' | 'C' | 'D'; text: string; img: QImage | null };
@@ -138,7 +139,7 @@ export function Solution({ q }: { q: QData }) {
   }
   return (
     <div className="space-y-2">
-      <p className="whitespace-pre-wrap text-[15px] leading-relaxed text-ink-800">{q.solutionText}</p>
+      <SolutionText text={q.solutionText!} />
       {/* The answer above it is the official key either way. This says only
           that the working was written for us rather than printed in a book,
           which a student is entitled to know before trusting a step. */}
