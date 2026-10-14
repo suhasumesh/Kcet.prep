@@ -155,5 +155,6 @@
  "kcet|Physics|2008|7||0|0": "crop is cut after the third option; the keyed answer is the fourth, which falls below the band split",
  "kcet|Physics|2012|41||0|0": "extraction lost the option text: only the fragments \"(a)\", \"neither\" and \"both\" survive, with the two conditions the question refers to missing entirely",
  "kcet|Physics|2014|25||0|0": "crop is cut after the first line of options; the keyed answer is the fourth, which falls below the band split",
- "kcet|Physics|2013|13||0|0": "the crop loses the word naming which overtone of the closed pipe is meant - it falls in the gap at the line break - so the comparison the question asks for is undetermined"
+ "kcet|Physics|2013|13||0|0": "the crop loses the word naming which overtone of the closed pipe is meant - it falls in the gap at the line break - so the comparison the question asks for is undetermined",
+ "kcet|Physics|2006|51||0|0": "the crop loses the opening words that say what is subjected to the field - whether neutral atoms or ions of deuterium and helium - and the answer turns entirely on that"
 }
