@@ -148,5 +148,6 @@
  "kcet|Physics|2010|14||0|0": "crop begins mid-way through the previous question’s options and then runs three further questions together (a diver’s view of green light, minimum deviation for two colours, and a liquid-filled lens), so the keyed question’s own stem is not in the band",
  "kcet|Physics|2014|10||0|0": "crop opens on four bare distance options whose stem is lost above the band split, and then runs two further complete questions (a torque calculation and a satellite period) together beneath them",
  "kcet|Physics|2004|58||0|0": "crop is cut after the first two options: the keyed answer falls below the band split and is not shown",
- "kcet|Physics|2011|9||0|0": "crop is cut after the first two options, and the keyed answer is one of the two that fall below the band split"
+ "kcet|Physics|2011|9||0|0": "crop is cut after the first two options, and the keyed answer is one of the two that fall below the band split",
+ "kcet|Physics|2016|12||0|0": "crop ends at the stem: the four rod dimensions that the options list fall below the band split, so there is nothing to choose between"
 }
